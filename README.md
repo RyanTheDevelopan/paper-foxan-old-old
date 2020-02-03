@@ -6,3 +6,5 @@ Welcome to Paper Foxan! This is the repo for the Paper Mario (N64) romhack, Pape
 [Link to server](https://discord.gg/ayfqack)
 
 I hope you do enjoy watching me (or us, if i have a team by the time ya read dis) develop this mod (and hopefully not quit on it like all those other mod developers out there)
+
+![Comin' Soon!](https://cdn.discordapp.com/attachments/532701026042511362/673728025019285554/promotional_thingie.png)
