@@ -1,0 +1,737 @@
+#string:08:000
+[STYLE:RIGHT][...]
+{StartFX:Jitter}{Size:30:30}{StartFX:Shrinking}BLOOPER![WAIT][END]
+
+#string:08:001
+[STYLE:RIGHT][...]
+Well, well. Looky here.
+Hello, hello, hello!
+[PAUSE:0A][...]
+Rip Cheato at your service.
+[WAIT][NEXT][...]
+You're quite an enterprising
+fellow, finding this place.
+[WAIT][NEXT][...]
+What am I doing here?
+Just doing a little business...
+and minding my own.
+[WAIT][NEXT][...]
+You, my friend, have just
+stumbled into great fortune,
+for I have a deal for you.
+[WAIT][NEXT][...]
+I have something special, and
+it costs only 64 coins. Deal?
+[PAUSE:0A][...]
+Trust me... It's a bargain.
+{Func_04}[END]
+
+#string:08:002
+[STYLE:RIGHT][...]
+My good sir,
+[PAUSE:0A][...]
+you can't do without this one.
+[WAIT][NEXT][...]
+It's worlds better than the
+last one, but for you, the
+price is the same: 64 coins.
+[WAIT][NEXT][...]
+I, the eminent Rip Cheato,
+will sleep better knowing
+you've bought it, for you are
+a man of great taste.
+[WAIT][NEXT][...]
+How about it?
+[PAUSE:0A][...]
+Do we have a deal or not?
+{Func_04}[END]
+
+#string:08:003
+[STYLE:RIGHT][...]
+Ah ha...
+[PAUSE:0A][...]
+So you cannot resist the
+temptation of my goods!
+[PAUSE:0A][...]
+I knew you would return!
+[WAIT][NEXT][...]
+If you miss this chance, you'll
+never again find this item at
+such a low, low price.
+[WAIT][NEXT][...]
+Right now--just for you--I'll
+let it go for a mere 64 coins.
+[PAUSE:0A][...]
+Do we have a deal or not?
+{Func_04}[END]
+
+#string:08:004
+[STYLE:RIGHT][...]
+Well done, my good man!
+[PAUSE:0A][...]
+I thank you deeply.
+[WAIT][NEXT][...]
+Now, if you thought that item
+was good...
+[WAIT][NEXT][...]
+I have something even better
+at the same price: 64 coins.
+[WAIT][NEXT][...]
+But I warn you, this offer's
+only good right now.
+[PAUSE:0A][...]
+You'll be kicking yourself if
+you miss this opportunity!
+[WAIT][NEXT][...]
+So how about it?
+[PAUSE:0A][...]
+Do we have a deal or not?
+{Func_04}[END]
+
+#string:08:005
+[NEXT][...]
+Okay...pinch your pennies.
+[PAUSE:0A][...]
+It's a shame, really.
+This item's so amazing...
+[WAIT][NEXT][...]
+And, well...it could be gone
+when you come back...[WAIT][END]
+
+#string:08:006
+[NEXT][...]
+Oh, this is no good...
+[PAUSE:0A][...]
+I'm afraid I can't sell anything
+on credit.
+[WAIT][NEXT][...]
+Try coming back when you have
+enough coins.
+[WAIT][NEXT][...]
+You'd better hurry, though!
+Items as good as this one
+don't stay around forever![WAIT][END]
+
+#string:08:007
+[NEXT][...]
+Oh, this is unfortunate...
+[PAUSE:0A][...]
+You have too much stuff!
+[WAIT][NEXT][...]
+Try coming back after selling
+or checking some of your items
+in a shop.[WAIT][END]
+
+#string:08:008
+[STYLE:RIGHT][...]
+{StartFX:Shrinking}Kaaaa-wiiiizzz!
+{EndFX:Shrinking}[PAUSE:14][NEXT][...]
+Chuck Quizmo's the name,
+[PAUSE:0A][...]
+and quizzes are my game!
+You want quizzes, I got 'em!
+[WAIT][NEXT][...]
+If you can manage to answer
+my brain-busting questions
+correctly, then...
+[WAIT][NEXT][...]
+Y... [PAUSE:03]Yaa... [PAUSE:05]{StartFX:Shrinking}Yaaaaaahooo!
+{EndFX:Shrinking}[PAUSE:0F]I'll give you a Star Piece!
+[WAIT][NEXT][...]
+Want to try a quiz?
+{Func_04}[END]
+
+#string:08:009
+[STYLE:RIGHT][...]
+{StartFX:Shrinking}Kaaaa-wiiiizzz!
+{EndFX:Shrinking}[PAUSE:05]It's everyone's favorite
+quizmaster, Chuck Quizmo!
+[WAIT][NEXT][...]
+Want to try the quiz?
+{Func_04}[END]
+
+#string:08:00A
+[STYLE:RIGHT][...]
+{StartFX:Shrinking}Kaaaa-wiiiizzz!
+{EndFX:Shrinking}[PAUSE:05]It's everyone's favorite
+quizmaster, Chuck Quizmo!
+[WAIT][NEXT][...]
+I know it's a pity, but this is
+our final quiz show.
+[PAUSE:0A][...]
+Time for the grand finale!
+[WAIT][NEXT][...]
+I'm a man of a million
+questions, but this is the
+last one!
+[WAIT][NEXT][...]
+Want to try the quiz?
+{Func_04}[END]
+
+#string:08:00B
+[NEXT][...]
+Then let's go to the question![WAIT][END]
+
+#string:08:00C
+[NEXT][...]
+Uh, oh. Not up to it, huh?
+[PAUSE:05][...]
+Maybe another time!
+[WAIT][NEXT][...]
+Well, well... [PAUSE:05]{StartFX:Wavy}so [PAUSE:03]long, [PAUSE:03]fare[PAUSE:03]well.
+[PAUSE:03][...]
+'Til we meet again![WAIT][END]
+
+#string:08:00D
+[NEXT][...]
+Oops! Tough luck, pal!
+[PAUSE:05][...]
+{StartFX:Wavy}Wrong answer!
+{EndFX:Wavy}[WAIT][NEXT][...]
+Better luck next time.
+[WAIT][NEXT][...]
+Well, well... [PAUSE:05]{StartFX:Wavy}so [PAUSE:03]long, [PAUSE:03]fare[PAUSE:03]well.
+[PAUSE:03][...]
+'Til we meet again![WAIT][END]
+
+#string:08:00E
+[NEXT][...]
+{StartFX:Shrinking}{StartFX:Wavy}Correct!
+{EndFX:Wavy}{EndFX:Shrinking}[WAIT][NEXT][...]
+Congratulations!
+[WAIT][NEXT][...]
+Here's your Star Piece![WAIT][END]
+
+#string:08:00F
+[STYLE:RIGHT][...]
+You've correctly answered
+{Var:00} question{Var:01} so far.
+[PAUSE:0A][...]
+Good luck next time!
+[WAIT][NEXT][...]
+Well, well... [PAUSE:05]{StartFX:Wavy}so [PAUSE:03]long, [PAUSE:03]fare[PAUSE:03]well.
+[PAUSE:03][...]
+'Til we meet again!
+[WAIT][END]
+
+#string:08:010
+[NEXT][...]
+{StartFX:Shrinking}{StartFX:Wavy}Correct!!
+{EndFX:Wavy}{EndFX:Shrinking}[WAIT][NEXT][...]
+Congratulations!
+[PAUSE:0A][...]
+This is my last prize!
+[WAIT][NEXT][...]
+A final Star Piece for you!
+Thanks for playing![WAIT][END]
+
+#string:08:011
+[STYLE:RIGHT][...]
+You've managed to correctly
+answer all {Var:00} questions.
+[PAUSE:0A][...]
+{StartFX:Shrinking}Incredible!!
+{EndFX:Shrinking}[WAIT][NEXT][...]
+Never in all my years did
+I think I'd find someone who
+had all the answers!
+[WAIT][NEXT][...]
+This is truly a momentous
+and exciting day!
+[WAIT][NEXT][...]
+I no longer have any regrets.
+I've reached my peak.
+I can now retire as quizmaster.
+[WAIT][NEXT][...]
+Hee hee!
+[PAUSE:0A][...]
+Really? You flatter me!
+[WAIT][NEXT][...]
+Perhaps our paths will cross
+again someday.
+[WAIT][NEXT][...]
+'Til then...
+[PAUSE:05][...]
+{StartFX:Wavy}so [PAUSE:03]long, [PAUSE:03]fare[PAUSE:03]well.
+[PAUSE:03][...]
+Bye![WAIT][END]
+
+#string:08:012
+[STYLE:RIGHT][...]
+Hello there, Mario!
+[PAUSE:05][...]
+Welcome to the Playroom!
+[WAIT][NEXT][...]
+To play here, you need a
+Member Credit.
+[WAIT][NEXT][...]
+The kind of game you can play 
+depends on the kind of 
+Member Credit you have.
+[WAIT]{Func_04}[END]
+
+#string:08:013
+[STYLE:RIGHT][...]
+Hello there, Mario.
+[PAUSE:05][...]
+Welcome to the Playroom!
+[WAIT][NEXT][...]
+To play here, you need a
+Member Credit.[WAIT][END]
+
+#string:08:014
+[STYLE:RIGHT][...]
+Hello there, Mario!
+[PAUSE:05][...]
+Welcome to the Playroom!
+[WAIT]{Func_04}[END]
+
+#string:08:015
+[STYLE:RIGHT][...]
+Hello there, Mario!
+[PAUSE:05][...]
+Are you enjoying the game?
+[WAIT][NEXT][...]
+Did you know there's another 
+game in this Playroom?
+[WAIT][NEXT][...]
+If you get a Gold Credit, you 
+can play the other one, too.[WAIT][END]
+
+#string:08:016
+[STYLE:RIGHT][...]
+Hello there, Mario!
+[PAUSE:05][...]
+Welcome to the Playroom!
+[WAIT]{Func_04}[END]
+
+#string:08:017
+[STYLE:RIGHT][...]
+Please enjoy the game.[WAIT][END]
+
+#string:08:018
+[NEXT][...]
+Cool! You have a Silver Credit.
+[WAIT][NEXT][...]
+In that case, I'll make a pipe
+appear that will lead down to
+the Jump Attack floor.[WAIT][END]
+
+#string:08:019
+[NEXT][...]
+Cool! You have a Gold Credit.
+[WAIT][NEXT][...]
+In that case, I'll make a pipe
+appear that will lead down to
+the Smash Attack floor.[WAIT][END]
+
+#string:08:01A
+[NEXT][...]
+Cool! You have a Gold Credit.
+[WAIT][NEXT][...]
+In that case, I'll make a pipe
+appear that will lead down to
+both the Jump Attack and Smash
+Attack floors.[WAIT][END]
+
+#string:08:01B
+[STYLE:RIGHT][...]
+Please enjoy the games.[WAIT][END]
+
+#string:08:01C
+Results for Jump Attack[END]
+
+#string:08:01D
+Results for Smash Attack[END]
+
+#string:08:01E
+Times Played[END]
+
+#string:08:01F
+Coins Won[END]
+
+#string:08:020
+Highest Score[END]
+
+#string:08:021
+Coins[END]
+
+#string:08:022
+[END]
+
+#string:08:023
+Times[END]
+
+#string:08:024
+.[END]
+
+#string:08:025
+[STYLE:RIGHT][...]
+Y'know, I haven't seen that old
+Koopa Troopa lately.
+[WAIT][NEXT][...]
+He came here often, but
+[PAUSE:0A][...]
+he always lost a bundle.[WAIT][END]
+
+#string:08:026
+[STYLE:RIGHT][...]
+It was never fun when that old
+Koopa Troopa lost.
+[WAIT][NEXT][...]
+He'd blame it on everyone but
+himself then raise a big stink.
+[PAUSE:0A][...]
+Phew! It was a crazy scene.[WAIT][END]
+
+#string:08:027
+[STYLE:RIGHT][...]
+Hey, are you having a good time
+here at the Playroom, Mario?
+[WAIT][NEXT][...]
+I heard the 9-Blocks Option in 
+Jump Attack is really hard to
+clear successfully.
+[WAIT][NEXT][...]
+Maybe I'll have better odds
+playing the 5-Blocks Option.[WAIT][END]
+
+#string:08:028
+[STYLE:RIGHT][...]
+Hey, Mario! So you come here,
+too. Having a good time?
+[WAIT][NEXT][...]
+Smash Attack is pretty hard.
+[WAIT][NEXT][...]
+I've never cleared it before.
+[PAUSE:0A][...]
+Have you?[WAIT][END]
+
+#string:08:029
+[STYLE:RIGHT][...]
+I'm winning big, baby![WAIT][END]
+
+#string:08:02A
+[STYLE:RIGHT][...]
+Grrr... I was so close today![WAIT][END]
+
+#string:08:02B
+[STYLE:RIGHT][...]
+I won a little today.
+[PAUSE:0A][...]
+Good luck, Mario.[WAIT][END]
+
+#string:08:02C
+[STYLE:RIGHT][...]
+Ugh. Double ugh.
+[PAUSE:0A][...]
+Talk about rotten luck...[WAIT][END]
+
+#string:08:02D
+[STYLE:RIGHT][...]
+Greetings, my good man!
+[PAUSE:0A][...]
+This is the floor for Jump
+Attack.
+[WAIT][NEXT][...]
+Gimme a second, and I'll explain
+the rules for you.
+[WAIT][NEXT][...]
+Eleven blocks will appear in
+the air. When you hit one, a
+panel will come out of it.
+[WAIT][NEXT][...]
+There are four kinds of panels.
+The number of coins you get
+depends on the order you hit
+the panels in.
+[WAIT][NEXT][...]
+{StartAnim}{Down:0A}{Image1:00}{SetPrintPos:00:28}This is a 1-Coin Panel.
+{SetPrintPos:00:28}It will give you {Color:20}1 {Color:0A}coin.
+{EndAnim}{Down:30}[WAIT]{Scroll:04}{StartAnim}{Down:0A}{Image1:01}{SetPrintPos:00:28}This is a 5-Coin Panel.
+{SetPrintPos:00:28}It will give you {Color:20}5 {Color:0A}coins.
+{EndAnim}{Down:30}[WAIT]{Scroll:04}{StartAnim}{Down:0A}{Image1:02}{Up:06}{SetPrintPos:00:28}This is a 5-Times Panel.
+{SetPrintPos:00:28}Your coins will be multiplied
+{Color:20}{SetPrintPos:00:28}5 {Color:0A}times.
+{EndAnim}{Down:30}[WAIT]{Scroll:04}{StartAnim}{Down:0A}{Image1:03}{Up:0A}{SetPrintPos:00:28}This is a Bowser Panel.
+{SetPrintPos:00:28}If you find this panel,
+{SetPrintPos:00:28}unfortunately, it's
+{Color:20}{SetPrintPos:00:28}Game Over{Color:0A}.
+{EndAnim}{Down:30}[WAIT]{Scroll:04}If you clear the 9-Blocks
+Option, as a special bonus,
+your coins will be {Color:20}doubled{Color:0A}.
+[WAIT]{Scroll:03}The rules are written on that
+board over there.
+[WAIT]{Scroll:02}I think you'll catch on quickly
+once you start playing.
+[PAUSE:0A][...]
+Anyway, you might as well try
+it at least once.
+[WAIT]{Scroll:04}You need ten coins to play.
+[PAUSE:0A][...]
+How about it? Wanna try?
+{Func_04}[END]
+
+#string:08:02E
+[STYLE:RIGHT][...]
+Welcome!
+[PAUSE:0A][...]
+You need ten coins to play.
+[PAUSE:0A][...]
+How about it? Wanna try?
+{Func_04}[END]
+
+#string:08:02F
+[NEXT][...]
+Try to hit five blocks.
+[WAIT]{Func_04}[NEXT][...]
+Get ready to...
+[WAIT]{InputOff}[NEXT][...]
+{Down:08}{Size:20:20}{StartFX:Wavy}JUMP...
+{EndFX:Wavy}{Down:06}{Func_04}{Scroll:04}{Down:05}{Size:30:30}{StartFX:Shrinking}ATTACK!!!
+{Func_04}[END]
+
+#string:08:030
+[NEXT][...]
+Try to hit seven blocks.
+[WAIT]{Func_04}[NEXT][...]
+Get ready to...
+[WAIT]{InputOff}[NEXT][...]
+{Down:08}{Size:20:20}{StartFX:Wavy}JUMP...
+{EndFX:Wavy}{Down:06}{Func_04}{Scroll:04}{Down:05}{Size:30:30}{StartFX:Shrinking}ATTACK!!!
+{Func_04}[END]
+
+#string:08:031
+[NEXT][...]
+Try to hit nine blocks.
+[WAIT]{Func_04}[NEXT][...]
+Get ready to...
+[WAIT]{InputOff}[NEXT][...]
+{Down:08}{Size:20:20}{StartFX:Wavy}JUMP...
+{EndFX:Wavy}{Down:06}{Func_04}{Scroll:04}{Down:05}{Size:30:30}{StartFX:Shrinking}ATTACK!!!
+{Func_04}[END]
+
+#string:08:032
+[NEXT][...]
+Whatever suits you.
+[PAUSE:0A][...]
+Come again sometime!
+[WAIT][NEXT][...]
+See you.[WAIT][END]
+
+#string:08:033
+[STYLE:RIGHT][...]
+Get jumping, Mario!
+[PAUSE:0A][...]
+You need to hit {Var:00} more block{Var:01}.[WAIT][END]
+
+#string:08:034
+[STYLE:RIGHT][...]
+Oops... Bummer!
+[PAUSE:05][...]
+Game over.
+[WAIT][NEXT][...]
+Too bad.
+[PAUSE:05][...]
+Better luck next time.[WAIT][END]
+
+#string:08:035
+[STYLE:RIGHT][...]
+5-Blocks Option cleared!
+[PAUSE:05][...]
+You get {Var:00} coins![WAIT][END]
+
+#string:08:036
+[STYLE:RIGHT][...]
+7-Blocks Option cleared!
+[PAUSE:05][...]
+You get {Var:00} coins![WAIT][END]
+
+#string:08:037
+[STYLE:RIGHT][...]
+Wow! Yeah!
+[PAUSE:05][...]
+9-Blocks Option cleared!
+[WAIT][NEXT][...]
+As a special bonus, your coins
+will be doubled![WAIT][END]
+
+#string:08:038
+[STYLE:RIGHT][...]
+You get {Var:00} coins!![WAIT][END]
+
+#string:08:039
+[WAIT][NEXT][...]
+...Mario,
+[PAUSE:05][...]
+you don't have ten coins.
+[WAIT][NEXT][...]
+You can't play the game
+without enough coins.[WAIT][END]
+
+#string:08:03A
+[STYLE:RIGHT][...]
+Come again sometime![WAIT][END]
+
+#string:08:03B
+{DelayOff}[STYLE:SIGN][...]
+
+{Down:02}{Indent:28}Rules for Jump Attack
+{Down:06}
+{Down:04}When the game starts, eleven
+blocks will appear in the air.
+When you hit a block, a panel
+will come out of it.
+There are four kinds of panels.
+Hitting blocks is the only way
+to make the panels appear.
+
+The coins you get will be
+determined by the order you
+hit the panels in.
+
+{StartAnim}{Down:0A}{Image1:00}{SetPrintPos:00:28}This is a 1-Coin Panel.
+{SetPrintPos:00:28}It will give you {Color:20}1 {Color:0A}coin.
+{EndAnim}{Down:30}{StartAnim}{Down:0A}{Image1:01}{SetPrintPos:00:28}This is a 5-Coin Panel.
+{SetPrintPos:00:28}It will give you {Color:20}5 {Color:0A}coins.
+{EndAnim}{Down:30}{StartAnim}{Down:0A}{Image1:02}{Up:06}{SetPrintPos:00:28}This is a 5-Times Panel.
+{SetPrintPos:00:28}Your coins will be multiplied 
+{Color:20}{SetPrintPos:00:28}5 {Color:0A}times.
+{EndAnim}{Down:30}{StartAnim}{Down:0A}{Image1:03}{Up:0A}{SetPrintPos:00:28}This is a Bowser Panel.
+{SetPrintPos:00:28}If you find this panel,
+{SetPrintPos:00:28}unfortunately, it's
+{Color:20}{SetPrintPos:00:28}Game Over{Color:0A}.
+{EndAnim}{Down:30}If you clear the 9-Blocks
+Option, your coins will be
+doubled as a special bonus!
+You need ten coins to play.
+{DelayOn}[WAIT]{Scroll:04}[WAIT]{Scroll:04}[WAIT]{Scroll:04}[WAIT]{Scroll:04}[WAIT]{Scroll:04}[WAIT]{Scroll:04}[WAIT]{Scroll:04}[WAIT]{Scroll:04}{DelayOn}[WAIT][END]
+
+#string:08:03C
+[STYLE:RIGHT][...]
+Hello, Mario!
+[PAUSE:0A][...]
+This is the floor for Smash
+Attack.
+[WAIT][NEXT][...]
+Let me explain the rules to
+you, OK?
+[WAIT][NEXT][...]
+When the game starts, blocks 
+will appear along the ground.
+[WAIT][NEXT][...]
+When you hit a block, something
+will come out of it.
+[WAIT][NEXT][...]
+{StartAnim}{Down:0A}{Image1:00}{Up:0A}{SetPrintPos:00:28}You'll clear the game
+{SetPrintPos:00:28}if you get ten of
+{SetPrintPos:00:28}these Peach Panels
+{SetPrintPos:00:28}before time runs out.
+{EndAnim}{Down:30}[WAIT]{Scroll:04}If you hit a block where a
+Fuzzy or Bob-omb is hiding, 
+it'll slow you down a bit.
+[WAIT][NEXT][...]
+The time limit is 30 seconds.
+[PAUSE:0A][...]
+You need ten coins to play. 
+Would you like to try?
+{Func_04}[END]
+
+#string:08:03D
+[STYLE:RIGHT][...]
+Welcome to Smash Attack!
+[PAUSE:0A][...]
+You need ten coins to play. 
+Like to give it a try?
+{Func_04}[END]
+
+#string:08:03E
+[WAIT][NEXT][...]
+...Mario, you don't have ten
+coins.
+[WAIT][NEXT][...]
+Please bring more money with
+you next time.[WAIT][END]
+
+#string:08:03F
+[NEXT][...]
+Ready to get ten Peach Panels?
+[WAIT]{Func_04}[NEXT][...]
+Get set to...
+[WAIT]{InputOff}[NEXT][...]
+{Down:08}{Size:20:20}{StartFX:Wavy}SMASH...
+{EndFX:Wavy}{Down:0A}{Func_04}{Scroll:04}{Down:05}{Size:30:30}{StartFX:Shrinking}ATTACK!!!
+{Func_04}[END]
+
+#string:08:040
+[NEXT][...]
+Another time, perhaps.[WAIT][END]
+
+#string:08:041
+[STYLE:RIGHT][...]
+{InputOff}{Down:08}{Size:20:20}Game [PAUSE:0F]Over
+{SizeReset}[PAUSE:0F]{InputOn}[END]
+
+#string:08:042
+[STYLE:RIGHT][...]
+Game cleared!
+[WAIT][NEXT][...]
+The remaining time is {Var:00}.{Var:01}...
+So, [PAUSE:0A]well... [PAUSE:0F]You get {Var:02} coins!
+{Func_04}[WAIT][END]
+
+#string:08:043
+[STYLE:RIGHT][...]
+Game cleared!
+[WAIT][NEXT][...]
+The remaining time is...
+[PAUSE:0F][...]
+Oh. [PAUSE:05]Too bad! Zero seconds.
+You don't get any coins.
+[WAIT][NEXT][...]
+Better luck next time.[WAIT][END]
+
+#string:08:044
+[STYLE:RIGHT][...]
+No more time!
+[PAUSE:0A][...]
+Too bad.
+[WAIT][NEXT][...]
+Please come again.[WAIT][END]
+
+#string:08:045
+Please come again.[WAIT][END]
+
+#string:08:046
+{DelayOff}[STYLE:SIGN][...]
+
+{Down:02}{Indent:23}Rules for Smash Attack
+{Down:06}
+{Down:04}
+When the game starts, blocks 
+will appear along the ground.
+
+
+When you hit a block, something
+will pop out of it.
+
+{StartAnim}{Down:0A}{Image1:00}{Up:0A}{SetPrintPos:00:28}You'll clear the game
+{SetPrintPos:00:28}if you get ten of
+{SetPrintPos:00:28}these Peach Panels
+{SetPrintPos:00:28}before time runs out.
+{EndAnim}{Down:30}If you hit a block where a
+Fuzzy or Bob-omb is hiding,
+you'll be immobilized briefly.
+
+The time limit is 30 seconds.
+It costs ten coins to play.
+
+
+{DelayOn}[WAIT]{Scroll:04}[WAIT]{Scroll:04}[WAIT]{Scroll:04}[WAIT]{Scroll:04}[WAIT]{Scroll:04}{DelayOn}[WAIT][END]
+
+#string:08:047
+more[END]
+
+#string:08:048
+panels[END]
+

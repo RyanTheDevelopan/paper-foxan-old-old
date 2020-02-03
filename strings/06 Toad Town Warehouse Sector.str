@@ -1,0 +1,2126 @@
+#string:06:000
+[STYLE:RIGHT][...]
+{StartFX:Wavy}Hey, you!
+[PAUSE:05][...]
+Thief!![WAIT][END]
+
+#string:06:001
+[STYLE:RIGHT][...]
+Oh, Mario. It's you.
+[PAUSE:0A][...]
+A Shy Guy stole my Storeroom
+Key!
+[WAIT][NEXT][...]
+I can't stay in business if I
+can't get into my storeroom!
+[WAIT][NEXT][...]
+What in the world will I do?![WAIT][END]
+
+#string:06:002
+[STYLE:RIGHT][...]
+Why, Mario!
+[PAUSE:0A][...]
+Is... Isn't that...
+[PAUSE:0A][...]
+my Storeroom Key?[WAIT][END]
+
+#string:06:003
+[STYLE:RIGHT][...]
+All right, Mario!
+[PAUSE:0A][...]
+You did it! You got back my
+Storeroom Key!
+[WAIT][NEXT][...]
+Thank you so much!
+[PAUSE:0A][...]
+You saved my livelihood!![WAIT][END]
+
+#string:06:004
+[STYLE:RIGHT][...]
+Ahem... Uh, Mario?
+[PAUSE:0A][...]
+Please don't open the storeroom
+without my permission, all right?
+[WAIT][NEXT][...]
+Huh?!
+[PAUSE:0A][...]
+Hey! You got back my
+Storeroom Key!
+[WAIT][NEXT][...]
+Oh, thank you, thank you!
+[PAUSE:0A][...]
+You saved my business!![WAIT][END]
+
+#string:06:005
+[STYLE:RIGHT][...]
+Tell you what. Take anything you
+like from the storeroom.
+[WAIT][NEXT][...]
+It's just a little thank-you for
+getting my Storeroom Key back.[WAIT][END]
+
+#string:06:006
+[STYLE:RIGHT][...]
+Hi! I'm new to the neighborhood.
+[PAUSE:05][...]
+I never expected it to be so nice
+and quiet in the big city.
+[WAIT][NEXT][...]
+It cost me a small fortune in
+coins to get this place, but I
+think it was worth it.
+[WAIT][NEXT][...]
+It's such a lovely house, isn't it?
+[PAUSE:0A][...]
+It sure is![WAIT][END]
+
+#string:06:007
+[STYLE:RIGHT][...]
+Hi! I'm new to the neighborhood.
+[PAUSE:05][...]
+I never expected it to be so nice
+and quiet in the big city.
+[WAIT][NEXT][...]
+It cost me a small fortune in
+coins to get this place, but I
+think it was worth it.
+[WAIT][NEXT][...]
+It's such a lovely house, isn't it?
+[PAUSE:0A][...]
+It sure is![WAIT][END]
+
+#string:06:008
+[STYLE:RIGHT][...]
+Oh. Hi, Mario!
+[PAUSE:0A][...]
+Thanks for coming to visit me!
+[WAIT][NEXT][...]
+It's so quiet around here. I've
+been really bored...
+[WAIT][NEXT][...]
+I know I just moved here, but I
+kind of wish I'd moved somewhere
+more...happening.[WAIT][END]
+
+#string:06:009
+[STYLE:RIGHT][...]
+Hi, Mario! Hey, by the way...
+[PAUSE:0A][...]
+Did you know the house next door
+is supposed to be vacant?
+[WAIT][NEXT][...]
+...But you know what? I hear lots
+of noises coming from there. 
+[WAIT][NEXT][...]
+Maybe it's a thief's hideout...
+[PAUSE:0A][...]
+Oh, how scary! Right next door![WAIT][END]
+
+#string:06:00A
+[STYLE:RIGHT][...]
+Hi, Mario! Hey, by the way...
+[PAUSE:0A][...]
+Did you know the house next door
+is supposed to be vacant?
+[WAIT][NEXT][...]
+...But you know what? I hear lots
+of noises coming from there.
+[WAIT][NEXT][...]
+Maybe it's a thief's hideout...
+[PAUSE:0A][...]
+Oh, how scary! Right next door![WAIT][END]
+
+#string:06:00B
+[STYLE:RIGHT][...]
+What!? You're kidding me!
+[PAUSE:0A][...]
+Shy Guys are living in the vacant
+house right next to us?!
+[WAIT][NEXT][...]
+I would never have bought this
+house if I had known...
+[PAUSE:0A][...]
+I'm calling my realtor![WAIT][END]
+
+#string:06:00C
+[STYLE:RIGHT][...]
+Those Shy Guys really seem to
+have quieted down recently.
+[WAIT][NEXT][...]
+Too quiet... I get really lonely
+when it's so dull.
+[WAIT][NEXT][...]
+I wish those Shy Guys weren't so
+bad. I bet we could be really
+good friends if they shaped up.[WAIT][END]
+
+#string:06:00D
+[STYLE:RIGHT][...]
+Those Shy Guys really seem to
+have quieted down recently.
+[WAIT][NEXT][...]
+Too quiet... I get really lonely
+when it's so dull.
+[WAIT][NEXT][...]
+I wish those Shy Guys weren't so
+bad. I bet we could be really
+good friends if they shaped up.[WAIT][END]
+
+#string:06:00E
+[STYLE:RIGHT][...]
+My wish was to live a peaceful,
+fulfilling life in this lovely,
+quiet house.
+[WAIT][NEXT][...]
+But recently, I've been feeling
+very blue inside.
+[WAIT][NEXT][...]
+My wish may have come true, but
+the princess was kidnapped and
+all...
+[WAIT][NEXT][...]
+It's tough to feel happy when
+everyone around you seems to be
+suffering.[WAIT][END]
+
+#string:06:00F
+[STYLE:RIGHT][...]
+My wish was to live a peaceful,
+fulfilling life in this lovely,
+quiet house.
+[WAIT][NEXT][...]
+But recently, I've been feeling
+very blue inside.
+[WAIT][NEXT][...]
+My wish may have come true, but
+the princess was kidnapped and
+all...
+[WAIT][NEXT][...]
+It's tough to feel happy when
+everyone around you seems to be
+suffering.[WAIT][END]
+
+#string:06:010
+[STYLE:RIGHT][...]
+Hey, Mario. Are you good at
+saving up your coins?
+[WAIT][NEXT][...]
+I still have tons of coins in my
+savings. I have no idea how to
+spend them all!
+[WAIT][NEXT][...]
+You don't know of any smart
+investments, do you?[WAIT][END]
+
+#string:06:011
+[STYLE:RIGHT][...]
+Hey, Mario. Are you good at
+saving up your coins?
+[WAIT][NEXT][...]
+I still have tons of coins in my
+savings. I have no idea how to
+spend them all!
+[WAIT][NEXT][...]
+You don't know of any smart
+investments, do you?[WAIT][END]
+
+#string:06:012
+[STYLE:RIGHT][...]
+Hi, Mario! Are you ready?
+I heard you're off to take on
+the evil Bowser!
+[WAIT][NEXT][...]
+If you can beat him, I'm going to
+spend all my coins on one huge
+celebration.
+[WAIT][NEXT][...]
+Just to show how much you mean
+to this town, I'm going to fill the
+sky with booms and pops and
+bangs and zings! All for you!
+[WAIT][NEXT][...]
+I won't tell you more...
+It'll ruin the surprise!
+[PAUSE:0A][...]
+Hee hee hee hee...[WAIT][END]
+
+#string:06:013
+[STYLE:RIGHT][...]
+Hey, you're Mario, right?
+[PAUSE:0A][...]
+We just moved in! We've only just
+unpacked!
+[WAIT][NEXT][...]
+It's like a dream come true. A
+quiet and gorgeous home all to
+ourselves![HEART]
+[PAUSE:0A][...]
+Ah, I'm so happy!
+[WAIT][NEXT][...]
+Of course, happy as I am, I know
+these are sad times. I try not
+to act too jolly when I'm out and
+about.[WAIT][END]
+
+#string:06:014
+[STYLE:RIGHT][...]
+Hey, you're Mario, right?
+[PAUSE:0A][...]
+We just moved in! We've only just
+unpacked!
+[WAIT][NEXT][...]
+It's like a dream come true. A
+quiet and gorgeous home all to
+ourselves![HEART]
+[PAUSE:0A][...]
+Ah, I'm so happy!
+[WAIT][NEXT][...]
+Of course, happy as I am, I know
+these are sad times. I try not
+to act too jolly when I'm out and
+about.[WAIT][END]
+
+#string:06:015
+[STYLE:RIGHT][...]
+It's so quiet...
+[PAUSE:0A][...]
+It's actually kind of unsettling.
+[WAIT][NEXT][...]
+I miss all the hustle and bustle
+that was here when we first
+moved in.[WAIT][END]
+
+#string:06:016
+[STYLE:RIGHT][...]
+Somebody's really been raising a
+racket in the house next door,
+that's for sure!
+[WAIT][NEXT][...]
+It sounds like a bunch of kids
+bouncing off the walls.
+[WAIT][NEXT][...]
+And I thought that house was
+vacant...
+[PAUSE:0A][...]
+How creepy![WAIT][END]
+
+#string:06:017
+[STYLE:RIGHT][...]
+Somebody's really been raising a
+racket in the house next door, 
+that's for sure!
+[WAIT][NEXT][...]
+It sounds like a bunch of kids
+bouncing off the walls.
+[WAIT][NEXT][...]
+And I thought that house was
+vacant...
+[PAUSE:0A][...]
+How creepy![WAIT][END]
+
+#string:06:018
+[STYLE:RIGHT][...]
+Huh?
+[PAUSE:0A][...]
+You mean Shy Guys were staying
+in that house next door?
+[WAIT][NEXT][...]
+No wonder it was so noisy...
+[PAUSE:0A][...]
+I knew something was weird.
+Empty houses don't make noise.[WAIT][END]
+
+#string:06:019
+[STYLE:RIGHT][...]
+Toad Town's back to being quiet
+now that the Shy Guys are gone.
+[WAIT][NEXT][...]
+Yup... Reeeeal quiet. Nothing
+going on at all.
+[PAUSE:0A][...]
+Ugh... I need some excitement.
+[WAIT][NEXT][...]
+I can kinda understand why the
+Shy Guys were running wild. This
+town is sort of stifling.[WAIT][END]
+
+#string:06:01A
+[STYLE:RIGHT][...]
+Toad Town's back to being quiet
+now that the Shy Guys are gone.
+[WAIT][NEXT][...]
+Yup... Reeeeal quiet. Nothing
+going on at all.
+[PAUSE:0A][...]
+Ugh... I need some excitement.
+[WAIT][NEXT][...]
+I can kinda understand why the
+Shy Guys were running wild. This
+town is sort of stifling.[WAIT][END]
+
+#string:06:01B
+[STYLE:RIGHT][...]
+When we first moved in here,
+Toad Town was hopping! Now it's
+just depressing.
+[WAIT][NEXT][...]
+Even when I wish to the Stars,
+my wishes don't come true any-
+more. This place is really
+getting me down.[WAIT][END]
+
+#string:06:01C
+[STYLE:RIGHT][...]
+When we first moved in here,
+Toad Town was hopping! Now it's
+just depressing.
+[WAIT][NEXT][...]
+Even when I wish to the Stars,
+my wishes don't come true any-
+more. This place is really
+getting me down.[WAIT][END]
+
+#string:06:01D
+[STYLE:RIGHT][...]
+My sister's thinking of a good
+way to spend her coins.
+[WAIT][NEXT][...]
+I think she should spend it for
+the good of others...[WAIT][END]
+
+#string:06:01E
+[STYLE:RIGHT][...]
+My sister's thinking of a good
+way to spend her coins.
+[WAIT][NEXT][...]
+I think she should spend it for
+the good of others...[WAIT][END]
+
+#string:06:01F
+[STYLE:RIGHT][...]
+I guess my sister decided what
+she's gonna do with her coins.
+[WAIT][NEXT][...]
+She won't even tell me! Can you
+believe that? Her own sister!
+[PAUSE:0A][...]
+Aren't you just dying to know
+what she's gonna do?[WAIT][END]
+
+#string:06:020
+[STYLE:RIGHT][...]
+By the by, Mario,
+[PAUSE:0A][...]
+if you can't hold any more items,
+you should leave them at the
+shop.
+[WAIT][NEXT][...]
+You can pick the items up again
+at any shop in the world, so it's
+a useful system.[WAIT][END]
+
+#string:06:021
+[STYLE:RIGHT][...]
+By the by, Mario,
+[PAUSE:0A][...]
+if you can't hold any more items,
+you should leave them at the
+shop.
+[WAIT][NEXT][...]
+You can pick the items up again
+at any shop in the world, so it's
+a useful system.[WAIT][END]
+
+#string:06:022
+[STYLE:RIGHT][...]
+By the by, Mario,
+[PAUSE:0A][...]
+if you can't hold any more items,
+you should leave them at the
+shop.
+[WAIT][NEXT][...]
+You can pick the items up again
+at any shop in the world, so it's
+a useful system.[WAIT][END]
+
+#string:06:023
+[STYLE:RIGHT][...]
+Eek! Mario!
+[PAUSE:0A][...]
+Some Shy Guys just ran into the
+shop over there!
+[WAIT][NEXT][...]
+There's no way they're gonna do
+anything good in there!
+[PAUSE:0A][...]
+Get 'em! Please![WAIT][END]
+
+#string:06:024
+[STYLE:RIGHT][...]
+I tried to chase the Shy Guys,
+but I fell and lost their trail.
+[WAIT][NEXT][...]
+I was real busy holding my toe
+and shrieking, but I think maybe
+they went to the port.[WAIT][END]
+
+#string:06:025
+[STYLE:RIGHT][...]
+If you get tired, you really
+ought to rest at a Toad House.
+[PAUSE:0A][...]
+A good nap is the best medicine.
+[WAIT][NEXT][...]
+Maybe you should hit the Save
+Block after you rest, too. Just
+to be safe.[WAIT][END]
+
+#string:06:026
+[STYLE:RIGHT][...]
+If you're going to travel far,
+you really should get healthy at
+a Toad House first. 
+[WAIT][NEXT][...]
+Oh, and you should stop by a
+shop and get some items.
+[WAIT][NEXT][...]
+And brush your teeth.
+Maybe comb your mustache.
+[PAUSE:0A][...]
+Don't forget to save, too.[WAIT][END]
+
+#string:06:027
+[STYLE:RIGHT][...]
+If you're going to travel far,
+you really should get healthy at
+a Toad House first. 
+[WAIT][NEXT][...]
+Oh, and you should stop by a 
+shop and get some items.
+[WAIT][NEXT][...]
+And brush your teeth.
+Maybe comb your mustache.
+[PAUSE:0A][...]
+Don't forget to save, too.[WAIT][END]
+
+#string:06:028
+[STYLE:RIGHT][...]
+Hey there, Mario!
+[PAUSE:0A][...]
+Did you recently go some place
+tropical or something?
+[WAIT][NEXT][...]
+You look like you came back with
+a little tan.
+[PAUSE:0A][...]
+I didn't think you could possibly
+look any cooler, but you do.[WAIT][END]
+
+#string:06:029
+[STYLE:RIGHT][...]
+Mario,
+[PAUSE:0A][...]
+aren't you tired at all?
+[WAIT][NEXT][...]
+Adventuring must take its toll.
+[WAIT][NEXT][...]
+Try to relax while you're here in
+Toad Town, OK?[WAIT][END]
+
+#string:06:02A
+[STYLE:RIGHT][...]
+The Stars used to make wishes
+come true for the citizens of
+Mushroom Kingdom.
+[WAIT][NEXT][...]
+Supposedly, they only grant good
+wishes, but who's to say which
+wishes are good?[WAIT][END]
+
+#string:06:02B
+[STYLE:RIGHT][...]
+The Stars used to make wishes
+come true for the citizens of
+Mushroom Kingdom.
+[WAIT][NEXT][...]
+Supposedly, they only grant good
+wishes, but who's to say which
+wishes are good?[WAIT][END]
+
+#string:06:02C
+[STYLE:RIGHT][...]
+I know this wish is a good one.
+I wish the princess and everyone
+else will come back safely.
+[WAIT][NEXT][...]
+I wish, I wish, I wish!
+[PAUSE:0A][...]
+Good luck, Mario![WAIT][END]
+
+#string:06:02D
+[STYLE:RIGHT][...]
+I've heard a rumor about this
+great big hidden ruin somewhere
+in Dry Dry Desert, but
+[WAIT][NEXT][...]
+I don't believe it.
+[PAUSE:0A][...]
+Well, I've never seen it.
+[PAUSE:0A][...]
+Once I see it with my own eyes,
+then I'll believe it.[WAIT][END]
+
+#string:06:02E
+[STYLE:RIGHT][...]
+I've heard a rumor about this
+great big hidden ruin somewhere
+in Dry Dry Desert, but
+[WAIT][NEXT][...]
+I don't believe it.
+[PAUSE:0A][...]
+Well, I've never seen it.
+[PAUSE:0A][...]
+Once I see it with my own eyes,
+then I'll believe it.[WAIT][END]
+
+#string:06:02F
+[STYLE:RIGHT][...]
+I've heard a rumor about this
+dark, scary Boo Mansion deep in
+Forever Forest...
+[WAIT][NEXT][...]
+I don't believe it.
+[PAUSE:0A][...]
+Well, nobody's ever seen it.
+[WAIT][NEXT][...]
+It must be a lie.[WAIT][END]
+
+#string:06:030
+[STYLE:RIGHT][...]
+I've heard a rumor that Shy
+Guys are hiding in somebody's
+house in Toad Town. Here! Shy
+Guys in Toad Town!?
+[WAIT][NEXT][...]
+What rubbish!
+[WAIT][NEXT][...]
+I think that people would notice
+a huge group of Shy Guys living
+in one of the houses in the
+neighborhood.
+[WAIT][NEXT][...]
+There's no way that's true.[WAIT][END]
+
+#string:06:031
+[STYLE:RIGHT][...]
+I've heard a rumor that Shy
+Guys are hiding in somebody's
+house in Toad Town. Here! Shy
+Guys in Toad Town!?
+[WAIT][NEXT][...]
+What rubbish!
+[WAIT][NEXT][...]
+I think that people would notice
+a huge group of Shy Guys living
+in one of the houses in the
+neighborhood.
+[WAIT][NEXT][...]
+There's no way that's true.[WAIT][END]
+
+#string:06:032
+[STYLE:RIGHT][...]
+What!?
+[PAUSE:0A][...]
+The Shy Guys were hiding in that
+house over there?!
+[WAIT][NEXT][...]
+Why... [PAUSE:0A]Why didn't I notice it??? 
+I'm always around here!!!
+[WAIT][NEXT][...]
+I... [PAUSE:0A]I just can't...
+[PAUSE:05][...]
+believe such a tale! No way![WAIT][END]
+
+#string:06:033
+[STYLE:RIGHT][...]
+Huh...?
+[PAUSE:0A][...]
+Mario, you're trying to go to 
+Lavalava Island?
+[WAIT][NEXT][...]
+Good luck. You're completely
+wasting your time, though.
+[WAIT][NEXT][...]
+Lavalava Island only exists in
+rumors spread by idiots.
+[PAUSE:0A][...]
+It's a figment of imagination.[WAIT][END]
+
+#string:06:034
+[STYLE:RIGHT][...]
+You're going to Lavalava Island
+on a whale?!
+[WAIT][NEXT][...]
+Mario, there's no such island!
+[PAUSE:0A][...]
+And furthermore, there's no way
+you can ride a whale.
+[WAIT][NEXT][...]
+I'm shocked that you would make
+up such lies, Mario.[WAIT][END]
+
+#string:06:035
+[STYLE:RIGHT][...]
+You went to Lavalava Island?
+[PAUSE:0A][...]
+Yoshis? Ravens? Erupting
+volcanoes?
+[WAIT][NEXT][...]
+Wow, that's amazing!
+[WAIT][NEXT][...]
+...You know something, Mario?
+[PAUSE:0A][...]
+It's also a big, fat lie!
+I don't believe it for a second![WAIT][END]
+
+#string:06:036
+[STYLE:RIGHT][...]
+I've heard a rumor that the door
+in the flower garden leads to a
+region that's full of flowers.
+It's called Flower Fields.
+[WAIT][NEXT][...]
+Oh, come on. No more of this.
+[PAUSE:0A][...]
+Another world? Unbelievable. [WAIT][END]
+
+#string:06:037
+[STYLE:RIGHT][...]
+A lot of people around here say 
+that there's something inside
+that pipe in the town, but...
+[WAIT][NEXT][...]
+I don't believe one word of it!
+[WAIT][NEXT][...]
+Well,[PAUSE:14] think about it...
+[PAUSE:14][...]
+If there really were something...
+That'd be really creepy![WAIT][END]
+
+#string:06:038
+[STYLE:RIGHT][...]
+A lot of people around here say 
+that there's something inside 
+that pipe in the town, but...
+[WAIT][NEXT][...]
+I don't believe one word of it!
+[WAIT][NEXT][...]
+Well,[PAUSE:14] think about it...
+[PAUSE:14][...]
+If there really were something...
+That'd be really creepy![WAIT][END]
+
+#string:06:039
+[STYLE:RIGHT][...]
+Mario... I heard a rumor...
+[PAUSE:0A][...]
+It was about you going to fight
+Bowser and save the princess.
+[WAIT][NEXT][...]
+I don't believe it.
+[PAUSE:0A][...]
+Well, for one thing, it's scary.
+[PAUSE:0A][...]
+You could get hurt, you know.
+[WAIT][NEXT][...]
+I can't believe a sane man would
+willingly do such a thing.
+[PAUSE:0A][...]
+I won't believe it! No! I don't
+believe it!
+[WAIT][NEXT][...]
+I'll never believe you! Neveeeer![WAIT][END]
+
+#string:06:03A
+[STYLE:RIGHT][...]
+Here comes Red Ranger T.!
+[PAUSE:0F][...]
+Pow![WAIT][END]
+
+#string:06:03B
+[STYLE:RIGHT][...]
+Here comes Yellow Ranger T.!
+[PAUSE:0F][...]
+Boom![WAIT][END]
+
+#string:06:03C
+[STYLE:RIGHT][...]
+Here comes Green Ranger T.!
+[PAUSE:0F][...]
+Donk!
+[WAIT][NEXT][...]
+Look, look, Mario!
+[PAUSE:0A][...]
+We three are heroes like you![WAIT][END]
+
+#string:06:03D
+[STYLE:RIGHT][...]
+Here comes Red Ranger T.!
+[PAUSE:0F][...]
+Pow![WAIT][END]
+
+#string:06:03E
+[STYLE:RIGHT][...]
+Here comes Yellow Ranger T.!
+[PAUSE:0F][...]
+Boom![WAIT][END]
+
+#string:06:03F
+[STYLE:RIGHT][...]
+Here comes Green Ranger T.!
+[PAUSE:0F][...]
+Donk!
+[WAIT][NEXT][...]
+Look, look, Mario!
+[PAUSE:0A][...]
+We three are heroes like you![WAIT][END]
+
+#string:06:040
+[STYLE:RIGHT][...]
+{StartFX:Shrinking}{StartFX:Jitter}Yaaaaaaaargh... They got me...[WAIT][END]
+
+#string:06:041
+[STYLE:RIGHT][...]
+Come on, Red!
+[PAUSE:0A][...]
+Shake it off! Get up![WAIT][END]
+
+#string:06:042
+[STYLE:RIGHT][...]
+{StartFX:Shrinking}We must avenge Red!
+{EndFX:Shrinking}[WAIT][NEXT][...]
+...mmm... [PAUSE:0A]It doesn't feel the same
+without a bad guy.
+[WAIT][NEXT][...]
+Mario, you aren't busy, are you?
+Why don't you be the Evil King
+Bowser?[WAIT][END]
+
+#string:06:043
+[STYLE:RIGHT][...]
+Shy Guys! {StartFX:Shrinking}After them, Rangers![WAIT][END]
+
+#string:06:044
+[STYLE:RIGHT][...]
+No...! {StartFX:Shrinking}Retreat![WAIT][END]
+
+#string:06:045
+[STYLE:RIGHT][...]
+The Shy Guys are after us!
+{StartFX:Shrinking}Hide---------!
+{EndFX:Shrinking}[WAIT][NEXT][...]
+Playing Shy Guy Battle is our 
+favorite game right now. 
+[PAUSE:0A][...]
+It rules![WAIT][END]
+
+#string:06:046
+[STYLE:RIGHT][...]
+Shy Guys! {StartFX:Shrinking}After them, Rangers![WAIT][END]
+
+#string:06:047
+[STYLE:RIGHT][...]
+No...! {StartFX:Shrinking}Retreat![WAIT][END]
+
+#string:06:048
+[STYLE:RIGHT][...]
+The Shy Guys are after us!
+{StartFX:Shrinking}Hide---------!
+{EndFX:Shrinking}[WAIT][NEXT][...]
+Playing Shy Guy Battle is our 
+favorite game right now. 
+[PAUSE:0A][...]
+It rules![WAIT][END]
+
+#string:06:049
+[STYLE:RIGHT][...]
+Shy Guys! {StartFX:Shrinking}After them, Rangers![WAIT][END]
+
+#string:06:04A
+[STYLE:RIGHT][...]
+No...! {StartFX:Shrinking}Retreat![WAIT][END]
+
+#string:06:04B
+[STYLE:RIGHT][...]
+The Shy Guys are after us!
+{StartFX:Shrinking}Hide---------!
+{EndFX:Shrinking}[WAIT][NEXT][...]
+Playing Shy Guy Battle is our 
+favorite game right now. 
+[PAUSE:0A][...]
+It rules![WAIT][END]
+
+#string:06:04C
+[STYLE:RIGHT][...]
+My Grandpa said that
+[WAIT][NEXT][...]
+far away in the southern sea is 
+an island called Lavalava Island.
+He says Yoshis live there. He's
+really smart.[WAIT][END]
+
+#string:06:04D
+[STYLE:RIGHT][...]
+There are Yoshis?!
+[PAUSE:0A][...]
+Yiiippeeee!
+[PAUSE:05][...]
+Real live Yoshis?
+[WAIT][NEXT][...]
+I wanna go to Lavalava Island!
+Right now! Right now!
+[PAUSE:0A][...]
+Maybe we can swim there from
+here. C'mon, Rangers![WAIT][END]
+
+#string:06:04E
+[STYLE:RIGHT][...]
+{StartFX:Wavy}No------! None of us know how
+to swim, dummy!
+{EndFX:Wavy}[WAIT][END]
+
+#string:06:04F
+[STYLE:RIGHT][...]
+My Grandpa said that
+[WAIT][NEXT][...]
+far away in the southern sea is
+an island called Lavalava Island.
+He says Yoshis live there. He's
+really smart.[WAIT][END]
+
+#string:06:050
+[STYLE:RIGHT][...]
+There are Yoshis?!
+[PAUSE:0A][...]
+Yiiippeeee!
+[PAUSE:05][...]
+Real live Yoshis?
+[WAIT][NEXT][...]
+I wanna go to Lavalava Island!
+Right now! Right now!
+[PAUSE:0A][...]
+Maybe we can swim there from
+here. C'mon, Rangers![WAIT][END]
+
+#string:06:051
+[STYLE:RIGHT][...]
+{StartFX:Wavy}No------! None of us know how
+to swim, dummy!
+{EndFX:Wavy}[WAIT][END]
+
+#string:06:052
+[STYLE:RIGHT][...]
+Hey! Hey! Hey!
+[PAUSE:0A][...]
+Wanna play hide-and-seek in
+Forever Forest?
+[PAUSE:0A][...]
+It'll be really scary![WAIT][END]
+
+#string:06:053
+[STYLE:RIGHT][...]
+No, we can't.
+[PAUSE:0A][...]
+Don't you know it's dangerous?
+There are ghosts in there!
+[WAIT][NEXT][...]
+Mom says I should never, ever go
+in Forever Forest.[WAIT][END]
+
+#string:06:054
+[STYLE:RIGHT][...]
+Yeah, yeah...
+[PAUSE:0A][...]
+You and your mom...[WAIT][END]
+
+#string:06:055
+[STYLE:RIGHT][...]
+Hey! Hey! Hey!
+[PAUSE:0A][...]
+Wanna play hide-and-seek in
+Forever Forest?
+[PAUSE:0A][...]
+It'll be really scary![WAIT][END]
+
+#string:06:056
+[STYLE:RIGHT][...]
+No, we can't.
+[PAUSE:0A][...]
+Don't you know it's dangerous?
+There are ghosts in there!
+[WAIT][NEXT][...]
+Mom says I should never, ever go
+in Forever Forest.[WAIT][END]
+
+#string:06:057
+[STYLE:RIGHT][...]
+Yeah, yeah...
+[PAUSE:0A][...]
+You and your mom...[WAIT][END]
+
+#string:06:058
+[STYLE:RIGHT][...]
+Hey, guys. My mom's...
+[PAUSE:05][...]
+She's really into this book she's
+reading.
+[WAIT][NEXT][...]
+I guess it's really interesting.
+She doesn't play much anymore.[WAIT][END]
+
+#string:06:059
+[STYLE:RIGHT][...]
+My mom's reading it, too.
+[PAUSE:0A][...]
+It was written by some guy
+named Herringway.
+[WAIT][NEXT][...]
+Mom says it's a real page-
+turner but that it's not for
+children. I tried to sneak a
+peek, but she caught me.[WAIT][END]
+
+#string:06:05A
+[STYLE:RIGHT][...]
+Who'd want to read it anyway?
+Grown-up books are boring.[WAIT][END]
+
+#string:06:05B
+[STYLE:RIGHT][...]
+Hey, guys. My mom's...
+[PAUSE:05][...]
+She's really into this book she's
+reading.
+[WAIT][NEXT][...]
+I guess it's really interesting.
+She doesn't play much anymore.[WAIT][END]
+
+#string:06:05C
+[STYLE:RIGHT][...]
+My mom's reading it, too.
+[PAUSE:0A][...]
+It was written by some guy
+named Herringway.
+[WAIT][NEXT][...]
+Mom says it's a real page-
+turner but that it's not for
+children. I tried to sneak a
+peek, but she caught me.[WAIT][END]
+
+#string:06:05D
+[STYLE:RIGHT][...]
+Who'd want to read it anyway?
+Grown-up books are boring.[WAIT][END]
+
+#string:06:05E
+[STYLE:RIGHT][...]
+Hey, guys! Mario's off to beat
+up Bowser!
+[WAIT][NEXT][...]
+Cool! Ker-pow!
+[PAUSE:0A][...]
+I'm gonna be just like Mario when
+I grow up.[WAIT][END]
+
+#string:06:05F
+[STYLE:RIGHT][...]
+But...
+[PAUSE:0A][...]
+Mario... You actually have to
+fight the real Bowser. Yikes!
+[WAIT][NEXT][...]
+That's so scary![WAIT][END]
+
+#string:06:060
+[STYLE:RIGHT][...]
+Mario, will you be all right?
+[PAUSE:0A][...]
+Yeah, of course you will!
+Good luck! Save the princess![WAIT][END]
+
+#string:06:061
+[STYLE:RIGHT][...]
+This neighborhood is the
+quietest place in Toad Town.
+[WAIT][NEXT][...]
+That's why I often come here to
+walk and think.
+[WAIT][NEXT][...]
+Oh, I try to put on a glad face.
+The castle won't come back just
+because we stay home and mope,
+now will it?[WAIT][END]
+
+#string:06:062
+[STYLE:RIGHT][...]
+This neighborhood is the
+quietest place in Toad Town.
+[WAIT][NEXT][...]
+That's why I often come here to
+walk and think.
+[WAIT][NEXT][...]
+Oh, I try to put on a glad face.
+The castle won't come back just
+because we stay home and mope,
+now will it?[WAIT][END]
+
+#string:06:063
+[STYLE:RIGHT][...]
+I often come here to walk.
+[PAUSE:0A][...]
+It's nice and quiet, is it not?
+[WAIT][NEXT][...]
+On sunny days, I even head over
+to the port sometimes.[WAIT][END]
+
+#string:06:064
+[STYLE:RIGHT][...]
+I saw them! The scoundrels!
+[PAUSE:0A][...]
+Shy Guys just went into that
+empty house right there.
+[WAIT][NEXT][...]
+Do you suppose... Could that be
+the Shy Guy hideout?[WAIT][END]
+
+#string:06:065
+[STYLE:RIGHT][...]
+Our pleasant local shopkeeper
+has been hit by Shy Guys! They
+stole his Storeroom Key.
+[WAIT][NEXT][...]
+The dear man said that it's the
+most important key he has.
+[PAUSE:0A][...]
+Oh, this is simply awful! How will
+he ever get it back?[WAIT][END]
+
+#string:06:066
+[STYLE:RIGHT][...]
+Mario, that key you hold...
+[PAUSE:0A][...]
+Isn't that the Storeroom Key?
+[WAIT][NEXT][...]
+The shopkeeper is truly pulling
+his hair out over that key. You
+must take it to him![WAIT][END]
+
+#string:06:067
+[STYLE:RIGHT][...]
+Whenever I have problems, I take
+a brief journey across town to
+where Merlon resides. He tells
+the future.
+[WAIT][NEXT][...]
+He's an old wizard, you know. A
+bit unusual, perhaps, but his
+prophecies are usually right on
+the money.[WAIT][END]
+
+#string:06:068
+[STYLE:RIGHT][...]
+My, my, that's quite a nice
+Frying Pan you're carrying.
+[WAIT][NEXT][...]
+It seems like it was used quite a
+bit in its time. Its owner must
+have really loved to cook. Is it
+yours?[WAIT][END]
+
+#string:06:069
+[STYLE:RIGHT][...]
+Our local scholar, Russ T., has
+met with an ill fate. It seems
+that Shy Guys have made off
+with his beloved dictionary.
+[WAIT][NEXT][...]
+My heart aches for that poor
+man. He loved that dictionary
+like a son!
+[WAIT][NEXT][...]
+Dearest Mario, is there any
+chance you can retrieve it?[WAIT][END]
+
+#string:06:06A
+[STYLE:RIGHT][...]
+My dear Mario,
+[PAUSE:05][...]
+what an odd note you have!
+[WAIT][NEXT][...]
+Perhaps...
+Our scholar Russ T. might just
+be able to read it.[WAIT][END]
+
+#string:06:06B
+[STYLE:RIGHT][...]
+Whenever I have problems, I take
+a brief journey across town to
+where Merlon resides. He tells
+the future.
+[WAIT][NEXT][...]
+He's an old wizard, you know. A
+bit unusual, perhaps, but his
+prophecies are usually right on
+the money.[WAIT][END]
+
+#string:06:06C
+[STYLE:RIGHT][...]
+Whenever I have problems, I take
+a brief journey across town to
+where Merlon resides. He tells
+the future.
+[WAIT][NEXT][...]
+He's an old wizard, you know. A
+bit unusual, perhaps, but his
+prophecies are usually right on
+the money.[WAIT][END]
+
+#string:06:06D
+[STYLE:RIGHT][...]
+The local gossip is that there's
+something like an island afloat
+at the port.
+[WAIT][NEXT][...]
+Others say it's a monster.
+[PAUSE:0A][...]
+How frightful...
+[WAIT][NEXT][...]
+It looks like I won't be walking
+there for some time.[WAIT][END]
+
+#string:06:06E
+[STYLE:RIGHT][...]
+I beg your pardon!?
+[PAUSE:0A][...]
+The thing floating at the port
+was a whale?
+[WAIT][NEXT][...]
+Oh, silly me! I shouldn't have
+been so frightened![HEART][WAIT][END]
+
+#string:06:06F
+[STYLE:RIGHT][...]
+I'd love to walk alone in a park
+full of flowers.
+[WAIT][NEXT][...]
+It would be quiet and relaxing.
+[WAIT][NEXT][...]
+Flowers don't chatter endlessly
+like people are prone to do.[WAIT][END]
+
+#string:06:070
+[STYLE:RIGHT][...]
+I'd love to walk alone in a park
+full of flowers.
+[WAIT][NEXT][...]
+It would be quiet and relaxing.
+[WAIT][NEXT][...]
+Flowers don't chatter endlessly
+like people are prone to do.[WAIT][END]
+
+#string:06:071
+[STYLE:RIGHT][...]
+People often ask me if I don't
+get bored going for walks in the
+same place every day.
+[WAIT][NEXT][...]
+But I don't get bored at all.
+[PAUSE:0A][...]
+It seems like something changes
+a little bit every day.[WAIT][END]
+
+#string:06:072
+[STYLE:RIGHT][...]
+People often ask me if I don't 
+get bored going for walks in the
+same place every day.
+[WAIT][NEXT][...]
+But I don't get bored at all.
+[PAUSE:0A][...]
+It seems like something changes
+a little bit every day.[WAIT][END]
+
+#string:06:073
+[STYLE:RIGHT][...]
+People often ask me if I don't 
+get bored going for walks in the
+same place every day.
+[WAIT][NEXT][...]
+But I don't get bored at all.
+[PAUSE:0A][...]
+It seems like something changes
+a little bit every day.[WAIT][END]
+
+#string:06:074
+[STYLE:RIGHT][...]
+If you want to get to Dry Dry 
+Desert, take the train from
+Toad Town Station. You dig?[WAIT][END]
+
+#string:06:075
+[STYLE:RIGHT][...]
+If you want to get to Dry Dry 
+Desert, take the train from
+Toad Town Station. You dig?[WAIT][END]
+
+#string:06:076
+[STYLE:RIGHT][...]
+If you go to the west, you'll 
+reach the port.
+[PAUSE:0A][...]
+If you want to go to Forever 
+Forest, head east. Got it?[WAIT][END]
+
+#string:06:077
+[STYLE:RIGHT][...]
+I'm positive that the Shy Guys
+are coming from somewhere in
+Toad Town.
+[WAIT][NEXT][...]
+But where... Where could they be
+hiding around here?
+[WAIT][NEXT][...]
+Unless I miss my guess, they
+must be in a house. Dig me?[WAIT][END]
+
+#string:06:078
+[STYLE:RIGHT][...]
+I'm positive that the Shy Guys
+are coming from somewhere in
+Toad Town.
+[WAIT][NEXT][...]
+But where... Where could they be
+hiding around here?
+[WAIT][NEXT][...]
+Unless I miss my guess, they
+must be in a house. Dig me?[WAIT][END]
+
+#string:06:079
+[STYLE:RIGHT][...]
+I'm positive that the Shy Guys
+are coming from somewhere in
+Toad Town.
+[WAIT][NEXT][...]
+But where... Where could they be
+hiding around here?
+[WAIT][NEXT][...]
+Unless I miss my guess, they
+must be in a house. Dig me?[WAIT][END]
+
+#string:06:07A
+[STYLE:RIGHT][...]
+Hey, Mario.
+[PAUSE:0A][...]
+About Rowf's Badge Shop...
+[WAIT][NEXT][...]
+I've heard it said that there
+are lots of Badges there.
+[PAUSE:0A][...]
+Might be a good idea to go there
+often, you dig me?[WAIT][END]
+
+#string:06:07B
+[STYLE:RIGHT][...]
+Hey, Mario.
+[PAUSE:0A][...]
+About Rowf's Badge Shop...
+[WAIT][NEXT][...]
+I've heard it said that there
+are lots of Badges there.
+[PAUSE:0A][...]
+Might be a good idea to go there
+often, you dig me?[WAIT][END]
+
+#string:06:07C
+[STYLE:RIGHT][...]
+Hey, Mario.
+[PAUSE:0A][...]
+About Rowf's Badge Shop...
+[WAIT][NEXT][...]
+I've heard it said that there
+are lots of Badges there.
+[PAUSE:0A][...]
+Might be a good idea to go there
+often, you dig me?[WAIT][END]
+
+#string:06:07D
+[STYLE:RIGHT][...]
+Hey, Mario.
+[PAUSE:0A][...]
+About Rowf's Badge Shop...
+[WAIT][NEXT][...]
+I've heard it said that there
+are lots of Badges there.
+[PAUSE:0A][...]
+Might be a good idea to go there
+often, you dig me?[WAIT][END]
+
+#string:06:07E
+[STYLE:RIGHT][...]
+Hey, Mario.
+[PAUSE:0A][...]
+About Rowf's Badge Shop...
+[WAIT][NEXT][...]
+I've heard it said that there
+are lots of Badges there.
+[PAUSE:0A][...]
+Might be a good idea to go there
+often, you dig me?[WAIT][END]
+
+#string:06:07F
+[STYLE:RIGHT][...]
+Hey, Mario.
+[PAUSE:0A][...]
+About Rowf's Badge Shop...
+[WAIT][NEXT][...]
+I've heard it said that there
+are lots of Badges there.
+[PAUSE:0A][...]
+Might be a good idea to go there
+often, you dig me?[WAIT][END]
+
+#string:06:080
+[STYLE:RIGHT][...]
+Hey, Mario.
+[PAUSE:0A][...]
+About Rowf's Badge Shop...
+[WAIT][NEXT][...]
+I've heard it said that there
+are lots of Badges there.
+[PAUSE:0A][...]
+Might be a good idea to go there
+often, you dig me?[WAIT][END]
+
+#string:06:081
+[STYLE:RIGHT][...]
+Do you know postman Parakarry?[WAIT][END]
+
+#string:06:082
+[STYLE:RIGHT][...]
+He delivers letters to many
+towns in the Mushroom Kingdom.[WAIT][END]
+
+#string:06:083
+[STYLE:RIGHT][...]
+But he's easily distracted, so
+more often than not, the mail
+runs a little slow.[WAIT][END]
+
+#string:06:084
+[STYLE:RIGHT][...]
+Do you know postman Parakarry? [WAIT][END]
+
+#string:06:085
+[STYLE:RIGHT][...]
+He delivers letters to many 
+towns in Mushroom Kingdom.[WAIT][END]
+
+#string:06:086
+[STYLE:RIGHT][...]
+But he's easily distracted, so
+more often than not, the mail
+runs a little slow.[WAIT][END]
+
+#string:06:087
+[STYLE:RIGHT][...]
+The guard of Forever Forest is
+really chicken. He's especially
+afraid of ghosts.[WAIT][END]
+
+#string:06:088
+[STYLE:RIGHT][...]
+I know, I know. He's a riot.
+[PAUSE:05][...]
+Sometimes even I scare him.[WAIT][END]
+
+#string:06:089
+[STYLE:RIGHT][...]
+That guy will run for the hills if
+he ever sees a real ghost.[WAIT][END]
+
+#string:06:08A
+[STYLE:RIGHT][...]
+My keen intuition tells me that
+Shy Guys must be hiding in a
+house somewhere.
+[WAIT][NEXT][...]
+What do you guys think about
+finding their hideout and taking
+them on ourselves?[WAIT][END]
+
+#string:06:08B
+[STYLE:RIGHT][...]
+Yeah, there's a plan! But have
+you ever seen those guys run?
+They're way too fast. If they
+see us, they'll bolt.
+[WAIT][NEXT][...]
+...Wait! I know!
+[PAUSE:0A][...]
+Why don't we turn invisible?
+[WAIT][NEXT][...]
+If we do, the Shy Guys will be
+off guard and reveal themselves
+to us.[WAIT][END]
+
+#string:06:08C
+[STYLE:RIGHT][...]
+Uh... One problem, guys. How do
+we become invisible?[WAIT][END]
+
+#string:06:08D
+[STYLE:RIGHT][...]
+My keen intuition tells me that
+Shy Guys must be hiding in a
+house somewhere.
+[WAIT][NEXT][...]
+What do you guys think about
+finding their hideout and taking
+them on ourselves?[WAIT][END]
+
+#string:06:08E
+[STYLE:RIGHT][...]
+Yeah, there's a plan! But have
+you ever seen those guys run?
+They're way too fast. If they
+see us, they'll bolt.
+[WAIT][NEXT][...]
+...Wait! I know!
+[PAUSE:0A][...]
+Why don't we turn invisible?
+[WAIT][NEXT][...]
+If we do, the Shy Guys will be
+off guard and reveal themselves
+to us.[WAIT][END]
+
+#string:06:08F
+[STYLE:RIGHT][...]
+Uh... One problem, guys. How do
+we become invisible?[WAIT][END]
+
+#string:06:090
+[STYLE:RIGHT][...]
+Y'know, it's great having pals
+like you around.
+[WAIT][NEXT][...]
+When you've got friends, you've
+got people who can lend a hand
+with stuff you can't manage.
+[WAIT][NEXT][...]
+There's no obstacle too great
+when you're with friends![WAIT][END]
+
+#string:06:091
+[STYLE:RIGHT][...]
+Aw, man. You're the greatest!
+[PAUSE:0A][...]
+Stop getting all mushy on us!
+You're making me bashful.
+[WAIT][NEXT][...]
+And you know, it's really
+important to know what kind of
+unique abilities your friends
+have.[WAIT][END]
+
+#string:06:092
+[STYLE:RIGHT][...]
+What in the world does that have
+to do with being bashful?[WAIT][END]
+
+#string:06:093
+[STYLE:RIGHT][...]
+What's that, Mario? You want to
+go to Lavalava Island?
+[WAIT][NEXT][...]
+Yeah, Lavalava Island...
+I'm pretty sure that's an island
+way south of here.[WAIT][END]
+
+#string:06:094
+[STYLE:RIGHT][...]
+There aren't any ships that go 
+there from Toad Town...
+[WAIT][NEXT][...]
+You'd better have strong arms,
+'cause you'll have to swim there.[WAIT][END]
+
+#string:06:095
+[STYLE:RIGHT][...]
+That's impossible.
+[PAUSE:0A][...]
+If there's a person who can swim
+there, I'll eat a Fuzzy.[WAIT][END]
+
+#string:06:096
+[STYLE:RIGHT][...]
+What's that, Mario? You want to
+go to Lavalava Island?
+[WAIT][NEXT][...]
+Yeah, Lavalava Island...
+I'm pretty sure that's an island
+way south of here.[WAIT][END]
+
+#string:06:097
+[STYLE:RIGHT][...]
+There aren't any ships that go 
+there from Toad Town...
+[WAIT][NEXT][...]
+You better have strong arms,
+'cause you'll have to swim there.[WAIT][END]
+
+#string:06:098
+[STYLE:RIGHT][...]
+That's impossible.
+[PAUSE:0A][...]
+If there's a person who can swim
+there, I'll eat a Fuzzy.[WAIT][END]
+
+#string:06:099
+[STYLE:RIGHT][...]
+You know, guys. There's a girl I
+kind of have a crush on.
+[WAIT][NEXT][...]
+But I'm terrible at expressing
+my feelings. Know what I mean?[WAIT][END]
+
+#string:06:09A
+[STYLE:RIGHT][...]
+Really, [PAUSE:0A]I never knew!
+[PAUSE:0A][...]
+Way to go, man! Just lemme know
+if you need any advice. I'm the
+master!
+[WAIT][NEXT][...]
+To start with, you can never go
+wrong with flowers.[WAIT][END]
+
+#string:06:09B
+[STYLE:RIGHT][...]
+Yeah right, flowers! Flowers!
+[PAUSE:0A][...]
+Girls love getting flowers like
+nobody's business![WAIT][END]
+
+#string:06:09C
+[STYLE:RIGHT][...]
+You know, guys. There's a girl I
+kind of have a crush on.
+[WAIT][NEXT][...]
+But I'm terrible at expressing
+my feelings. Know what I mean?[WAIT][END]
+
+#string:06:09D
+[STYLE:RIGHT][...]
+Really, [PAUSE:0A]I never knew!
+[PAUSE:0A][...]
+Way to go, man! Just lemme know
+if you need any advice. I'm the
+master!
+[WAIT][NEXT][...]
+To start with, you can never go
+wrong with flowers.[WAIT][END]
+
+#string:06:09E
+[STYLE:RIGHT][...]
+Yeah right, flowers! Flowers!
+[PAUSE:0A][...]
+Girls love getting flowers like
+nobody's business![WAIT][END]
+
+#string:06:09F
+[STYLE:RIGHT][...]
+Mario, you're really rolling on
+this adventure of yours, aren't
+you? Kickin' Koopa!
+[WAIT][NEXT][...]
+We read all about it on the town
+bulletin board.
+You make headlines all the time![WAIT][END]
+
+#string:06:0A0
+[STYLE:RIGHT][...]
+But... Well...
+[WAIT][NEXT][...]
+Are you gonna save the princess
+soon or what?[WAIT][END]
+
+#string:06:0A1
+[STYLE:RIGHT][...]
+Hey, that's not cool!
+[PAUSE:0A][...]
+Don't be rude to the man![WAIT][END]
+
+#string:06:0A2
+[STYLE:RIGHT][...]
+Even when you're out of town,
+Luigi is still around, so we feel
+safe.
+[WAIT][NEXT][...]
+With two local heroes, we have
+nothing to worry about.[WAIT][END]
+
+#string:06:0A3
+[STYLE:RIGHT][...]
+I noticed that Luigi looked a
+little down in the mouth, though,
+since you've been out.
+[WAIT][NEXT][...]
+You should go visit him.[WAIT][END]
+
+#string:06:0A4
+[STYLE:RIGHT][...]
+I'm sure I know what his problem
+is. He probably just wants to go
+on adventures, too.[WAIT][END]
+
+#string:06:0A5
+[STYLE:RIGHT][...]
+Mario!
+[PAUSE:0A][...]
+Good luck, big guy!
+[WAIT][NEXT][...]
+I know you can beat Bowser![WAIT][END]
+
+#string:06:0A6
+[STYLE:RIGHT][...]
+We're behind you 100 percent,
+Mario, old pal!
+[WAIT][NEXT][...]
+With you on the job, Peach is as
+good as saved![WAIT][END]
+
+#string:06:0A7
+[STYLE:RIGHT][...]
+We all believe in you, my man!
+[WAIT][NEXT][...]
+Good luck!
+[PAUSE:0A][...]
+Give it up for Mario![WAIT][END]
+
+#string:06:0A8
+[STYLE:RIGHT][...]
+Yo, little man.
+[PAUSE:05][...]
+Name's Chet Rippo.
+[PAUSE:0A][...]
+Pleasure meeting you.
+[WAIT][NEXT][...]
+Say, man, don't you want to
+upgrade your status?
+[PAUSE:0A][...]
+Heh heh... [PAUSE:0A]Yeah, I know you do.
+[WAIT][NEXT][...]
+It's usually 390 coins, but for
+you and only you, I'll do it for
+just 39 coins.
+[WAIT][NEXT][...]
+If you gimme 39 coins, I'll
+upgrade your HP, FP or BP.
+[WAIT][NEXT][...]
+I'm not lying or cheating you.
+[PAUSE:0A][...]
+Come on... You know you want it.
+{Func_04}[END]
+
+#string:06:0A9
+[STYLE:RIGHT][...]
+Yo, little man.
+[PAUSE:05][...]
+It's your old friend, Chet Rippo.
+[PAUSE:0A][...]
+Good to see you again.
+[WAIT][NEXT][...]
+Usually this costs 390 coins, but
+for you and only you, I'll do it
+for just 39 coins.
+[WAIT][NEXT][...]
+If you gimme 39 coins, I'll
+upgrade your HP, FP, or BP.
+[WAIT][NEXT][...]
+Trust ol' Chet Rippo... [PAUSE:05]Come on!
+{Func_04}[END]
+
+#string:06:0AA
+[NEXT][...]
+Too bad... Your loss.
+[PAUSE:0A][...]
+Another time, maybe.[WAIT][END]
+
+#string:06:0AB
+[NEXT][...]
+What are you trying to pull?
+[PAUSE:0A][...]
+You don't have 39 coins!
+[WAIT][NEXT][...]
+Too bad for you...
+[PAUSE:0A][...]
+Try coming back when you have a
+few coins in your pocket.
+[WAIT][END]
+
+#string:06:0AC
+[NEXT][...]
+There you go! Good call!
+[WAIT][NEXT][...]
+Here's your current status.
+Maximum HP is "{Var:00},"
+FP is "{Var:01}," and BP is "{Var:02}."
+[WAIT][NEXT][...]
+Choose the one you want to
+upgrade.
+{Func_04}[END]
+
+#string:06:0AD
+[NEXT][...]
+Aw, man. You're backing out...?
+[PAUSE:0A][...]
+Oh, well. Your loss.
+[PAUSE:0A][...]
+See ya.[WAIT][END]
+
+#string:06:0AE
+[NEXT][...]
+All right.
+So you want {Var:00} to 
+be upgraded.
+[PAUSE:0A][...]
+Here goes![WAIT][END]
+
+#string:06:0AF
+[STYLE:RIGHT][...]
+All right, now your {Var:00} 
+have been upgraded.
+[WAIT][NEXT][...]
+Oh, yeah... Another status might
+have dropped a bit, but I can't
+do anything about that.
+[WAIT][NEXT][...]
+Heh heh... See ya![WAIT][END]
+
+#string:06:0B0
+[STYLE:RIGHT][...]
+All right, now your {Var:00} 
+has been upgraded.
+[WAIT][NEXT][...]
+Oh, yeah... Another status might
+have dropped a bit, but I can't
+do anything about that.
+[WAIT][NEXT][...]
+Oh, and the Badges you had on
+are now off. So don't forget to
+put them back on.
+[WAIT][NEXT][...]
+See ya later.[WAIT][END]
+
+#string:06:0B1
+[NEXT][...]
+Oh, too bad, man.
+[PAUSE:0A][...]
+That one can't be upgraded any
+more.
+[WAIT][NEXT][...]
+It's a bummer, but there's
+nothing you can do.
+[PAUSE:0A][...]
+See ya.[WAIT][END]
+
+#string:06:0B2
+[STYLE:RIGHT][...]
+{StartFX:Shrinking}Oh, no! It's Mario!![WAIT][END]
+
+#string:06:0B3
+[STYLE:RIGHT][...]
+{StartFX:Wavy}
+{Down:06}{Indent:69}[NOTE][WAIT][END]
+
+#string:06:0B4
+[STYLE:RIGHT][...]
+{StartFX:Wavy}
+{Down:06}{Indent:5A}[NOTE] [NOTE] [NOTE][WAIT][END]
+
+#string:06:0B5
+[STYLE:RIGHT][...]
+Well, well. If it isn't Mario!
+[PAUSE:0A][...]
+How wonderful to see you!
+[WAIT][NEXT][...]
+I came to go shopping today.
+[PAUSE:0A][...]
+It was a long walk to get here
+from Goomba Village...
+[WAIT][NEXT][...]
+but it was worth it to see you!
+[PAUSE:0A][...]
+I was hoping to see Goombario.[WAIT][END]
+
+#string:06:0B6
+[STYLE:RIGHT][...]
+Goombario, you're looking just
+fine, aren't you?
+[PAUSE:0A][...]
+You be careful not to be a
+burden on Mario's adventure.[WAIT][END]
+
+#string:06:0B7
+[STYLE:RIGHT][...]
+Hey! No way I'm a burden!
+[WAIT][NEXT][...]
+I help out all the time![WAIT][END]
+
+#string:06:0B8
+[STYLE:RIGHT][...]
+Well, well!
+[PAUSE:0A][...]
+Our dear little Goombario is
+helping out the great Mario!
+[WAIT][NEXT][...]
+I'm so proud![HEART]
+[PAUSE:0A][...]
+I'm going to tell Dad and
+Goompa!
+[WAIT][NEXT][...]
+Mario, you must come over to our
+house again someday![WAIT][END]
+
+#string:06:0B9
+[STYLE:RIGHT][...]
+Come on, stop it, Mom!
+[PAUSE:05][...]
+You're embarrassing me.
+[WAIT][NEXT][...]
+I'm not a kid anymore.[WAIT][END]
+
+#string:06:0BA
+[STYLE:RIGHT][...]
+Oh, don't be silly, punkin!
+[PAUSE:0A][...]
+I'm not saying anything 
+embarrassing at all.
+[WAIT][NEXT][...]
+I just love you, that's all.
+[PAUSE:0A][...]
+Can't a mother be proud of her
+children?[WAIT][END]
+
+#string:06:0BB
+[STYLE:RIGHT][...]
+Aw, Mommmmm...
+[PAUSE:0A][...]
+You always treat me like a kid.[WAIT][END]
+
+#string:06:0BC
+[STYLE:RIGHT][...]
+Nyeah, nyeah!
+[PAUSE:05][...]
+Goombario's getting scolded![WAIT][END]
+
+#string:06:0BD
+[STYLE:RIGHT][...]
+Shut up, Goombaria![WAIT][END]
+
+#string:06:0BE
+[STYLE:RIGHT][...]
+Waaah! Mom!
+[PAUSE:05][...]
+Goombario's being mean![WAIT][END]
+
+#string:06:0BF
+[STYLE:RIGHT][...]
+Goombario. [PAUSE:05]Good luck and take
+care of yourself.
+[WAIT][NEXT][...]
+Don't forget to visit us.
+[WAIT][NEXT][...]
+The whole family worries about
+you, so you should be sure to
+stop by our home every once in
+a while.[WAIT][END]
+
+#string:06:0C0
+[STYLE:RIGHT][...]
+Mario![HEART]
+[PAUSE:0A][...]
+Nice to see you again!
+[WAIT][NEXT][...]
+How's my brother doing?
+[PAUSE:0A][...]
+I really worry about him. After
+all, I'm his sister.[WAIT][END]
+
+#string:06:0C1
+[STYLE:RIGHT][...]
+Mario...[HEART]
+[PAUSE:0A][...]
+Please take good care of my
+brother, OK?[WAIT][END]
+
+#string:06:0C2
+[STYLE:RIGHT][...]
+Come on, we're in a hurry, 
+Goombaria! Seriously!
+[PAUSE:05][...]
+You're so obnoxious sometimes.[WAIT][END]
+
+#string:06:0C3
+[STYLE:RIGHT][...]
+Be quiet![WAIT][END]
+
+#string:06:0C4
+[STYLE:RIGHT][...]
+Bye, Mario! Good luck!
+Take care, Goombario![WAIT][END]
+
+#string:06:0C5
+[STYLE:RIGHT][...]
+{SpeechSound:02}Phew!
+[PAUSE:0A][...]
+Ahhh, fresh air!
+[WAIT][NEXT][...]
+After being cooped up in there
+for so long, I could really use
+some outdoor exercise.[WAIT][END]
+
+#string:06:0C6
+[STYLE:RIGHT][...]
+{SpeechSound:02}My name is Muskular.
+[PAUSE:0F][...]
+Mario,
+[PAUSE:05][...]
+I must thank you for saving me.
+[WAIT][NEXT][...]
+Now it's my turn to help you.
+[WAIT][NEXT][...]
+Behold![WAIT][END]
+
+#string:06:0C7
+[STYLE:RIGHT][...]
+{SpeechSound:02}Call on me whenever you find
+yourself in trouble.
+[WAIT][NEXT][...]
+I'll always come quickly to aid
+you in battle.
+[WAIT][NEXT][...]
+Now...
+[PAUSE:05][...]
+I'm going back to my dear old
+Star Haven...[WAIT][END]
+
+#string:06:0C8
+[STYLE:RIGHT][...]
+{SpeechSound:02}{Down:06}{StartFX:Shrinking}{Size:20:20}Mario![WAIT][END]
+
+#string:06:0C9
+[STYLE:RIGHT][...]
+{SpeechSound:02}Mario! Mario!
+[PAUSE:0A][...]
+I have news...
+News from the castle...[WAIT][END]
+
+#string:06:0CA
+[STYLE:RIGHT][...]
+{SpeechSound:02}{StartFX:Shrinking}Gasp!
+{EndFX:Shrinking}Honorable Star Spirit![WAIT][END]
+
+#string:06:0CB
+[STYLE:RIGHT][...]
+{SpeechSound:02}Hi!
+[WAIT][NEXT][...]
+Hmm[PAUSE:03]mmm[PAUSE:03]mmmmm[PAUSE:03].[PAUSE:03].[PAUSE:03].
+[WAIT][NEXT][...]
+I believe you are...
+[PAUSE:05][...]
+Twink, no?
+[WAIT][NEXT][...]
+You're that youngster who
+recently ascended from
+Starborn Valley up to Star
+Haven.[WAIT][END]
+
+#string:06:0CC
+[STYLE:RIGHT][...]
+{SpeechSound:02}What!?
+[PAUSE:0A][...]
+You remember my name?![WAIT][END]
+
+#string:06:0CD
+[STYLE:RIGHT][...]
+{SpeechSound:02}Ha ha ha! [PAUSE:05]Why, of course!
+[PAUSE:0A][...]
+We're [PAUSE:05]like family![WAIT][END]
+
+#string:06:0CE
+[STYLE:RIGHT][...]
+{SpeechSound:02}I... [PAUSE:05]I...
+[PAUSE:05][...]
+I'm so touched!![WAIT][END]
+
+#string:06:0CF
+[STYLE:RIGHT][...]
+{SpeechSound:02}Ho ho ho!
+[PAUSE:05][...]
+Don't make such a fuss, lad.
+[PAUSE:0A][...]
+I'm sure you'll go on to do great
+things!
+[WAIT][NEXT][...]
+I must take my leave now.
+[PAUSE:0A][...]
+Good-bye!
+[PAUSE:05][...]
+Twink, Mario![WAIT][END]
+
+#string:06:0D0
+[STYLE:RIGHT][...]
+{SpeechSound:02}Wow!
+[PAUSE:0A][...]
+I talked with Muskular, the
+honorable Star Spirit!
+[WAIT][NEXT][...]
+I rarely have such a chance,
+even at Star Haven.
+[PAUSE:0A][...]
+I'm shaking![WAIT][END]
+
+#string:06:0D1
+[STYLE:RIGHT][...]
+{SpeechSound:02}Oops, [PAUSE:05]I'm sorry!
+[PAUSE:0A][...]
+I have some important news
+from the castle.[WAIT][END]
+
+#string:06:0D2
+[STYLE:RIGHT][...]
+{SpeechSound:02}According to the information 
+Princess Peach and I got...
+[WAIT][NEXT][...]
+It seems that one of the
+honorable Star Spirits is being
+held at Mt. Lavalava on
+Lavalava Island.
+[WAIT][NEXT][...]
+You wouldn't believe what the
+princess went through to get
+this information.
+[WAIT][NEXT][...]
+I hope it will be of help...[WAIT][END]
+
+#string:06:0D3
+[STYLE:RIGHT][...]
+{SpeechSound:02}I'm going back to rejoin
+Princess Peach now.
+[WAIT][NEXT][...]
+Mario, as always, good luck.
+[WAIT][NEXT][...]
+The princess and I will keep
+looking for useful information.[WAIT][END]
+

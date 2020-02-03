@@ -1,0 +1,3595 @@
+#string:1A:000
+[STYLE:TATTLE][...]
+{Func_2B}He's the archaeologist, Kolorado.
+[PAUSE:0A][...]
+He's famous as both a scholar
+and an explorer.
+[WAIT][NEXT][...]
+Unfortunately, he's also
+renowned for his carelessness.
+[WAIT][NEXT][...]
+He's wild about treasures and
+ancient secrets, so he's always
+taking off around the world on
+some adventure.[WAIT][END]
+
+#string:1A:001
+[STYLE:TATTLE][...]
+{Func_2B}This is a Koopa Troopa from the
+excavation team.
+[PAUSE:05][...]
+The team is assisting Kolorado.
+[WAIT][NEXT][...]
+That looks like hard work.
+[PAUSE:05][...]
+Doing chores in this heat? Ugh![WAIT][END]
+
+#string:1A:002
+[STYLE:TATTLE][...]
+{Func_2B}He's Chuck Quizmo. He tries to
+quiz anybody who speaks to him.
+[WAIT][NEXT][...]
+He pops up in various towns and
+villages, but that doesn't mean
+he's easy to find.
+[WAIT][NEXT][...]
+What do you think his deal is?
+[WAIT][NEXT][...]
+Personally, I'm a little more
+interested in his assistant.
+She's cute![WAIT][END]
+
+#string:1A:003
+[STYLE:TATTLE][...]
+{Func_2B}This Toad is one of the castle
+maids.
+[WAIT][NEXT][...]
+Seeing as the castle has up and
+disappeared, I guess they've
+decided to take a holiday.
+[WAIT][NEXT][...]
+Traveling does have a way of
+refreshing the body and mind.[WAIT][END]
+
+#string:1A:004
+[STYLE:TATTLE][...]
+{Func_2B}This Toad is one of the castle
+maids.
+[PAUSE:05][...]
+They're all traveling together.
+[WAIT][NEXT][...]
+They're quite good friends.
+[PAUSE:0A][...]
+I've never seen 'em apart![WAIT][END]
+
+#string:1A:005
+[STYLE:TATTLE][...]
+{Func_2B}This Toad is one of the castle
+maids.
+[PAUSE:05][...]
+She's always been very curious.
+[WAIT][NEXT][...]
+I wonder what kind of trip
+they're taking.
+[WAIT][NEXT][...]
+It's definitely not going to be
+as difficult as our journey, but
+I'm kind of curious.[WAIT][END]
+
+#string:1A:006
+[STYLE:TATTLE][...]
+{Func_2B}That's Jr. Troopa. He used to
+boot us out of the forest near
+Goomba Village. He thinks he's
+pretty tough.
+[WAIT][NEXT][...]
+As far as I can tell, he goes
+around picking fights with people
+who are stronger than he is.
+Talk about dumb!
+[WAIT][NEXT][...]
+His hobbies are working out and
+ordering stuff by mail.[WAIT][END]
+
+#string:1A:007
+[STYLE:TATTLE][...]
+{Func_2B}That's the Toad who hands out 
+prizes at the radio Trading
+Event.
+[WAIT][NEXT][...]
+If you take the item mentioned
+on the radio, he'll hook you up
+with a rare item.
+[WAIT][NEXT][...]
+You really should participate in
+the Trading Event, Mario.[WAIT][END]
+
+#string:1A:008
+[STYLE:TATTLE][...]
+{Func_2B}She's a gorgeous lady named
+Merluvlee. I can't believe I'm in
+the same room with her!
+[WAIT][NEXT][...]
+She foresees events and uses
+her magic powers to find what
+you're looking for.
+[PAUSE:0A][...]
+She's very accurate.
+[WAIT][NEXT][...]
+I think I'm in love... She's
+incredible!
+[PAUSE:05][...]
+Pinch me, will you, Mario?[WAIT][END]
+
+#string:1A:009
+[STYLE:TATTLE][...]
+{Func_2B}He's Merlow.
+[PAUSE:0A][...]
+He's about the same age as
+I am.
+[WAIT][NEXT][...]
+I wanna play with him when we
+finish our adventure.
+[WAIT][NEXT][...]
+I guess he trades Star Pieces
+for Badges.
+[WAIT][NEXT][...]
+Merluvlee, who's downstairs, is
+his sister. He's so lucky![WAIT][END]
+
+#string:1A:00A
+[STYLE:TATTLE][...]
+{Func_2B}He's an old Star Spirit.
+[PAUSE:0A][...]
+His name is Eldstar.
+[PAUSE:0A][...]
+He reminds me of my grandpa.
+[WAIT][NEXT][...]
+He's a revered person who lives
+in Star Haven, way up beyond
+the sky.
+[PAUSE:0A][...]
+Uh...a revered star, I mean.
+[WAIT][NEXT][...]
+I wonder why he's here.
+[PAUSE:0A][...]
+He should be in Star Haven.
+[WAIT][NEXT][...]
+And why does he look so... dim?
+I can see right through him.[WAIT][END]
+
+#string:1A:00B
+[STYLE:TATTLE][...]
+{Func_2B}She's the Star Spirit, Misstar.
+She was imprisoned by Bowser in
+Mt. Lavalava.
+[WAIT][NEXT][...]
+Her life must've been really
+tough recently.
+[WAIT][NEXT][...]
+But she still looks pretty.
+[WAIT][NEXT][...]
+{StartFX:Wavy}[HEART] [HEART] [HEART]
+{EndFX:Wavy}[WAIT][NEXT][...]
+Boy, she makes me see stars![WAIT][END]
+
+#string:1A:00C
+[STYLE:TATTLE][...]
+{Func_2B}He's a Toad.
+[PAUSE:0A][...]
+He never fails to go for a walk,
+even if it's nasty out.
+[WAIT][NEXT][...]
+He also loves cleaning for some
+reason. He cleans like crazy![WAIT][END]
+
+#string:1A:00D
+[STYLE:TATTLE][...]
+{Func_2B}He's a merchant by the name of
+Rip Cheato.
+[PAUSE:05][...]
+Who knows why he set up here...
+[WAIT][NEXT][...]
+I guess it doesn't matter.
+People can sell stuff wherever
+they want. It's their choice. 
+[WAIT][NEXT][...]
+I actually kind of like it here.
+It's like a secret fort![WAIT][END]
+
+#string:1A:00E
+[STYLE:TATTLE][...]
+{Func_2B}He's Russ T. Everyone says he's
+the smartest Toad around.
+[PAUSE:05][...]
+He's always happy to share his
+vast knowledge with people.
+[WAIT][NEXT][...]
+He's filled me in on things plenty
+of times.
+[WAIT][NEXT][...]
+He knows a lot of things I can
+only guess at. [WAIT][END]
+
+#string:1A:00F
+[STYLE:TATTLE][...]
+{Func_2B}He's The Master of the Dojo.
+[PAUSE:0A][...]
+He's been training students at
+the Dojo for years.
+[WAIT][NEXT][...]
+My grandpa told me he's
+incredibly strong.
+[PAUSE:0A][...]
+He doesn't look like it, though.
+[WAIT][NEXT][...]
+I think he just got back from a
+long journey where he trained
+with fighters stronger than
+he is. What dedication![WAIT][END]
+
+#string:1A:010
+[STYLE:TATTLE][...]
+{Func_2B}That's Chan. He's one of the
+trainees who seem to always be
+at the Dojo.
+[PAUSE:05][...]
+He worships The Master.
+[WAIT][NEXT][...]
+I mean, it's all well and good
+for Chan to admire The Master,
+but I prefer Mario![WAIT][END]
+
+#string:1A:011
+[STYLE:TATTLE][...]
+{Func_2B}He's one of the trainees who's 
+always at the Dojo. His name is
+Lee.
+[WAIT][NEXT][...]
+He's like an older brother to
+Chan.
+[WAIT][NEXT][...]
+Lee respects The Master above
+all else and hangs on every word
+he says.[WAIT][END]
+
+#string:1A:012
+[STYLE:TATTLE][...]
+{Func_2B}That Toad runs this shop.
+[PAUSE:05][...]
+He buys, sells and checks items.
+[WAIT][NEXT][...]
+If you don't manage what you're
+carrying well, you may not be 
+able to hold everything.
+[PAUSE:05][...]
+Check items when you can.[WAIT][END]
+
+#string:1A:013
+[STYLE:TATTLE][...]
+{Func_2B}This Toad is always standing in
+front of the gate.
+[PAUSE:05][...]
+Is it his [PAUSE:03]job, maybe?
+[WAIT][NEXT][...]
+He looks as if he's asleep on his
+feet, but he actually knows quite
+a bit about the town.[WAIT][END]
+
+#string:1A:014
+[STYLE:TATTLE][...]
+{Func_2B}This Toad always stands in front
+of the shop.
+[PAUSE:0A][...]
+He knows all about items.
+[WAIT][NEXT][...]
+He never moves, as far as I can
+tell. Maybe he's trying to get a
+tan.[WAIT][END]
+
+#string:1A:015
+[STYLE:TATTLE][...]
+{Func_2B}This Toad is always very excited
+about whatever news he has.
+He's a little crazy.
+[WAIT][NEXT][...]
+Even so, it's a good idea to
+listen to him.
+[PAUSE:08][...]
+He may be a little excitable, but
+he always has news.[WAIT][END]
+
+#string:1A:016
+[STYLE:TATTLE][...]
+{Func_2B}This Toad claims that he and his
+girl are in love.
+[WAIT][NEXT][...]
+But just the other day, he told
+me he liked a different girl!
+What a cad![WAIT][END]
+
+#string:1A:017
+[STYLE:TATTLE][...]
+{Func_2B}Those Toads are in love.
+[PAUSE:05][...]
+They're so in love, they don't
+even notice what's going on.
+[WAIT][NEXT][...]
+Unless you like seeing public
+displays of affection, I wouldn't
+talk to them.
+[PAUSE:0A][...]
+They're shameless. [WAIT][END]
+
+#string:1A:018
+[STYLE:TATTLE][...]
+{Func_2B}She is the oldest of these three
+Toad sisters. Apparently they
+call themselves the 
+"Three Beautiful Sisters."
+[WAIT][NEXT][...]
+I personally don't think they're
+that attractive, but I guess for
+Toads, they are.
+[WAIT][NEXT][...]
+Goombas and Toads think about
+beauty in different ways, I
+guess.
+[PAUSE:0A][...]
+What do you think, Mario?[WAIT][END]
+
+#string:1A:019
+[STYLE:TATTLE][...]
+{Func_2B}She is the second oldest of
+these three Toad sisters.
+Apparently they call themselves
+the "Three Beautiful Sisters."
+[WAIT][NEXT][...]
+She obviously works pretty hard
+with makeup to look gorgeous.
+[WAIT][NEXT][...]
+I guess... [PAUSE:05]kind of cute... 
+[PAUSE:0A][...]
+What do you think, Mario?[WAIT][END]
+
+#string:1A:01A
+[STYLE:TATTLE][...]
+{Func_2B}She is the youngest of these
+three Toad sisters. Apparently
+they call themselves the "Three
+Beautiful Sisters."
+[WAIT][NEXT][...]
+She says she's cute.
+[PAUSE:05][...]
+I definitely think she's the
+cutest of the three.[WAIT][END]
+
+#string:1A:01B
+[STYLE:TATTLE][...]
+{Func_2B}He doesn't seem to have any 
+particular reason to be at the
+Dojo. He's not fighting.
+[WAIT][NEXT][...]
+He just loiters around, checking
+out the fighters.
+[WAIT][NEXT][...]
+Maybe he just likes watching
+tough guys.
+[PAUSE:0A][...]
+I bet he'll cheer for us if we
+challenge The Master.[WAIT][END]
+
+#string:1A:01C
+[STYLE:TATTLE][...]
+{Func_2B}This family man ordinarily works
+at Peach's Castle.
+[WAIT][NEXT][...]
+He was on his day off when the
+castle disappeared.
+[PAUSE:05][...]
+Talk about your basic lucky 
+coincidence! Wow!
+[WAIT][NEXT][...]
+He's a very reliable worker at
+the castle...
+[PAUSE:0A][...]
+but he never does chores around
+the house.[WAIT][END]
+
+#string:1A:01D
+[STYLE:TATTLE][...]
+{Func_2B}She's the homemaker here. She's
+ordinarily very relaxed and
+easygoing.
+[WAIT][NEXT][...]
+Since her lazy husband is home,
+she's working harder than ever
+right now.
+[WAIT][NEXT][...]
+The housework piles up every
+day, but somehow she manages
+it all with no help.
+[PAUSE:05][...]
+Where does she get the energy?[WAIT][END]
+
+#string:1A:01E
+[STYLE:TATTLE][...]
+{Func_2B}He's one of the Toad kids.
+[PAUSE:0A][...]
+He likes his father so much
+that he always tries to sneak
+into the castle.
+[WAIT][NEXT][...]
+He's about the same age as
+I am.
+[PAUSE:05][...]
+We sometimes play together when
+I come to Toad Town.
+[WAIT][NEXT][...]
+I guess he's a pretty good
+friend of mine.[WAIT][END]
+
+#string:1A:01F
+[STYLE:TATTLE][...]
+{Func_2B}He's a Toad kid who wants to be
+really powerful.
+[PAUSE:05][...]
+He thinks that having power
+solves everything.
+[WAIT][NEXT][...]
+His way of thinking is a little
+bit different from mine.
+[PAUSE:0A][...]
+He's a good enough guy, though,
+when we play together.[WAIT][END]
+
+#string:1A:020
+[STYLE:TATTLE][...]
+{Func_2B}This Toad has tried his skills
+at the Dojo.
+[WAIT][NEXT][...]
+That takes guts...
+[PAUSE:0F][...]
+Someday I'm gonna try it all by
+myself.[WAIT][END]
+
+#string:1A:021
+[STYLE:TATTLE][...]
+{Func_2B}He's a stubborn and mysterious
+old man.
+[PAUSE:0A][...]
+His name is Merlon.
+[WAIT][NEXT][...]
+He uses magical powers to look
+into the future.
+[WAIT][NEXT][...]
+I've listened to his stories
+before and they're really long. I
+try to pay attention but...
+[PAUSE:0A][...]
+sometimes I fall asleep.
+[WAIT][NEXT][...]
+Still, his fortune-telling is
+supposedly right on.
+[PAUSE:0F][...]
+I don't know personally, but my
+Goompa told me.[WAIT][END]
+
+#string:1A:022
+[STYLE:TATTLE][...]
+{Func_2B}This Paratroopa looks extremely
+serious.
+[PAUSE:05][...]
+And stubborn. And hardheaded.
+[WAIT][NEXT][...]
+If you have a letter coming,
+he'll give it to you.
+[PAUSE:05][...]
+I wonder if he has one for me.[WAIT][END]
+
+#string:1A:023
+[STYLE:TATTLE][...]
+{Func_2B}His name is Parakarry. He's a
+Paratroopa who works for the
+post office.
+[WAIT][NEXT][...]
+He's well known for being the
+slowest mailman around.
+[PAUSE:05][...]
+A slow mailman? That can't be
+good.[WAIT][END]
+
+#string:1A:024
+[STYLE:TATTLE][...]
+{Func_2B}This guy's pretty funky.
+[PAUSE:0A][...]
+His name is Rowf.
+[PAUSE:0A][...]
+He sells Badges.
+[WAIT][NEXT][...]
+He travels all over the world,
+buying and selling things.
+[PAUSE:0A][...]
+I'm a little jealous.[WAIT][END]
+
+#string:1A:025
+[STYLE:TATTLE][...]
+{Func_2B}This is Rhuff. He's Rowf's kid.
+[PAUSE:0A][...]
+He looks just like Rowf, right?
+[WAIT][NEXT][...]
+He's supposed to be helping, but
+it looks like he's a pain...
+[PAUSE:08][...]
+Hmmm, [PAUSE:03]well, it's Rowf's problem.[WAIT][END]
+
+#string:1A:026
+[STYLE:TATTLE][...]
+{Func_2B}She takes care of flowers. Her
+name is Minh T.
+[PAUSE:0A][...]
+Nobody can match her skill at
+growing flowers.
+[WAIT][NEXT][...]
+She must have a green thumb.
+[PAUSE:0A][...]
+Flowers feel Minh T.'s love and
+show it in their blooms.[WAIT][END]
+
+#string:1A:027
+[STYLE:TATTLE][...]
+{Func_2B}He's a funny color for a Toad.
+[PAUSE:0A][...]
+I've never seen him before.[WAIT][END]
+
+#string:1A:028
+[STYLE:TATTLE][...]
+{Func_2B}He's a funny color for a Toad.
+[PAUSE:0A][...]
+He reminds me of someone,
+though... But who?[WAIT][END]
+
+#string:1A:029
+[STYLE:TATTLE][...]
+{Func_2B}He's a funny color for a Toad.
+[PAUSE:0A][...]
+You know, I don't think I want to
+know this guy. He looks like bad
+news.[WAIT][END]
+
+#string:1A:02A
+[STYLE:TATTLE][...]
+{Func_2B}He's a funny color for a Toad.
+[PAUSE:05][...]
+He looks...a little off.
+[PAUSE:0A][...]
+He's trying to be cool, but he's
+failing big time.[WAIT][END]
+
+#string:1A:02B
+[STYLE:TATTLE][...]
+{Func_2B}This friendly Toad loves to run
+his mouth.
+[PAUSE:05][...]
+He's a bit of a gossip.[WAIT][END]
+
+#string:1A:02C
+[STYLE:TATTLE][...]
+{Func_2B}This guy knows tons of gossip.
+[PAUSE:0A][...]
+His favorite subject is the
+brother and sister who live on
+Shooting Star Summit.
+[WAIT][NEXT][...]
+Sometimes it's tough dragging
+information out of him.
+[PAUSE:0A][...]
+But then again, sometimes it's
+worth it if you're curious.[WAIT][END]
+
+#string:1A:02D
+[STYLE:TATTLE][...]
+{Func_2B}This Toad...
+[PAUSE:0A][...]
+I'll tell you a secret. He's a
+huge fan of the princess.
+[WAIT][NEXT][...]
+He told me once that he has a
+big collection of her photos.
+What a lovesick fool...[WAIT][END]
+
+#string:1A:02E
+[STYLE:TATTLE][...]
+{Func_2B}This guy often knows rumors.
+[PAUSE:05][...]
+He's counting on you, Mario.
+[WAIT][NEXT][...]
+You won't let him down, will you?[WAIT][END]
+
+#string:1A:02F
+[STYLE:TATTLE][...]
+{Func_2B}It seems like this Toad is always
+in love with someone.
+[PAUSE:05][...]
+Right now, he likes Minh T.
+[WAIT][NEXT][...]
+I think he's in good spirits.
+[PAUSE:08][...]
+As long as he can be near her,
+he'll be happy.[WAIT][END]
+
+#string:1A:030
+[STYLE:TATTLE][...]
+{Func_2B}He's a Toad who often thinks
+about going south.
+[PAUSE:0A][...]
+Maybe his girlfriend's there.
+[WAIT][NEXT][...]
+Or maybe he just has a lot of
+friends from that area.
+[PAUSE:0A][...]
+He's pretty chatty.[WAIT][END]
+
+#string:1A:031
+[STYLE:TATTLE][...]
+{Func_2B}This is the manager of a Toad
+House.
+[PAUSE:05][...]
+These havens are all over the 
+world, usually manned by a Toad.
+[WAIT][NEXT][...]
+When you're exhausted, you
+should stay at one and recover.[WAIT][END]
+
+#string:1A:032
+[STYLE:TATTLE][...]
+{Func_2B}He's one of the Bub-ulbs.
+[PAUSE:05][...]
+Bub-ulbs are a type of talking
+plant. Aren't they hilarious? 
+[WAIT][NEXT][...]
+I think they come from Flower
+Fields.[WAIT][END]
+
+#string:1A:033
+[STYLE:TATTLE][...]
+{Func_2B}She's Tayce T., by far the
+greatest cook around.
+[WAIT][NEXT][...]
+Trust me, my mom is a really
+great cook,
+[WAIT][NEXT][...]
+but even she admits that she
+could learn a thing or two
+from Tayce T.
+[WAIT][NEXT][...]
+Tayce T. will cook for you if you
+take ingredients to her.
+[PAUSE:0A][...]
+C'mon, let's ask her![WAIT][END]
+
+#string:1A:034
+[STYLE:TATTLE][...]
+{Func_2B}This Toad guards the path to
+Forever Forest.
+[WAIT][NEXT][...]
+He looks timid... Isn't that a
+bad trait in a guard?
+[WAIT][NEXT][...]
+Not only does he scare easily,
+I hear that he's especially
+afraid of ghosts.
+[WAIT][NEXT][...]
+Seeing as Forever Forest is 
+supposedly haunted, he must be
+completely freaked out.[WAIT][END]
+
+#string:1A:035
+[STYLE:TATTLE][...]
+{Func_2B}This Toad is diligent and very
+hard working.
+[PAUSE:0A][...]
+He has a great work ethic.
+[WAIT][NEXT][...]
+I heard he has a bit of a crush
+on Merluvlee, who lives on
+Shooting Star Summit.[WAIT][END]
+
+#string:1A:036
+[STYLE:TATTLE][...]
+{Func_2B}She worships Tayce T. because
+she really loves to cook.
+[PAUSE:0A][...]
+She's usually right here.
+[WAIT][NEXT][...]
+I guess she's kind of Tayce T.'s
+cooking apprentice right now.
+[WAIT][NEXT][...]
+My mother also admires Tayce T.
+She always says that she wants
+to learn how to cook from her.[WAIT][END]
+
+#string:1A:037
+[STYLE:TATTLE][...]
+{Func_2B}This Toad can't keep his mouth
+shut.
+[PAUSE:0A][...]
+He's an incurable gossip.
+[WAIT][NEXT][...]
+I have to wonder what he says
+behind our backs...
+[PAUSE:0A][...]
+To be honest, I'd love to find
+out.[WAIT][END]
+
+#string:1A:038
+[STYLE:TATTLE][...]
+{Func_2B}He always talks about what he
+wants to be when he grows up.
+[WAIT][NEXT][...]
+He's constantly changing his
+goals. I guess that's natural.
+[WAIT][NEXT][...]
+It's good to have a dream to
+chase, don't you think?
+[WAIT][NEXT][...]
+I have a couple dreams. I'm
+living one of 'em right now!
+[WAIT][NEXT][...]
+Who'd have thought I'd actually
+have an adventure with Mario?![WAIT][END]
+
+#string:1A:039
+[STYLE:TATTLE][...]
+{Func_2B}This Toad is pretty smart.
+[PAUSE:0A][...]
+I wonder where he gets all of his
+information.
+[WAIT][NEXT][...]
+There's a rumor that this is the
+Toad who writes the Toad Town
+Times.
+[WAIT][NEXT][...]
+There's also a rumor that Luigi
+is the one who writes it. I
+wonder which rumor is true?[WAIT][END]
+
+#string:1A:03A
+[STYLE:TATTLE][...]
+{Func_2B}This Toad is constantly running
+his mouth.
+[PAUSE:05][...]
+When I'm with Gooma, he boasts
+about his pet a lot.
+[WAIT][NEXT][...]
+He's a huge gossip.
+[PAUSE:0A][...]
+You can't believe everything he
+says.[WAIT][END]
+
+#string:1A:03B
+[STYLE:TATTLE][...]
+{Func_2B}It's a flower. I guess that's
+pretty obvious...
+[PAUSE:0A][...]
+It doesn't seem to move like an
+ordinary flower, though.[WAIT][END]
+
+#string:1A:03C
+[STYLE:TATTLE][...]
+{Func_2B}Oh! A Bub-ulb.
+[PAUSE:0A][...]
+Talking flowers seem weird...
+[WAIT][NEXT][...]
+Didn't I hear that Bub-ulbs live
+in Flower Fields?[WAIT][END]
+
+#string:1A:03D
+[STYLE:TATTLE][...]
+{Func_2B}He's the station master of Dry
+Dry Railroad in Toad Town.
+[WAIT][NEXT][...]
+The motto of Dry Dry Railroad is,
+"We are generous, polite and
+safe." Yeah, that's catchy![WAIT][END]
+
+#string:1A:03E
+[STYLE:TATTLE][...]
+{Func_2B}This Toad never seems to leave
+the station.
+[PAUSE:05][...]
+He loves trains, so he makes
+excuses to travel all over.
+[WAIT][NEXT][...]
+When he's not on one of his
+trips, he watches the trains at
+the station.
+[PAUSE:05][...]
+Did I mention he loves trains?[WAIT][END]
+
+#string:1A:03F
+[STYLE:TATTLE][...]
+{Func_2B}She's a very caring Toad.
+[WAIT][NEXT][...]
+Just by the way she talks, I get
+the sense that she's generous
+and carefree.[WAIT][END]
+
+#string:1A:040
+[STYLE:TATTLE][...]
+{Func_2B}He's just an average Toad.
+[PAUSE:0A][...]
+He apparently knows a lot about
+Dry Dry Desert.
+[WAIT][NEXT][...]
+He goes there a lot.
+[PAUSE:0A][...]
+For work...? Oh, I don't know.[WAIT][END]
+
+#string:1A:041
+[STYLE:TATTLE][...]
+{Func_2B}This Toad kid acts like an adult.
+He's always talking about his
+travels.
+[WAIT][NEXT][...]
+His favorite trip so far has
+been on Dry Dry Railroad.[WAIT][END]
+
+#string:1A:042
+[STYLE:TATTLE][...]
+{Func_2B}These Toad kids always seem to
+be together.
+[WAIT][NEXT][...]
+They share all their secrets with
+each other.
+[WAIT][NEXT][...]
+They're really good friends.[WAIT][END]
+
+#string:1A:043
+[STYLE:TATTLE][...]
+{Func_2B}This Toad loves Li'l-Oinks. I
+always see him near Li'l-Oink
+Farm.
+[WAIT][NEXT][...]
+He keeps an eye on the Li'l-Oinks
+from outside the fence.
+[PAUSE:0A][...]
+Obviously, he really likes 'em.[WAIT][END]
+
+#string:1A:044
+[STYLE:TATTLE][...]
+{Func_2B}He runs a shop.
+[PAUSE:05][...]
+He buys, sells and checks items.
+[WAIT][NEXT][...]
+Checking is very convenient if
+you have a lot of items.[WAIT][END]
+
+#string:1A:045
+[STYLE:TATTLE][...]
+{Func_2B}He talks a lot, this guy.
+[PAUSE:05][...]
+Say, since I travel with you, do
+you think I'll be famous, too?
+[WAIT][NEXT][...]
+I wonder if there's any gossip
+about me yet.[WAIT][END]
+
+#string:1A:046
+[STYLE:TATTLE][...]
+{Func_2B}This guy is pretty wary.
+[PAUSE:0A][...]
+He doesn't believe most of the
+rumors that people spread.
+[WAIT][NEXT][...]
+But he wants attention, so he
+listens well and keeps the
+rumors alive.[WAIT][END]
+
+#string:1A:047
+[STYLE:TATTLE][...]
+{Func_2B}Look at these cheerful kids!
+[PAUSE:05][...]
+Everything is just fun and
+games to them.
+[WAIT][NEXT][...]
+Boy... I feel like a grown-up 
+when I look at kids having such
+carefree fun![WAIT][END]
+
+#string:1A:048
+[STYLE:TATTLE][...]
+{Func_2B}They're just some Toad children,
+having a good time outdoors.
+[PAUSE:05][...]
+You have to be careful when
+they're quiet.
+[WAIT][NEXT][...]
+You know kids. They're probably
+up to some mischief.[WAIT][END]
+
+#string:1A:049
+[STYLE:TATTLE][...]
+{Func_2B}He's a Toad kid who follows the
+other two.
+[PAUSE:05][...]
+He's a little bit shy.
+[WAIT][NEXT][...]
+When they pick on him, though,
+he always fights back and he 
+never, ever loses.
+[WAIT][NEXT][...]
+Despite that, I think those three
+are really good friends.[WAIT][END]
+
+#string:1A:04A
+[STYLE:TATTLE][...]
+{Func_2B}She's always taking a walk
+around here.
+[PAUSE:0A][...]
+She's elegant, don't you think?
+[WAIT][NEXT][...]
+She's almost too nice to be 
+really elegant, though. Maybe
+she needs to learn to be more
+snobby.
+[WAIT][NEXT][...]
+Then she'd seem really elegant![WAIT][END]
+
+#string:1A:04B
+[STYLE:TATTLE][...]
+{Func_2B}I think this Toad is a guide.
+[PAUSE:0A][...]
+He wants to be a Tour
+Conductor, whatever that is.
+[WAIT][NEXT][...]
+He's also interested in unique
+shops and items.[WAIT][END]
+
+#string:1A:04C
+[STYLE:TATTLE][...]
+{Func_2B}He's part of the Great Gossip
+Trio. He can't get enough gossip.
+[WAIT][NEXT][...]
+They've dedicated their lives to
+listening to gossip, so they
+should know everything.[WAIT][END]
+
+#string:1A:04D
+[STYLE:TATTLE][...]
+{Func_2B}He's part of the Great Gossip
+Trio.
+[PAUSE:0A][...]
+I wonder when they're gonna get
+bored with all those rumors.[WAIT][END]
+
+#string:1A:04E
+[STYLE:TATTLE][...]
+{Func_2B}He's part of the Great Gossip
+Trio.
+[WAIT][NEXT][...]
+I wonder how they keep on top of
+it all? So much gossip!
+[WAIT][NEXT][...]
+I'd say your name comes up
+pretty often, Mario.[WAIT][END]
+
+#string:1A:04F
+[STYLE:TATTLE][...]
+{Func_2B}These Toads just moved here.
+[PAUSE:0A][...]
+This is the first time they've 
+lived in an actual town.
+[WAIT][NEXT][...]
+I think they were worried that
+it'd be too noisy in town.
+[PAUSE:0A][...]
+This quiet area seems to suit
+them well.[WAIT][END]
+
+#string:1A:050
+[STYLE:TATTLE][...]
+{Func_2B}These Toads just moved here.
+[PAUSE:0A][...]
+They like peace and quiet.
+[WAIT][NEXT][...]
+They said they're enjoying living
+here so far. They think it's
+quite comfortable.
+[WAIT][NEXT][...]
+Well, you could just listen to
+them yourself, Mario...[WAIT][END]
+
+#string:1A:051
+[STYLE:TATTLE][...]
+{Func_2B}He claims that he can upgrade
+your point levels...but there's
+something suspicious about him.
+[WAIT][NEXT][...]
+I don't know... I just don't
+trust him for some reason.
+[WAIT][NEXT][...]
+Who knows, though? I guess you
+can't judge a book by its cover.[WAIT][END]
+
+#string:1A:052
+[STYLE:TATTLE][...]
+{Func_2B}He runs this restaurant.
+[PAUSE:05][...]
+He just opened it. He also plays
+a mean guitar.
+[WAIT][NEXT][...]
+I'm sure he'll be popular here.
+[PAUSE:0A][...]
+I'd like to come here one day
+with my whole family.
+[WAIT][NEXT][...]
+I don't like fish, though.[WAIT][END]
+
+#string:1A:053
+[STYLE:TATTLE][...]
+{Func_2B}I really hate eating fish.
+[PAUSE:0A][...]
+But fishing does look fun...
+[PAUSE:05][...]
+Fishing in the harbor must be
+pretty relaxing.
+[WAIT][NEXT][...]
+My dad goes fishing, too.
+[PAUSE:05][...]
+I wonder if he knows this guy...
+[WAIT][NEXT][...]
+But seriously, I hate fish.[WAIT][END]
+
+#string:1A:054
+[STYLE:TATTLE][...]
+{Func_2B}He's a Fuzzipede.
+[PAUSE:0A][...]
+What a weird little creature!
+[WAIT][NEXT][...]
+People use Fuzzipedes as fish
+bait, but they often manage to
+cut the line.
+[WAIT][NEXT][...]
+He's pretty robust for such a
+little guy.[WAIT][END]
+
+#string:1A:055
+[STYLE:TATTLE][...]
+{Func_2B}Some folk are calling it a tuna,
+but it's obviously a whale.
+[PAUSE:05][...]
+Pretty huge, isn't it?
+[WAIT][NEXT][...]
+I wonder how many Goombas would
+fit inside one whale?
+[WAIT][NEXT][...]
+He may look scary, being so big,
+but his eyes seem kind.[WAIT][END]
+
+#string:1A:056
+[STYLE:TATTLE][...]
+{Func_2B}He's a waiter at this
+restaurant. He said he's working
+here because he longs to be near
+Pop Diva.
+[WAIT][NEXT][...]
+He's really working hard!
+[PAUSE:05][...]
+I bet he's working hard to try
+to impress her.[WAIT][END]
+
+#string:1A:057
+[STYLE:TATTLE][...]
+{Func_2B}She's a singer, the Pop Diva.
+[PAUSE:05][...]
+She...is...so...beautiful!
+[WAIT][NEXT][...]
+That big earthquake scared her
+so badly that she forgot how
+to sing.
+[WAIT][NEXT][...]
+It's such a pity. Her voice is
+truly amazing.[WAIT][END]
+
+#string:1A:058
+[STYLE:TATTLE][...]
+{Func_2B}She's a singer, the Pop Diva.
+[PAUSE:05][...]
+She...is...so...beautiful!
+[WAIT][NEXT][...]
+Oh! That voice!
+[PAUSE:0A][...]
+That voice will haunt me!
+[PAUSE:0A][...]
+I feel like I could listen to it
+forever![WAIT][END]
+
+#string:1A:059
+[STYLE:TATTLE][...]
+{Func_2B}He writes songs. They call him
+Master Poet.
+[PAUSE:05][...]
+He's a pretty cool guy.
+[PAUSE:05][...]
+He's in love with Pop Diva.
+[WAIT][NEXT][...]
+He's really worried about her.
+[PAUSE:05][...]
+I know just how he feels...
+[PAUSE:0A][...]
+Mario, don't laugh![WAIT][END]
+
+#string:1A:05A
+[STYLE:TATTLE][...]
+{Func_2B}He's a Toad. I think he's a guide
+at the port. He goes like this:
+[PAUSE:0A][...]
+{StartFX:Wavy}Welcooooome! 
+{EndFX:Wavy}[WAIT][NEXT][...]
+Pretty good, huh? Anyway, he
+knows this area very well.
+[PAUSE:0A][...]
+You can ask him all about it.[WAIT][END]
+
+#string:1A:05B
+[STYLE:TATTLE][...]
+{Func_2B}Whenever I talk to this Toad, he
+tells me he wants to go
+"somewhere by the sea."
+[WAIT][NEXT][...]
+Sure, it'd be great if there
+were an island to go relax on,
+but what if he got out there
+and there was only ocean?[WAIT][END]
+
+#string:1A:05C
+[STYLE:TATTLE][...]
+{Func_2B}This Toad's been all over the
+place. He'll tell you lots of old
+stories.
+[WAIT][NEXT][...]
+I heard that he knows lots of
+stories about Goompa and Koopa
+Koot. Were they really that
+famous?[WAIT][END]
+
+#string:1A:05D
+[STYLE:TATTLE][...]
+{Func_2B}He's a Toad.
+[PAUSE:0A][...]
+He seems to be taking a walk
+and singing off key. Great tune,
+though!
+[WAIT][NEXT][...]
+It kind of makes me want to
+hang out and sing, too.
+[PAUSE:05][...]
+I'm a terrible singer, but this
+guy might make me sound good![WAIT][END]
+
+#string:1A:05E
+[STYLE:TATTLE][...]
+{Func_2B}He's the receptionist Toad for
+the Playroom.
+[PAUSE:0A][...]
+He'll tell you what games there
+are to play.[WAIT][END]
+
+#string:1A:05F
+[STYLE:TATTLE][...]
+{Func_2B}He seems to be a customer at
+the Playroom.
+[PAUSE:0A][...]
+I bet he comes here all the time.[WAIT][END]
+
+#string:1A:060
+[STYLE:TATTLE][...]
+{Func_2B}He seems to come to the Playroom
+often.
+[PAUSE:0A][...]
+He's probably one of their best
+customers.[WAIT][END]
+
+#string:1A:061
+[STYLE:TATTLE][...]
+{Func_2B}This Toad both explains and
+judges the Playroom games.
+[PAUSE:0A][...]
+This game is Jump Attack.[WAIT][END]
+
+#string:1A:062
+[STYLE:TATTLE][...]
+{Func_2B}This Toad both explains and
+judges the Playroom games.
+[PAUSE:0A][...]
+This game is Smash Attack.[WAIT][END]
+
+#string:1A:063
+[STYLE:TATTLE][...]
+{Func_2B}He's my grandpa, Goompa.
+[PAUSE:05][...]
+He knows oodles of stuff.
+[WAIT][NEXT][...]
+Ever since I was a kid, he's been
+telling me fantastic stories of
+his youth.[WAIT][END]
+
+#string:1A:064
+[STYLE:TATTLE][...]
+{Func_2B}She's my grandma, Gooma.
+[PAUSE:05][...]
+I hope she lives forever! She's
+the greatest!
+[WAIT][NEXT][...]
+When she starts telling old
+stories, she always says, "When
+I was young, I was very popular
+with the boys."[WAIT][END]
+
+#string:1A:065
+[STYLE:TATTLE][...]
+{Func_2B}He's my dad, Goompapa.
+[PAUSE:05][...]
+He's willing to do anything for
+us. We can always count on him.
+[WAIT][NEXT][...]
+He doesn't really look like it,
+though.
+[PAUSE:0A][...]
+But did you see him fixing stuff
+after that earthquake?
+[WAIT][NEXT][...]
+That's when I knew he was cool.[WAIT][END]
+
+#string:1A:066
+[STYLE:TATTLE][...]
+{Func_2B}She's my mom, Goomama.
+[WAIT][NEXT][...]
+She sometimes gets on my nerves
+when she worries too much about
+me, but I still love her lots.
+[WAIT][NEXT][...]
+Don't tell her what I just said!
+[PAUSE:0A][...]
+Seriously, Mario! Promise me![WAIT][END]
+
+#string:1A:067
+[STYLE:TATTLE][...]
+{Func_2B}She's my sister, Goombaria.
+[PAUSE:05][...]
+[WAIT][NEXT][...]
+She's a spoiled girl, but still,
+everyone's always nice to her.
+Why? [WAIT][END]
+
+#string:1A:068
+[STYLE:TATTLE][...]
+{Func_2B}He's a regular Toad.
+[PAUSE:05][...]
+He was sent here from Princess
+Peach's Castle.
+[WAIT][NEXT][...]
+He's the manager of this Toad
+House.[WAIT][END]
+
+#string:1A:069
+[STYLE:TATTLE][...]
+{Func_2B}He's Luigi.
+[PAUSE:05][...]
+I don't have to say anything
+about him, do I? He's your
+brother![WAIT][END]
+
+#string:1A:06A
+[STYLE:TATTLE][...]
+{Func_2B}He's a Toad House employee.
+[PAUSE:05][...]
+He was sent here from Princess
+Peach's Castle.
+[WAIT][NEXT][...]
+He runs this Toad House.
+[PAUSE:0F][...]
+He looks kind of bored.[WAIT][END]
+
+#string:1A:06B
+[STYLE:TATTLE][...]
+{Func_2B}He's a Koopa Troopa merchant
+who sells goods.
+[PAUSE:05][...]
+He also checks and buys stuff.
+[WAIT][NEXT][...]
+You might want to buy some
+stuff from him if we're going
+somewhere dangerous.[WAIT][END]
+
+#string:1A:06C
+[STYLE:TATTLE][...]
+{Func_2B}A Koopa Troopa from scenic
+Koopa Village.
+[PAUSE:05][...]
+He's like the welcome wagon.
+[WAIT][NEXT][...]
+He seems to be a pretty jolly
+Koopa Troopa.
+[PAUSE:05][...]
+Just look at his face! [WAIT][END]
+
+#string:1A:06D
+[STYLE:TATTLE][...]
+{Func_2B}Is it only my imagination or did
+Koopa Troopas used to walk
+around on four legs?
+[WAIT][NEXT][...]
+I guess that was a really long
+time ago, huh?[WAIT][END]
+
+#string:1A:06E
+[STYLE:TATTLE][...]
+{Func_2B}Koopa Troopas sunbathe in their
+shells when it's sunny out.
+[WAIT][NEXT][...]
+Supposedly, a lot of Koopa
+Troopas set trends and are
+totally fashionable.
+[WAIT][NEXT][...]
+I guess they have different
+tastes from mine...[WAIT][END]
+
+#string:1A:06F
+[STYLE:TATTLE][...]
+{Func_2B}This Koopa Troopa obviously loves
+the radio.
+[PAUSE:05][...]
+He's always listening to it.
+[WAIT][NEXT][...]
+He seems to prefer music to the
+news reports.
+[WAIT][NEXT][...]
+Who wouldn't? I like music, too.
+[PAUSE:05][...]
+How about you, Mario?[WAIT][END]
+
+#string:1A:070
+[STYLE:TATTLE][...]
+{Func_2B}He's a Bob-omb.
+[PAUSE:05][...]
+He used to work inside Koopa
+Bros. Fortress.
+[WAIT][NEXT][...]
+Now he lives here among the
+Koopa Troopas.
+[WAIT][NEXT][...]
+He sometimes blows up at very
+inappropriate times.
+[PAUSE:05][...]
+Not that it's such a big deal,
+but somebody might get mad.[WAIT][END]
+
+#string:1A:071
+[STYLE:TATTLE][...]
+{Func_2B}He's a Bob-omb.
+[PAUSE:05][...]
+He's from inside the walls of
+Koopa Bros. Fortress.
+[WAIT][NEXT][...]
+Even if he explodes, you'll be
+fine as long as you stay a good
+distance away.
+[WAIT][NEXT][...]
+You never know when these Bob-
+ombs might go off![WAIT][END]
+
+#string:1A:072
+[STYLE:TATTLE][...]
+{Func_2B}He's a Bob-omb.
+[PAUSE:05][...]
+He used to be stuck in the jail
+at Koopa Bros. Fortress. He
+must have escaped.
+[WAIT][NEXT][...]
+Now he lives with his friends in
+Koopa Village.
+[WAIT][NEXT][...]
+Koopa Village is quite the
+popular place now. 
+[PAUSE:05][...]
+I wonder how they're dealing with
+the population boom.[WAIT][END]
+
+#string:1A:073
+[STYLE:TATTLE][...]
+{Func_2B}She's the wife of Kolorado, who's
+an archaeologist and explorer.
+[PAUSE:0F][...]
+She always worries about him.
+[WAIT][NEXT][...]
+You know, I like adventure, too.
+I can totally see my future wife
+being like that, always worried
+about brave Goombario.[WAIT][END]
+
+#string:1A:074
+[STYLE:TATTLE][...]
+{Func_2B}It's a pity that he's missing his
+shell. How embarrassing!
+[WAIT][NEXT][...]
+His name is Kooper.
+[PAUSE:0F][...]
+I wonder if he'd be our friend
+for life if we got his shell back
+for him.[WAIT][END]
+
+#string:1A:075
+[STYLE:TATTLE][...]
+{Func_2B}This is the oldest Koopa in Koopa
+Village.
+[PAUSE:05][...]
+His name is Koopa Koot.
+[WAIT][NEXT][...]
+He's famous for being selfish,
+stingy and impatient.
+[WAIT][NEXT][...]
+He doesn't ask for things that
+are impossible, but you can bet
+the tasks will be hard and time-
+consuming.[WAIT][END]
+
+#string:1A:076
+[STYLE:TATTLE][...]
+{Func_2B}He's a Koopa Troopa from Koopa
+Village.
+[WAIT][NEXT][...]
+You know, when Koopas are in a
+hurry, they slide on the
+undersides of their shells.
+[WAIT][NEXT][...]
+You wouldn't see anyone doing
+that around here. These guys
+are never in a hurry.[WAIT][END]
+
+#string:1A:077
+[STYLE:TATTLE][...]
+{Func_2B}He's a Koopa Troopa from Koopa
+Village.
+[WAIT][NEXT][...]
+As you can see, most Koopa
+Troopas are easygoing but a
+little bit shy.
+[WAIT][NEXT][...]
+There are some exceptions, but
+he seems to be typical.
+[PAUSE:0A][...]
+You gotta love the easygoing
+types, huh, Mario?[WAIT][END]
+
+#string:1A:078
+[STYLE:TATTLE][...]
+{Func_2B}He's a Koopa Troopa from Koopa
+Village.
+[PAUSE:05][...]
+He's easygoing, but he seems to
+have a sense of justice, too.
+[WAIT][NEXT][...]
+Sometimes the fight for justice
+is dangerous, you know. 
+[WAIT][NEXT][...]
+Goompa told me that we must
+always be strong inside, or else
+we could get hurt.
+[WAIT][NEXT][...]
+I'm trying to be strong, just
+like this Koopa. I respect him
+for that.[WAIT][END]
+
+#string:1A:079
+[STYLE:TATTLE][...]
+{Func_2B}He's a Koopa Troopa from Koopa
+Village.
+[WAIT][NEXT][...]
+He's pretty mellow.
+[PAUSE:08][...]
+He doesn't even care if he's 
+surrounded by all kinds of noise.
+[WAIT][NEXT][...]
+As long as nothing interferes
+with his personal space, he
+doesn't care what goes on
+in town.
+[WAIT][NEXT][...]
+It must be nice to have a such
+stress-free personality.[WAIT][END]
+
+#string:1A:07A
+[STYLE:TATTLE][...]
+{Func_2B}He's a Bob-omb.
+[PAUSE:05][...]
+He was jailed at Koopa Bros.
+Fortress. He probably came here
+after escaping.
+[WAIT][NEXT][...]
+The kind Koopa Troopas welcomed
+him with open arms. How
+neighborly!
+[PAUSE:05][...]
+He must be overjoyed.[WAIT][END]
+
+#string:1A:07B
+[STYLE:TATTLE][...]
+{Func_2B}This Bob-omb was in jail at
+Koopa Bros. Fortress.
+[PAUSE:05][...]
+He decided to settle here.
+[WAIT][NEXT][...]
+With his friends as roommates,
+it's bound to be noisy.[WAIT][END]
+
+#string:1A:07C
+[STYLE:TATTLE][...]
+{Func_2B}He's a Bob-omb who was in jail at
+Koopa Bros. Fortress.
+[PAUSE:05][...]
+He made a home in Koopa Village.
+[WAIT][NEXT][...]
+I always thought that all Bob-
+ombs did was continually blow
+each other up, but...
+[PAUSE:05][...]
+I guess I was wrong.[WAIT][END]
+
+#string:1A:07D
+[STYLE:TATTLE][...]
+{Func_2B}She's named Bombette.
+[PAUSE:0A][...]
+That pink is adorable!
+[WAIT][NEXT][...]
+She does seem to be pretty
+strong willed.
+[PAUSE:05][...]
+Her future boyfriend might be in
+for some trouble![WAIT][END]
+
+#string:1A:07E
+[STYLE:TATTLE][...]
+{Func_2B}That Bob-omb's been jailed.
+[PAUSE:05][...]
+I wonder what he did to the
+Koopa Bros.? 
+[WAIT][NEXT][...]
+I thought that Bob-ombs and
+Koopa Bros. worked together in
+harmony...[WAIT][END]
+
+#string:1A:07F
+[STYLE:TATTLE][...]
+{Func_2B}That Bob-omb's been jailed.
+[PAUSE:05][...]
+Do the Koopa Bros. have short
+tempers, you think?
+[WAIT][NEXT][...]
+If we had a Bob-omb on our side
+during battle,
+[PAUSE:05][...]
+it would really catch the Koopa
+Bros. off guard.[WAIT][END]
+
+#string:1A:080
+[STYLE:TATTLE][...]
+{Func_2B}That Bob-omb's been jailed.
+[PAUSE:05][...]
+It really seems to dislike the 
+Koopa Bros. 
+[WAIT][NEXT][...]
+Say, I wonder who'll live here if
+we manage to boot out the Koopa
+Bros.?[WAIT][END]
+
+#string:1A:081
+[STYLE:TATTLE][...]
+{Func_2B}That Bob-omb's been jailed.
+[PAUSE:05][...]
+I wonder if they get hurt when
+they blow themselves up?
+[WAIT][NEXT][...]
+I mean, they blow up all the
+time, so they must enjoy it.
+[WAIT][NEXT][...]
+Once they start exploding, they
+can't stop!
+[PAUSE:0F][...]
+It blows my mind![WAIT][END]
+
+#string:1A:082
+[STYLE:TATTLE][...]
+{Func_2B}This is Kent C. Koopa. He's...
+pretty large and greedy. He
+seems to be in our way...
+[WAIT][NEXT][...]
+We can't slip past him because
+he's too big, but he'll let us go
+by if we give him some coins.
+[WAIT][NEXT][...]
+He's huge, but remember, he's
+just a Koopa Troopa.[WAIT][END]
+
+#string:1A:083
+[STYLE:TATTLE][...]
+{Func_2B}He's the station master at the
+Mt. Rugged Station. 
+[PAUSE:0A][...]
+He looks just like the one in
+Toad Town. Why is that?
+[WAIT][NEXT][...]
+Is it because of his uniform...
+or the pattern on his head?
+[PAUSE:05][...]
+Pretty cool uniform, huh?[WAIT][END]
+
+#string:1A:084
+[STYLE:TATTLE][...]
+{Func_2B}He's Parakarry, a Paratroopa
+who delivers letters.
+[PAUSE:05][...]
+He's got some problems.
+[WAIT][NEXT][...]
+It must be nice to have wings.
+He can fly anywhere.
+[PAUSE:0A][...]
+All postmen should have wings.
+[WAIT][NEXT][...]
+You know, some people say that
+if you help someone in trouble,
+good things will happen to you.
+You know, karma.
+[WAIT][NEXT][...]
+What? [PAUSE:0A]You've never heard that?[WAIT][END]
+
+#string:1A:085
+[STYLE:TATTLE][...]
+{Func_2B}This Toad works at the local
+travel agency.
+[PAUSE:05][...]
+It's called Toad Town Tours.
+[WAIT][NEXT][...]
+They like to personally inspect
+sites for future tours.
+[WAIT][NEXT][...]
+I wonder what people could
+possibly want to see in the
+desert or on Mt. Rugged?[WAIT][END]
+
+#string:1A:086
+[STYLE:TATTLE][...]
+{Func_2B}A Dryite.
+[PAUSE:0A][...]
+He hangs around this station all
+the time.
+[WAIT][NEXT][...]
+He must like traveling by train,
+I guess.[WAIT][END]
+
+#string:1A:087
+[STYLE:TATTLE][...]
+{Func_2B}A flower, I think.
+[PAUSE:0A][...]
+But... Do most flowers move like
+that?[WAIT][END]
+
+#string:1A:088
+[STYLE:TATTLE][...]
+{Func_2B}Oh! A Bub-ulb.
+[PAUSE:05][...]
+I don't know why, but they give
+out Seeds.
+[WAIT][NEXT][...]
+Boy, if there are lots of these
+guys in Flower Fields, it must be
+a hopping place![WAIT][END]
+
+#string:1A:089
+[STYLE:TATTLE][...]
+{Func_2B}He's a Whacka.
+[PAUSE:05][...]
+When you hit Whackas, they get
+Bumps that fall off.
+[PAUSE:05][...]
+I heard that they're yummy.
+[WAIT][NEXT][...]
+You know, I'm not normally into
+hitting Whackas, but once I 
+heard of their tasty Bumps... I
+got the urge to whack 'em![WAIT][END]
+
+#string:1A:08A
+[STYLE:TATTLE][...]
+{Func_2B}This Toad loves to study the
+creatures of the world.
+[WAIT][NEXT][...]
+She's really into conservation.
+She doesn't want anything to
+become extinct. [WAIT][END]
+
+#string:1A:08B
+[STYLE:TATTLE][...]
+{Func_2B}He's the archaeologist, Kolorado.
+[PAUSE:0A][...]
+He's famous as both a scholar
+and an explorer.
+[WAIT][NEXT][...]
+Unfortunately, he's also
+renowned for his carelessness.
+[WAIT][NEXT][...]
+He's wild about treasures and
+ancient secrets, so he's always
+taking off around the world on 
+some adventure.[WAIT][END]
+
+#string:1A:08C
+[STYLE:TATTLE][...]
+{Func_2B}This is a Koopa Troopa from the
+excavation team.
+[PAUSE:05][...]
+The team is assisting Kolorado.
+[WAIT][NEXT][...]
+That looks like hard work. I
+wouldn't want to do it.
+[PAUSE:05][...]
+Doing chores in this heat? Ugh![WAIT][END]
+
+#string:1A:08D
+[STYLE:TATTLE][...]
+{Func_2B}This is a Koopa Troopa from the
+excavation team.
+[PAUSE:05][...]
+The team is assisting Kolorado.
+[WAIT][NEXT][...]
+People say that excavations are
+about as boring as you can
+imagine until you find something.
+I bet that's true.[WAIT][END]
+
+#string:1A:08E
+[STYLE:TATTLE][...]
+{Func_2B}He's a Nomadimouse.
+[PAUSE:0A][...]
+It looks like he's in mid-journey.
+[WAIT][NEXT][...]
+I bet he has some amazing
+stories to tell...
+[WAIT][NEXT][...]
+A wandering Nomadimouse...
+[PAUSE:0F][...]
+Roaming the world...no
+responsibilities... So lucky![WAIT][END]
+
+#string:1A:08F
+[STYLE:TATTLE][...]
+{Func_2B}He runs the shop here in Dry Dry
+Outpost. I don't know... He acts
+kind of strange.
+[WAIT][NEXT][...]
+Is he nervous...?
+[WAIT][NEXT][...]
+Well, he may be suspicious, but
+he still runs the shop.
+[PAUSE:05][...]
+His stock seems to be made up
+of pretty normal stuff.
+[PAUSE:0A][...]
+[WAIT][NEXT][...]
+I think it's normal...[WAIT][END]
+
+#string:1A:090
+[STYLE:TATTLE][...]
+{Func_2B}He's a Nomadimouse who lives in
+this town.
+[PAUSE:05][...]
+He seems to pay special
+attention to strangers, like us.
+[WAIT][NEXT][...]
+He belongs to some kind of shady
+organization.
+[PAUSE:05][...]
+The organization rules Dry Dry
+Outpost.
+[WAIT][NEXT][...]
+So mysterious and dangerous... I
+can feel my skin crawling! 
+[PAUSE:0A][...]
+Mario,
+[PAUSE:05][...]
+isn't this exciting?[WAIT][END]
+
+#string:1A:091
+[STYLE:TATTLE][...]
+{Func_2B}That's a Dryite.
+[WAIT][NEXT][...]
+The wind out here in the desert
+is full of stinging sand, so he
+protects himself by wrapping his
+face in a cloth.
+[WAIT][NEXT][...]
+Since their faces are covered,
+it's tough to tell them apart.
+[PAUSE:05][...]
+I'm pretty sure they're all
+adults, though.[WAIT][END]
+
+#string:1A:092
+[STYLE:TATTLE][...]
+{Func_2B}Dryites look like the heat
+doesn't even bother them.
+[WAIT][NEXT][...]
+I wonder why? I'm boiling! And
+they're all wrapped up in
+clothes! What gives?
+[WAIT][NEXT][...]
+Maybe it's because their clothes
+are wrapped loosely.
+[PAUSE:05][...]
+I could use some threads like
+that.[WAIT][END]
+
+#string:1A:093
+[STYLE:TATTLE][...]
+{Func_2B}This Dryite is really quiet.
+[PAUSE:0A][...]
+He's shy, I guess.
+[WAIT][NEXT][...]
+But...
+[PAUSE:0F][...]
+I don't see any reason for him
+to be so timid.[WAIT][END]
+
+#string:1A:094
+[STYLE:TATTLE][...]
+{Func_2B}These Dryites look like they have
+big heads because they're
+wrapped in cloth.
+[WAIT][NEXT][...]
+It's hard to tell them apart
+since we can see only their eyes.[WAIT][END]
+
+#string:1A:095
+[STYLE:TATTLE][...]
+{Func_2B}{StartFX:Wavy}He's a Toaaad in the Deserrrt[NOTE]
+{EndFX:Wavy}[PAUSE:0A]...Sorry. This guy's music moved
+me to song.
+[WAIT][NEXT][...]
+How about some karaoke!
+[PAUSE:0A][...]
+...Just joking.
+[WAIT][NEXT][...]
+This composer seems pretty
+jolly, doesn't he?
+[PAUSE:05][...]
+He makes me wanna dance![WAIT][END]
+
+#string:1A:096
+[STYLE:TATTLE][...]
+{Func_2B}He's a Dryite.
+[PAUSE:0A][...]
+I've seen him in Toad Town.
+[WAIT][NEXT][...]
+He earned himself a Degree at
+the Toad Town Dojo.[WAIT][END]
+
+#string:1A:097
+[STYLE:TATTLE][...]
+{Func_2B}This Dryite has been seen in
+Toad Town.
+[WAIT][NEXT][...]
+Why does he look like he's
+worried about something?
+[PAUSE:05][...]
+Whenever I worried, my Goompa
+always told me...
+[WAIT][NEXT][...]
+"When you're feeling lost, ask
+Merlon to show the way."
+[PAUSE:0A][...]
+Merlon's fortune-telling is
+surprisingly accurate.[WAIT][END]
+
+#string:1A:098
+[STYLE:TATTLE][...]
+{Func_2B}This is Sheek.
+[PAUSE:05][...]
+You'd think the guy could shake
+the dust from his clothes!
+[WAIT][NEXT][...]
+If I didn't know he was an 
+information trader, I'd say we
+should steer clear of him.
+[WAIT][NEXT][...]
+Still, he's our best source for
+gossip... As adventurers, we
+have to deal with all kinds![WAIT][END]
+
+#string:1A:099
+[STYLE:TATTLE][...]
+{Func_2B}{StartFX:Wavy}Da Da Da Duuum!
+{EndFX:Wavy}[WAIT][NEXT][...]
+Sheek revealed his true self!
+[PAUSE:0F][...]
+...I guess that means he's the 
+boss everyone talks about.
+[WAIT][NEXT][...]
+Oh... [PAUSE:0A]I was expecting Moustafa
+to look a lot cooler.[WAIT][END]
+
+#string:1A:09A
+[STYLE:TATTLE][...]
+{Func_2B}He's a Toad.
+[PAUSE:05][...]
+He was sent here from Princess
+Peach's Castle.
+[WAIT][NEXT][...]
+I tell you, there's nothing like
+a quick, refreshing nap!
+[PAUSE:0A][...]
+Plus, it's free![WAIT][END]
+
+#string:1A:09B
+[STYLE:TATTLE][...]
+{Func_2B}She's a wizard, Merlee. She
+casts spells.
+[WAIT][NEXT][...]
+If you let her cast a spell on
+you, it may affect you in battle.
+[WAIT][NEXT][...]
+She's one of a pair of twins. The
+other one is Merluvlee, from
+Shooting Star Summit.
+[WAIT][NEXT][...]
+When I look at a woman as
+beautiful as this,
+[PAUSE:03][...]
+it makes [PAUSE:03]me [PAUSE:03]feel [PAUSE:03]all [PAUSE:03]strange! [PAUSE:03][HEART][WAIT][END]
+
+#string:1A:09C
+[STYLE:TATTLE][...]
+{Func_2B}That's a Dryite.
+[WAIT][NEXT][...]
+It's hard to tell whether he's
+old or young because of that
+cloth that's wrapped around his
+face.
+[WAIT][NEXT][...]
+What do you think? Young or old?
+[PAUSE:05][...]
+I'm betting young...[WAIT][END]
+
+#string:1A:09D
+[STYLE:TATTLE][...]
+{Func_2B}That's a Dryite.
+[WAIT][NEXT][...]
+This guy looks to be pretty
+easygoing.
+[PAUSE:05][...]
+Who can be easygoing in this
+heat? I'm cooking![WAIT][END]
+
+#string:1A:09E
+[STYLE:TATTLE][...]
+{Func_2B}He's a Nomadimouse who never
+strays from the back street in
+Dry Dry Outpost. He loves to
+stay near the lovely wizard.
+[WAIT][NEXT][...]
+{StartFX:Shrinking}Ah, a rival for her affections!
+{EndFX:Shrinking}[WAIT][NEXT][...]
+Just joking.
+[PAUSE:05][...]
+He's obviously fond of Merlee.
+[WAIT][NEXT][...]
+Maybe he just doesn't have
+anywhere better to go. He's
+always just sitting here.
+[WAIT][NEXT][...]
+There's no reason to move... His
+beloved is here.[WAIT][END]
+
+#string:1A:09F
+[STYLE:TATTLE][...]
+{Func_2B}He's a Nomadimouse who likes
+telling old tales. He knows much
+of the history of this town.
+[WAIT][NEXT][...]
+The legend surrounding this town
+is very mysterious.
+[WAIT][NEXT][...]
+I wish my hometown had such a
+cool legend! Then I could act
+mysterious.[WAIT][END]
+
+#string:1A:0A0
+[STYLE:TATTLE][...]
+{Func_2B}This Dryite has been to Shooting
+Star Summit.
+[PAUSE:0A][...]
+I bet he was pretty impressed.
+And cold.[WAIT][END]
+
+#string:1A:0A1
+[STYLE:TATTLE][...]
+{Func_2B}This is Oaklie. He lives in
+Forever Forest.
+[WAIT][NEXT][...]
+He guards the entry to Forever
+Forest to prevent wanderers
+from getting lost.
+[WAIT][NEXT][...]
+He helps any townsfolk who get
+lost inside.
+[PAUSE:0A][...]
+That beard... For some reason,
+[PAUSE:0A][...]
+I feel like yanking it.[WAIT][END]
+
+#string:1A:0A2
+[STYLE:TATTLE][...]
+{Func_2B}It's a flower. I think...
+[PAUSE:0A][...]
+It doesn't seem to move like an
+ordinary flower, though.[WAIT][END]
+
+#string:1A:0A3
+[STYLE:TATTLE][...]
+{Func_2B}Oh! It's a Bub-ulb.
+[PAUSE:0A][...]
+The flower we saw must be the
+top of his head.
+[WAIT][NEXT][...]
+He hands out Seeds. I'm willing
+to bet that these Seeds are
+really important.
+[PAUSE:0A][...]
+Let's plant 'em, Mario.[WAIT][END]
+
+#string:1A:0A4
+[STYLE:TATTLE][...]
+{Func_2B}He's a Boo called Bootler.
+[PAUSE:0A][...]
+He's the manager of the mansion
+and the personal assistant of
+Lady Bow.
+[WAIT][NEXT][...]
+Ordinarily his title would
+be "butler."
+[PAUSE:05][...]
+Being a butler is hard work.
+[WAIT][NEXT][...]
+Hmm... Maybe I'm just imagining
+this, but doesn't it look like
+he's enjoying himself?
+[WAIT][NEXT][...]
+Maybe [PAUSE:05]he likes [PAUSE:05]hard work[PAUSE:05]??[WAIT][END]
+
+#string:1A:0A5
+[STYLE:TATTLE][...]
+{Func_2B}This Boo runs the shop.
+[WAIT][NEXT][...]
+Nice selection, huh? I'm sure
+he's cornered the Boo market
+around here.
+[WAIT][NEXT][...]
+Maybe he was a merchant before
+he became a Boo.
+[WAIT][NEXT][...]
+I bet Bow orders most of this.[WAIT][END]
+
+#string:1A:0A6
+[STYLE:TATTLE][...]
+{Func_2B}That's a Boo who works at Boo's
+Mansion.
+[PAUSE:0A][...]
+He seems to really like this
+gloomy place.[WAIT][END]
+
+#string:1A:0A7
+[STYLE:TATTLE][...]
+{Func_2B}The Boos in this mansion are all
+big fans of Bow.
+[WAIT][NEXT][...]
+This Boo is no exception, but
+he's also interested in the
+outside world.[WAIT][END]
+
+#string:1A:0A8
+[STYLE:TATTLE][...]
+{Func_2B}This Boo is guarding a treasure
+chest.
+[PAUSE:0A][...]
+Bow told him to, I guess.
+[WAIT][NEXT][...]
+She must be pretty scary to
+command such obedience!
+[WAIT][NEXT][...]
+Say, don't you think that Boos
+have the funniest expressions?[WAIT][END]
+
+#string:1A:0A9
+[STYLE:TATTLE][...]
+{Func_2B}This Boo appeared as soon as
+you took those Boots.
+[PAUSE:0A][...]
+He looks to me like he might have
+some useful information.
+[WAIT][NEXT][...]
+It can't hurt to have a listen,
+Mario. Why don't you lend him
+an ear?[WAIT][END]
+
+#string:1A:0AA
+[STYLE:TATTLE][...]
+{Func_2B}He's a Boo who lives here in
+Gusty Gulch.
+[WAIT][NEXT][...]
+He's in love with Bow.
+[WAIT][NEXT][...]
+If he can occasionally see Bow,
+his life is complete.[WAIT][END]
+
+#string:1A:0AB
+[STYLE:TATTLE][...]
+{Func_2B}That's a Boo who lives here in
+Gusty Gulch.
+[WAIT][NEXT][...]
+Have you ever looked closely at
+Boos? I think they have really
+charming faces.
+[WAIT][NEXT][...]
+Just like other creatures, there
+are some that are cute and some
+that just aren't.
+[PAUSE:0F][...]
+Which is which, though...?[WAIT][END]
+
+#string:1A:0AC
+[STYLE:TATTLE][...]
+{Func_2B}That's a Boo who lives here in
+Gusty Gulch.
+[WAIT][NEXT][...]
+You know, Boos can't be
+attacked if they're invisible.
+[PAUSE:05][...]
+Isn't that convenient?
+[WAIT][NEXT][...]
+Whenever trouble appears, they
+can just disappear until the
+coast is clear again.
+[WAIT][NEXT][...]
+I guess they're only in danger if
+they're taken by surprise.[WAIT][END]
+
+#string:1A:0AD
+[STYLE:TATTLE][...]
+{Func_2B}That's a Boo who lives here in
+Gusty Gulch.
+[WAIT][NEXT][...]
+This land is totally barren. I
+wonder what Boos find to eat
+around these parts.
+[PAUSE:0A][...]
+[WAIT][NEXT][...]
+Oh yeah. They're ghosts. I guess
+maybe they don't need to eat
+anything.[WAIT][END]
+
+#string:1A:0AE
+[STYLE:TATTLE][...]
+{Func_2B}That's a Boo who lives here in
+Gusty Gulch.
+[WAIT][NEXT][...]
+Consider this: Is this place
+lonely because Boos make their
+home here,
+[WAIT][NEXT][...]
+or do Boos live here because this
+place is lonely?
+[WAIT][NEXT][...]
+.[PAUSE:03].[PAUSE:03].[PAUSE:03].
+That riddle's gonna keep me up
+all night.[WAIT][END]
+
+#string:1A:0AF
+[STYLE:TATTLE][...]
+{Func_2B}That's a Boo who lives here in
+Gusty Gulch.
+[PAUSE:05][...]
+Boos live in this wasted land and
+scare people.
+[WAIT][NEXT][...]
+They also take scare-trips to
+Forever Forest for fun.
+[PAUSE:0A][...]
+It must be fun having nothing to
+do except scare people.[WAIT][END]
+
+#string:1A:0B0
+[STYLE:TATTLE][...]
+{Func_2B}That's a Boo who lives here in
+Gusty Gulch.
+[WAIT][NEXT][...]
+It's hard to tell if they're male
+or female, isn't it?
+[PAUSE:08][...]
+They should all wear bows like
+Bow does. That'd make it easier.[WAIT][END]
+
+#string:1A:0B1
+[STYLE:TATTLE][...]
+{Func_2B}That's a Boo who lives here in
+Gusty Gulch.
+[WAIT][NEXT][...]
+You know, I think it's possible
+for a ghost to be cute and
+scary at the same time.
+[WAIT][NEXT][...]
+It all depends on the person
+they're scaring. What's cute to
+one may be horrifying to another.
+[WAIT][NEXT][...]
+This Boo doesn't look that scary.
+[PAUSE:05][...]
+He looks too nice.[WAIT][END]
+
+#string:1A:0B2
+[STYLE:TATTLE][...]
+{Func_2B}That's a Boo who lives here in
+Gusty Gulch.
+[WAIT][NEXT][...]
+Don't you think Boos have
+expressive faces?
+[WAIT][NEXT][...]
+They must do special face
+exercises to be able to stretch
+them so much. 
+[PAUSE:0A][...]
+Pulling a face muscle would hurt.[WAIT][END]
+
+#string:1A:0B3
+[STYLE:TATTLE][...]
+{Func_2B}This Boo's hiding in Tubba
+Blubba's Castle.
+[PAUSE:0A][...]
+The castle is terrifying for
+Boos, so this guy has guts.
+[WAIT][NEXT][...]
+He must have come to try to find
+the secret of Tubba Blubba.
+That monster must have some
+weakness hidden here!
+[WAIT][NEXT][...]
+This Boo is willing to risk his
+own life! So brave...
+[WAIT][NEXT][...]
+You know,
+[PAUSE:05][...]
+no other Boos will dare come here
+because Tubba Blubba eats any
+Boos he finds.[WAIT][END]
+
+#string:1A:0B4
+[STYLE:TATTLE][...]
+{Func_2B}This is Yakkey, a magical key.
+[PAUSE:0A][...]
+It was lucky for us that it
+spilled the beans about Tubba
+Blubba's secret...
+[WAIT][NEXT][...]
+But I wonder what it's going to
+do...[WAIT][END]
+
+#string:1A:0B5
+[STYLE:TATTLE][...]
+{Func_2B}That's a brave Boo.
+[PAUSE:0A][...]
+Even though he knows he may be
+eaten, he's willing to try to
+help us. How noble!
+[WAIT][NEXT][...]
+You know,
+[PAUSE:05][...]
+it takes a lot of guts to walk
+straight into the mouth of
+danger to help others.
+[WAIT][NEXT][...]
+I guess he came partly to help
+us but mostly to help Bow.
+[PAUSE:0A][...]
+Every Boo loves Bow, after all.[WAIT][END]
+
+#string:1A:0B6
+[STYLE:TATTLE][...]
+{Func_2B}Everyone left while this Clubba
+was sleeping.
+[PAUSE:0F][...]
+He must be really tired.[WAIT][END]
+
+#string:1A:0B7
+[STYLE:TATTLE][...]
+{Func_2B}That's Gourmet Guy.
+{StartFX:Wavy}Woow! {EndFX:Wavy}{StartFX:Growing}He's huuuuge!
+{EndFX:Growing}[WAIT][NEXT][...]
+Does this guy ever stop eating?
+He looks like he'd eat until his
+stomach blew up![WAIT][END]
+
+#string:1A:0B8
+[STYLE:TATTLE][...]
+{Func_2B}He's an employee of the Toy
+Box station.
+[WAIT][NEXT][...]
+The employees drive the trains
+from one station to another and
+announce the destinations.
+[WAIT][NEXT][...]
+Don't you think he looks like the
+station masters at Toad Town
+and Mt. Rugged Stations?[WAIT][END]
+
+#string:1A:0B9
+[STYLE:TATTLE][...]
+{Func_2B}Say... This is the lantern that
+belongs to the Big Lantern
+Ghost. There's something inside.
+[WAIT][NEXT][...]
+Do you think it'd come out if we
+broke it?[WAIT][END]
+
+#string:1A:0BA
+[STYLE:TATTLE][...]
+{Func_2B}He's a guard named Anti Guy.
+[PAUSE:0A][...]
+He's all by himself! And he looks
+totally weak!
+[WAIT][NEXT][...]
+Although...you never know.
+Appearances can be deceptive.
+Just look at me!
+[PAUSE:0F][...]
+Hmm... Weak? Or really strong?[WAIT][END]
+
+#string:1A:0BB
+[STYLE:TATTLE][...]
+{Func_2B}This Shy Guy is just causing
+trouble in here.
+[PAUSE:0A][...]
+He's pretending to shop, but
+he's not buying anything.
+[WAIT][NEXT][...]
+Hey, buy something or get out,
+pal! You hear me?[WAIT][END]
+
+#string:1A:0BC
+[STYLE:TATTLE][...]
+{Func_2B}He's the Village Leader.
+[PAUSE:05][...]
+He's very dignified.
+[WAIT][NEXT][...]
+Doesn't he look thoughtful and
+perceptive?[WAIT][END]
+
+#string:1A:0BD
+[STYLE:TATTLE][...]
+{Func_2B}He's a Yoshi who is an old
+friend of the Village Leader.
+[WAIT][NEXT][...]
+They've known each other since
+they were kids. I hear they've
+pulled many a prank together!
+[WAIT][NEXT][...]
+They must be really close pals if
+they've been friends for so long.[WAIT][END]
+
+#string:1A:0BE
+[STYLE:TATTLE][...]
+{Func_2B}He's a blue Yoshi.
+[PAUSE:0A][...]
+He's just hanging out here.
+[WAIT][NEXT][...]
+Maybe he's a Marine Yoshi! You
+know, because he's blue?
+[PAUSE:0F][...]
+...OK, maybe not.[WAIT][END]
+
+#string:1A:0BF
+[STYLE:TATTLE][...]
+{Func_2B}This Yoshi is really easy to talk
+to.
+[PAUSE:05][...]
+I bet everybody likes him. He's
+so friendly!
+[WAIT][NEXT][...]
+My Goompa once read me a book
+that had a Yoshi in it, but I
+never really thought that they
+existed.
+[WAIT][NEXT][...]
+It's so exciting to see 'em![WAIT][END]
+
+#string:1A:0C0
+[STYLE:TATTLE][...]
+{Func_2B}A Yoshi.
+[PAUSE:0A][...]
+This Yoshi always hangs out
+around the village entrance.[WAIT][END]
+
+#string:1A:0C1
+[STYLE:TATTLE][...]
+{Func_2B}A Yoshi.
+[PAUSE:0A][...]
+I've seen pictures in books of
+these guys.
+[WAIT][NEXT][...]
+I want to ride on one's back!
+[PAUSE:05][...]
+It's always been a childhood
+dream of mine...[WAIT][END]
+
+#string:1A:0C2
+[STYLE:TATTLE][...]
+{Func_2B}This Yoshi loves food like
+nobody's business!
+[WAIT][NEXT][...]
+I wonder what he'd do if we gave
+him some food made by Tayce T.?
+He'd freak out![WAIT][END]
+
+#string:1A:0C3
+[STYLE:TATTLE][...]
+{Func_2B}He's a green Yoshi kid. He's an
+excitable rascal, huh?
+[PAUSE:05][...]
+Yoshi kids get pretty big.
+[WAIT][NEXT][...]
+All he wants to do is explore
+beyond his village.
+[PAUSE:0A][...]
+I know how he feels.[WAIT][END]
+
+#string:1A:0C4
+[STYLE:TATTLE][...]
+{Func_2B}He's a blue Yoshi kid.
+[PAUSE:0A][...]
+He thinks he's different from
+other Yoshi kids.
+[WAIT][NEXT][...]
+What a cute little guy!
+[PAUSE:0A][...]
+I can see how he might get on
+your nerves, though.[WAIT][END]
+
+#string:1A:0C5
+[STYLE:TATTLE][...]
+{Func_2B}He's a purple Yoshi kid.
+[PAUSE:0A][...]
+Not a care in the world!
+[WAIT][NEXT][...]
+Very cute.
+[PAUSE:0A][...]
+He seems to like you, Mario.[WAIT][END]
+
+#string:1A:0C6
+[STYLE:TATTLE][...]
+{Func_2B}He's a yellow Yoshi kid. Whoa!
+He's cheery, huh?
+[PAUSE:05][...]
+This kid is full of pep.
+[WAIT][NEXT][...]
+I was the same back in the days
+when I was small.
+[WAIT][NEXT][...]
+What?[PAUSE:05]I'm still small?
+[PAUSE:0F][...]
+Well, yeah, [PAUSE:05]compared to you, I
+guess I'm still wet behind the
+ears.[WAIT][END]
+
+#string:1A:0C7
+[STYLE:TATTLE][...]
+{Func_2B}Yoshi kids are so cheerful.
+[PAUSE:0A][...]
+This red Yoshi kid, though, looks
+pretty mischievous.
+[WAIT][NEXT][...]
+He looks like a little scamp. I
+bet he gets into all sorts of
+trouble and doesn't regret it a
+bit.
+[WAIT][NEXT][...]
+What? [PAUSE:05]That's like me?
+[PAUSE:0A][...]
+Marioooo! C'mon! Take it back![WAIT][END]
+
+#string:1A:0C8
+[STYLE:TATTLE][...]
+{Func_2B}He's a Yoshi who's set up a
+little shop on the island.
+[PAUSE:05][...]
+He sells, checks and buys items.
+[WAIT][NEXT][...]
+Remember, shops are different
+in different parts of the world.
+[WAIT][NEXT][...]
+I see items in this shop that you
+can't get anywhere but here.[WAIT][END]
+
+#string:1A:0C9
+[STYLE:TATTLE][...]
+{Func_2B}He's a Raven.
+[WAIT][NEXT][...]
+Ravens are short and chubby.
+They're pretty fluffy, too. And
+somewhat cuddly. And soft.[WAIT][END]
+
+#string:1A:0CA
+[STYLE:TATTLE][...]
+{Func_2B}He's a Raven.
+[WAIT][NEXT][...]
+Ravens are really cute.
+[PAUSE:05][...]
+I told Kooper that, and he said I
+had weird taste.
+[WAIT][NEXT][...]
+What's so weird about that?
+[PAUSE:0F][...]
+Aren't they cute, Mario?[WAIT][END]
+
+#string:1A:0CB
+[STYLE:TATTLE][...]
+{Func_2B}He's a Raven.
+[WAIT][NEXT][...]
+He looks good in black.
+[PAUSE:05][...]
+Can we take him with us, Mario?
+[WAIT][NEXT][...]
+He doesn't want to go?
+[PAUSE:0A][...]
+What a bummer...[WAIT][END]
+
+#string:1A:0CC
+[STYLE:TATTLE][...]
+{Func_2B}He's a Raven.
+[WAIT][NEXT][...]
+Ravens only say "caw" unless
+they think they have something
+really important to tell you.
+[WAIT][NEXT][...]
+They only tell important stuff to
+people they trust.
+[PAUSE:08][...]
+I wish they'd tell us something.[WAIT][END]
+
+#string:1A:0CD
+[STYLE:TATTLE][...]
+{Func_2B}He's a Raven.
+[WAIT][NEXT][...]
+Ravens are really cute.
+[PAUSE:05][...]
+I told Kooper that, and he said I
+had weird taste.
+[WAIT][NEXT][...]
+What's so weird about that?
+[PAUSE:0F][...]
+Aren't they cute, Mario?[WAIT][END]
+
+#string:1A:0CE
+[STYLE:TATTLE][...]
+{Func_2B}He's the Toad of the Toad House.
+[PAUSE:05][...]
+He was sent here from Princess
+Peach's Castle.
+[WAIT][NEXT][...]
+This Toad House is kind of a
+Resort Hotel.
+[PAUSE:05][...]
+The Toad here seems to like his
+job. It's one long vacation![WAIT][END]
+
+#string:1A:0CF
+[STYLE:TATTLE][...]
+{Func_2B}She's a Cheep Cheep. Her name is
+Sushie.
+[PAUSE:05][...]
+She's sort of meddlesome.
+[WAIT][NEXT][...]
+At least that's what the Yoshi
+kids say. According to them, she
+tries to control their lives.
+[WAIT][NEXT][...]
+I think she's just trying to take
+care of them, but she doesn't
+seem to be succeeding. [WAIT][END]
+
+#string:1A:0D0
+[STYLE:TATTLE][...]
+{Func_2B}He's Raphael the Raven, the
+guardian of this jungle.
+[PAUSE:05][...]
+Look at the size of this guy!
+He's enormous!
+[WAIT][NEXT][...]
+I bet there's nothing he can't
+do.
+[PAUSE:0A][...]
+Doesn't he seem trustworthy?[WAIT][END]
+
+#string:1A:0D1
+[STYLE:TATTLE][...]
+{Func_2B}It's a flower, I guess.
+[PAUSE:0A][...]
+It doesn't seem to move like an
+ordinary flower, though.[WAIT][END]
+
+#string:1A:0D2
+[STYLE:TATTLE][...]
+{Func_2B}Oh! A Bub-ulb.
+[WAIT][NEXT][...]
+I don't know why it's growing
+here.
+[PAUSE:05][...]
+It's a very strange flower,
+don't you think?
+[WAIT][NEXT][...]
+This Seed... 
+[PAUSE:0A][...]
+I bet it's something very
+important.
+[PAUSE:0A][...]
+Important to Bub-ulbs, anyway.[WAIT][END]
+
+#string:1A:0D3
+[STYLE:TATTLE][...]
+{Func_2B}A Heart Plant.
+[WAIT][NEXT][...]
+These grow only on Lavalava
+Island. When you touch one, it
+gently stretches out its stem to
+welcome you.
+[WAIT][NEXT][...]
+If you're lucky, it'll also give
+you a heart when it uncoils.
+Nice, huh?
+[WAIT][NEXT][...]
+There's a species of mean plant
+that imitates it, though.
+[PAUSE:0F][...]
+Is this one good or bad?[WAIT][END]
+
+#string:1A:0D4
+[STYLE:TATTLE][...]
+{Func_2B}M. Bush.
+[PAUSE:0A][...]
+This bizarre creature is only
+found in the jungles of Lavalava
+Island.
+[WAIT][NEXT][...]
+It pretends to be a bush, but
+it's actually a hunter waiting
+to surprise prey. I don't wanna
+be prey. Do you?[WAIT][END]
+
+#string:1A:0D5
+[STYLE:TATTLE][...]
+{Func_2B}It's a Bub-ulb.
+[PAUSE:0A][...]
+It's one of many talking flowers
+in Flower Fields.
+[WAIT][NEXT][...]
+Boy, it seems like as soon as
+creatures learn to communicate,
+they learn to gossip.[WAIT][END]
+
+#string:1A:0D6
+[STYLE:TATTLE][...]
+{Func_2B}You know, a lot of the flowers in
+Flower Fields will answer you if
+you talk to 'em.
+[WAIT][NEXT][...]
+They're probably our best source
+of news around here.[WAIT][END]
+
+#string:1A:0D7
+[STYLE:TATTLE][...]
+{Func_2B}A lot of flowers live here, huh?
+[PAUSE:05][...]
+They're so...so very...
+[PAUSE:0A][...]
+[WAIT][NEXT][...]
+uh...beautiful, I guess.[WAIT][END]
+
+#string:1A:0D8
+[STYLE:TATTLE][...]
+{Func_2B}It's a Bub-ulb.
+[PAUSE:0A][...]
+The flowers around here hate
+cloudy weather. They need the
+sun's rays!
+[WAIT][NEXT][...]
+I don't like the rain, either,
+[PAUSE:0A][...]
+because I can't play outside.[WAIT][END]
+
+#string:1A:0D9
+[STYLE:TATTLE][...]
+{Func_2B}It's a Tolielip.
+[WAIT][NEXT][...]
+He definitely knows a lot about
+Flower Fields.
+[PAUSE:05][...]
+[WAIT][NEXT][...]
+Unfortunately, he's a liar.
+[PAUSE:05][...]
+You can figure out his riddles,
+[PAUSE:0F][...]
+can't you, Mario?[WAIT][END]
+
+#string:1A:0DA
+[STYLE:TATTLE][...]
+{Func_2B}It's a red flower that guards a
+gate.
+[PAUSE:05][...]
+Red is a passionate color.
+[WAIT][NEXT][...]
+Goombaria knows a lot about the
+subtle languages of flowers and
+colors.
+[WAIT][NEXT][...]
+She talks and talks and talks
+until I can't take it anymore!
+[PAUSE:0A][...]
+As a result, I've learned a lot
+of what she knows.[WAIT][END]
+
+#string:1A:0DB
+[STYLE:TATTLE][...]
+{Func_2B}It's a yellow flower that guards
+a gate.
+[PAUSE:05][...]
+Yellow is a friendly color.
+[WAIT][NEXT][...]
+Yellow also means "Caution!" in
+many cultures, though.
+[PAUSE:0A][...]
+Maybe we should be careful...[WAIT][END]
+
+#string:1A:0DC
+[STYLE:TATTLE][...]
+{Func_2B}It's a blue flower that guards a
+gate.
+[PAUSE:05][...]
+Blue... It's the color of the sea 
+and sky.
+[WAIT][NEXT][...]
+It's supposed to calm you. I also
+heard that it can ruin your
+appetite for some reason.
+[PAUSE:0A][...]
+Do you think that's true?[WAIT][END]
+
+#string:1A:0DD
+[STYLE:TATTLE][...]
+{Func_2B}This flower is named Petunia.
+[PAUSE:05][...]
+She's obsessed with Seeds.
+[PAUSE:05][...]
+She's pretty talkative.
+[WAIT][NEXT][...]
+She says she doesn't do anything
+with the Seeds. She just collects
+them.
+[WAIT][NEXT][...]
+Collecting Seeds? Talk about a
+boring hobby!
+[PAUSE:0A][...]
+Don't you think so, [PAUSE:05]Mario?[WAIT][END]
+
+#string:1A:0DE
+[STYLE:TATTLE][...]
+{Func_2B}She's Posie. [PAUSE:05]A lily.
+[PAUSE:05][...]
+She looks generous and kind,
+doesn't she?
+[WAIT][NEXT][...]
+Of course, sometimes the kindest
+looking characters turn into the
+scariest when you make 'em mad.[WAIT][END]
+
+#string:1A:0DF
+[STYLE:TATTLE][...]
+{Func_2B}That's Lily. She says she's
+guarding this spring.
+[PAUSE:05][...]
+I get the sense that she's easily
+distracted.
+[WAIT][NEXT][...]
+She's off in her own little world
+a lot of the time. It's kind of a
+problem if you want to get any
+information from her.
+[WAIT][NEXT][...]
+She seems to drift off even while
+you're talking to her.[WAIT][END]
+
+#string:1A:0E0
+[STYLE:TATTLE][...]
+{Func_2B}What do you know? A rose called
+Rosie! She loves it here in the
+garden.
+[PAUSE:05][...]
+She's pretty full of herself.
+[WAIT][NEXT][...]
+I guess she thinks she's the
+prettiest of all flowers.
+[WAIT][NEXT][...]
+She is quite beautiful...
+[PAUSE:0A][...]
+She has a strange way of
+expressing herself, though...[WAIT][END]
+
+#string:1A:0E1
+[STYLE:TATTLE][...]
+{Func_2B}It's the sun.
+[PAUSE:05][...]
+Some people call it the "Blessed
+Sun."
+[WAIT][NEXT][...]
+It's the source of life for
+flowers and trees. If it doesn't
+come out, eventually all plants
+wither away.
+[WAIT][NEXT][...]
+Sunshine makes me happy, too.[WAIT][END]
+
+#string:1A:0E2
+[STYLE:TATTLE][...]
+{Func_2B}This is Lakilester's girlfriend, 
+[PAUSE:03][...]
+Lakilulu.
+[WAIT][NEXT][...]
+When they have arguments, she
+never backs down.
+[PAUSE:05][...]
+What a cute couple![WAIT][END]
+
+#string:1A:0E3
+[STYLE:TATTLE][...]
+{Func_2B}It's a Bubble Plant.
+[WAIT][NEXT][...]
+It looks like blowing bubbles
+makes him really happy.[WAIT][END]
+
+#string:1A:0E4
+[STYLE:TATTLE][...]
+{Func_2B}These followers of Bowser run
+the Puff Puff Machine.
+[WAIT][NEXT][...]
+They're continuing their evil
+plan to fill this fair land with
+clouds.
+[WAIT][NEXT][...]
+Boy, Bowser and his goons think
+up the strangest ways to mess
+with our world, huh? They're
+really quite creative.[WAIT][END]
+
+#string:1A:0E5
+[STYLE:TATTLE][...]
+{Func_2B}She's the wife of Mayor Penguin,
+who's the mayor of Shiver City.
+[PAUSE:05][...]
+She has a bit of a problem with
+exaggeration.
+[WAIT][NEXT][...]
+She loves mystery novels and
+longs to be a great detective.
+[WAIT][NEXT][...]
+The way I see it, she's a bit too
+flighty to be a detective.
+[WAIT][NEXT][...]
+You, however... I think you'd
+make a great sleuth, Mario![WAIT][END]
+
+#string:1A:0E6
+[STYLE:TATTLE][...]
+{Func_2B}This is the mayor of Shiver City,
+Mayor Penguin.
+[WAIT][NEXT][...]
+He's a good friend of
+Herringway, another penguin.
+[PAUSE:05][...]
+Everyone in the village relies
+on him.
+[WAIT][NEXT][...]
+He's a little absentminded, but
+he does his job well.
+[WAIT][NEXT][...]
+I know I've seen him in Toad Town
+before. I wonder if he's been to
+the castle?
+[PAUSE:05][...]
+Ever seen him before, Mario?[WAIT][END]
+
+#string:1A:0E7
+[STYLE:TATTLE][...]
+{Func_2B}This penguin who likes gossip. He
+wanders around the city.[WAIT][END]
+
+#string:1A:0E8
+[STYLE:TATTLE][...]
+{Func_2B}He's a friendly penguin.
+[PAUSE:0A][...]
+He seems to be very fair.[WAIT][END]
+
+#string:1A:0E9
+[STYLE:TATTLE][...]
+{Func_2B}He's a cheerful penguin.
+[PAUSE:05][...]
+He looks fun but a bit reckless.[WAIT][END]
+
+#string:1A:0EA
+[STYLE:TATTLE][...]
+{Func_2B}There aren't many non-penguins,
+so we stand out in this city.
+[WAIT][NEXT][...]
+I wonder what this penguin
+thinks about us.[WAIT][END]
+
+#string:1A:0EB
+[STYLE:TATTLE][...]
+{Func_2B}He's the penguin who sells things
+in this shop.
+[PAUSE:05][...]
+He also keeps and buys items.
+[WAIT][NEXT][...]
+By the way, is it only my
+imagination or are you the only
+person who ever shops here? I've
+never seen anyone else here.[WAIT][END]
+
+#string:1A:0EC
+[STYLE:TATTLE][...]
+{Func_2B}This Toad of the northern lands
+runs the Toad House.
+[PAUSE:05][...]
+He was sent here from Princess 
+Peach's Castle.
+[WAIT][NEXT][...]
+It must be tough working in such
+a cold place.
+[PAUSE:05][...]
+I wonder what he does to keep
+his spirits up.[WAIT][END]
+
+#string:1A:0ED
+[STYLE:TATTLE][...]
+{Func_2B}These penguins love rumors. They
+gather together just to gossip.
+[PAUSE:0A][...]
+Especially about other people.
+[WAIT][NEXT][...]
+The tiniest little rumor will
+spread like wildfire around here
+if they hear it.
+[WAIT][NEXT][...]
+Their gossip stays in town,
+[PAUSE:0A][...]
+so that's something, at least.[WAIT][END]
+
+#string:1A:0EE
+[STYLE:TATTLE][...]
+{Func_2B}He likes rumors. He doesn't look
+like the adventurous type at all.
+[WAIT][NEXT][...]
+If he wants some excitement
+instead of just gossip, he should
+eat a Volt Shroom.
+[PAUSE:0A][...]
+That'd give him a jolt![WAIT][END]
+
+#string:1A:0EF
+[STYLE:TATTLE][...]
+{Func_2B}This penguin gossips, but at 
+least he takes the time to
+confirm rumors that he hears.
+[WAIT][NEXT][...]
+He can still be wrong, though.
+[WAIT][NEXT][...]
+It doesn't matter if he confirms
+his sources if the entire basis
+of the rumor is false.[WAIT][END]
+
+#string:1A:0F0
+[STYLE:TATTLE][...]
+{Func_2B}He's a pretty easygoing penguin
+who always gossips.
+[WAIT][NEXT][...]
+I mean, I like gossip, but...
+[PAUSE:05][...]
+don't these guys get bored
+recycling all the same rumors?[WAIT][END]
+
+#string:1A:0F1
+[STYLE:TATTLE][...]
+{Func_2B}This penguin likes to gossip.
+[PAUSE:05][...]
+He never goes outside the city,
+though. He just wanders around
+here, where it's safe.[WAIT][END]
+
+#string:1A:0F2
+[STYLE:TATTLE][...]
+{Func_2B}This penguin's been to the Dojo
+in Toad Town.
+[WAIT][NEXT][...]
+He likes to show off his
+certificate and compare it to
+ones other people got at the
+Dojo.[WAIT][END]
+
+#string:1A:0F3
+[STYLE:TATTLE][...]
+{Func_2B}He's the penguin patrol!
+Guardian of the city!
+[WAIT][NEXT][...]
+He does an adequate job as an
+investigator, but I wouldn't
+count on his skills too much.
+[WAIT][NEXT][...]
+When trouble arises, I think that
+Mario is the best man for the
+job![WAIT][END]
+
+#string:1A:0F4
+[STYLE:TATTLE][...]
+{Func_2B}This penguin is the gatekeeper.
+He guards the city gate night
+and day.
+[WAIT][NEXT][...]
+He keeps track of anyone coming
+or going through Shiver City.[WAIT][END]
+
+#string:1A:0F5
+[STYLE:TATTLE][...]
+{Func_2B}This penguin made a secret room
+in his house to hide in. What a
+cool idea!
+[PAUSE:05][...]
+He's a friend of Mayor Penguin.
+[WAIT][NEXT][...]
+His name is Herringway, and he
+writes mystery novels.
+[WAIT][NEXT][...]
+His secret study, where he
+writes his novels, is on the
+second floor.
+[WAIT][NEXT][...]
+I imagine that he has lots of
+fans in this city, so I can see
+why he'd need a secret room.
+[WAIT][NEXT][...]
+I wouldn't mind reading one of
+his novels someday.[WAIT][END]
+
+#string:1A:0F6
+[STYLE:TATTLE][...]
+{Func_2B}This penguin has mastered many
+ways to play with snow and ice.
+[PAUSE:05][...]
+He looks like he could have fun
+anywhere cold.[WAIT][END]
+
+#string:1A:0F7
+[STYLE:TATTLE][...]
+{Func_2B}This penguin likes skating,
+[PAUSE:05][...]
+but he likes rumors even more.
+Boy, penguins sure do love their
+rumors, huh?[WAIT][END]
+
+#string:1A:0F8
+[STYLE:TATTLE][...]
+{Func_2B}This penguin is guarding the
+warehouse.
+[PAUSE:05][...]
+But he lost the Warehouse Key.
+[WAIT][NEXT][...]
+...Not the best job of guarding.
+[PAUSE:05][...]
+I guess he figures that he'll
+just stand there staring and
+pretend he's doing a good job.[WAIT][END]
+
+#string:1A:0F9
+[STYLE:TATTLE][...]
+{Func_2B}This penguin's camped out by
+Herringway's house.
+[WAIT][NEXT][...]
+What's he staring at? Is he even
+awake?
+[PAUSE:08][...]
+He really enjoys looking up at
+the night sky.[WAIT][END]
+
+#string:1A:0FA
+[STYLE:TATTLE][...]
+{Func_2B}He's a timid penguin.
+[PAUSE:05][...]
+He's terrified of the unknown
+and is constantly jumping.
+[WAIT][NEXT][...]
+I wonder who's a bigger coward,
+this guy or the Toad at Forever
+Forest?
+[PAUSE:0A][...]
+My money's on the Toad.[WAIT][END]
+
+#string:1A:0FB
+[STYLE:TATTLE][...]
+{Func_2B}He's Merle, the person who
+controls this valley.
+[PAUSE:0A][...]
+He's the one who called you.
+[PAUSE:0A][...]
+He's the son of Merlon.
+[WAIT][NEXT][...]
+That means...
+[WAIT][NEXT][...]
+Merle must be the father of the
+fortune-tellers Merluvlee and
+Merlow.[WAIT][END]
+
+#string:1A:0FC
+[STYLE:TATTLE][...]
+{Func_2B}This Toad is taking care of the
+Star Kids.
+[PAUSE:05][...]
+He's dressed for the weather.
+[WAIT][NEXT][...]
+I don't know why he needs to
+dress in such warm clothes. His
+head looks like it'd keep him
+warm all by itself.[WAIT][END]
+
+#string:1A:0FD
+[STYLE:TATTLE][...]
+{Func_2B}This Toad is taking care of the
+Star Kids.
+[WAIT][NEXT][...]
+It must be tough running after
+such rascals in deep snow.
+[WAIT][NEXT][...]
+I mean, Star Kids can fly! It's
+gotta be tough for a Toad to
+keep track of 'em while walking
+on the ground.[WAIT][END]
+
+#string:1A:0FE
+[STYLE:TATTLE][...]
+{Func_2B}This Toad is taking care of the
+Star Kids.
+[WAIT][NEXT][...]
+Some people say that taking
+care of kids is like fighting a
+war every day.
+[WAIT][NEXT][...]
+I think these Star Kids are OK,
+though. I'm sure they're grateful
+for their baby-sitter's hard
+work.[WAIT][END]
+
+#string:1A:0FF
+[STYLE:TATTLE][...]
+{Func_2B}He's one of the Ninjis.
+[WAIT][NEXT][...]
+The Ninjis are taking care of
+the Star Kids.
+[PAUSE:05][...]
+Merle is in charge. He seems
+really busy, though.[WAIT][END]
+
+#string:1A:100
+[STYLE:TATTLE][...]
+{Func_2B}He's one of the Ninjis.
+[WAIT][NEXT][...]
+Because the Ninjis are so small,
+it must be hard for 'em to keep
+the Star Kids in line.[WAIT][END]
+
+#string:1A:101
+[STYLE:TATTLE][...]
+{Func_2B}He's one of the Ninjis.
+[WAIT][NEXT][...]
+The Ninjis are excellent
+baby-sitters for the Star Kids.
+Of course, they have to run
+around constantly, but hey.
+[WAIT][NEXT][...]
+They're working really hard.[WAIT][END]
+
+#string:1A:102
+[STYLE:TATTLE][...]
+{Func_2B}He's a Star Kid who isn't allowed
+to go up to the sky.
+[PAUSE:05][...]
+It doesn't seem to have
+affected his spirits, though.
+[WAIT][NEXT][...]
+It's no use worrying about these
+little guys now, Mario. We'll
+help 'em soon![WAIT][END]
+
+#string:1A:103
+[STYLE:TATTLE][...]
+{Func_2B}It's one of the Star Kids.
+[WAIT][NEXT][...]
+Hey, maybe if we make friends
+with the Star Kids now, they'll
+grant us tons of wishes later![WAIT][END]
+
+#string:1A:104
+[STYLE:TATTLE][...]
+{Func_2B}This Star Kid thinks he's made
+himself invisible.
+[PAUSE:05][...]
+He wants to go up to the sky.
+[WAIT][NEXT][...]
+OK, but,
+[PAUSE:0F][...]
+it's hard to imagine this little
+prankster granting anyone's
+wishes...[WAIT][END]
+
+#string:1A:105
+[STYLE:TATTLE][...]
+{Func_2B}He's a Toad.
+[PAUSE:05][...]
+He was sent here from Princess
+Peach's Castle. He runs the local
+Toad House.
+[WAIT][NEXT][...]
+He doesn't have to take care of
+any Star Kids.
+[PAUSE:05][...]
+He has his own job.[WAIT][END]
+
+#string:1A:106
+[STYLE:TATTLE][...]
+{Func_2B}He's one of the Ninjis.
+[PAUSE:05][...]
+The Ninjis take care of the Star
+Kids.
+[PAUSE:05][...]
+I hear that they're great cooks.[WAIT][END]
+
+#string:1A:107
+[STYLE:TATTLE][...]
+{Func_2B}It's a Star Kid--just a baby.
+[PAUSE:05][...]
+Star Kids are so full of life,
+aren't they?
+[WAIT][NEXT][...]
+I always wanted a younger
+brother, you know.
+[PAUSE:0A][...]
+It would be fun to get into
+hijinks with a little bro.[WAIT][END]
+
+#string:1A:108
+[STYLE:TATTLE][...]
+{Func_2B}It's a Star Kid. She's so cute!
+[PAUSE:0F][...]
+She reminds me of Goombaria.[WAIT][END]
+
+#string:1A:109
+[STYLE:TATTLE][...]
+{Func_2B}It's a Star kid.
+[PAUSE:05][...]
+He wants a younger brother.
+Hey, so do I!
+[WAIT][NEXT][...]
+I hope he becomes a great star
+one day.[WAIT][END]
+
+#string:1A:10A
+[STYLE:TATTLE][...]
+{Func_2B}It's a snowman.
+[WAIT][NEXT][...]
+There're so many of snowmen!
+[PAUSE:0A][...]
+They don't melt because it's cold
+here.
+[WAIT][NEXT][...]
+The way they're standing...they
+remind me of gatekeepers.[WAIT][END]
+
+#string:1A:10B
+[STYLE:TATTLE][...]
+{Func_2B}This is an Albino Dino.
+[PAUSE:0A][...]
+He looks exactly like that stone
+statue over there.
+[WAIT][NEXT][...]
+He's a guard for this palace.
+[WAIT][NEXT][...]
+I never thought you could talk to
+these creatures! Wouldn't it be
+something if we made friends
+with these guys?
+[WAIT][NEXT][...]
+You know,
+[PAUSE:03][...]
+it seems that they like facing
+us when we talk to 'em.[WAIT][END]
+
+#string:1A:10C
+[STYLE:TATTLE][...]
+{Func_2B}This Star sells things in this
+shop.
+[PAUSE:05][...]
+He also checks and buys items.
+[WAIT][NEXT][...]
+There must be some extremely
+rare items here.
+[PAUSE:0A][...]
+Did you find anything good,
+[PAUSE:05][...]
+Mario?[WAIT][END]
+
+#string:1A:10D
+[STYLE:TATTLE][...]
+{Func_2B}He's running an inn.
+[PAUSE:05][...]
+It's just like a Toad House.
+[WAIT][NEXT][...]
+I never thought we'd find one in
+Star Haven.
+[WAIT][NEXT][...]
+This is the first time I've seen
+a Toad House with no Toad.[WAIT][END]
+
+#string:1A:10E
+[STYLE:TATTLE][...]
+{Func_2B}He's a Star Haven resident.
+[WAIT][NEXT][...]
+He doesn't look well.
+[PAUSE:05][...]
+Doesn't he know that we rescued
+all the Star Spirits?[WAIT][END]
+
+#string:1A:10F
+[STYLE:TATTLE][...]
+{Func_2B}He's a Star Haven resident.
+[WAIT][NEXT][...]
+He looks like he doesn't have a
+care, even though Bowser still
+has the Star Rod.
+[WAIT][NEXT][...]
+He probably thinks he can't help.
+[WAIT][NEXT][...]
+Well, to tell the truth, he
+probably can't, but
+[PAUSE:05][...]
+shouldn't he at least show a
+little bit of concern?[WAIT][END]
+
+#string:1A:110
+[STYLE:TATTLE][...]
+{Func_2B}It's a Star Haven resident.
+[WAIT][NEXT][...]
+It's sad that these wish-
+granters aren't more energetic.
+[PAUSE:05][...]
+Only the Star Spirits are lively.[WAIT][END]
+
+#string:1A:111
+[STYLE:TATTLE][...]
+{Func_2B}It's a Star Haven resident.
+[WAIT][NEXT][...]
+These guys believe that
+everything will be fine since
+the Star Spirits have returned.
+[WAIT][NEXT][...]
+There's still work to be done!
+[WAIT][NEXT][...]
+I mean, I'm sure it seems great
+to have the Star Spirits back,
+but the fight's not over![WAIT][END]
+
+#string:1A:112
+[STYLE:TATTLE][...]
+{Func_2B}It's a Star Haven resident.
+[WAIT][NEXT][...]
+He's filled with hope, now that
+the Star Spirits are back.
+[WAIT][NEXT][...]
+It must be tough to wish on a
+Star when you happen to be a
+Star yourself.[WAIT][END]
+
+#string:1A:113
+[STYLE:TATTLE][...]
+{Func_2B}This Toad worked in the castle.
+[PAUSE:0A][...]
+Even though he's in a fix, he's
+still worrying about Princess
+Peach.
+[WAIT][NEXT][...]
+What a brave soul! Doesn't he
+know that people are worried
+about him back home?[WAIT][END]
+
+#string:1A:114
+[STYLE:TATTLE][...]
+{Func_2B}This Toad's been captured.
+[PAUSE:05][...]
+He looks like he's all right.
+[WAIT][NEXT][...]
+I wonder where he worked in
+Peach's Castle?[WAIT][END]
+
+#string:1A:115
+[STYLE:TATTLE][...]
+{Func_2B}He was a soldier at Princess
+Peach's Castle. He was captured
+in the takeover.
+[WAIT][NEXT][...]
+That must have been a pretty
+bad scene.
+[WAIT][NEXT][...]
+He looks like he's recovering.[WAIT][END]
+
+#string:1A:116
+[STYLE:TATTLE][...]
+{Func_2B}This is the Toad Minister.
+[PAUSE:05][...]
+Uh... Pleasure to meet you! My
+name is Goombario, sir.
+[PAUSE:05][...]
+I'm Mario's right hand, sir.
+[WAIT][NEXT][...]
+Just joking.
+[PAUSE:0A][...]
+But seriously, one day I'd love
+to be invited to a castle party.
+How about it?[WAIT][END]
+
+#string:1A:117
+[STYLE:TATTLE][...]
+{Func_2B}This Toad's been captured.
+[PAUSE:05][...]
+Somehow he's been able to set up
+a Toad House here. How lucky for
+us![WAIT][END]
+
+#string:1A:118
+[STYLE:TATTLE][...]
+{Func_2B}This Toad's been captured.
+[PAUSE:05][...]
+It must've been scary to be 
+captured, but he looks like he's
+all in one piece.[WAIT][END]
+
+#string:1A:119
+[STYLE:TATTLE][...]
+{Func_2B}He's one of the captured Toad
+Soldiers.
+[PAUSE:0A][...]
+These guys are counting on you!
+[WAIT][NEXT][...]
+Let's not let 'em down![WAIT][END]
+
+#string:1A:11A
+[STYLE:TATTLE][...]
+{Func_2B}It's a Dryite.
+[WAIT][NEXT][...]
+He came to the party and was
+dragged into this mess.
+[PAUSE:05][...]
+He seems to be really cold. He 
+must miss the desert.
+[WAIT][NEXT][...]
+We have to defeat Bowser as
+fast as we can and get all these
+brave folks back home.[WAIT][END]
+
+#string:1A:11B
+[STYLE:TATTLE][...]
+{Func_2B}This Toad's been captured.
+[PAUSE:05][...]
+He's set up a Toad House.
+[PAUSE:05][...]
+We should be thankful for his
+sacrifice.[WAIT][END]
+
+#string:1A:11C
+[STYLE:TATTLE][...]
+{Func_2B}This Toad's been captured.
+[PAUSE:05][...]
+He spends his days worrying
+about other people.
+[WAIT][NEXT][...]
+I guess he doesn't realize how
+many people are worried about
+him.
+[WAIT][NEXT][...]
+We have to get him home to the
+people who miss him.
+[PAUSE:05][...]
+We must![WAIT][END]
+
+#string:1A:11D
+[STYLE:TATTLE][...]
+{Func_2B}He's a soldier from Peach's
+Castle. He says he's ashamed
+that he failed.
+[WAIT][NEXT][...]
+He and the others tried their
+best, but they were overcome by
+Bowser's troops.
+[WAIT][NEXT][...]
+The fiends who follow Bowser
+must be tough customers...[WAIT][END]
+
+#string:1A:11E
+[STYLE:TATTLE][...]
+{Func_2B}It's a penguin from Shiver City.
+[WAIT][NEXT][...]
+I wonder how he scored an
+invitation to the party? He must
+know somebody at the castle or
+something.
+[WAIT][NEXT][...]
+Or maybe he was just wandering
+and got lost...
+[PAUSE:0A][...]
+I never get lost.[WAIT][END]
+
+#string:1A:11F
+[STYLE:TATTLE][...]
+{Func_2B}He's one of Bowser's followers.
+[PAUSE:05][...]
+He got bored guarding the
+storage room and decided to
+start selling stuff.
+[WAIT][NEXT][...]
+Wow, his job must have been
+really, really boring. I can
+imagine.
+[WAIT][NEXT][...]
+You've gotta wonder, though...
+I bet if someone found out that
+he sold stuff to Mario, he'd get
+punished big time.
+[WAIT][NEXT][...]
+Maybe he doesn't know who you
+are, though...[WAIT][END]
+
+#string:1A:120
+[STYLE:TATTLE][...]
+{Func_2B}It looks like Princess Peach,
+but something just doesn't seem
+right...
+[WAIT][NEXT][...]
+I mean, I've never met the
+Princess, but I thought she was
+more...sweet.
+[WAIT][NEXT][...]
+Hey Mario,
+[PAUSE:0A][...]
+is she [PAUSE:03]really Princess Peach?[WAIT][END]
+
+#string:1A:121
+[STYLE:TATTLE][...]
+{Func_2B}This Toad was hiding out in that
+chest. He's gonna open a Toad
+House here.
+[WAIT][NEXT][...]
+Hey Mario,
+[PAUSE:0A][...]
+isn't that a stroke of luck?
+We'll be able to take a rest.[WAIT][END]
+

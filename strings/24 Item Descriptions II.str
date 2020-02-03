@@ -1,0 +1,904 @@
+#string:24:000
+A flower that burns all enemies 
+with fireballs. Attack Power: 3[END]
+
+#string:24:001
+A snowman that crushes all
+enemies. Attack Power: 4[END]
+
+#string:24:002
+Lightning that strikes all
+enemies. Attack Power: 5[END]
+
+#string:24:003
+Lightning that strikes an enemy.
+Attack Power: 5[END]
+
+#string:24:004
+Shooting stars that hit all
+enemies. Attack Power: 6[END]
+
+#string:24:005
+A dusty old Hammer. Throw it to
+damage an enemy.[END]
+
+#string:24:006
+A common pebble. Throw it to
+damage an enemy.[END]
+
+#string:24:007
+Turns Mario to stone and makes
+him unable to move for a while. [END]
+
+#string:24:008
+Electrifies Mario briefly and
+damages enemies who touch him.[END]
+
+#string:24:009
+A regular Mushroom. Restores
+5 HP.[END]
+
+#string:24:00A
+A truly super Mushroom.
+Restores 10 HP.[END]
+
+#string:24:00B
+An ultra-fine Mushroom. Restores
+50 HP.[END]
+
+#string:24:00C
+A life-giving Mushroom. Restores
+10 HP when Mario's HP hits 0.[END]
+
+#string:24:00D
+A very dry Mushroom. Restores
+1 HP.[END]
+
+#string:24:00E
+A very tasty tonic. Cures
+poisoning and shrinking.[END]
+
+#string:24:00F
+A bubbly soda. Cures shrinking or
+poisoning and restores 5 FP.[END]
+
+#string:24:010
+no data[END]
+
+#string:24:011
+no data[END]
+
+#string:24:012
+no data[END]
+
+#string:24:013
+no data[END]
+
+#string:24:014
+no data[END]
+
+#string:24:015
+no data[END]
+
+#string:24:016
+Sweet honey syrup. Restores
+5 FP.[END]
+
+#string:24:017
+Delicious maple syrup. Restores
+10 FP.[END]
+
+#string:24:018
+A highly nutritious snack.
+Restores 50 FP.[END]
+
+#string:24:019
+no data[END]
+
+#string:24:01A
+no data[END]
+
+#string:24:01B
+no data
+[END]
+
+#string:24:01C
+no data[END]
+
+#string:24:01D
+Pasta from Dry Dry Outpost.
+Restores 3 HP and 2 FP.[END]
+
+#string:24:01E
+no data[END]
+
+#string:24:01F
+no data[END]
+
+#string:24:020
+no data
+[END]
+
+#string:24:021
+no data[END]
+
+#string:24:022
+no data[END]
+
+#string:24:023
+no data[END]
+
+#string:24:024
+no data[END]
+
+#string:24:025
+no data[END]
+
+#string:24:026
+If it works, makes all enemies 
+sleep for a little while.[END]
+
+#string:24:027
+Flips shell enemies and inflicts
+2 damage points on all enemies.[END]
+
+#string:24:028
+If it works, paralyzes all
+enemies for a short time.[END]
+
+#string:24:029
+If it works, dazes and paralyzes
+all enemies briefly.
+[END]
+
+#string:24:02A
+Makes a scary spirit appear and
+chase some enemies away.[END]
+
+#string:24:02B
+Who knows what it does... Take a
+chance to find out![END]
+
+#string:24:02C
+Makes Mario transparent and
+invulnerable for a short time. [END]
+
+#string:24:02D
+nothing[END]
+
+#string:24:02E
+nothing[END]
+
+#string:24:02F
+nothing[END]
+
+#string:24:030
+nothing[END]
+
+#string:24:031
+nothing[END]
+
+#string:24:032
+nothing[END]
+
+#string:24:033
+nothing[END]
+
+#string:24:034
+nothing[END]
+
+#string:24:035
+nothing[END]
+
+#string:24:036
+nothing[END]
+
+#string:24:037
+nothing[END]
+
+#string:24:038
+nothing[END]
+
+#string:24:039
+nothing[END]
+
+#string:24:03A
+nothing[END]
+
+#string:24:03B
+nothing[END]
+
+#string:24:03C
+nothing[END]
+
+#string:24:03D
+nothing[END]
+
+#string:24:03E
+nothing[END]
+
+#string:24:03F
+nothing[END]
+
+#string:24:040
+nothing[END]
+
+#string:24:041
+nothing[END]
+
+#string:24:042
+nothing[END]
+
+#string:24:043
+nothing[END]
+
+#string:24:044
+nothing[END]
+
+#string:24:045
+nothing[END]
+
+#string:24:046
+nothing[END]
+
+#string:24:047
+nothing[END]
+
+#string:24:048
+nothing[END]
+
+#string:24:049
+nothing[END]
+
+#string:24:04A
+nothing[END]
+
+#string:24:04B
+nothing[END]
+
+#string:24:04C
+nothing[END]
+
+#string:24:04D
+nothing[END]
+
+#string:24:04E
+nothing[END]
+
+#string:24:04F
+nothing[END]
+
+#string:24:050
+nothing[END]
+
+#string:24:051
+nothing[END]
+
+#string:24:052
+nothing[END]
+
+#string:24:053
+nothing[END]
+
+#string:24:054
+nothing[END]
+
+#string:24:055
+nothing[END]
+
+#string:24:056
+nothing[END]
+
+#string:24:057
+nothing[END]
+
+#string:24:058
+Mario stomps on a single enemy
+using a lot of attack power.[END]
+
+#string:24:059
+Mario stomps on a single enemy
+using tons of attack power.[END]
+
+#string:24:05A
+When charged, Mario's Jump
+power goes up by 2.[END]
+
+#string:24:05B
+When supercharged, Mario's Jump
+power goes up by 3.[END]
+
+#string:24:05C
+If it works, the enemy Mario
+jumps on falls asleep for a bit.[END]
+
+#string:24:05D
+If it works, the enemy Mario 
+jumps on becomes dizzy.[END]
+
+#string:24:05E
+Jumps on all enemies in a row if
+action command is timed right.[END]
+
+#string:24:05F
+If it works, the enemy shrinks.
+Its attack power decreases.[END]
+
+#string:24:060
+Disables an enemy's defense
+power and causes some damage.[END]
+
+#string:24:061
+Jumps on one enemy continuously 
+until you miss an action command.[END]
+
+#string:24:062
+Hammers an enemy using lots of
+attack power.[END]
+
+#string:24:063
+Hammers an enemy with a huge
+amount of attack power.[END]
+
+#string:24:064
+When charged, Mario's Hammer
+power goes up by 2.[END]
+
+#string:24:065
+When supercharged, Mario's 
+Hammer power goes up by 3.[END]
+
+#string:24:066
+Hits one enemy with the Hammer,
+no matter where the enemy is. [END]
+
+#string:24:067
+If it works, the enemy shrinks.
+Its attack power decreases.[END]
+
+#string:24:068
+If Mario hits an enemy, it
+smashes into the ones behind it.[END]
+
+#string:24:069
+Disables an enemy's defense
+power and injures it.[END]
+
+#string:24:06A
+Slightly damages all enemies 
+on the ground or ceiling.[END]
+
+#string:24:06B
+Greatly damages all enemies 
+on the ground or ceiling.[END]
+
+#string:24:06C
+Severely damages all enemies
+on the ground or ceiling.[END]
+
+#string:24:06D
+During battle, lets you use two
+items during one turn.[END]
+
+#string:24:06E
+During battle, lets you use three
+items during one turn.[END]
+
+#string:24:06F
+Lets Mario's party members use
+the Focus command as well.[END]
+
+#string:24:070
+Changes your party member and
+attacks with it on that turn.[END]
+
+#string:24:071
+Increases maximum HP by 5.[END]
+
+#string:24:072
+Increases maximum FP by 5.[END]
+
+#string:24:073
+Increases Mario's Jump and
+Hammer attack powers by 1.[END]
+
+#string:24:074
+Decreases the damage that
+Mario takes by 1.[END]
+
+#string:24:075
+If you do the action command,
+decreases Mario's damage by 1.[END]
+
+#string:24:076
+Increases attack power by 1.
+Decreases defense power by 1.[END]
+
+#string:24:077
+Decreases attack power by 1.
+Increases defense power by 1.[END]
+
+#string:24:078
+Decreases Mario's attack power 
+by 1. Restores 1 HP per turn.[END]
+
+#string:24:079
+Restores HP automatically during
+battle at a slow rate.[END]
+
+#string:24:07A
+Restores FP automatically during
+battle at a slow rate.[END]
+
+#string:24:07B
+During battle, saves 1 FP every
+time you attack. [END]
+
+#string:24:07C
+After beating an enemy, makes
+more hearts appear than usual.[END]
+
+#string:24:07D
+After beating an enemy, makes 
+more flowers appear than usual.[END]
+
+#string:24:07E
+When using Focus, charges Star
+Energy more than usual.[END]
+
+#string:24:07F
+Lets Mario jump on a spiked
+enemy without taking damage.[END]
+
+#string:24:080
+Makes the action command work
+more frequently.[END]
+
+#string:24:081
+Makes enemies fail to attack
+Mario every once in a while.[END]
+
+#string:24:082
+Sometimes makes enemies fail to
+attack Mario.[END]
+
+#string:24:083
+When Mario's in Danger, enemies
+sometimes fail to attack.[END]
+
+#string:24:084
+When Mario's in Danger, his
+attack power increases by 2.[END]
+
+#string:24:085
+When Mario's in Danger, he
+receives only half the damage.[END]
+
+#string:24:086
+When Mario's in Peril, his
+attack power goes up by 4.   [END]
+
+#string:24:087
+Lets Mario destroy a weaker 
+enemy with a First Strike.  [END]
+
+#string:24:088
+Lets Mario destroy a weaker
+enemy in the field by hitting it.[END]
+
+#string:24:089
+Lets Mario destroy a weaker
+enemy with a spinning move.[END]
+
+#string:24:08A
+Delivers a blow that makes an
+enemy dizzy and unable to move.[END]
+
+#string:24:08B
+Increases the distance Mario
+can Spin Dash.[END]
+
+#string:24:08C
+Protects Mario from poisoning
+and dizziness during attack.[END]
+
+#string:24:08D
+Changes the sound effects when
+Mario's attacking.[END]
+
+#string:24:08E
+Changes the sound effects when
+Mario's attacking.[END]
+
+#string:24:08F
+Changes the sound effects when
+Mario's attacking.[END]
+
+#string:24:090
+Changes the sound effects when
+Mario's attacking.[END]
+
+#string:24:091
+Changes the sound effects when
+Mario's attacking.[END]
+
+#string:24:092
+Changes the sound effects
+when Mario's attacking.[END]
+
+#string:24:093
+If the action command works,
+attack power +1. If not, it's 0.[END]
+
+#string:24:094
+Makes Mario unable to run. His
+pace becomes very slow.[END]
+
+#string:24:095
+Increases attack power against
+fire enemies by 2.  [END]
+
+#string:24:096
+The more damage Mario takes,
+the more coins he receives.[END]
+
+#string:24:097
+Makes the damage Mario takes
+from fire attacks go down by 1.[END]
+
+#string:24:098
+Keeps you from being hit by a
+First Strike.[END]
+
+#string:24:099
+In battle, makes most enemies
+who touch Mario take damage.  [END]
+
+#string:24:09A
+After a battle, lets Mario get
+twice as many coins as usual.[END]
+
+#string:24:09B
+Makes the action command work
+every time Mario attacks.[END]
+
+#string:24:09C
+Lets Mario earn Star Points
+even if he escapes from battle. [END]
+
+#string:24:09D
+Refunds some coins if you use an
+item in battle.[END]
+
+#string:24:09E
+A sound and icon alert you to a
+nearby hidden panel.[END]
+
+#string:24:09F
+Makes it possible to see your
+enemy's HP.[END]
+
+#string:24:0A0
+no data[END]
+
+#string:24:0A1
+no data[END]
+
+#string:24:0A2
+no data[END]
+
+#string:24:0A3
+no data[END]
+
+#string:24:0A4
+no data[END]
+
+#string:24:0A5
+no data[END]
+
+#string:24:0A6
+no data[END]
+
+#string:24:0A7
+nothing[END]
+
+#string:24:0A8
+nothing[END]
+
+#string:24:0A9
+nothing[END]
+
+#string:24:0AA
+nothing[END]
+
+#string:24:0AB
+nothing[END]
+
+#string:24:0AC
+nothing[END]
+
+#string:24:0AD
+nothing[END]
+
+#string:24:0AE
+nothing[END]
+
+#string:24:0AF
+nothing[END]
+
+#string:24:0B0
+nothing[END]
+
+#string:24:0B1
+nothing[END]
+
+#string:24:0B2
+nothing[END]
+
+#string:24:0B3
+nothing[END]
+
+#string:24:0B4
+nothing[END]
+
+#string:24:0B5
+nothing[END]
+
+#string:24:0B6
+nothing[END]
+
+#string:24:0B7
+nothing[END]
+
+#string:24:0B8
+nothing[END]
+
+#string:24:0B9
+nothing[END]
+
+#string:24:0BA
+nothing[END]
+
+#string:24:0BB
+nothing[END]
+
+#string:24:0BC
+nothing[END]
+
+#string:24:0BD
+nothing[END]
+
+#string:24:0BE
+nothing[END]
+
+#string:24:0BF
+nothing[END]
+
+#string:24:0C0
+nothing[END]
+
+#string:24:0C1
+nothing[END]
+
+#string:24:0C2
+nothing[END]
+
+#string:24:0C3
+nothing[END]
+
+#string:24:0C4
+nothing[END]
+
+#string:24:0C5
+nothing[END]
+
+#string:24:0C6
+nothing[END]
+
+#string:24:0C7
+nothing[END]
+
+#string:24:0C8
+nothing[END]
+
+#string:24:0C9
+nothing[END]
+
+#string:24:0CA
+nothing[END]
+
+#string:24:0CB
+nothing[END]
+
+#string:24:0CC
+nothing[END]
+
+#string:24:0CD
+nothing[END]
+
+#string:24:0CE
+nothing[END]
+
+#string:24:0CF
+nothing[END]
+
+#string:24:0D0
+nothing[END]
+
+#string:24:0D1
+nothing[END]
+
+#string:24:0D2
+nothing[END]
+
+#string:24:0D3
+nothing[END]
+
+#string:24:0D4
+nothing[END]
+
+#string:24:0D5
+nothing[END]
+
+#string:24:0D6
+nothing[END]
+
+#string:24:0D7
+nothing[END]
+
+#string:24:0D8
+no data[END]
+
+#string:24:0D9
+no data[END]
+
+#string:24:0DA
+no data[END]
+
+#string:24:0DB
+no data[END]
+
+#string:24:0DC
+no data[END]
+
+#string:24:0DD
+no data[END]
+
+#string:24:0DE
+no data[END]
+
+#string:24:0DF
+no data[END]
+
+#string:24:0E0
+no data[END]
+
+#string:24:0E1
+no data[END]
+
+#string:24:0E2
+no data[END]
+
+#string:24:0E3
+no data[END]
+
+#string:24:0E4
+no data[END]
+
+#string:24:0E5
+no data[END]
+
+#string:24:0E6
+no data[END]
+
+#string:24:0E7
+no data[END]
+
+#string:24:0E8
+no data[END]
+
+#string:24:0E9
+no data[END]
+
+#string:24:0EA
+no data[END]
+
+#string:24:0EB
+no data[END]
+
+#string:24:0EC
+no data[END]
+
+#string:24:0ED
+no data[END]
+
+#string:24:0EE
+no data[END]
+
+#string:24:0EF
+no data[END]
+
+#string:24:0F0
+no data[END]
+
+#string:24:0F1
+no data[END]
+
+#string:24:0F2
+no data[END]
+
+#string:24:0F3
+no data[END]
+
+#string:24:0F4
+no data[END]
+
+#string:24:0F5
+no data[END]
+
+#string:24:0F6
+no data[END]
+
+#string:24:0F7
+no data[END]
+
+#string:24:0F8
+no data[END]
+
+#string:24:0F9
+no data[END]
+
+#string:24:0FA
+no data[END]
+
+#string:24:0FB
+no data[END]
+
+#string:24:0FC
+no data[END]
+
+#string:24:0FD
+no data[END]
+
+#string:24:0FE
+no data[END]
+
+#string:24:0FF
+no data[END]
+
+#string:24:100
+no data[END]
+
+#string:24:101
+no data[END]
+
+#string:24:102
+no data[END]
+
+#string:24:103
+none[END]
+
+#string:24:104
+none[END]
+
+#string:24:105
+none[END]
+
+#string:24:106
+none[END]
+
+#string:24:107
+none[END]
+
+#string:24:108
+none[END]
+
+#string:24:109
+none[END]
+
+#string:24:10A
+none[END]
+
+#string:24:10B
+none[END]
+

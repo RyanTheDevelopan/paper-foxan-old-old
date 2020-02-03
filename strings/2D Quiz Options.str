@@ -1,0 +1,448 @@
+#string:2D:000
+[STYLE:CHOICE:64:46:78:3E][...]
+{DelayOff}{Cursor:00}{Option:00}Goombette
+{Cursor:01}{Option:01}Goombalina
+{Cursor:02}{Option:02}Goombaria
+{Option:FF}{DelayOn}{EndChoice:03}{Func_04}[END]
+
+#string:2D:001
+[STYLE:CHOICE:75:46:56:3E][...]
+{DelayOff}{Cursor:00}{Option:00}Red
+{Cursor:01}{Option:01}Yellow
+{Cursor:02}{Option:02}Gray
+{Option:FF}{DelayOn}{EndChoice:03}{Func_04}[END]
+
+#string:2D:002
+[STYLE:CHOICE:72:46:5C:3E][...]
+{DelayOff}{Cursor:00}{Option:00}Jump
+{Cursor:01}{Option:01}Tattle
+{Cursor:02}{Option:02}Dive
+{Option:FF}{DelayOn}{EndChoice:03}{Func_04}[END]
+
+#string:2D:003
+[STYLE:CHOICE:56:46:94:3E][...]
+{DelayOff}{Cursor:00}{Option:00}Blue and White
+{Cursor:01}{Option:01}Red and Blue
+{Cursor:02}{Option:02}Red and White
+{Option:FF}{DelayOn}{EndChoice:03}{Func_04}[END]
+
+#string:2D:004
+[STYLE:CHOICE:62:46:7C:3E][...]
+{DelayOff}{Cursor:00}{Option:00}Jump
+{Cursor:01}{Option:01}Item
+{Cursor:02}{Option:02}Strategies
+{Option:FF}{DelayOn}{EndChoice:03}{Func_04}[END]
+
+#string:2D:005
+[STYLE:CHOICE:75:46:56:3E][...]
+{DelayOff}{Cursor:00}{Option:00}One
+{Cursor:01}{Option:01}Two
+{Cursor:02}{Option:02}Three
+{Option:FF}{DelayOn}{EndChoice:03}{Func_04}[END]
+
+#string:2D:006
+[STYLE:CHOICE:5F:46:82:3E][...]
+{DelayOff}{Cursor:00}{Option:00}Dr. Goomba
+{Cursor:01}{Option:01}Big Goom
+{Cursor:02}{Option:02}Goomba King
+{Option:FF}{DelayOn}{EndChoice:03}{Func_04}[END]
+
+#string:2D:007
+[STYLE:CHOICE:75:46:56:3E][...]
+{DelayOff}{Cursor:00}{Option:00}Blue
+{Cursor:01}{Option:01}Green
+{Cursor:02}{Option:02}Yellow
+{Option:FF}{DelayOn}{EndChoice:03}{Func_04}[END]
+
+#string:2D:008
+[STYLE:CHOICE:79:46:4E:3E][...]
+{DelayOff}{Cursor:00}{Option:00}Four
+{Cursor:01}{Option:01}Five
+{Cursor:02}{Option:02}Six
+{Option:FF}{DelayOn}{EndChoice:03}{Func_04}[END]
+
+#string:2D:009
+[STYLE:CHOICE:63:46:7A:3E][...]
+{DelayOff}{Cursor:00}{Option:00}It's me[HEART]
+{Cursor:01}{Option:01}Star Piece
+{Cursor:02}{Option:02}Mushroom
+{Option:FF}{DelayOn}{EndChoice:03}{Func_04}[END]
+
+#string:2D:00A
+[STYLE:CHOICE:6A:46:6C:3E][...]
+{DelayOff}{Cursor:00}{Option:00}Russ T.
+{Cursor:01}{Option:01}Smarr T.
+{Cursor:02}{Option:02}Toace T.
+{Option:FF}{DelayOn}{EndChoice:03}{Func_04}[END]
+
+#string:2D:00B
+[STYLE:CHOICE:79:46:4E:3E][...]
+{DelayOff}{Cursor:00}{Option:00}Four
+{Cursor:01}{Option:01}Five
+{Cursor:02}{Option:02}Six
+{Option:FF}{DelayOn}{EndChoice:03}{Func_04}[END]
+
+#string:2D:00C
+[STYLE:CHOICE:4D:46:A6:3E][...]
+{DelayOff}{Cursor:00}{Option:00}Red Ninjakoopa
+{Cursor:01}{Option:01}Blue Ninjakoopa
+{Cursor:02}{Option:02}Black Ninjakoopa
+{Option:FF}{DelayOn}{EndChoice:03}{Func_04}[END]
+
+#string:2D:00D
+[STYLE:CHOICE:70:46:60:3E][...]
+{DelayOff}{Cursor:00}{Option:00}2 coins
+{Cursor:01}{Option:01}4 coins
+{Cursor:02}{Option:02}8 coins
+{Option:FF}{DelayOn}{EndChoice:03}{Func_04}[END]
+
+#string:2D:00E
+[STYLE:CHOICE:3E:46:C4:3E][...]
+{DelayOff}{Cursor:00}{Option:00}Shooting Star Summit
+{Cursor:01}{Option:01}Toad Town
+{Cursor:02}{Option:02}Bowser's Castle
+{Option:FF}{DelayOn}{EndChoice:03}{Func_04}[END]
+
+#string:2D:00F
+[STYLE:CHOICE:67:46:72:3E][...]
+{DelayOff}{Cursor:00}{Option:00}Goombario
+{Cursor:01}{Option:01}Kooper
+{Cursor:02}{Option:02}Bombette
+{Option:FF}{DelayOn}{EndChoice:03}{Func_04}[END]
+
+#string:2D:010
+[STYLE:CHOICE:75:46:56:3E][...]
+{DelayOff}{Cursor:00}{Option:00}Red
+{Cursor:01}{Option:01}Green
+{Cursor:02}{Option:02}Yellow
+{Option:FF}{DelayOn}{EndChoice:03}{Func_04}[END]
+
+#string:2D:011
+[STYLE:CHOICE:75:46:56:3E][...]
+{DelayOff}{Cursor:00}{Option:00}One
+{Cursor:01}{Option:01}Five
+{Cursor:02}{Option:02}Seven
+{Option:FF}{DelayOn}{EndChoice:03}{Func_04}[END]
+
+#string:2D:012
+[STYLE:CHOICE:61:46:7E:3E][...]
+{DelayOff}{Cursor:00}{Option:00}Koopa Krab
+{Cursor:01}{Option:01}Koopa Koot
+{Cursor:02}{Option:02}Old Koop
+{Option:FF}{DelayOn}{EndChoice:03}{Func_04}[END]
+
+#string:2D:013
+[STYLE:CHOICE:72:46:5C:3E][...]
+{DelayOff}{Cursor:00}{Option:00}Four
+{Cursor:01}{Option:01}Eight
+{Cursor:02}{Option:02}Twelve
+{Option:FF}{DelayOn}{EndChoice:03}{Func_04}[END]
+
+#string:2D:014
+[STYLE:CHOICE:57:46:92:3E][...]
+{DelayOff}{Cursor:00}{Option:00}Koopa Village
+{Cursor:01}{Option:01}Toad Town
+{Cursor:02}{Option:02}Goomba Village
+{Option:FF}{DelayOn}{EndChoice:03}{Func_04}[END]
+
+#string:2D:015
+[STYLE:CHOICE:57:46:92:3E][...]
+{DelayOff}{Cursor:00}{Option:00}Goomba Village
+{Cursor:01}{Option:01}Koopa Village
+{Cursor:02}{Option:02}Mt. Rugged
+{Option:FF}{DelayOn}{EndChoice:03}{Func_04}[END]
+
+#string:2D:016
+[STYLE:CHOICE:6B:46:6A:3E][...]
+{DelayOff}{Cursor:00}{Option:00}Merlow
+{Cursor:01}{Option:01}Rowf
+{Cursor:02}{Option:02}Kolorado
+{Option:FF}{DelayOn}{EndChoice:03}{Func_04}[END]
+
+#string:2D:017
+[STYLE:CHOICE:53:46:9A:3E][...]
+{DelayOff}{Cursor:00}{Option:00}Star Rod
+{Cursor:01}{Option:01}Twink
+{Cursor:02}{Option:02}Princess Peach
+{Option:FF}{DelayOn}{EndChoice:03}{Func_04}[END]
+
+#string:2D:018
+[STYLE:CHOICE:75:46:56:3E][...]
+{DelayOff}{Cursor:00}{Option:00}Red
+{Cursor:01}{Option:01}Yellow
+{Cursor:02}{Option:02}Blue
+{Option:FF}{DelayOn}{EndChoice:03}{Func_04}[END]
+
+#string:2D:019
+[STYLE:CHOICE:62:46:7C:3E][...]
+{DelayOff}{Cursor:00}{Option:00}Mario
+{Cursor:01}{Option:01}Kolorado
+{Cursor:02}{Option:02}Koopa Koot
+{Option:FF}{DelayOn}{EndChoice:03}{Func_04}[END]
+
+#string:2D:01A
+[STYLE:CHOICE:53:46:9A:3E][...]
+{DelayOff}{Cursor:00}{Option:00}Fortune-telling
+{Cursor:01}{Option:01}Casting spells
+{Cursor:02}{Option:02}Cooking
+{Option:FF}{DelayOn}{EndChoice:03}{Func_04}[END]
+
+#string:2D:01B
+[STYLE:CHOICE:5D:46:86:3E][...]
+{DelayOff}{Cursor:00}{Option:00}Mummy Man
+{Cursor:01}{Option:01}Moustafa
+{Cursor:02}{Option:02}Pokey Mummy
+{Option:FF}{DelayOn}{EndChoice:03}{Func_04}[END]
+
+#string:2D:01C
+[STYLE:CHOICE:70:46:60:3E][...]
+{DelayOff}{Cursor:00}{Option:00}Cards
+{Cursor:01}{Option:01}Coins
+{Cursor:02}{Option:02}Badges
+{Option:FF}{DelayOn}{EndChoice:03}{Func_04}[END]
+
+#string:2D:01D
+[STYLE:CHOICE:67:46:72:3E][...]
+{DelayOff}{Cursor:00}{Option:00}Kolorado
+{Cursor:01}{Option:01}Moustafa
+{Cursor:02}{Option:02}Goombario
+{Option:FF}{DelayOn}{EndChoice:03}{Func_04}[END]
+
+#string:2D:01E
+[STYLE:CHOICE:63:46:7A:3E][...]
+{DelayOff}{Cursor:00}{Option:00}Star Piece
+{Cursor:01}{Option:01}Cake Mix
+{Cursor:02}{Option:02}Mushroom
+{Option:FF}{DelayOn}{EndChoice:03}{Func_04}[END]
+
+#string:2D:01F
+[STYLE:CHOICE:63:46:7A:3E][...]
+{DelayOff}{Cursor:00}{Option:00}Jr. Troopa
+{Cursor:01}{Option:01}Oaklie
+{Cursor:02}{Option:02}Cleft
+{Option:FF}{DelayOn}{EndChoice:03}{Func_04}[END]
+
+#string:2D:020
+[STYLE:CHOICE:6F:46:62:3E][...]
+{DelayOff}{Cursor:00}{Option:00}Ghosts
+{Cursor:01}{Option:01}Thieves
+{Cursor:02}{Option:02}Sheets
+{Option:FF}{DelayOn}{EndChoice:03}{Func_04}[END]
+
+#string:2D:021
+[STYLE:CHOICE:6A:46:6C:3E][...]
+{DelayOff}{Cursor:00}{Option:00}Heart
+{Cursor:01}{Option:01}Mushroom
+{Cursor:02}{Option:02}Bump
+{Option:FF}{DelayOn}{EndChoice:03}{Func_04}[END]
+
+#string:2D:022
+[STYLE:CHOICE:6E:46:64:3E][...]
+{DelayOff}{Cursor:00}{Option:00}Coconut
+{Cursor:01}{Option:01}Apple
+{Cursor:02}{Option:02}Lime
+{Option:FF}{DelayOn}{EndChoice:03}{Func_04}[END]
+
+#string:2D:023
+[STYLE:CHOICE:60:46:80:3E][...]
+{DelayOff}{Cursor:00}{Option:00}Rat Cheepa
+{Cursor:01}{Option:01}Diz Onnest
+{Cursor:02}{Option:02}Chet Rippo
+{Option:FF}{DelayOn}{EndChoice:03}{Func_04}[END]
+
+#string:2D:024
+[STYLE:CHOICE:74:46:58:3E][...]
+{DelayOff}{Cursor:00}{Option:00}Sing
+{Cursor:01}{Option:01}Dance
+{Cursor:02}{Option:02}Bomb
+{Option:FF}{DelayOn}{EndChoice:03}{Func_04}[END]
+
+#string:2D:025
+[STYLE:CHOICE:66:46:74:3E][...]
+{DelayOff}{Cursor:00}{Option:00}Cake
+{Cursor:01}{Option:01}Mushrooms
+{Cursor:02}{Option:02}Kooper
+{Option:FF}{DelayOn}{EndChoice:03}{Func_04}[END]
+
+#string:2D:026
+[STYLE:CHOICE:63:46:7A:3E][...]
+{DelayOff}{Cursor:00}{Option:00}Bombette
+{Cursor:01}{Option:01}Kooper
+{Cursor:02}{Option:02}Parakarry
+{Option:FF}{DelayOn}{EndChoice:03}{Func_04}[END]
+
+#string:2D:027
+[STYLE:CHOICE:5E:46:84:3E][...]
+{DelayOff}{Cursor:00}{Option:00}Pokey
+{Cursor:01}{Option:01}Bandit
+{Cursor:02}{Option:02}Nomadimouse
+{Option:FF}{DelayOn}{EndChoice:03}{Func_04}[END]
+
+#string:2D:028
+[STYLE:CHOICE:6A:46:6C:3E][...]
+{DelayOff}{Cursor:00}{Option:00}Eldstar
+{Cursor:01}{Option:01}Muskular
+{Cursor:02}{Option:02}Skolar
+{Option:FF}{DelayOn}{EndChoice:03}{Func_04}[END]
+
+#string:2D:029
+[STYLE:CHOICE:6A:46:6C:3E][...]
+{DelayOff}{Cursor:00}{Option:00}Parcels
+{Cursor:01}{Option:01}Letters
+{Cursor:02}{Option:02}Handbills
+{Option:FF}{DelayOn}{EndChoice:03}{Func_04}[END]
+
+#string:2D:02A
+[STYLE:CHOICE:57:46:92:3E][...]
+{DelayOff}{Cursor:00}{Option:00}Shop
+{Cursor:01}{Option:01}Station
+{Cursor:02}{Option:02}Mayor's House
+{Option:FF}{DelayOn}{EndChoice:03}{Func_04}[END]
+
+#string:2D:02B
+[STYLE:CHOICE:66:46:74:3E][...]
+{DelayOff}{Cursor:00}{Option:00}Gardening
+{Cursor:01}{Option:01}Cooking
+{Cursor:02}{Option:02}Fishing
+{Option:FF}{DelayOn}{EndChoice:03}{Func_04}[END]
+
+#string:2D:02C
+[STYLE:CHOICE:5C:46:88:3E][...]
+{DelayOff}{Cursor:00}{Option:00}Sir Quizzby
+{Cursor:01}{Option:01}I. Q. Testa
+{Cursor:02}{Option:02}Chuck Quizmo
+{Option:FF}{DelayOn}{EndChoice:03}{Func_04}[END]
+
+#string:2D:02D
+[STYLE:CHOICE:3D:46:C6:3E][...]
+{DelayOff}{Cursor:00}{Option:00}In towns and villages
+{Cursor:01}{Option:01}On the street
+{Cursor:02}{Option:02}In the jail
+{Option:FF}{DelayOn}{EndChoice:03}{Func_04}[END]
+
+#string:2D:02E
+[STYLE:CHOICE:56:46:94:3E][...]
+{DelayOff}{Cursor:00}{Option:00}Trumpet Plant
+{Cursor:01}{Option:01}Hurt Plant
+{Cursor:02}{Option:02}Bellbell Plant
+{Option:FF}{DelayOn}{EndChoice:03}{Func_04}[END]
+
+#string:2D:02F
+[STYLE:CHOICE:75:46:56:3E][...]
+{DelayOff}{Cursor:00}{Option:00}Blue
+{Cursor:01}{Option:01}Green
+{Cursor:02}{Option:02}Pink
+{Option:FF}{DelayOn}{EndChoice:03}{Func_04}[END]
+
+#string:2D:030
+[STYLE:CHOICE:69:46:6E:3E][...]
+{DelayOff}{Cursor:00}{Option:00}Merlow
+{Cursor:01}{Option:01}Merlon
+{Cursor:02}{Option:02}Merluvlee
+{Option:FF}{DelayOn}{EndChoice:03}{Func_04}[END]
+
+#string:2D:031
+[STYLE:CHOICE:77:46:52:3E][...]
+{DelayOff}{Cursor:00}{Option:00}Six
+{Cursor:01}{Option:01}Eight
+{Cursor:02}{Option:02}Ten
+{Option:FF}{DelayOn}{EndChoice:03}{Func_04}[END]
+
+#string:2D:032
+[STYLE:CHOICE:67:46:72:3E][...]
+{DelayOff}{Cursor:00}{Option:00}Easygoing
+{Cursor:01}{Option:01}Bossy
+{Cursor:02}{Option:02}Sleepy
+{Option:FF}{DelayOn}{EndChoice:03}{Func_04}[END]
+
+#string:2D:033
+[STYLE:CHOICE:57:46:92:3E][...]
+{DelayOff}{Cursor:00}{Option:00}Shop
+{Cursor:01}{Option:01}Station
+{Cursor:02}{Option:02}Merlon's house
+{Option:FF}{DelayOn}{EndChoice:03}{Func_04}[END]
+
+#string:2D:034
+[STYLE:CHOICE:54:46:98:3E][...]
+{DelayOff}{Cursor:00}{Option:00}First-Degree
+{Cursor:01}{Option:01}Second-Degree
+{Cursor:02}{Option:02}Third-Degree
+{Option:FF}{DelayOn}{EndChoice:03}{Func_04}[END]
+
+#string:2D:035
+[STYLE:CHOICE:7B:46:4A:3E][...]
+{DelayOff}{Cursor:00}{Option:00}Blue
+{Cursor:01}{Option:01}Red
+{Cursor:02}{Option:02}Pink
+{Option:FF}{DelayOn}{EndChoice:03}{Func_04}[END]
+
+#string:2D:036
+[STYLE:CHOICE:77:46:52:3E][...]
+{DelayOff}{Cursor:00}{Option:00}Posie
+{Cursor:01}{Option:01}Rosie
+{Cursor:02}{Option:02}Lily
+{Option:FF}{DelayOn}{EndChoice:03}{Func_04}[END]
+
+#string:2D:037
+[STYLE:CHOICE:68:46:70:3E][...]
+{DelayOff}{Cursor:00}{Option:00}Landolaki
+{Cursor:01}{Option:01}Lakitofu
+{Cursor:02}{Option:02}Lakilulu
+{Option:FF}{DelayOn}{EndChoice:03}{Func_04}[END]
+
+#string:2D:038
+[STYLE:CHOICE:5E:46:84:3E][...]
+{DelayOff}{Cursor:00}{Option:00}Jump
+{Cursor:01}{Option:01}Hit a tree
+{Cursor:02}{Option:02}Hit a switch
+{Option:FF}{DelayOn}{EndChoice:03}{Func_04}[END]
+
+#string:2D:039
+[STYLE:CHOICE:69:46:6E:3E][...]
+{DelayOff}{Cursor:00}{Option:00}Dancer
+{Cursor:01}{Option:01}Composer
+{Cursor:02}{Option:02}Pop Diva
+{Option:FF}{DelayOn}{EndChoice:03}{Func_04}[END]
+
+#string:2D:03A
+[STYLE:CHOICE:74:46:58:3E][...]
+{DelayOff}{Cursor:00}{Option:00}Sing
+{Cursor:01}{Option:01}Dance
+{Cursor:02}{Option:02}Run
+{Option:FF}{DelayOn}{EndChoice:03}{Func_04}[END]
+
+#string:2D:03B
+[STYLE:CHOICE:68:46:70:3E][...]
+{DelayOff}{Cursor:00}{Option:00}Neighbors
+{Cursor:01}{Option:01}Friends
+{Cursor:02}{Option:02}Brothers
+{Option:FF}{DelayOn}{EndChoice:03}{Func_04}[END]
+
+#string:2D:03C
+[STYLE:CHOICE:6F:46:62:3E][...]
+{DelayOff}{Cursor:00}{Option:00}Penguin
+{Cursor:01}{Option:01}Lakitu
+{Cursor:02}{Option:02}Ninji
+{Option:FF}{DelayOn}{EndChoice:03}{Func_04}[END]
+
+#string:2D:03D
+[STYLE:CHOICE:75:46:56:3E][...]
+{DelayOff}{Cursor:00}{Option:00}Seven
+{Cursor:01}{Option:01}Eight
+{Cursor:02}{Option:02}Nine
+{Option:FF}{DelayOn}{EndChoice:03}{Func_04}[END]
+
+#string:2D:03E
+[STYLE:CHOICE:76:46:54:3E][...]
+{DelayOff}{Cursor:00}{Option:00}Gleem
+{Cursor:01}{Option:01}Twink
+{Cursor:02}{Option:02}Glo
+{Option:FF}{DelayOn}{EndChoice:03}{Func_04}[END]
+
+#string:2D:03F
+[STYLE:CHOICE:75:46:56:3E][...]
+{DelayOff}{Cursor:00}{Option:00}Five
+{Cursor:01}{Option:01}Seven
+{Cursor:02}{Option:02}Ten
+{Option:FF}{DelayOn}{EndChoice:03}{Func_04}[END]
+

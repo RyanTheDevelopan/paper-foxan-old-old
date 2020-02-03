@@ -1,0 +1,4029 @@
+#string:12:000
+[STYLE:RIGHT][...]
+Oh, we have a guest!
+[PAUSE:0A][...]
+Welcome! You poor man, you must
+be freezing!
+[WAIT][NEXT][...]
+If you'd like to see my husband,
+he's in the other room.
+[WAIT][NEXT][...]
+Please, go right in.[WAIT][END]
+
+#string:12:001
+[STYLE:RIGHT][...]
+If you'd like to see my husband,
+he's in the other room.
+[WAIT][NEXT][...]
+Please, go right in.[WAIT][END]
+
+#string:12:002
+[STYLE:INSPECT][...]
+No reply...
+[PAUSE:05][...]
+Mayor Penguin's body doesn't
+budge an inch.
+[WAIT][NEXT][...]
+What's this? He has a memo in his
+hand that says, "Herringway."[WAIT][END]
+
+#string:12:003
+[STYLE:INSPECT][...]
+No reply...
+[PAUSE:05][...]
+Mayor Penguin's body doesn't
+budge an inch.
+[WAIT][NEXT][...]
+What's this? He has a memo in his
+hand that says, "Herringway."[WAIT][END]
+
+#string:12:004
+[STYLE:INSPECT][...]
+Something's inside the box. It's
+quite heavy.
+[WAIT][NEXT][...]
+What could be inside?[WAIT][END]
+
+#string:12:005
+[STYLE:RIGHT][...]
+Darling,
+[PAUSE:0A][...]
+would you like a cup of tea?
+[PAUSE:01][...]
+.[PAUSE:03].[PAUSE:05].[PAUSE:0A].[PAUSE:0A]... [PAUSE:05]Hmm? 
+[PAUSE:0A][...]
+[WAIT][NEXT][...]
+Oh... [PAUSE:0A]Dear, you know you'll catch
+a cold if you sleep there![WAIT][END]
+
+#string:12:006
+[STYLE:RIGHT][...]
+{StartFX:Shrinking}{StartFX:Jitter}{StartFX:Wavy}
+{Down:06}Nooooooooooooooooooooooooooo!![WAIT][END]
+
+#string:12:007
+[STYLE:RIGHT][...]
+{StartFX:Shrinking}{StartFX:Jitter}Help! Somebody! Anybody!
+[PAUSE:05][...]
+My husband is dead!!
+[PAUSE:05][...]
+He's been murdered!
+{EndFX:Jitter}{EndFX:Shrinking}[WAIT][NEXT][...]
+[PAUSE:14][...]
+It's a
+[PAUSE:0A][...]
+{StartFX:Wavy}{StartFX:Jitter}{StartFX:Shrinking}penguin murder mystery!!![WAIT][END]
+
+#string:12:008
+[STYLE:RIGHT][...]
+What's going on here, madam?
+[WAIT][NEXT][...]
+Just calm down, now.
+[PAUSE:0A][...]
+You need to speak slowly so I
+can get to the bottom of this.[WAIT][END]
+
+#string:12:009
+[STYLE:RIGHT][...]
+My husband is dead!
+[PAUSE:0A][...]
+Look at him lying there!
+[WAIT][NEXT][...]
+Oh, my darling husband!!!
+[PAUSE:0A][...]
+Somebody clipped his flippers!![WAIT][END]
+
+#string:12:00A
+[STYLE:RIGHT][...]
+By puffin, you're right!
+[PAUSE:0A][...]
+The Mayor's been murdered!
+[WAIT][NEXT][...]
+This is like a mystery novel!
+[PAUSE:0A][...]
+Except it's real! How tragic! 
+[WAIT][NEXT][...]
+But madam, if I may ask...
+[PAUSE:0A][...]
+Who on earth would have reason
+to put this penguin on ice?[WAIT][END]
+
+#string:12:00B
+[STYLE:RIGHT][...]
+Him! Right there! That man with
+the suspicious mustache!
+[WAIT][NEXT][...]
+I told him not to come in the
+house, but he barged right in!
+[WAIT][NEXT][...]
+My husband was alive right up
+until this man showed up!
+[WAIT][NEXT][...]
+He must be the murderer![WAIT][END]
+
+#string:12:00C
+[STYLE:RIGHT][...]
+Hey, you... Mustache!
+[PAUSE:0A][...]
+Are you listening?
+[PAUSE:0A][...]
+This good woman's accusing you.
+What do you say for yourself?[WAIT][END]
+
+#string:12:00D
+[STYLE:RIGHT][...]
+Don't try to play ignorant with
+me, buddy. I'm a professional.
+[PAUSE:0A][...]
+We've got a witness here.
+[WAIT][NEXT][...]
+Isn't that right, madam?[WAIT][END]
+
+#string:12:00E
+[STYLE:RIGHT][...]
+Yes! That's right!
+[PAUSE:0A][...]
+He did it in cold blood!
+[PAUSE:0A][...]
+I, uh...saw it with my own eyes!
+[WAIT][NEXT][...]
+Besides, he's the only one who
+came into this room!
+[PAUSE:0A][...]
+It all adds up![WAIT][END]
+
+#string:12:00F
+[STYLE:RIGHT][...]
+So you're sticking to your story,
+claiming you're not the culprit.[WAIT][END]
+
+#string:12:010
+[STYLE:RIGHT][...]
+What's your problem?
+[PAUSE:0A][...]
+You don't actually think Mario
+did it, do you?[WAIT][END]
+
+#string:12:011
+[STYLE:RIGHT][...]
+Are you crazy?
+[PAUSE:0A][...]
+Do you really think Mario would
+do something like that!?[WAIT][END]
+
+#string:12:012
+[STYLE:RIGHT][...]
+Don't be ridiculous!
+[PAUSE:0A][...]
+Mario didn't do it![WAIT][END]
+
+#string:12:013
+[STYLE:RIGHT][...]
+Mario didn't do it.
+[PAUSE:0A][...]
+He's obviously innocent![WAIT][END]
+
+#string:12:014
+[STYLE:RIGHT][...]
+I was with him the whole time.
+[PAUSE:0A][...]
+I swear on my own grave! Mario's
+innocent![WAIT][END]
+
+#string:12:015
+[STYLE:RIGHT][...]
+Mario, um, didn't do it!
+[WAIT][NEXT][...]
+It's mean that you're treating
+him like he's a bad guy, even
+though there's no, um, evidence![WAIT][END]
+
+#string:12:016
+[STYLE:RIGHT][...]
+Hey, use your head!
+[PAUSE:0A][...]
+Do you really think Mario is
+capable of such a thing?
+[PAUSE:0A][...]
+Think about it.[WAIT][END]
+
+#string:12:017
+[STYLE:RIGHT][...]
+What! Are you nuts, man?
+[PAUSE:0A][...]
+Mario's not a murderer! That's
+completely ridiculous![WAIT][END]
+
+#string:12:018
+[STYLE:RIGHT][...]
+Hmm... [PAUSE:0A]If you're telling the
+truth, then we're dealing with a
+backroom murder case.
+[PAUSE:0A][...]
+Oh, I never trained for this...
+[WAIT][NEXT][...]
+A backroom murder case... A
+high-ranking penguin slain...
+[WAIT][NEXT][...]
+How could such a horrible plot
+twist hit our peaceful city?
+[WAIT][NEXT][...]
+You! Mr. Mustache! Once more
+for the record! You swear you
+didn't do this?[WAIT][END]
+
+#string:12:019
+[STYLE:RIGHT][...]
+OK... I think I believe you.
+[PAUSE:0F][...]
+But this means we have to find
+[PAUSE:0A][...]
+the true murderer.[PAUSE:05].[PAUSE:05].[PAUSE:05].[PAUSE:05].[PAUSE:05].[PAUSE:05]. 
+[PAUSE:0A][...]
+[WAIT][NEXT][...]
+Ah! Perfect!
+[WAIT][NEXT][...]
+I'll give you a chance.
+[WAIT][NEXT][...]
+Since you claim that you're not
+the guilty party, then you must
+bring me the murderer yourself!
+[WAIT][NEXT][...]
+If you do that, I'll believe you.
+[PAUSE:0A][...]
+It's the only way...[WAIT][END]
+
+#string:12:01A
+[STYLE:RIGHT][...]
+All right, off with you.
+[WAIT][NEXT][...]
+You haven't proved that you're
+innocent yet, so I must forbid
+you to leave the city.[WAIT][END]
+
+#string:12:01B
+[STYLE:RIGHT][...]
+Hmm?
+[PAUSE:0F][...]
+Got any leads yet?
+[WAIT][NEXT][...]
+You're still our main suspect, so
+I'd advise you to go find the
+real criminal. And fast.[WAIT][END]
+
+#string:12:01C
+[STYLE:RIGHT][...]
+You killed him, didn't you?
+[PAUSE:0A][...]
+I knew my instincts were right.
+[WAIT][NEXT][...]
+When I saw a stranger like you
+out here in such a remote place, I
+knew that you must be up to no
+good! Oh, the horror!
+[WAIT][NEXT][...]
+My poor, poor penguin-kins!
+[PAUSE:0A][...]
+Please forgive me for letting
+this murderer in the house![WAIT][END]
+
+#string:12:01D
+[STYLE:RIGHT][...]
+Oh, you again.
+[PAUSE:0A][...]
+Have you come up with anything?
+[WAIT][NEXT][...]
+Hmm...!?
+[WAIT][NEXT][...]
+Say, isn't that penguin behind
+you the mystery novel writer
+named Herringway?[WAIT][END]
+
+#string:12:01E
+[STYLE:RIGHT][...]
+What-what!?
+[PAUSE:0F][...]
+Mayor Penguin was clutching a
+piece of paper that had
+"Herringway" written on it?
+[WAIT][NEXT][...]
+Bah! If that were true, I most
+certainly would've noticed it.[WAIT][END]
+
+#string:12:01F
+[STYLE:RIGHT][...]
+Hmmm... He definitely does
+appear to be holding a piece
+of paper.
+[WAIT][NEXT][...]
+Yes, of course!
+[PAUSE:0A][...]
+It's a message about his death!
+[WAIT][NEXT][...]
+With his last breath, the Mayor
+told us the murderer's identity![WAIT][END]
+
+#string:12:020
+[STYLE:RIGHT][...]
+So... Mr. Herringway...
+[PAUSE:05][...]
+You cold-hearted murderer!
+[WAIT][NEXT][...]
+It all makes sense now!
+[PAUSE:05][...]
+No wonder your novels are so
+exciting and suspenseful!
+[WAIT][NEXT][...]
+You live out your own plots![WAIT][END]
+
+#string:12:021
+[STYLE:RIGHT][...]
+Dear man... [PAUSE:05]Do you have any idea
+how ridiculous you sound?
+[PAUSE:0F][...]
+You actually think I would do this
+to the Mayor?
+[WAIT][NEXT][...]
+He's a great friend of mine![WAIT][END]
+
+#string:12:022
+[STYLE:RIGHT][...]
+Mmmm... Yes...
+[PAUSE:0A][...]
+Yes, you were good friends...
+[WAIT][NEXT][...]
+Ah ha! But that was just a
+cover so that no one would
+suspect you of this heinous
+crime!
+[WAIT][NEXT][...]
+That's it, isn't it? I've solved
+this crafty mystery![WAIT][END]
+
+#string:12:023
+[STYLE:RIGHT][...]
+Oh, come on. Really.
+[PAUSE:0A][...]
+You simple, simple penguin.
+[PAUSE:0A][...]
+I would never be so predictable.
+[WAIT][NEXT][...]
+Besides, I'm completely innocent.
+I've been working in my house on
+my new novel for weeks.
+[WAIT][NEXT][...]
+I didn't have time to sneak over
+here to kill Mayor Penguin.[WAIT][END]
+
+#string:12:024
+[STYLE:RIGHT][...]
+I'd just like to say that I still
+think the man with the mustache
+is the murderer.[WAIT][END]
+
+#string:12:025
+[STYLE:RIGHT][...]
+Hmmmm...
+[PAUSE:0A][...]
+This penguin murder mystery is
+getting more intriguing all the
+time...[WAIT][END]
+
+#string:12:026
+[STYLE:RIGHT][...]
+{StartFX:Wavy}[PAUSE:05]Uuhhh...
+[PAUSE:05][...]
+[WAIT][END]
+
+#string:12:027
+[STYLE:RIGHT][...]
+Oh, my aching... Ouch...
+[PAUSE:0A][...]
+[WAIT][END]
+
+#string:12:028
+[STYLE:RIGHT][...]
+{StartFX:Jitter}{StartFX:Shrinking}Eeeeeeek!
+{EndFX:Shrinking}[WAIT][NEXT][...]
+{StartFX:Wavy}My husband's returned!
+[PAUSE:0A][...]
+He's a ghost!!! Eeeeek! [WAIT][END]
+
+#string:12:029
+[STYLE:RIGHT][...]
+Oh, good gracious!
+[PAUSE:0A][...]
+Hello, everyone.
+[WAIT][NEXT][...]
+What's going on here?[WAIT][END]
+
+#string:12:02A
+[STYLE:RIGHT][...]
+What-what?! Mayor!
+[PAUSE:05][...]
+We thought you were dead!
+[WAIT][NEXT][...]
+Our backroom murder mystery
+is a wash! What a plot twist![WAIT][END]
+
+#string:12:02B
+[STYLE:RIGHT][...]
+Huh...?
+[PAUSE:0A][...]
+What are you talking about?
+[PAUSE:0A][...]
+[WAIT][END]
+
+#string:12:02C
+[STYLE:RIGHT][...]
+Umm[PAUSE:05].[PAUSE:03].[PAUSE:03].[PAUSE:03].
+[WAIT][NEXT][...]
+I think... [PAUSE:05]I seem to remember
+going to the shelf to get this
+souvenir for Herringway.
+[PAUSE:0A][...]
+[WAIT][NEXT][...]
+[PAUSE:0A][...]
+Oh, yes, of course!
+[PAUSE:0A][...]
+I reached up, slipped, and then
+whacked my head on the floor.
+[PAUSE:0A][...]
+Yes, that's what happened![WAIT][END]
+
+#string:12:02D
+[STYLE:RIGHT][...]
+Here you are, Herringway.
+[PAUSE:0A][...]
+This is what I was reaching for.
+[WAIT][NEXT][...]
+Toad Town was great fun.
+[PAUSE:0A][...]
+So many interesting sights... Wish
+you could've been there.
+[WAIT][NEXT][...]
+Some time after all this hubbub
+settles down, I'll give you a full
+account of the big city.[WAIT][END]
+
+#string:12:02E
+[STYLE:RIGHT][...]
+Well...uh, thank you, old friend.
+[PAUSE:0A][...]
+That's very thoughtful...[WAIT][END]
+
+#string:12:02F
+[STYLE:RIGHT][...]
+But Mayor!
+[PAUSE:0A][...]
+Here we were thinking that you'd
+been murdered!
+[WAIT][NEXT][...]
+The whole city was up in arms!
+[PAUSE:0A][...]
+Next time be more careful![WAIT][END]
+
+#string:12:030
+[STYLE:RIGHT][...]
+Ah... [PAUSE:05]Yes. [PAUSE:05]So sorry.[WAIT][END]
+
+#string:12:031
+[STYLE:RIGHT][...]
+Ha ha! I thought it rather 
+entertaining, actually.
+[PAUSE:0A][...]
+Besides, everything's OK now.
+The Mayor's just fine.
+[WAIT][NEXT][...]
+I must return to my home now.
+[PAUSE:0A][...]
+I believe I've just had an idea
+for the sequel to my new novel.[WAIT][END]
+
+#string:12:032
+[STYLE:RIGHT][...]
+Ummm...
+[PAUSE:0A][...]
+I have the best intentions, but
+for some reason I always end up
+causing a ruckus.[WAIT][END]
+
+#string:12:033
+[STYLE:RIGHT][...]
+Hello. [PAUSE:0A]Sorry about all that.
+[PAUSE:0A][...]
+I must apologize[PAUSE:03].[PAUSE:03].[PAUSE:03]. 
+[PAUSE:0A][...]
+[WAIT][NEXT][...]
+... Say!
+[PAUSE:0A][...]
+You're Mario, aren't you?
+[PAUSE:0A][...]
+Well, let me welcome you to Shiver
+City, jewel of the north![WAIT][END]
+
+#string:12:034
+[STYLE:RIGHT][...]
+...[PAUSE:03]What's the matter?
+[PAUSE:0A][...]
+Oh, you want to hike over to
+Starborn Valley, do you?
+[WAIT][NEXT][...]
+I see... Of course.
+[PAUSE:05][...]
+I'll tell the gatekeeper to allow
+you out of the city.
+[WAIT][NEXT][...]
+You'd better bundle up![WAIT][END]
+
+#string:12:035
+[STYLE:RIGHT][...]
+Uh...I knew you were innocent the
+whole time!
+[WAIT][NEXT][...]
+A backroom murder case?
+Please! How completely silly!
+[WAIT][NEXT][...]
+That over-zealous guard must
+read too many mystery novels.
+[PAUSE:0A][...]
+Ha ha ha ha ha...aaanyway...[WAIT][END]
+
+#string:12:036
+[STYLE:RIGHT][...]
+Hi there! How are you?
+[WAIT][NEXT][...]
+Herringway's mystery novels
+have become very popular here in
+Shiver City, you know.
+[WAIT][NEXT][...]
+But when I became a character
+in a mystery, I realized that
+I'm not so fond of books like
+that.
+[WAIT][NEXT][...]
+I'm serious. I mean it.
+[PAUSE:0A][...]
+Only penguin poetry for me now![WAIT][END]
+
+#string:12:037
+[STYLE:RIGHT][...]
+Oh, hello there, Mario!
+[PAUSE:0A][...]
+My husband tells me you're
+looking for the Crystal Palace.
+[WAIT][NEXT][...]
+What an exciting adventure!
+[PAUSE:0A][...]
+You're like a hero in a novel!
+[WAIT][NEXT][...]
+Imagine that, being in a story...[WAIT][END]
+
+#string:12:038
+[STYLE:RIGHT][...]
+My husband says that you're
+preparing to fight Bowser so you
+can save Princess Peach.
+[WAIT][NEXT][...]
+Ah! It's like a romantic novel!
+[WAIT][NEXT][...]
+I'm on your side. I want there to
+be a happy ending!
+[PAUSE:0A][...]
+Good luck!
+[WAIT][NEXT][...]
+Save the princess![WAIT][END]
+
+#string:12:039
+[STYLE:RIGHT][...]
+Please come back anytime.
+[WAIT][NEXT][...]
+These northern lands aren't
+much for scenery, but there's
+always plenty of suspense!
+[WAIT][NEXT][...]
+Ha ha! Only joking, only joking.
+[PAUSE:0A][...]
+You'll always get a warm welcome
+around here.[WAIT][END]
+
+#string:12:03A
+[STYLE:RIGHT][...]
+Oh, Mario!
+[PAUSE:0A][...]
+Did you reach Starborn Valley?
+[PAUSE:0A][...]
+Did you see Merle?
+[PAUSE:14][...]
+[WAIT][NEXT][...]
+... Oh, excellent. He said what?
+[PAUSE:0A][...]
+An item that has been passed
+down in this city?
+[WAIT][NEXT][...]
+Um... Oh, right! There was
+something like that.
+[WAIT][NEXT][...]
+Just a minute,
+[PAUSE:05][...]
+I think I've got it somewhere.[WAIT][END]
+
+#string:12:03B
+[STYLE:RIGHT][...]
+Yes, I found it.
+[PAUSE:0A][...]
+Here it is.[WAIT][END]
+
+#string:12:03C
+[STYLE:RIGHT][...]
+This Bucket has been passed
+down through the years in
+Shiver City.
+[WAIT][NEXT][...]
+As Merle must have told you, 
+there's a legend associated with
+it.
+[WAIT][NEXT][...]
+If you use this and the Scarf
+together, the way to the Crystal
+Palace will open.
+[WAIT][NEXT][...]
+Who knows what all that means,
+though! Ha ha ha!
+[PAUSE:0A][...]
+I don't have the slightest clue
+as to how to use them together.[WAIT][END]
+
+#string:12:03D
+[STYLE:RIGHT][...]
+Sounds like those Star Kids in
+Starborn Valley are in trouble.
+[WAIT][NEXT][...]
+I hope you do your best for the
+little tykes. They're just kids.
+[PAUSE:0A][...]
+Best of luck to you![WAIT][END]
+
+#string:12:03E
+[STYLE:RIGHT][...]
+Have you found the way to the
+Crystal Palace yet?
+[WAIT][NEXT][...]
+Oh... No, huh? Boy, it must be
+difficult being a famous
+adventurer...
+[WAIT][NEXT][...]
+Poor Princess Peach...
+[PAUSE:0A][...]
+If you can't save her, I don't
+know who can![WAIT][END]
+
+#string:12:03F
+[STYLE:RIGHT][...]
+You found the path to the
+Crystal Palace!?
+[PAUSE:0A][...]
+That's fantastic!!
+[WAIT][NEXT][...]
+That Star Spirit up there is as
+good as saved already![WAIT][END]
+
+#string:12:040
+[STYLE:RIGHT][...]
+Mario, I do believe you've saved
+all seven Star Spirits!
+[WAIT][NEXT][...]
+Now all you have to do is defeat
+Bowser and bring back the Star
+Rod so that the world can be
+peaceful again.
+[WAIT][NEXT][...]
+And all those poor, kidnapped
+people can come back!
+[WAIT][NEXT][...]
+I wish to the Stars you'll win![WAIT][END]
+
+#string:12:041
+[STYLE:RIGHT][...]
+You're Mayor Penguin of Shiver
+City, correct?
+[WAIT][NEXT][...]
+The name's Parakarry. I deliver
+letters.
+[WAIT][NEXT][...]
+I believe I have one for you.
+[PAUSE:0A][...]
+Hang on a moment.[WAIT][END]
+
+#string:12:042
+[STYLE:RIGHT][...]
+Uh...no! Confound it!
+[PAUSE:0A][...]
+I seem to have lost it!
+[PAUSE:0A][...]
+...I'm terribly sorry.[WAIT][END]
+
+#string:12:043
+[STYLE:RIGHT][...]
+Another letter, duly delivered.
+A postman's job is never done.[WAIT][END]
+
+#string:12:044
+[STYLE:RIGHT][...]
+For me?
+[PAUSE:05][...]
+Oh... It's from Yoshi Village!
+[PAUSE:08][...]
+I don't know where that is, but I
+bet it's pretty far away.
+[WAIT][NEXT][...]
+I'll read this later.
+[PAUSE:0A][...]
+Thanks very much!
+[WAIT][NEXT][...]
+Oh, hang on!
+[PAUSE:0A][...]
+I'll give you this.[WAIT][END]
+
+#string:12:045
+[STYLE:RIGHT][...]
+A really shady individual came
+to the city recently.
+[WAIT][NEXT][...]
+He was screaming at the top of
+his lungs and running around...
+[WAIT][NEXT][...]
+It was reeeeally odd...
+[PAUSE:0A][...]
+I think something strange is
+going on in our peaceful city.[WAIT][END]
+
+#string:12:046
+[STYLE:RIGHT][...]
+A really shady individual came
+to the city recently.
+[WAIT][NEXT][...]
+He was screaming at the top of
+his lungs and running around...
+[WAIT][NEXT][...]
+It was reeeeally odd...
+[PAUSE:0A][...]
+I think something strange is
+going on in our peaceful city.[WAIT][END]
+
+#string:12:047
+[STYLE:RIGHT][...]
+Ha! I'm not going to help you.
+[WAIT][NEXT][...]
+I don't socialize with murderers.
+[PAUSE:0A][...]
+Get away from me![WAIT][END]
+
+#string:12:048
+[STYLE:RIGHT][...]
+Ha! I'm not going to help you.
+[WAIT][NEXT][...]
+I don't socialize with murderers.
+[PAUSE:0A][...]
+Get away from me![WAIT][END]
+
+#string:12:049
+[STYLE:RIGHT][...]
+So...you weren't the criminal
+after all, huh?
+[PAUSE:0A][...]
+Ha ha ha ha ha... Sorry.
+[WAIT][NEXT][...]
+The Mayor's wife raised such a
+stink that I believed it.
+[WAIT][NEXT][...]
+I'm just happy that the Mayor's
+doing fine.[WAIT][END]
+
+#string:12:04A
+[STYLE:RIGHT][...]
+So...you weren't the criminal
+after all, huh?
+[PAUSE:0A][...]
+Ha ha ha ha ha... Sorry.
+[WAIT][NEXT][...]
+The Mayor's wife raised such a
+stink that I believed it.
+[WAIT][NEXT][...]
+I'm just happy that the Mayor's
+doing fine.[WAIT][END]
+
+#string:12:04B
+[STYLE:RIGHT][...]
+I've heard that all the Star 
+Spirits made it back to Star
+Haven. Fantastic!
+[WAIT][NEXT][...]
+That means soon all our wishes
+will once again be granted.
+[WAIT][NEXT][...]
+Right now, we're all wishing that
+you'll beat that evil Bowser and
+restore the peace.[WAIT][END]
+
+#string:12:04C
+[STYLE:RIGHT][...]
+People who travel to here from
+other towns must think that this
+city is freezing cold.
+[WAIT][NEXT][...]
+I'm used to it. I heard, though,
+that somewhere in the world is a
+hot town covered in sand. Now
+THAT would be intolerable.
+[WAIT][NEXT][...]
+I don't believe it even exists.[WAIT][END]
+
+#string:12:04D
+[STYLE:RIGHT][...]
+People who travel to here from
+other towns must think that this
+city is freezing cold.
+[WAIT][NEXT][...]
+I'm used to it. I heard, though,
+that somewhere in the world is a
+hot town covered in sand. Now
+THAT would be intolerable.
+[WAIT][NEXT][...]
+I don't believe it even exists.[WAIT][END]
+
+#string:12:04E
+[STYLE:RIGHT][...]
+Herringway?
+[PAUSE:0A][...]
+Why, he's a mystery novelist who
+lives in this city.
+[WAIT][NEXT][...]
+You suspect Herringway?
+[WAIT][NEXT][...]
+Nah! It couldn't be him!
+[PAUSE:0A][...]
+He and the Mayor are friends![WAIT][END]
+
+#string:12:04F
+[STYLE:RIGHT][...]
+Herringway?
+[PAUSE:0A][...]
+Why, he's a mystery novelist who
+lives in this city.
+[WAIT][NEXT][...]
+You suspect Herringway?
+[WAIT][NEXT][...]
+Nah! It couldn't be him!
+[PAUSE:0A][...]
+He and the Mayor are friends![WAIT][END]
+
+#string:12:050
+[STYLE:RIGHT][...]
+Boy, thank goodness the Mayor is
+doing OK.
+[WAIT][NEXT][...]
+He really does seem to be as
+careless as they come, you know.[WAIT][END]
+
+#string:12:051
+[STYLE:RIGHT][...]
+Boy, thank goodness the Mayor is
+doing OK.
+[WAIT][NEXT][...]
+He really does seem to be as
+careless as they come, you know.[WAIT][END]
+
+#string:12:052
+[STYLE:RIGHT][...]
+So, Mario, you're finally going
+to fight against Bowser!
+[WAIT][NEXT][...]
+Trust me--we'll all be cheering
+for you to beat him!
+[WAIT][NEXT][...]
+Once peace returns, I wanna go
+visit Toad Town.
+[PAUSE:0A][...]
+I wanna visit the great Mario's
+house, too![WAIT][END]
+
+#string:12:053
+[STYLE:RIGHT][...]
+Pengy pengy penguin pop[NOTE]
+Feel the rhythm, stop 'n' bop[NOTE]
+Do the pengy penguin hop[NOTE]
+[WAIT][NEXT][...]
+All the snowmen in a line[NOTE]
+[PAUSE:05][...]
+A bucket hat fits super fine,
+Eyes and noses, looking cool[NOTE]
+Bring a scarf, you pengy fool![NOTE][WAIT][END]
+
+#string:12:054
+[STYLE:RIGHT][...]
+Pengy pengy penguin pop[NOTE]
+Feel the rhythm, stop 'n' bop[NOTE]
+Do the pengy penguin hop[NOTE]
+[WAIT][NEXT][...]
+All the snowmen in a line[NOTE]
+[PAUSE:05][...]
+A bucket hat fits super fine,
+Eyes and noses, looking cool[NOTE]
+Bring a scarf, you pengy fool![NOTE][WAIT][END]
+
+#string:12:055
+[STYLE:RIGHT][...]
+{StartFX:Shrinking}You! Penguin killer!!!!
+{EndFX:Shrinking}[WAIT][NEXT][...]
+You just keep your distance!
+What's that gleam in your eye?!
+[WAIT][NEXT][...]
+{StartFX:Shrinking}{StartFX:Wavy}Noooo!!! AIIIIGH!
+{EndFX:Wavy}I'm gonna be a murder victim!
+{EndFX:Shrinking}[WAIT][NEXT][...]
+Please, {StartFX:Shrinking}{StartFX:Wavy}somebody help me!!![WAIT][END]
+
+#string:12:056
+[STYLE:RIGHT][...]
+{StartFX:Shrinking}You! Penguin killer!!!!
+{EndFX:Shrinking}[WAIT][NEXT][...]
+You just keep your distance!
+What's that gleam in your eye?!
+[WAIT][NEXT][...]
+{StartFX:Shrinking}{StartFX:Wavy}Noooo!!! AIIIIGH!
+{EndFX:Wavy}I'm gonna be a murder victim!
+{EndFX:Shrinking}[WAIT][NEXT][...]
+Please, {StartFX:Shrinking}{StartFX:Wavy}somebody help me!!![WAIT][END]
+
+#string:12:057
+[STYLE:RIGHT][...]
+{StartFX:SizeWave}Whoa ho ho ho...
+{EndFX:SizeWave}It's a good thing that murder
+case got settled.
+[WAIT][NEXT][...]
+Um... I'm really sorry that
+everyone called you a criminal.
+[PAUSE:0A][...]
+Really sorry![WAIT][END]
+
+#string:12:058
+[STYLE:RIGHT][...]
+{StartFX:SizeWave}Whoa ho ho ho...
+{EndFX:SizeWave}It's a good thing that murder
+case got settled.
+[WAIT][NEXT][...]
+Um... I'm really sorry that
+everyone called you a criminal.
+[PAUSE:0A][...]
+Really sorry![WAIT][END]
+
+#string:12:059
+[STYLE:RIGHT][...]
+The last Star Spirit was held
+near this city, wasn't it?
+[WAIT][NEXT][...]
+So, our humble frozen home is
+the setting for a great story!
+[WAIT][NEXT][...]
+Oooh! How exciting!
+[PAUSE:0A][...]
+I bet people in Toad Town will
+start giving Shiver City some
+respect now![WAIT][END]
+
+#string:12:05A
+[STYLE:RIGHT][...]
+Anyone for a shaved ice treat?
+[PAUSE:03][...]
+Strawberry flavor?[HEART] Maybe
+watermelon?[HEART][HEART]
+[WAIT][NEXT][...]
+...Or my personal favorite,
+tangy tangerine...?[HEART]
+[PAUSE:08][...]
+Ho ho![HEART] [PAUSE:05]I love frozen treats![HEART][WAIT][END]
+
+#string:12:05B
+[STYLE:RIGHT][...]
+Anyone for a shaved ice treat?
+[PAUSE:03][...]
+Strawberry flavor?[HEART] Maybe
+watermelon?[HEART][HEART]
+[WAIT][NEXT][...]
+...Or my personal favorite,
+tangy tangerine...?[HEART]
+[PAUSE:08][...]
+Ho ho![HEART] [PAUSE:05]I love frozen treats![HEART][WAIT][END]
+
+#string:12:05C
+[STYLE:RIGHT][...]
+Herringway?
+[PAUSE:0A][...]
+Yes, of course I know him.
+[WAIT][NEXT][...]
+Everyone in this city knows
+about him. He's a world-famous
+mystery novelist.
+[WAIT][NEXT][...]
+...You think Herringway killed
+Mayor Penguin?
+[PAUSE:0A][...]
+Hmm... That sounds nuts, but...
+[WAIT][NEXT][...]
+...you might be on to something.
+[PAUSE:0A][...]
+Herringway does know everything
+about crimes and criminals.
+[WAIT][NEXT][...]
+And he seems to have
+mysteriously disappeared...[WAIT][END]
+
+#string:12:05D
+[STYLE:RIGHT][...]
+Herringway?
+[PAUSE:0A][...]
+Yes, of course I know him.
+[WAIT][NEXT][...]
+Everyone in this city knows
+about him. He's a world-famous
+mystery novelist.
+[WAIT][NEXT][...]
+...You think Herringway killed
+Mayor Penguin?
+[PAUSE:0A][...]
+Hmm... That sounds nuts, but...
+[WAIT][NEXT][...]
+...you might be onto something.
+[PAUSE:0A][...]
+Herringway does know everything
+about crimes and criminals.
+[WAIT][NEXT][...]
+And he seems to have
+mysteriously disappeared...[WAIT][END]
+
+#string:12:05E
+[STYLE:RIGHT][...]
+The case [PAUSE:0A]has been closed, huh?
+I'm really happy that 
+Herringway wasn't guilty.
+[WAIT][NEXT][...]
+What? Me? I thought it was him?
+[WAIT][NEXT][...]
+Oh, ha ha ha ha... [PAUSE:05]That was just
+me being silly![WAIT][END]
+
+#string:12:05F
+[STYLE:RIGHT][...]
+The case [PAUSE:0A]has been closed, huh?
+I'm really happy that 
+Herringway wasn't guilty.
+[WAIT][NEXT][...]
+What? Me? I thought it was him?
+[WAIT][NEXT][...]
+Oh, ha ha ha ha... [PAUSE:05]That was just
+me being silly![WAIT][END]
+
+#string:12:060
+[STYLE:RIGHT][...]
+Herringway was writing a new
+novel in his secret room.
+[PAUSE:0A][...]
+No wonder nobody could figure
+out where he was!
+[WAIT][NEXT][...]
+By the way, Mario...
+[PAUSE:0A][...]
+You've read some of his
+manuscript, haven't you?
+[WAIT][NEXT][...]
+Tell me the ending! Pleeeease![WAIT][END]
+
+#string:12:061
+[STYLE:RIGHT][...]
+Mayor Penguin was murdered!
+[WAIT][NEXT][...]
+In his back room!
+[PAUSE:0A][...]
+And no one has the slightest idea
+who did it![WAIT][END]
+
+#string:12:062
+[STYLE:RIGHT][...]
+Oh! It can't be!
+[PAUSE:0A][...]
+It's like we're in one of
+Herringway's mystery novels!
+[WAIT][NEXT][...]
+How could such a terrible thing
+happen in such a small, peaceful
+city?
+[WAIT][NEXT][...]
+Who could do such a thing?[WAIT][END]
+
+#string:12:063
+[STYLE:RIGHT][...]
+The Mayor's wife said the man
+with the mustache did it.
+[WAIT][NEXT][...]
+And he seemed to be such a
+gentleman, too. Still, I guess you
+shouldn't trust anyone who
+carries such a huge Hammer.[WAIT][END]
+
+#string:12:064
+[STYLE:RIGHT][...]
+Brrr! How terrifying!
+[PAUSE:0A][...]
+It just goes to show you that
+you should never trust your
+first impression of people.[WAIT][END]
+
+#string:12:065
+[STYLE:RIGHT][...]
+The Mayor wasn't murdered!
+[WAIT][NEXT][...]
+He just whacked his own head on
+the floor and fainted.[WAIT][END]
+
+#string:12:066
+[STYLE:RIGHT][...]
+But that means...
+[PAUSE:0A][...]
+...the man with the mustache
+wasn't evil, after all.[WAIT][END]
+
+#string:12:067
+[STYLE:RIGHT][...]
+Yeah, you're right!
+[PAUSE:0A][...]
+Hey, I solved the case! The
+criminal was a box of souvenirs
+from Toad Town![WAIT][END]
+
+#string:12:068
+[STYLE:RIGHT][...]
+Waaaa ha ha ha ha!
+[PAUSE:0A][...]
+Who would've believed we'd have a
+mystery in this sleepy city?
+[WAIT][NEXT][...]
+It's quiet, peaceful... I love it.
+[PAUSE:0A][...]
+I'm going home now.
+[PAUSE:0A][...]
+I'm gonna read a novel.[WAIT][END]
+
+#string:12:069
+[STYLE:RIGHT][...]
+Please come again, OK?[WAIT][END]
+
+#string:12:06A
+[STYLE:RIGHT][...]
+Look, I'm not selling anything to
+Mayor Penguin's killer.
+[PAUSE:05][...]
+Get out of here, will you?[WAIT][END]
+
+#string:12:06B
+[STYLE:RIGHT][...]
+The Toad House slogan is... 
+"Refresh your Body and Soul."
+[WAIT][NEXT][...]
+Do you want to take a nap?
+{Func_04}[END]
+
+#string:12:06C
+[STYLE:RIGHT][...]
+...Huh?
+[PAUSE:0A][...]
+You look OK to me, Mario.
+[PAUSE:0A][...]
+Are you sure you feel like taking
+a nap?
+{Func_04}[END]
+
+#string:12:06D
+[NEXT][...]
+Hope to see you again![WAIT][END]
+
+#string:12:06E
+[NEXT][...]
+Sleep well.[WAIT][END]
+
+#string:12:06F
+[STYLE:RIGHT][...]
+Did you have a good nap?
+[WAIT][NEXT][...]
+Good luck to you![WAIT][END]
+
+#string:12:070
+[STYLE:RIGHT][...]
+Mario!
+[PAUSE:0A][...]
+I took a nap, and when I woke up
+there were all these items!
+[WAIT][NEXT][...]
+And it was the weirdest thing...
+The floor was all wet, as if snow
+had melted everywhere...
+[WAIT][NEXT][...]
+Do you think someone left these
+as a present for you, Mario?
+[PAUSE:0A][...]
+But who would do that???[WAIT][END]
+
+#string:12:071
+[STYLE:RIGHT][...]
+Starborn Valley and Shiver
+Mountain are both near here.
+[WAIT][NEXT][...]
+But you'd better dress warmly if
+you plan on reaching them.[WAIT][END]
+
+#string:12:072
+[STYLE:RIGHT][...]
+Starborn Valley and Shiver
+Mountain are both near here.
+[WAIT][NEXT][...]
+But you'd better dress warmly if
+you plan on reaching them.[WAIT][END]
+
+#string:12:073
+[STYLE:RIGHT][...]
+It's really rare that we get
+visitors from other towns.
+[WAIT][NEXT][...]
+You may have noticed everyone
+gets nervous around strangers.
+[WAIT][NEXT][...]
+It seems like just recently we've
+had several visitors from other
+places...
+[WAIT][NEXT][...]
+Do you think it means that Shiver
+City is getting to be popular?[WAIT][END]
+
+#string:12:074
+[STYLE:RIGHT][...]
+It's really rare that we get
+visitors from other towns.
+[WAIT][NEXT][...]
+You may have noticed everyone
+gets nervous around strangers.
+[WAIT][NEXT][...]
+It seems like just recently we've
+had several visitors from other
+places...
+[WAIT][NEXT][...]
+Do you think it means that Shiver
+City is getting to be popular?[WAIT][END]
+
+#string:12:075
+[STYLE:RIGHT][...]
+Your visit here will go down as
+one of the most important times
+in Shiver City history.
+[WAIT][NEXT][...]
+When I heard about your
+legendary deeds, I imagined you
+as this ultra-strong guy...
+[WAIT][NEXT][...]
+You turned out...ahem...much
+more normal than I expected.[WAIT][END]
+
+#string:12:076
+[STYLE:RIGHT][...]
+...Starborn Valley?
+[WAIT][NEXT][...]
+Oh. Sure.
+[PAUSE:0A][...]
+Go east from this city.
+[WAIT][NEXT][...]
+But you have to be careful!
+[WAIT][NEXT][...]
+I have it on good faith that
+there're lots of scary monsters
+between here and there.
+[WAIT][NEXT][...]
+The thought makes me shiver...
+[PAUSE:0A][...]
+It seems like all I hear these
+days are frightening rumors.
+[PAUSE:0A][...]
+What's Shiver City coming to?[WAIT][END]
+
+#string:12:077
+[STYLE:RIGHT][...]
+...Starborn Valley?
+[WAIT][NEXT][...]
+Oh. Sure.
+[PAUSE:0A][...]
+Go east from this city.
+[WAIT][NEXT][...]
+But you have to be careful!
+[WAIT][NEXT][...]
+I have it on good faith that
+there're lots of scary monsters
+between here and there.
+[WAIT][NEXT][...]
+The thought makes me shiver...
+[PAUSE:0A][...]
+It seems like all I hear these
+days are frightening rumors.
+[PAUSE:0A][...]
+What's Shiver City coming to?[WAIT][END]
+
+#string:12:078
+[STYLE:RIGHT][...]
+That backroom murder case was
+the greatest mystery in the
+history of Shiver City!
+[WAIT][NEXT][...]
+Although it was kind of a joke...
+I'm glad the case got solved.
+[PAUSE:0A][...]
+It's a good thing that the Mayor
+turned out to be OK.
+[WAIT][NEXT][...]
+You certainly got a raw deal for
+a while there, Mario.[WAIT][END]
+
+#string:12:079
+[STYLE:RIGHT][...]
+That backroom murder case was
+the greatest mystery in the
+history of Shiver City!
+[WAIT][NEXT][...]
+Although it was kind of a joke...
+I'm glad the case got solved.
+[PAUSE:0A][...]
+It's a good thing that the Mayor
+turned out to be OK.
+[WAIT][NEXT][...]
+You certainly got a raw deal for
+a while there, Mario.[WAIT][END]
+
+#string:12:07A
+[STYLE:RIGHT][...]
+Your adventures are already
+more thrilling than any novel I've
+ever read!
+[WAIT][NEXT][...]
+Aren't you afraid to take on
+that monster, Bowser?
+[WAIT][NEXT][...]
+Boy, I would be. Good luck![WAIT][END]
+
+#string:12:07B
+[STYLE:RIGHT][...]
+Yah, hello!
+[PAUSE:0A][...]
+This is the northernmost burg,
+Shiver City.
+[WAIT][NEXT][...]
+You come from Toad Town?
+[PAUSE:0A][...]
+Very, very far away, yah?
+Welcome to Shiver City.[WAIT][END]
+
+#string:12:07C
+[STYLE:RIGHT][...]
+Yah, hello!
+[PAUSE:0A][...]
+This is the northernmost burg,
+Shiver City.
+[WAIT][NEXT][...]
+You come from Toad Town?
+[PAUSE:0A][...]
+Very, very far away, yah?
+Welcome to Shiver City.[WAIT][END]
+
+#string:12:07D
+[STYLE:RIGHT][...]
+You'd better show some evidence
+if you're really not the one who
+murdered Mayor Penguin!
+[WAIT][NEXT][...]
+Until you do, I'm sorry, but I
+can't let you leave the city. I
+won't budge from this spot, oh no
+sirree!
+[WAIT][NEXT][...]
+I'm serious, now! There's no use
+trying to move me!
+[PAUSE:0A][...]
+...[PAUSE:03]Am I being too rude? Sorry.[WAIT][END]
+
+#string:12:07E
+[STYLE:RIGHT][...]
+You'd better show some evidence
+if you're really not the one who
+murdered Mayor Penguin!
+[WAIT][NEXT][...]
+Until you do, I'm sorry, but I
+can't let you leave the city. I
+won't budge from this spot, oh no
+sirree!
+[WAIT][NEXT][...]
+I'm serious, now! There's no use
+trying to move me!
+[PAUSE:0A][...]
+...[PAUSE:03]Am I being too rude? Sorry.[WAIT][END]
+
+#string:12:07F
+[STYLE:RIGHT][...]
+Oh! Such a fuss the Mayor's wife
+made, yah? Her exaggeration was
+the beginning of all this trouble,
+that's for sure.
+[WAIT][NEXT][...]
+She reads too many of those
+mystery novels, I think.
+[WAIT][NEXT][...]
+...Although, to be fair, I
+suspected you, too.
+[PAUSE:0F][...]
+Ha ha ha ha ha...... Oops![WAIT][END]
+
+#string:12:080
+[STYLE:RIGHT][...]
+Oh! Such a fuss the Mayor's wife
+made, yah? Her exaggeration was
+the beginning of all this trouble,
+that's for sure.
+[WAIT][NEXT][...]
+She reads too many of those
+mystery novels, I think.
+[WAIT][NEXT][...]
+...Although, to be fair, I
+suspected you, too.
+[PAUSE:0F][...]
+Ha ha ha ha ha...... Oops![WAIT][END]
+
+#string:12:081
+[STYLE:RIGHT][...]
+Mario! You're heading to
+Bowser's Castle to try to save
+Princess Peach and all the
+others, yah?
+[WAIT][NEXT][...]
+A friend of mine followed the
+Mayor to Toad Town and I
+haven't seen him since. Do you
+think he was captured?
+[WAIT][NEXT][...]
+So many people were caught...
+[PAUSE:05][...]
+I wonder if they're all OK.
+[PAUSE:0A][...]
+Oh, I'm so worried.[WAIT][END]
+
+#string:12:082
+[STYLE:RIGHT][...]
+This city is becoming pretty
+dangerous lately.
+[WAIT][NEXT][...]
+I saw this totally suspicious
+stranger wandering around just
+a short time ago.
+[WAIT][NEXT][...]
+He seemed to be searching for
+someone. I didn't like his looks.
+[PAUSE:0A][...]
+I wonder where he got off to.[WAIT][END]
+
+#string:12:083
+[STYLE:RIGHT][...]
+This city is becoming pretty
+dangerous lately.
+[WAIT][NEXT][...]
+I saw this totally suspicious
+stranger wandering around just
+a short time ago.
+[WAIT][NEXT][...]
+He seemed to be searching for
+someone. I didn't like his looks.
+[PAUSE:0A][...]
+I wonder where he got off to.[WAIT][END]
+
+#string:12:084
+[STYLE:RIGHT][...]
+Herringway?
+[PAUSE:0A][...]
+Yeah, sure. He lives right next
+to the lake.
+[WAIT][NEXT][...]
+His house is always empty,
+though. Who knows where he is...
+[WAIT][NEXT][...]
+Whaaat!? [PAUSE:05].[PAUSE:05].[PAUSE:05].[PAUSE:0A]Herringway might be
+a murderer? No!
+[WAIT][NEXT][...]
+That can't be... 
+[PAUSE:0A][...]
+He's a really good friend of the
+Mayor's. He'd have no reason to
+off him!
+[WAIT][NEXT][...]
+...Unless there was some super-
+secret reason!
+[WAIT][NEXT][...]
+Ever since I started reading
+Herringway's mystery novels, I
+suspect the unsuspected![WAIT][END]
+
+#string:12:085
+[STYLE:RIGHT][...]
+Herringway?
+[PAUSE:0A][...]
+Yeah, sure. He lives right next
+to the lake.
+[WAIT][NEXT][...]
+His house is always empty,
+though. Who knows where he is...
+[WAIT][NEXT][...]
+Whaaat!? [PAUSE:05].[PAUSE:05].[PAUSE:05].[PAUSE:0A]Herringway might be
+a murderer? No!
+[WAIT][NEXT][...]
+That can't be... 
+[PAUSE:0A][...]
+He's a really good friend of the
+Mayor's. He'd have no reason to
+off him!
+[WAIT][NEXT][...]
+...Unless there was some super-
+secret reason!
+[WAIT][NEXT][...]
+Ever since I started reading
+Herringway's mystery novels, I
+suspect the unsuspected![WAIT][END]
+
+#string:12:086
+[STYLE:RIGHT][...]
+I saw a crazy guy in the city
+the other day.
+[WAIT][NEXT][...]
+He was shouting, "Mariooo!
+Mariooo!" and running around.
+[WAIT][NEXT][...]
+What a freak.
+[PAUSE:0A][...]
+I steered way clear of him,
+that's for sure.[WAIT][END]
+
+#string:12:087
+[STYLE:RIGHT][...]
+I saw a crazy guy in the city
+the other day.
+[WAIT][NEXT][...]
+He was shouting, "Mariooo!
+Mariooo!" and running around.
+[WAIT][NEXT][...]
+What a freak.
+[PAUSE:0A][...]
+I steered way clear of him,
+that's for sure.[WAIT][END]
+
+#string:12:088
+[STYLE:RIGHT][...]
+You're THE Mario!?
+[WAIT][NEXT][...]
+Oh... But...
+[PAUSE:0A][...]
+You look totally normal.
+[WAIT][NEXT][...]
+You're just some ordinary
+person in real life?![WAIT][END]
+
+#string:12:089
+[STYLE:RIGHT][...]
+I saw this really bizarre guy
+around here the other day. He
+was shouting like... 
+[WAIT][NEXT][...]
+"{StartFX:Shrinking}Ohhhhhhhhhhhhhhh!!{EndFX:Shrinking}" or
+"{StartFX:Shrinking}It's freeeeezing!!!{EndFX:Shrinking}".
+[WAIT][NEXT][...]
+And he was also going...
+"{StartFX:Shrinking}Nooooo!! Marioooo!!!{EndFX:Shrinking}"
+[WAIT][NEXT][...]
+Who was that nut?[WAIT][END]
+
+#string:12:08A
+[STYLE:RIGHT][...]
+I saw this really bizarre guy
+around here the other day. He
+was shouting like... 
+[WAIT][NEXT][...]
+"{StartFX:Shrinking}Ohhhhhhhhhhhhhhh!!{EndFX:Shrinking}" or
+"{StartFX:Shrinking}It's freeeeezing!!!{EndFX:Shrinking}".
+[WAIT][NEXT][...]
+And he was also going...
+"{StartFX:Shrinking}Nooooo!! Marioooo!!!{EndFX:Shrinking}"
+[WAIT][NEXT][...]
+Who was that nut?[WAIT][END]
+
+#string:12:08B
+[STYLE:RIGHT][...]
+There's a rumor that you
+murdered Mayor Penguin.
+[PAUSE:0A][...]
+Did you really do it?
+[WAIT][NEXT][...]
+I don't think you did. I bet it
+was that crazy guy I saw
+running around here the other
+day. He was weird.
+[WAIT][NEXT][...]
+You don't look so weird.[WAIT][END]
+
+#string:12:08C
+[STYLE:RIGHT][...]
+There's a rumor that you
+murdered Mayor Penguin.
+[PAUSE:0A][...]
+Did you really do it?
+[WAIT][NEXT][...]
+I don't think you did. I bet it
+was that crazy guy I saw
+running around here the other
+day. He was weird.
+[WAIT][NEXT][...]
+You don't look so weird.[WAIT][END]
+
+#string:12:08D
+[STYLE:RIGHT][...]
+I knew you weren't the criminal.
+[WAIT][NEXT][...]
+The Mayor just fainted, right?
+[WAIT][NEXT][...]
+So who was that weird guy I saw
+the other day?
+[PAUSE:0A][...]
+No relation to the case at all?
+[WAIT][NEXT][...]
+Well, that's...unexciting...[WAIT][END]
+
+#string:12:08E
+[STYLE:RIGHT][...]
+I knew you weren't the criminal.
+[WAIT][NEXT][...]
+The Mayor just fainted, right?
+[WAIT][NEXT][...]
+So who was that weird guy I saw
+the other day?
+[PAUSE:0A][...]
+No relation to the case at all?
+[WAIT][NEXT][...]
+Well, that's...unexciting...[WAIT][END]
+
+#string:12:08F
+[STYLE:RIGHT][...]
+I didn't know that you were the
+world-famous Mario.
+[WAIT][NEXT][...]
+So you're going to duke it out
+with Bowser, are you?
+[PAUSE:0A][...]
+Good luck! You'll need it!
+[WAIT][NEXT][...]
+Before you do, could you find out
+who that stranger that I saw
+before was?
+[WAIT][NEXT][...]
+I figure it must've been a
+monster made of snow and ice. 
+[WAIT][NEXT][...]
+If that's true, this city is in
+serious trouble!
+[WAIT][NEXT][...]
+What'll we do if it runs amok in
+our streets?!
+{StartFX:Wavy}Mariooooo!![WAIT][END]
+
+#string:12:090
+[STYLE:RIGHT][...]
+Did you know that there's a Dojo
+in Toad Town?
+[WAIT][NEXT][...]
+I go there all the time. I finally
+got my Third-Degree Card the
+other day.
+[WAIT][NEXT][...]
+I'm sure you have a much higher
+ranking than I do, though.
+[WAIT][NEXT][...]
+What?
+[PAUSE:0A][...]
+You don't have anything?[WAIT][END]
+
+#string:12:091
+[STYLE:RIGHT][...]
+Hey... You have...
+[PAUSE:14][...]
+...a First-Degree Card!
+[WAIT][NEXT][...]
+Heh heh heh. A beginner, huh?
+[PAUSE:0A][...]
+I've got a Third-Degree Card.
+[WAIT][NEXT][...]
+Looks like I'm stronger than you.[WAIT][END]
+
+#string:12:092
+[STYLE:RIGHT][...]
+Hey... You have...
+[PAUSE:14][...]
+...a Second-Degree Card!
+[WAIT][NEXT][...]
+Heh heh heh. It's a start.
+[PAUSE:0A][...]
+I've got a Third-Degree Card.
+[WAIT][NEXT][...]
+I must be tougher than you.[WAIT][END]
+
+#string:12:093
+[STYLE:RIGHT][...]
+Hey... You have...
+[PAUSE:14][...]
+...a Third-Degree Card!
+[WAIT][NEXT][...]
+I've got a Third-Degree Card,
+too!! Cool!
+[WAIT][NEXT][...]
+We have the same ranking!
+[PAUSE:0A][...]
+We're equals![WAIT][END]
+
+#string:12:094
+[STYLE:RIGHT][...]
+Hey... You have...
+[PAUSE:14][...]
+...a Fourth-Degree Card!
+[WAIT][NEXT][...]
+Wow, you're strong!
+[WAIT][NEXT][...]
+I wish I were that strong...
+[PAUSE:0A][...]
+I'd better train harder![WAIT][END]
+
+#string:12:095
+[STYLE:RIGHT][...]
+Hey... You have...
+[PAUSE:14][...]
+...a Diploma...
+[WAIT][NEXT][...]
+Wooow! I mean, woooooow!
+[PAUSE:14][...]
+You beat The Master!!
+[WAIT][NEXT][...]
+How'd you manage that?
+[PAUSE:0F][...]
+You're the strongest guy ever![WAIT][END]
+
+#string:12:096
+[STYLE:RIGHT][...]
+I love sliding on the ice.
+[PAUSE:05][...]
+Whiiiish...[PAUSE:05] So much fun!
+[WAIT][NEXT][...]
+How about you? 
+[PAUSE:05][...]
+Wanna join me?[WAIT][END]
+
+#string:12:097
+[STYLE:RIGHT][...]
+I love sliding on the ice.
+[PAUSE:05][...]
+Whiiiish...[PAUSE:05] So much fun!
+[WAIT][NEXT][...]
+How about you? 
+[PAUSE:05][...]
+Wanna join me?[WAIT][END]
+
+#string:12:098
+[STYLE:RIGHT][...]
+I love being the first to leave my
+footprints in fresh snow.
+[WAIT][NEXT][...]
+I also like making snow angels
+with my flippers. Ha ha!
+[PAUSE:03][...]
+Snow is the best![WAIT][END]
+
+#string:12:099
+[STYLE:RIGHT][...]
+I love being the first to leave my
+footprints in fresh snow.
+[WAIT][NEXT][...]
+I also like making snow angels
+with my flippers. Ha ha!
+[PAUSE:03][...]
+Snow is the best![WAIT][END]
+
+#string:12:09A
+[STYLE:RIGHT][...]
+It snows pretty much every day
+here in Shiver City.
+[PAUSE:05][...]
+Each day's a fresh powder day!
+[WAIT][NEXT][...]
+You really ought to come back
+here once peace has returned.
+[WAIT][NEXT][...]
+I'll show you how to make the
+perfect penguin snow angel![WAIT][END]
+
+#string:12:09B
+[STYLE:RIGHT][...]
+I really love sliding around in the
+snow.
+[WAIT][NEXT][...]
+Pingy, pangy, pengy pong[NOTE]
+Snow is falling all day long[NOTE]
+Skate or spin or sing a song[NOTE]
+[WAIT][NEXT][...]
+Waah ohhhhh...hey![NOTE] Doo
+beeeee...say![NOTE] Way 
+vonnnce...yay![NOTE]
+[WAIT][NEXT][...]
+Oh! [PAUSE:0A]I think I'd better practice.[WAIT][END]
+
+#string:12:09C
+[STYLE:RIGHT][...]
+I really love sliding around in the
+snow.
+[WAIT][NEXT][...]
+Pingy, pangy, pengy pong[NOTE]
+Snow is falling all day long[NOTE]
+Skate or spin or sing a song[NOTE]
+[WAIT][NEXT][...]
+Waah ohhhhh...hey![NOTE] Doo
+beeeee...say![NOTE] Way
+vonnnce...yay![NOTE]
+[WAIT][NEXT][...]
+Oh! [PAUSE:0A]I think I'd better practice.[WAIT][END]
+
+#string:12:09D
+[STYLE:RIGHT][...]
+Boy, thank goodness the Mayor
+turned out to be all right.
+[PAUSE:0A][...]
+It's hard to imagine anything
+terrible happening in this city.
+[WAIT][NEXT][...]
+Peace, love and little kitties[NOTE]
+Hot haikus and lovely ditties[NOTE]
+All for you, oh Shiver City[NOTE]
+[WAIT][NEXT][...]
+So cold and quiet in the snow!
+My love burns hot as fire! Lo!
+My city!!! Never crumble! Oh!
+Peng 'n' roll! Yeah! Yo![NOTE]
+[WAIT][NEXT][...]
+...A song this good comes
+straight from the heart.[WAIT][END]
+
+#string:12:09E
+[STYLE:RIGHT][...]
+Boy, thank goodness the Mayor
+turned out to be all right.
+[PAUSE:0A][...]
+It's hard to imagine anything
+terrible happening in this city.
+[WAIT][NEXT][...]
+Peace, love and little kitties[NOTE]
+Hot haikus and lovely ditties[NOTE]
+All for you, oh Shiver City[NOTE]
+[WAIT][NEXT][...]
+So cold and quiet in the snow!
+My love burns hot as fire! Lo!
+My city!!! Never crumble! Oh!
+Peng 'n' roll! Yeah! Yo![NOTE]
+[WAIT][NEXT][...]
+...A song this good comes
+straight from the heart.[WAIT][END]
+
+#string:12:09F
+[STYLE:RIGHT][...]
+We never have problems in Shiver
+City anymore.
+[WAIT][NEXT][...]
+We have one guard and one
+gatekeeper. That's plenty.[WAIT][END]
+
+#string:12:0A0
+[STYLE:RIGHT][...]
+This building's a warehouse.
+Nobody can get in because some
+careless guard managed to lose
+the key to the door.
+[WAIT][NEXT][...]
+Actually, I'm the one who lost it.
+[WAIT][NEXT][...]
+I had it just a little while ago.[WAIT][END]
+
+#string:12:0A1
+[STYLE:RIGHT][...]
+This building's a warehouse.
+Nobody can get in because some
+careless guard managed to lose
+the key to the door.
+[WAIT][NEXT][...]
+Actually, I'm the one who lost it.
+[WAIT][NEXT][...]
+I had it just a little while ago.[WAIT][END]
+
+#string:12:0A2
+[STYLE:RIGHT][...]
+This building's a warehouse.
+Nobody can get in because some
+careless guard managed to lose
+the key to the door.
+[WAIT][NEXT][...]
+I can't believe I lost it... I
+ought to retrace my steps...
+[WAIT][NEXT][...]
+Hey, listen, if you find a key
+anywhere, let me know, OK?[WAIT][END]
+
+#string:12:0A3
+[STYLE:RIGHT][...]
+Thanks for finding that key!
+[PAUSE:0A][...]
+I would've been in deep trouble
+if I couldn't get inside.[WAIT][END]
+
+#string:12:0A4
+[STYLE:RIGHT][...]
+Now I've got to be sure to keep
+the warehouse in order.
+[PAUSE:0A][...]
+I keep a lot of precious things in
+there, you know.
+[WAIT][NEXT][...]
+Very, very precious...
+[WAIT][NEXT][...]
+...junk.[HEART][WAIT][END]
+
+#string:12:0A5
+[STYLE:RIGHT][...]
+Now I've got to be sure to keep
+the warehouse in order.
+[PAUSE:0A][...]
+I keep a lot of precious things in
+there, you know.
+[WAIT][NEXT][...]
+Very, very precious...
+[WAIT][NEXT][...]
+...junk.[HEART][WAIT][END]
+
+#string:12:0A6
+[STYLE:RIGHT][...]
+Don't you just love junk?
+[PAUSE:0A][...]
+When I'm beak-deep in junk, time
+just flies on by.
+[WAIT][NEXT][...]
+I don't even care what goes on
+in the outside world.
+[WAIT][NEXT][...]
+Anyway, I... You're WHAT?!
+You're fighting Bowser?
+[WAIT][NEXT][...]
+Are you crazy!?
+[PAUSE:0A][...]
+What in the world's going on!?[WAIT][END]
+
+#string:12:0A7
+[STYLE:RIGHT][...]
+Starborn Valley is a little ways
+off from this city.
+[WAIT][NEXT][...]
+It's a very mysterious place.
+[PAUSE:0A][...]
+They say that Star Kids rise up
+to the sky from there.
+[WAIT][NEXT][...]
+But I haven't seen any stars
+rising to the sky lately...[WAIT][END]
+
+#string:12:0A8
+[STYLE:RIGHT][...]
+Starborn Valley is a little ways
+off from this city.
+[WAIT][NEXT][...]
+It's a very mysterious place.
+[PAUSE:0A][...]
+They say that Star Kids rise up
+to the sky from there.
+[WAIT][NEXT][...]
+But I haven't seen any stars
+rising to the sky lately...[WAIT][END]
+
+#string:12:0A9
+[STYLE:RIGHT][...]
+This is Herringway's house. He's
+a novelist.
+[WAIT][NEXT][...]
+Herringway should be in there,
+but I haven't seen him lately...
+[PAUSE:0A][...]
+It's very peculiar...[WAIT][END]
+
+#string:12:0AA
+[STYLE:RIGHT][...]
+This is Herringway's house. He's
+a novelist.
+[WAIT][NEXT][...]
+Herringway should be in there,
+but I haven't seen him lately...
+[PAUSE:0A][...]
+It's very peculiar...[WAIT][END]
+
+#string:12:0AB
+[STYLE:RIGHT][...]
+So, Herringway WAS in the house.
+[WAIT][NEXT][...]
+I peeped in the windows, but I
+never caught even a glimpse of
+him. I figured he was out.
+[WAIT][NEXT][...]
+So where was he hiding?
+[PAUSE:14][...]
+Verrrry peculiar...[WAIT][END]
+
+#string:12:0AC
+[STYLE:RIGHT][...]
+Starborn Valley is a little ways
+off from this city.
+[WAIT][NEXT][...]
+It's a very mysterious place.
+[PAUSE:0A][...]
+They say that Star Kids rise up
+to the sky from there.
+[WAIT][NEXT][...]
+But I haven't seen any stars
+rising to the sky lately...[WAIT][END]
+
+#string:12:0AD
+[STYLE:RIGHT][...]
+Starborn Valley is a little ways
+off from this city.
+[WAIT][NEXT][...]
+It's a very mysterious place.
+[PAUSE:0A][...]
+They say that Star Kids rise up
+to the sky from there.
+[WAIT][NEXT][...]
+But I haven't seen any stars
+rising to the sky lately...[WAIT][END]
+
+#string:12:0AE
+[STYLE:RIGHT][...]
+When the world is at peace, you
+can see the Star Kids rising to
+the sky from Starborn Valley.
+[WAIT][NEXT][...]
+It's really a beautiful sight.
+[WAIT][NEXT][...]
+You should check it out one day.[WAIT][END]
+
+#string:12:0AF
+[STYLE:RIGHT][...]
+I heard that a horrible monster
+lives at the end of this path.
+[WAIT][NEXT][...]
+Everyone is so scared of it that
+they don't leave the city.
+[WAIT][NEXT][...]
+... Why can't we have peace? I
+wish there were no monsters... [WAIT][END]
+
+#string:12:0B0
+[STYLE:RIGHT][...]
+I heard that a horrible monster
+lives at the end of this path.
+[WAIT][NEXT][...]
+Everyone is so scared of it that
+they don't leave the city.
+[WAIT][NEXT][...]
+... Why can't we have peace? I
+wish there were no monsters...[WAIT][END]
+
+#string:12:0B1
+[STYLE:RIGHT][...]
+...
+[WAIT][NEXT][...]
+I SAID, "..."!
+[WAIT][NEXT][...]
+I don't talk to penguin-killers.[WAIT][END]
+
+#string:12:0B2
+[STYLE:RIGHT][...]
+...
+[WAIT][NEXT][...]
+I SAID, "..."!
+[WAIT][NEXT][...]
+I don't talk to penguin-killers.[WAIT][END]
+
+#string:12:0B3
+[STYLE:RIGHT][...]
+A horrible monster lives
+somewhere along this path.
+[WAIT][NEXT][...]
+Penguins talk about hearing
+strange screaming, too.
+[WAIT][NEXT][...]
+No one can confirm what kind of
+horrible monster it is because
+everyone's too scared to go
+check it out.
+[WAIT][NEXT][...]
+Of course, you won't see me
+volunteering for that job![WAIT][END]
+
+#string:12:0B4
+[STYLE:RIGHT][...]
+A horrible monster lives
+somewhere along this path.
+[WAIT][NEXT][...]
+Penguins talk about hearing
+strange screaming, too.
+[WAIT][NEXT][...]
+No one can confirm what kind of
+horrible monster it is because
+everyone's too scared to go
+check it out.
+[WAIT][NEXT][...]
+Of course, you won't see me
+volunteering for that job![WAIT][END]
+
+#string:12:0B5
+[STYLE:RIGHT][...]
+Penguins are saying that the
+monster is gone for good.
+[WAIT][NEXT][...]
+Phew! Finally, we can safely
+travel outside the city.
+[WAIT][NEXT][...]
+I can only hope the rest of the
+world becomes peaceful as well.[WAIT][END]
+
+#string:12:0B6
+[STYLE:RIGHT][...]
+What're you doing? Stop that! 
+[PAUSE:0A][...]
+Have you lost your wits? What if
+the ice breaks?[WAIT][END]
+
+#string:12:0B7
+[STYLE:RIGHT][...]
+No! Are you a complete idiot? I
+told you not to do that!
+[PAUSE:0A][...]
+That's really dangerous![WAIT][END]
+
+#string:12:0B8
+[STYLE:RIGHT][...]
+Don't you ever listen?
+[PAUSE:0A][...]
+You're a public nuisance! Take a
+hike![WAIT][END]
+
+#string:12:0B9
+[STYLE:RIGHT][...]
+I'm the city guard around here.
+[PAUSE:0A][...]
+I'm investigating a report of a
+suspicious character wandering
+around the city.
+[WAIT][NEXT][...]
+You...
+[PAUSE:14][...]
+You're not him, are you?[WAIT][END]
+
+#string:12:0BA
+[STYLE:RIGHT][...]
+I'm the city guard around here.
+[PAUSE:0A][...]
+I'm investigating a report of a
+suspicious character wandering
+around the city.
+[WAIT][NEXT][...]
+You...
+[PAUSE:14][...]
+You're not him, are you?[WAIT][END]
+
+#string:12:0BB
+[STYLE:RIGHT][...]
+For puffin's sake...
+[PAUSE:0A][...]
+The Mayor's wife is an alarmist.
+[WAIT][NEXT][...]
+Although I bet everyone involved
+in that case would agree that my
+detective work was perfect.[WAIT][END]
+
+#string:12:0BC
+[STYLE:RIGHT][...]
+Pardon me. I'm on patrol.
+[WAIT][NEXT][...]
+There have been rumors of a
+screaming monster appearing.
+[WAIT][NEXT][...]
+Penguins scare easily, so I have
+to keep the city's borders
+extra safe.[WAIT][END]
+
+#string:12:0BD
+[STYLE:RIGHT][...]
+How are you holding up?
+[PAUSE:0A][...]
+I fight for peace and justice,
+too, you know. In Shiver City.
+[WAIT][NEXT][...]
+Good luck saving the world![WAIT][END]
+
+#string:12:0BE
+[STYLE:RIGHT][...]
+When you hear about Shiver City,
+ice skating is the first thing
+that comes to mind![HEART][WAIT][END]
+
+#string:12:0BF
+[STYLE:RIGHT][...]
+Well, skiing's nice, too, but not
+when a monster's loose![WAIT][END]
+
+#string:12:0C0
+[STYLE:RIGHT][...]
+It's scary out in the snow, so
+city-skating we will go![NOTE]
+[PAUSE:05][...]
+Yeah, yeah![HEART][WAIT][END]
+
+#string:12:0C1
+[STYLE:RIGHT][...]
+Ahhhhhhhhhhhhh!!
+{StartFX:Shrinking}The ice on the lake broke!![WAIT][END]
+
+#string:12:0C2
+[STYLE:RIGHT][...]
+We were just about to go ice
+skating!![WAIT][END]
+
+#string:12:0C3
+[STYLE:RIGHT][...]
+{StartFX:Growing}Nooo! This is totally unfair!
+[PAUSE:0A][...]
+I was so looking forward to
+skating all day long![WAIT][END]
+
+#string:12:0C4
+[STYLE:RIGHT][...]
+Cold... It's cold here!
+{StartFX:SizeJitter}{StartFX:Wavy}It's too cooooold!
+{EndFX:Wavy}{EndFX:SizeJitter}{StartFX:Jitter}Brrrrr!
+[WAIT][NEXT][...]
+No ice-skating. Monsters about.
+Nothing to do but shiver...
+[PAUSE:0A][...]
+What did we come here for!?
+[WAIT][NEXT][...]
+It's not like we can just zip
+back to Toad Town![WAIT][END]
+
+#string:12:0C5
+[STYLE:RIGHT][...]
+Hey, didn't you hear?
+[WAIT][NEXT][...]
+That monster's gone now!
+[PAUSE:05][...]
+Let's go to Star Valley and hit
+the slopes![WAIT][END]
+
+#string:12:0C6
+[STYLE:RIGHT][...]
+That'll be great!
+[PAUSE:0F][...]
+Skiing in a world of snow, ice,
+and stars[PAUSE:05].[PAUSE:05].[PAUSE:05]. 
+[PAUSE:0A][...]
+How perfectly marvelous!
+[WAIT][NEXT][...]
+Sounds lovely![HEART]
+[PAUSE:0F][...]
+Let's go! Let's go right now![WAIT][END]
+
+#string:12:0C7
+[STYLE:RIGHT][...]
+We're on alert because a
+stranger appeared in the city.
+[WAIT][NEXT][...]
+So I can't let you pass without
+permission from the Mayor.[WAIT][END]
+
+#string:12:0C8
+[STYLE:RIGHT][...]
+Uh, hello? You're the number one
+suspect in the Mayor's murder!
+[WAIT][NEXT][...]
+You can't leave the city! Not
+until you prove you're innocent![WAIT][END]
+
+#string:12:0C9
+[STYLE:RIGHT][...]
+Oh, OK...
+[PAUSE:0A][...]
+The Mayor said it's OK for you
+to go on through.[WAIT][END]
+
+#string:12:0CA
+[STYLE:RIGHT][...]
+Basically, what I do is watch this
+gate to see if strangers go in
+or out of the city.
+[WAIT][NEXT][...]
+It may sound simple, but it's
+incredibly important.
+[PAUSE:0A][...]
+By and large, it's a good job.
+[WAIT][NEXT][...]
+It is a bit chilly, though.[WAIT][END]
+
+#string:12:0CB
+[STYLE:RIGHT][...]
+The sky was filled with so many
+beautiful stars last night.
+[PAUSE:0A][...]
+It was really incredible.
+[WAIT][NEXT][...]
+I don't think it's quite as
+beautiful as it was when things
+were peaceful in the world, but
+some of the brightness is back.[WAIT][END]
+
+#string:12:0CC
+[STYLE:RIGHT][...]
+{StartFX:Shrinking}What in the...?[WAIT][END]
+
+#string:12:0CD
+[STYLE:RIGHT][...]
+Why are you in my fireplace?
+[WAIT][NEXT][...]
+You found my secret room...
+[PAUSE:0A][...]
+...through the chimney...
+...ingenious...[WAIT][END]
+
+#string:12:0CE
+[STYLE:RIGHT][...]
+Me?
+[PAUSE:0A][...]
+I'm Herringway. The novelist.
+[WAIT][NEXT][...]
+Haven't you heard of me?[WAIT][END]
+
+#string:12:0CF
+[STYLE:RIGHT][...]
+{StartFX:Shrinking}Whaaat!?
+{EndFX:Shrinking}Mayor Penguin was murdered?
+[PAUSE:0A][...]
+And I'm the chief suspect?
+[WAIT][NEXT][...]
+{StartFX:Shrinking}You must be joking!
+[PAUSE:0A][...]
+{EndFX:Shrinking}That's ridiculous!
+[PAUSE:05][...]
+I did no such thing![WAIT][END]
+
+#string:12:0D0
+[STYLE:RIGHT][...]
+You're very suspicious, huh?
+[WAIT][NEXT][...]
+Well, I suppose I would be, too.
+[PAUSE:0A][...]
+It appears as though I should
+drop in at the Mayor's house.[WAIT][END]
+
+#string:12:0D1
+[STYLE:RIGHT][...]
+Engage stairs![WAIT][END]
+
+#string:12:0D2
+[STYLE:RIGHT][...]
+All right then, come on. Let's go
+to the Mayor's house.[WAIT][END]
+
+#string:12:0D3
+[STYLE:RIGHT][...]
+There's no time to lose. To the
+Mayor's house![WAIT][END]
+
+#string:12:0D4
+[STYLE:RIGHT][...]
+Let's get to the bottom of this
+case right now![WAIT][END]
+
+#string:12:0D5
+[STYLE:RIGHT][...]
+That's just like the Mayor,
+hitting his head on the floor and
+knocking himself out.
+[WAIT][NEXT][...]
+I was really worried there, and
+all for nothing!
+[WAIT][NEXT][...]
+At least it wasn't a complete
+waste of time. Now I have
+material for a new novel.
+[WAIT][NEXT][...]
+You know... Maybe I could write a
+story about you, too...
+[WAIT][NEXT][...]
+How about that? Ha ha!
+[PAUSE:0A][...]
+Don't worry, I'd write about you
+as a hero, not a criminal.[WAIT][END]
+
+#string:12:0D6
+[STYLE:RIGHT][...]
+My secret room's exposed now.
+[WAIT][NEXT][...]
+The penguins of the city always
+try to read my manuscripts
+before I finish them.
+[WAIT][NEXT][...]
+I suppose I'd better make a new
+secret room...[WAIT][END]
+
+#string:12:0D7
+[STYLE:RIGHT][...]
+You saved the last Star Spirit!
+[PAUSE:0A][...]
+Everybody's talking about it!
+[WAIT][NEXT][...]
+You know, I never thought about
+you as the famous Mario.
+[WAIT][NEXT][...]
+It's so exciting to meet a hero!
+[WAIT][NEXT][...]
+I'm a huge fan!
+[PAUSE:05][...]
+I'm pulling for you!
+[PAUSE:05][...]
+Best of luck to you![WAIT][END]
+
+#string:12:0D8
+[STYLE:RIGHT][...]
+{StartFX:Shrinking}Hey hey hey hey hey![WAIT][END]
+
+#string:12:0D9
+[STYLE:RIGHT][...]
+{StartFX:Shrinking}Brrrraaah ha ha ha! Brrr!
+[PAUSE:0A][...]
+I've been waiting for you,
+Mariooooooooo!
+[PAUSE:0A][...]
+I've been here forever!
+{EndFX:Shrinking}[WAIT][NEXT][...]
+I was getting desperate!
+[PAUSE:0A][...]
+I thought I was gonna freeze!
+[WAIT][NEXT][...]
+This place is freezing, and cold,
+and nasty and icy! I hate it!
+[PAUSE:0A][...]
+{StartFX:Shrinking}I can't take it anymore!![WAIT][END]
+
+#string:12:0DA
+[STYLE:RIGHT][...]
+I gotta get out of here!
+[WAIT][NEXT][...]
+I'm going to beat you up in
+record time and head back to
+some place warm.
+[WAIT][NEXT][...]
+You ready, ice-boy? Let's do
+it!!
+[PAUSE:0A][...]
+[END]
+
+#string:12:0DB
+[STYLE:RIGHT][...]
+Oh, I've been busy, Mario! I
+learned cooool techniques!
+[WAIT][NEXT][...]
+Check this out!
+[PAUSE:0A][...]
+{Size:20:20}Aah hahhhhhhh![WAIT][END]
+
+#string:12:0DC
+[STYLE:RIGHT][...]
+Look at that piece of work!
+[PAUSE:0A][...]
+I've been taking a little magic
+course on the side!
+[WAIT][NEXT][...]
+And now, you're gonna be my
+final exam! Yeah!
+[PAUSE:0A][...]
+{StartFX:Shrinking}I've gotta win this time![WAIT][END]
+
+#string:12:0DD
+[STYLE:RIGHT][...]
+Mario! You like magic tricks?
+[PAUSE:0A][...]
+You won't like this one![WAIT][END]
+
+#string:12:0DE
+[STYLE:RIGHT][...]
+Ha ha ha ha!! That felt
+fantastic!
+[WAIT][NEXT][...]
+{StartFX:Shrinking}I just keep on getting better![WAIT][END]
+
+#string:12:0DF
+[STYLE:RIGHT][...]
+Nooooo!![WAIT][END]
+
+#string:12:0E0
+[STYLE:RIGHT][...]
+{SpeechSound:02}{StartFX:Shrinking}{StartFX:Jitter}Boooooaaaaahhhh!![WAIT][END]
+
+#string:12:0E1
+[STYLE:RIGHT][...]
+{SpeechSound:02}{StartFX:Shrinking}{StartFX:Jitter}Tuuuuurn back.
+[PAUSE:0A][...]
+Coooome no farther.
+[PAUSE:0A][...]
+Tuuuurn away, or I'll eat you![WAIT][END]
+
+#string:12:0E2
+[STYLE:RIGHT][...]
+{SpeechSound:02}{StartFX:Jitter}Whaaaaat do you think?
+[PAUSE:0A][...]
+Scaaaary monster, aren't I?
+[PAUSE:0A][...]
+Youuu know you want to run...
+{Func_04}[END]
+
+#string:12:0E3
+[NEXT][...]
+{SpeechSound:02}{StartFX:Jitter}Yeeeeees.
+[PAUSE:0A][...]
+Veeeerrrry good.
+[PAUSE:0A][...]
+Veeeeerrry smart.[WAIT][END]
+
+#string:12:0E4
+[STYLE:RIGHT][...]
+{SpeechSound:02}{StartFX:Jitter}Whaaat!
+[PAUSE:0A][...]
+Youuuu will regret this![WAIT][END]
+
+#string:12:0E5
+[STYLE:RIGHT][...]
+{SpeechSound:02}Are you scaaaaared yet?[WAIT][END]
+
+#string:12:0E6
+[STYLE:RIGHT][...]
+{SpeechSound:02}Ho ho ho ho! Your puuuuny
+attack doesn't hurt me at all!
+[WAIT][NEXT][...]
+Giiiiive up or suffer![WAIT][END]
+
+#string:12:0E7
+[STYLE:RIGHT][...]
+{SpeechSound:02}Thiiiis is your only chance![WAIT][END]
+
+#string:12:0E8
+[STYLE:RIGHT][...]
+{SpeechSound:02}{StartFX:Jitter}{StartFX:Shrinking}Noooo!
+[PAUSE:05][...]
+Ruuuuun away![WAIT][END]
+
+#string:12:0E9
+[STYLE:RIGHT][...]
+Ah. You're Mario, yes?
+[PAUSE:0A][...]
+Thank you for coming.[WAIT][END]
+
+#string:12:0EA
+[STYLE:RIGHT][...]
+How do you do?
+[PAUSE:0A][...]
+I'm called Merle.
+[WAIT][NEXT][...]
+I care for the Star Kids born
+here in Starborn Valley.
+[WAIT][NEXT][...]
+There are many things I must
+tell you...
+[WAIT][NEXT][...]
+...but not here. Come, let's go to
+my house.
+[WAIT][NEXT][...]
+I cannot concentrate out here in
+the cold.[WAIT][END]
+
+#string:12:0EB
+[STYLE:RIGHT][...]
+This way. [PAUSE:05]Please follow me.[WAIT][END]
+
+#string:12:0EC
+[STYLE:RIGHT][...]
+I must apologize for the rude
+reception of the Star Kids.
+[WAIT][NEXT][...]
+None of us expected that you'd
+come here so quickly.
+[WAIT][NEXT][...]
+They frighten strangers to try
+to keep this valley safe from
+Bowser's followers.
+[WAIT][NEXT][...]
+Please...you must forgive them.[WAIT][END]
+
+#string:12:0ED
+[STYLE:RIGHT][...]
+Come in, please.[WAIT][END]
+
+#string:12:0EE
+[STYLE:RIGHT][...]
+Now. Mario.
+[PAUSE:0A][...]
+You must heed well what I'm
+about to tell you.[WAIT][END]
+
+#string:12:0EF
+[STYLE:RIGHT][...]
+This frozen area is called
+Starborn Valley.
+[WAIT][NEXT][...]
+It is named this because it is
+here that Stars are born and
+raised before rising to the sky.
+[WAIT][NEXT][...]
+But now... Ever since Bowser
+stole the Star Rod from Star
+Haven...
+[WAIT][NEXT][...]
+The power of that place has
+weakened and Star Kids have
+found themselves unable to rise
+up into the sky.[WAIT][END]
+
+#string:12:0F0
+[STYLE:RIGHT][...]
+I sent a Ninji to my father,
+Merlon, hoping that I could coax
+you to come here...
+[WAIT][NEXT][...]
+Because I have found out where
+the last Star Spirit is.
+[WAIT][NEXT][...]
+It came to me in a dream... A
+vision of the last Star Spirit
+begging me for help.
+[WAIT][NEXT][...]
+If my vision speaks truly, then
+the last Star Spirit is being held
+atop Shiver Mountain, which lies
+to the north.
+[WAIT][NEXT][...]
+Up top sits the {Color:20}Crystal Palace{Color:0A}.
+The Star Spirit waits there.
+[WAIT][NEXT][...]
+The Crystal Palace was originally
+built to honor the Stars...
+[WAIT][NEXT][...]
+But as time passed, it slowly 
+faded from the memories of local
+people...
+[WAIT][NEXT][...]
+...and now, no one can remember
+how to reach the palace.
+[WAIT][NEXT][...]
+There is a way, though, and it
+involves items that have been
+passed down in these lands.
+[WAIT][NEXT][...]
+Here, take this.[WAIT][END]
+
+#string:12:0F1
+[STYLE:RIGHT][...]
+This Scarf has been passed down
+through many generations in
+Starborn Valley.
+[WAIT][NEXT][...]
+I wish I knew how to use it...
+but I do not.
+[WAIT][NEXT][...]
+According to the legends...
+[PAUSE:0A][...]
+You must use this and another
+item that has been passed down
+in Shiver City
+[WAIT][NEXT][...]
+if you hope to open the way to
+the Crystal Palace. Sadly,
+that's all I know.[WAIT][END]
+
+#string:12:0F2
+[STYLE:RIGHT][...]
+If things remain as they are,
+Star Kids will never again be
+able to rise to Star Haven.
+[PAUSE:0A][...]
+Such a fate would be awful.
+[WAIT][NEXT][...]
+Please! Help them! And expel
+Bowser from the sky![WAIT][END]
+
+#string:12:0F3
+[STYLE:RIGHT][...]
+Oh yes... Mario!
+[PAUSE:0A][...]
+I'd almost forgotten!
+[WAIT][NEXT][...]
+There is supposed to be a small
+shrine somewhere along the path
+to the Crystal Palace.
+[WAIT][NEXT][...]
+A legend has been handed down
+in this valley regarding the
+shrine's secret:
+[WAIT][NEXT][...]
+"Truth lies not only in the eyes.
+Sometimes, even walls may lie."
+[WAIT][NEXT][...]
+Confusing, yes, but you must
+find this shrine and solve its
+mystery to reach the Crystal
+Palace.
+[WAIT][NEXT][...]
+Please don't forget it![WAIT][END]
+
+#string:12:0F4
+[STYLE:RIGHT][...]
+Mayor Penguin of Shiver City
+should have the other vital item
+you need. If you use it and the
+Scarf,
+[WAIT][NEXT][...]
+it is said that the way to the
+Crystal Palace will open.
+[WAIT][NEXT][...]
+First, you must go to Shiver City
+and visit Mayor Penguin.[WAIT][END]
+
+#string:12:0F5
+[STYLE:RIGHT][...]
+My dream told me that a Star
+Spirit waits in Crystal Palace.
+[PAUSE:0A][...]
+Please, you must save him![WAIT][END]
+
+#string:12:0F6
+[STYLE:RIGHT][...]
+Mario!
+[PAUSE:0A][...]
+You have saved the last
+imprisoned Star Spirit!
+[WAIT][NEXT][...]
+I saw your triumph in a vision.
+[WAIT][NEXT][...]
+Now, finally, it is time to take
+back the Star Rod.
+[WAIT][NEXT][...]
+Mario...
+[PAUSE:05][...]
+...the fate of the Stars rests
+squarely on your shoulders.
+[WAIT][NEXT][...]
+Good luck to you![WAIT][END]
+
+#string:12:0F7
+[STYLE:RIGHT][...]
+Mario...
+[PAUSE:05][...]
+I have a wish... My wish is for
+you to reclaim the Star Rod as
+quickly as possible.
+[WAIT][NEXT][...]
+The fate of the Stars and yes,
+the whole world, lies with you.
+[PAUSE:0F][...]
+Good luck to you![WAIT][END]
+
+#string:12:0F8
+[STYLE:RIGHT][...]
+Please get the Star Rod back
+from Bowser, Mario!
+[WAIT][NEXT][...]
+The Mushroom Kingdom deserves
+to be at peace.
+[WAIT][NEXT][...]
+Good luck...[WAIT][END]
+
+#string:12:0F9
+[STYLE:RIGHT][...]
+I can hardly believe it! You've
+saved all the Star Spirits!
+[WAIT][NEXT][...]
+So I guess now you're going
+straight to Bowser's Castle?
+[WAIT][NEXT][...]
+All right! I hope the princess
+and everybody else is still doing
+OK...
+[WAIT][NEXT][...]
+You'd better save them as
+quickly as possible!
+[PAUSE:0A][...]
+You're the only one who can do
+it, you know.[WAIT][END]
+
+#string:12:0FA
+[STYLE:RIGHT][...]
+Along with the Ninjis, we're
+taking care of the Star Kids
+[PAUSE:05][...]
+under the instruction of the
+mystic, Merle.
+[WAIT][NEXT][...]
+It's very rewarding to think
+that one of these kids might
+grow up to be a Star Spirit!
+[WAIT][NEXT][...]
+Oh, can you imagine it? What a
+happy day that'd be...
+[WAIT][NEXT][...]
+But unless things get better
+around here, it'll just be a
+fantasy that never comes true.[WAIT][END]
+
+#string:12:0FB
+[STYLE:RIGHT][...]
+The Star Spirits are all back in
+Star Haven! Hooray!
+[WAIT][NEXT][...]
+That means the day when these
+little Star Kids might rise up is
+coming soon.
+[WAIT][NEXT][...]
+Oh, I've dreamed about that day
+for so long! Until it comes, I'll
+keep taking care of them.[WAIT][END]
+
+#string:12:0FC
+[STYLE:RIGHT][...]
+One of the Star Kids seems to
+be playing hide-and-seek.
+[PAUSE:05][...]
+You haven't seen him, have you?
+[WAIT][NEXT][...]
+I swear, the second I take my
+eyes off him he always runs off
+somewhere...
+[PAUSE:0A][...]
+What a naughty little Star Kid.[WAIT][END]
+
+#string:12:0FD
+[STYLE:RIGHT][...]
+You saved the last Star Spirit!
+[PAUSE:0A][...]
+Congratulations, Mario!!
+[WAIT][NEXT][...]
+Bowser doesn't have a chance!
+You'll have that Star Rod back
+in Star Haven in no time!
+[WAIT][NEXT][...]
+Best of luck!
+[WAIT][NEXT][...]
+Hey, by the way, I still haven't
+found that Star Kid who's been
+playing hide-and-seek... Where
+could he be...?
+[WAIT][NEXT][...]
+Have you seen him, Mario?[WAIT][END]
+
+#string:12:0FE
+[STYLE:RIGHT][...]
+You're Frost T., correct?
+[WAIT][NEXT][...]
+The name's Parakarry. I deliver
+letters.
+[WAIT][NEXT][...]
+I believe I have one for you.
+[PAUSE:0A][...]
+Hang on a moment.[WAIT][END]
+
+#string:12:0FF
+[STYLE:RIGHT][...]
+Uh...no! Confound it!
+[PAUSE:0A][...]
+I seem to have lost it!
+[PAUSE:0A][...]
+...I'm terribly sorry.[WAIT][END]
+
+#string:12:100
+[STYLE:RIGHT][...]
+Another letter, duly delivered.
+A postman's job is never done.[WAIT][END]
+
+#string:12:101
+[STYLE:RIGHT][...]
+Oh, thank you.
+[WAIT][NEXT][...]
+Ah! How nice!
+[PAUSE:0A][...]
+It's a letter from little Dane T.
+and Mini T.
+[WAIT][NEXT][...]
+Those naughty little rascals...
+[PAUSE:0A][...]
+When I visited their home, they
+were always up to something.
+[WAIT][NEXT][...]
+They do write me letters often.
+[PAUSE:0A][...]
+It's nice to get letters... Their
+mail makes me as happy as mail
+from my wife and daughter.
+[WAIT][NEXT][...]
+Oh yes, I almost forgot! I need
+a letter delivered.
+[WAIT][NEXT][...]
+I'd like you to take this letter
+to Goompapa in Goomba Village.
+[WAIT][NEXT][...]
+It's actually a reply to little
+Goombaria, but I think her dad
+could explain it to her better.
+[WAIT][NEXT][...]
+Drop it off whenever you have a
+chance, all right? Thank you so
+much.[WAIT][END]
+
+#string:12:102
+[STYLE:RIGHT][...]
+I've got my hands full with these
+Star Kids.
+[WAIT][NEXT][...]
+They're all so active![WAIT][END]
+
+#string:12:103
+[STYLE:RIGHT][...]
+Why, they say you saved all of
+the Star Spirits!
+[PAUSE:0A][...]
+That's awfully good of you!
+[WAIT][NEXT][...]
+Now what you need to do is get
+back that Star Rod.
+[PAUSE:05][...]
+Star Kids are counting on you![WAIT][END]
+
+#string:12:104
+[STYLE:RIGHT][...]
+I've never been so busy.
+[PAUSE:05][...]
+These Star Kids are as hyper as
+the day is long.[WAIT][END]
+
+#string:12:105
+[STYLE:RIGHT][...]
+I watch the sky at night...
+[PAUSE:0A][...]
+The stars are so beautiful.
+[WAIT][NEXT][...]
+Soon, they'll be as bright as they
+used to be, back when the Star
+Rod was in Star Haven.
+[WAIT][NEXT][...]
+I just know it.[WAIT][END]
+
+#string:12:106
+[STYLE:RIGHT][...]
+One of the Star Kids is hiding
+somewhere! Hmmmph!
+[PAUSE:0A][...]
+Could you tell me if you find him?
+[WAIT][NEXT][...]
+I suppose it's natural for
+youngsters to be full of energy,
+but they're trying my patience!
+[PAUSE:0A][...]
+I don't have time for this...[WAIT][END]
+
+#string:12:107
+[STYLE:RIGHT][...]
+The Star Spirits are all back in
+Star Haven? That's great!
+[PAUSE:0A][...]
+I couldn't be happier!
+[WAIT][NEXT][...]
+Now, though, you still have to get
+that Star Rod back.
+[WAIT][NEXT][...]
+These poor Star Kids...
+[PAUSE:0A][...]
+Until the Star Rod's back, they
+can't rise up to the sky.[WAIT][END]
+
+#string:12:108
+[STYLE:RIGHT][...]
+{SpeechSound:02}I wanna go to Star Haven.
+[WAIT][NEXT][...]
+When I get to go there, I wanna
+deliver lots of people's wishes,
+and I wanna become a great
+Star Spirit someday.
+[WAIT][NEXT][...]
+When I do, I'll grant your wishes,
+Mario! Of course I will!
+[PAUSE:0A][...]
+I promise![WAIT][END]
+
+#string:12:109
+[STYLE:RIGHT][...]
+{SpeechSound:02}What's Star Haven like?
+[PAUSE:0A][...]
+You're gonna go there before we
+even get to, aren't you?
+[WAIT][NEXT][...]
+I bet it's super cool...[WAIT][END]
+
+#string:12:10A
+[STYLE:RIGHT][...]
+{SpeechSound:02}I wonder how Twink is doing?
+[WAIT][NEXT][...]
+He was the last one to rise up
+to the sky. He went just before
+Bowser took the Star Rod.
+[WAIT][NEXT][...]
+He was such a great kid. He
+looked after everybody.
+[WAIT][NEXT][...]
+Do you think I'll ever get to see
+Twink again?[WAIT][END]
+
+#string:12:10B
+[STYLE:RIGHT][...]
+{SpeechSound:02}{StartFX:Shrinking}Yes! Yes! {EndFX:Shrinking}Stellar! I can rise up
+to the sky pretty soon now,
+right?
+[WAIT][NEXT][...]
+I can't wait! I'm gonna rise up
+the second the Star Rod is back.
+[WAIT][NEXT][...]
+And the first thing I'm gonna do
+is visit Twink.[WAIT][END]
+
+#string:12:10C
+[STYLE:RIGHT][...]
+{SpeechSound:02}{StartFX:Wavy}You found me!
+{EndFX:Wavy}Hee hee hee hee...
+[PAUSE:0A][...]
+What, did you see me glittering?
+[WAIT][NEXT][...]
+Hey, do you think I can rise into
+the sky soon?[WAIT][END]
+
+#string:12:10D
+[STYLE:RIGHT][...]
+{SpeechSound:02}{StartFX:Wavy}You found me!
+{EndFX:Wavy}Hee hee hee hee...
+[PAUSE:0A][...]
+What, did you see me glittering?
+[WAIT][NEXT][...]
+When I grow up, I'm gonna be a
+really great star that people
+can see from really far away,
+and I'll be really cool.[WAIT][END]
+
+#string:12:10E
+[STYLE:RIGHT][...]
+{SpeechSound:02}Tell me a story!
+[PAUSE:0A][...]
+Tell me the story about the time
+you saved a Star Spirit![WAIT][END]
+
+#string:12:10F
+[STYLE:RIGHT][...]
+{SpeechSound:02}Mario, when you see the Star
+Spirits and they ask about us,
+[WAIT][NEXT][...]
+tell them that we'll be good so
+they'll let us rise up as soon as
+possible, OK?[WAIT][END]
+
+#string:12:110
+[STYLE:RIGHT][...]
+{SpeechSound:02}I wonder what Twink is doing.
+[WAIT][NEXT][...]
+Do you think Twink's doing fun
+stuff up there?[WAIT][END]
+
+#string:12:111
+[STYLE:RIGHT][...]
+{SpeechSound:02}I've still got some more time 'til
+I rise up to the sky.
+[WAIT][NEXT][...]
+Once we all rise up, lots more
+little stars will come here.
+[WAIT][NEXT][...]
+I'll be an older star then.[WAIT][END]
+
+#string:12:112
+[STYLE:RIGHT][...]
+{SpeechSound:02}Somebody read me a story.
+[PAUSE:0A][...]
+It was all about how Stars
+in Star Haven grant people's
+wishes.[WAIT][END]
+
+#string:12:113
+[STYLE:RIGHT][...]
+{SpeechSound:02}When I [PAUSE:05]go up to the sky,
+[PAUSE:05][...]
+I wanna grant all the wishes of
+everyone in this valley.
+[WAIT][NEXT][...]
+They take good care of us and
+always stand up for us.[WAIT][END]
+
+#string:12:114
+[STYLE:RIGHT][...]
+I'm cooking for the Star Kids.
+[PAUSE:0A][...]
+They're behaving pretty well.
+[WAIT][NEXT][...]
+That's a relief. It's probably
+because they believe you'll get
+the Star Rod back.
+[PAUSE:0A][...]
+I certainly hope you do.[WAIT][END]
+
+#string:12:115
+[STYLE:RIGHT][...]
+All of the Star Spirits have
+finally returned!
+[PAUSE:0A][...]
+What a joyous day!
+[WAIT][NEXT][...]
+Things are really looking up!
+[PAUSE:0A][...]
+We're all cheering for you![WAIT][END]
+
+#string:12:116
+[STYLE:RIGHT][...]
+The slogan of Toad House is...
+"Refresh your Body and Soul!"
+[WAIT][NEXT][...]
+Would you like to take a nap?
+{Func_04}[END]
+
+#string:12:117
+[STYLE:RIGHT][...]
+...Huh?
+[PAUSE:0A][...]
+But...you look healthy.
+[PAUSE:0A][...]
+You want to stay over anyway?
+{Func_04}[END]
+
+#string:12:118
+[NEXT][...]
+Please come again![WAIT][END]
+
+#string:12:119
+[NEXT][...]
+Pleasant dreams![WAIT][END]
+
+#string:12:11A
+[STYLE:RIGHT][...]
+Did you sleep well?
+[WAIT][NEXT][...]
+I wish you luck![WAIT][END]
+
+#string:12:11B
+[STYLE:RIGHT][...]
+A warm scarf![HEART]
+[PAUSE:05][...]
+Thank you![WAIT][END]
+
+#string:12:11C
+[STYLE:RIGHT][...]
+A cool bucket hat![HEART]
+[PAUSE:05][...]
+Thank you![WAIT][END]
+
+#string:12:11D
+[STYLE:RIGHT][...]
+What a kind man you are!
+[PAUSE:05][...]
+We thank you.
+[WAIT][NEXT][...]
+As a reward for your kindness,
+we shall tell you our secret.[WAIT][END]
+
+#string:12:11E
+[STYLE:RIGHT][...]
+Please pass through here...
+[PAUSE:0A][...]
+With many thanks and blessings
+from the snowmen![HEART][WAIT][END]
+
+#string:12:11F
+[STYLE:RIGHT][...]
+Mmm??[WAIT][END]
+
+#string:12:120
+[STYLE:RIGHT][...]
+{Size:30:30}{StartFX:Shrinking}Nooo!!
+[PAUSE:0F][...]
+[END]
+
+#string:12:121
+[STYLE:RIGHT][...]
+What's wrong with my eyes?
+[PAUSE:05][...]
+You look just like me!
+[WAIT][NEXT][...]
+[PAUSE:0A][...]
+Impostor! Who are you really?
+[PAUSE:0A][...]
+Tell me your name![WAIT][END]
+
+#string:12:122
+[STYLE:RIGHT][...]
+I'm Kooper... Yeah, that's it.
+[PAUSE:0A][...]
+The question is, who are you?[WAIT][END]
+
+#string:12:123
+[STYLE:RIGHT][...]
+Wha... Wha... Whaaat!?
+[PAUSE:0A][...]
+That's impossible!
+[PAUSE:0A][...]
+I'm the one and only Kooper!![WAIT][END]
+
+#string:12:124
+[STYLE:RIGHT][...]
+You're talking crazy-talk now.
+You're making no sense!
+[PAUSE:0A][...]
+I'm the genuine Kooper! Really!
+[WAIT][NEXT][...]
+C'mon, Mario! You know me.
+[PAUSE:0A][...]
+This guy's a big liar.[WAIT][END]
+
+#string:12:125
+[STYLE:RIGHT][...]
+I'm not lying!
+[PAUSE:0A][...]
+Mario...you know I'm Kooper,
+don't you?
+[WAIT][NEXT][...]
+Don't you recognize your buddy?[WAIT][END]
+
+#string:12:126
+[STYLE:RIGHT][...]
+Shut your mouth, goody-goody!
+[PAUSE:0A][...]
+I'm his buddy! Yeah, that's it.[WAIT][END]
+
+#string:12:127
+[STYLE:RIGHT][...]
+Why you... You're the one who
+should shut his mouth! 
+[PAUSE:0A][...]
+I'm his buddy![WAIT][END]
+
+#string:12:128
+[STYLE:RIGHT][...]
+Listen, Moron...er, Mario, 
+[PAUSE:0A][...]
+you have to decide who's lying.
+[WAIT][NEXT][...]
+It's the only way. Pick the one
+you think is lying and whack him
+really hard with the Hammer.[WAIT][END]
+
+#string:12:129
+[STYLE:RIGHT][...]
+Fine! Yeah, fine with me!
+[PAUSE:0A][...]
+If you think you'll get away with
+a trick like that, fine!
+[WAIT][NEXT][...]
+I know Mario knows who I am.
+[PAUSE:0A][...]
+I believe in you, Mario![WAIT][END]
+
+#string:12:12A
+[STYLE:RIGHT][...]
+Don't listen to this idiot!
+[PAUSE:0A][...]
+Look at him! He's a liar!
+[PAUSE:0A][...]
+Go on, hit him! Hit HIM!
+[WAIT][NEXT][...]
+This guy thinks he can pull the
+wool over your eyes, Mario!
+[WAIT][NEXT][...]
+Don't let him get away with it!
+[PAUSE:0A][...]
+Hit him as hard as you can![WAIT][END]
+
+#string:12:12B
+[STYLE:RIGHT][...]
+I'm not worried...
+[WAIT][NEXT][...]
+You and I go way back, Mario. I
+know you know who I am.[WAIT][END]
+
+#string:12:12C
+[STYLE:RIGHT][...]
+Ow! Unbelievable!
+[PAUSE:0A][...]
+You don't even recognize me?[WAIT][END]
+
+#string:12:12D
+[STYLE:RIGHT][...]
+Baaa ha ha ha ha!
+[PAUSE:0A][...]
+You simpleton, Mario!
+[PAUSE:0A][...]
+{StartFX:Wavy}I completely fooled you! Ha![WAIT][END]
+
+#string:12:12E
+[STYLE:RIGHT][...]
+You deceitful monster!
+[PAUSE:0A][...]
+How dare you try to trick Mario![WAIT][END]
+
+#string:12:12F
+[STYLE:RIGHT][...]
+What're you gonna do about it?[WAIT][END]
+
+#string:12:130
+[STYLE:RIGHT][...]
+Yeeeow!
+[PAUSE:0A][...]
+What made you think that I was
+the one lying, huh?
+[WAIT][NEXT][...]
+It must've been luck. No one has
+instincts that good.[WAIT][END]
+
+#string:12:131
+[STYLE:RIGHT][...]
+Don't be such a crybaby!
+[PAUSE:0A][...]
+You lost!
+[WAIT][NEXT][...]
+What were you thinking, trying to
+trick Mario like that?[WAIT][END]
+
+#string:12:132
+[STYLE:RIGHT][...]
+What? Shut up!
+[PAUSE:0A][...]
+I'll trick YOU...[WAIT][END]
+
+#string:12:133
+[STYLE:RIGHT][...]
+{StartFX:Faded:D9}At last...it is Mario!
+[PAUSE:0A][...]
+I'm glad you found this place.
+[WAIT][NEXT][...]
+I've been expecting you.
+[WAIT][NEXT][...]
+Hm hm hm ho ho...
+[PAUSE:0A][...]
+Do you find it strange that I
+know of you?[WAIT][END]
+
+#string:12:134
+[STYLE:RIGHT][...]
+{StartFX:Faded:D9}My name is Madam Merlar.
+[PAUSE:0A][...]
+I am a messenger of the Stars.
+[WAIT][NEXT][...]
+You know Merlon and Merle well. I
+am their ancestor.
+[WAIT][NEXT][...]
+The Stars spoke to me of you
+through my dreams...
+[WAIT][NEXT][...]
+They said you would come to the
+shrine on Shiver Mountain.
+[PAUSE:0A][...]
+It is here that I guard the way
+to the Crystal Palace.[WAIT][END]
+
+#string:12:135
+[STYLE:RIGHT][...]
+{StartFX:Faded:D9}We have little time to waste, so
+listen carefully.
+[WAIT][NEXT][...]
+You may not know this, but the
+followers of Bowser have invaded
+Crystal Palace, where stars are
+honored.
+[WAIT][NEXT][...]
+Now, what I have to tell you is
+very important.
+[PAUSE:0A][...]
+Listen to every word I say!
+[WAIT][NEXT][...]
+I can't tell you the whole tale.
+[PAUSE:0A][...]
+In the interest of time I'll be
+brief, so pay attention to the
+key points.
+[WAIT][NEXT][...]
+The story begins a long, long
+time ago...
+[WAIT][NEXT][...]
+I was still a young woman back
+then...
+[WAIT][NEXT][...]
+A horrible thing happened on the
+mountain one day...
+[WAIT][NEXT][...]
+I ran there immediately and...
+...but it was actually...
+.... 
+[WAIT][NEXT][...]
+Oh! Such a sight! I...
+[PAUSE:0A][...]
+...was...and...it was so...
+....
+[WAIT]{Func_04}[NEXT][...]
+It was.....none other...... 
+........so.......than....
+.............then I....
+.....................
+[WAIT][NEXT][...]
+...........   ......
+.........
+... .....
+................
+............   ......
+........
+[PAUSE:28][...]
+{Func_04}[END]
+
+#string:12:136
+[STYLE:RIGHT][...]
+[NEXT][...]
+{StartFX:Faded:D9}..................................
+..................................
+..................................
+[WAIT][NEXT][...]
+.................so that's why you
+must get Bowser's men out of
+the Crystal Palace. [PAUSE:08]But... 
+{InputOn}[WAIT][NEXT][...]
+{StartFX:Shrinking}Hey! {EndFX:Shrinking}You! [PAUSE:0A]Were you even
+listening to my story?
+[PAUSE:0F][...]
+[WAIT][END]
+
+#string:12:137
+[STYLE:RIGHT][...]
+{StartFX:Faded:D9}Well... OK, then.
+[WAIT][NEXT][...]
+As I was saying, you need the
+Star Stone to reach the palace.
+[PAUSE:0A][...]
+[WAIT][NEXT][...]
+I'll give it to you.[WAIT][END]
+
+#string:12:138
+[STYLE:RIGHT][...]
+{StartFX:Faded:D9}With this stone, you can open the
+way to the Crystal Palace. 
+[PAUSE:0A][...]
+Go on. Make haste!
+[WAIT][NEXT][...]
+... Hmmm.
+[PAUSE:0A][...]
+Do you think you understood my
+shortened version of the tale?
+[WAIT][NEXT][...]
+It really doesn't do the story
+justice, you know. Perhaps one 
+day I'll tell you the full story.
+[WAIT][NEXT][...]
+Until then, good luck.[WAIT][END]
+
+#string:12:139
+[STYLE:RIGHT][...]
+Yikes! Mario's here![WAIT][END]
+
+#string:12:13A
+[STYLE:RIGHT][...]
+Whoa! We'd better beat him![WAIT][END]
+
+#string:12:13B
+[STYLE:RIGHT][...]
+Noo!!
+[PAUSE:0A][...]
+The real Mario's so strong![WAIT][END]
+
+#string:12:13C
+[STYLE:RIGHT][...]
+What? Who are all of you!?
+You're all trying to look like me!
+[WAIT][NEXT][...]
+[PAUSE:0A][...]
+Mario...
+[PAUSE:0A][...]
+Don't tell me you can't tell which
+one is the real Bombette! You
+can tell, right?[WAIT][END]
+
+#string:12:13D
+[STYLE:RIGHT][...]
+Hey, I heard that![STAR]
+[PAUSE:0A][...]
+You're spreading lies, you
+impostor![STAR]
+[WAIT][NEXT][...]
+I'm the real Bombette![STAR][WAIT][END]
+
+#string:12:13E
+[STYLE:RIGHT][...]
+Oh, no, no![HEART]
+[WAIT][NEXT][...]
+Mario. Look carefully at me and
+you'll know.[HEART]
+[WAIT][NEXT][...]
+I'm the real Bombette.[HEART] It can
+only be me.[HEART]
+[PAUSE:0A][...]
+These others are all liars.[HEART][WAIT][END]
+
+#string:12:13F
+[STYLE:RIGHT][...]
+I'm the one!!!!
+[PAUSE:0A][...]
+Mario!!!! Me!!!! Don't fall for
+these tricks!!!!
+[WAIT][NEXT][...]
+I'll blow you up if you do!!!![WAIT][END]
+
+#string:12:140
+[STYLE:RIGHT][...]
+I... I'm the real Bombette...
+[PAUSE:0A][...]
+Puh... Please... Trust your eyes
+and look at me...
+[PAUSE:0A][...]
+I... I'm not lying...[WAIT][END]
+
+#string:12:141
+[STYLE:RIGHT][...]
+Noooo!
+[PAUSE:0A][...]
+I can't bear this!
+[WAIT][NEXT][...]
+Mario! Smash the impostors with
+your Hammer!
+[WAIT][NEXT][...]
+All of you pretending to be me! I
+can't take it another second![WAIT][END]
+
+#string:12:142
+[STYLE:RIGHT][...]
+Oh, that's a nice idea.[HEART]
+[PAUSE:0A][...]
+That'll clear all this up.[HEART][WAIT][END]
+
+#string:12:143
+[STYLE:RIGHT][...]
+Yes, good idea!!!!
+[PAUSE:0A][...]
+I just hate impostors!!!!
+[WAIT][NEXT][...]
+Mario!!!! I'm the real Bombette
+so don't you dare hit me!!!![WAIT][END]
+
+#string:12:144
+[STYLE:RIGHT][...]
+Mario, I'm Bombette!
+[PAUSE:0A][...]
+I'm not ever going to forgive you
+if you mess this up.[WAIT][END]
+
+#string:12:145
+[STYLE:RIGHT][...]
+I'm Bombette![STAR]
+[PAUSE:0A][...]
+You know it![STAR][WAIT][END]
+
+#string:12:146
+[STYLE:RIGHT][...]
+Mario.[HEART]
+[PAUSE:0A][...]
+I am Bombette.[HEART][WAIT][END]
+
+#string:12:147
+[STYLE:RIGHT][...]
+There's no way that Mario will
+make a mistake!!!!
+[PAUSE:0A][...]
+We have journeyed so very far
+together!!!!
+[WAIT][NEXT][...]
+Isn't that right, Mario????
+[PAUSE:0A][...]
+You know which one of us is the
+real Bombette, don't you????[WAIT][END]
+
+#string:12:148
+[STYLE:RIGHT][...]
+Thuh... This is terrible...
+[PAUSE:0A][...]
+It... It's so clear that I'm the
+real Bombette...[WAIT][END]
+
+#string:12:149
+[STYLE:RIGHT][...]
+Oh! Mario! You're terrible!
+[PAUSE:0A][...]
+You don't even recognize me!
+[PAUSE:0A][...]
+Oh, I can't bear it![WAIT][END]
+
+#string:12:14A
+[STYLE:RIGHT][...]
+Ohh![STAR]
+[PAUSE:0A][...]
+Somehow you managed to see
+through my disguise.[STAR]
+[WAIT]{Func_04}[NEXT][...]
+Darn it!
+[PAUSE:0A][...]
+I thought I was doing so well![WAIT][END]
+
+#string:12:14B
+[STYLE:RIGHT][...]
+Oh![HEART]
+You must be very smart to
+figure out I was an impostor.[HEART]
+[WAIT]{Func_04}[NEXT][...]
+Curses! I thought we were doing
+a great job of confusing you!
+[PAUSE:0A][...]
+I'll be back![WAIT][END]
+
+#string:12:14C
+[STYLE:RIGHT][...]
+{StartFX:Wavy}What!!!!
+[PAUSE:0A][...]
+Why did you hit me!!!!
+{EndFX:Wavy}[PAUSE:0A][WAIT]{Func_04}[NEXT][...]
+Blast!
+[PAUSE:0A][...]
+You found me!!
+[PAUSE:0A][...]
+What's wrong with my disguise?[WAIT][END]
+
+#string:12:14D
+[STYLE:RIGHT][...]
+No... Noooo...
+[PAUSE:0A][...]
+I... I should have worked harder
+on my Bombette disguise...
+[WAIT]{Func_04}[NEXT][...]
+I... I won't forget this.[WAIT][END]
+
+#string:12:14E
+[STYLE:RIGHT][...]
+So! Choose the impostor![WAIT][END]
+
+#string:12:14F
+[STYLE:RIGHT][...]
+If you'd hit me with the Hammer,
+Mario, I was going to bomb you
+the next time you napped.
+[WAIT][NEXT][...]
+But you didn't!
+[PAUSE:0A][...]
+I'm so happy that you knew I
+was the real Bombette![HEART][WAIT][END]
+
+#string:12:150
+[STYLE:RIGHT][...]
+Who're you?
+[WAIT][NEXT][...]
+The great and honorable Crystal
+King said that I can't let anyone
+pass!
+[WAIT][NEXT][...]
+You're up to no good! I'm going
+to have to hurt you![WAIT][END]
+
+#string:12:151
+[STYLE:RIGHT][...]
+I won't let you!
+[PAUSE:0A][...]
+I won't and I won't and I won't!
+You can't!
+[WAIT][NEXT][...]
+You'll have to go through me if
+you wanna get past![WAIT][END]
+
+#string:12:152
+[STYLE:RIGHT][...]
+Hey, didn't you hear me? I said
+I'm not budging, you got that?
+[WAIT][NEXT][...]
+Do you have any idea how mad
+the Crystal King will get if I let
+you pass here?
+[WAIT][NEXT][...]
+I don't want him mad at me, so I
+have to teach you a lesson![WAIT][END]
+
+#string:12:153
+[STYLE:RIGHT][...]
+Mario,
+[PAUSE:0A][...]
+I'm the real Kooper.
+[PAUSE:0A][...]
+But of course you know that,
+don't you, old boy?[WAIT][END]
+
+#string:12:154
+[STYLE:RIGHT][...]
+Mario!
+[PAUSE:0A][...]
+Look at me! I'm the real deal!
+[PAUSE:0A][...]
+Nobody else looks like Kooper.[WAIT][END]
+
+#string:12:155
+[STYLE:RIGHT][...]
+Mario, come on!
+[PAUSE:0A][...]
+I'm Kooper!
+[PAUSE:0A][...]
+I mean, this is ridiculous.[WAIT][END]
+
+#string:12:156
+[STYLE:RIGHT][...]
+I'm the real Kooper, sonny.
+[PAUSE:0A][...]
+You believe me, don't you?[WAIT][END]
+
+#string:12:157
+[STYLE:RIGHT][...]
+I'm the real Kooper.
+[PAUSE:0A][...]
+There isn't any doubt in your
+mind, is there? Brother?[WAIT][END]
+
+#string:12:158
+[STYLE:RIGHT][...]
+OK, old bean...
+[PAUSE:0A][...]
+You'd best smash these
+impostors one by one.[WAIT][END]
+
+#string:12:159
+[STYLE:RIGHT][...]
+That's a good idea.[WAIT][END]
+
+#string:12:15A
+[STYLE:RIGHT][...]
+Brother,
+[PAUSE:0A][...]
+smash them all except me, OK?[WAIT][END]
+
+#string:12:15B
+[STYLE:RIGHT][...]
+Listen, old chap,
+[PAUSE:0A][...]
+I'm the real Kooper.
+[PAUSE:0A][...]
+It's rather obvious to anyone
+with a bit of sense.[WAIT][END]
+
+#string:12:15C
+[STYLE:RIGHT][...]
+Mario, listen.
+[PAUSE:0A][...]
+I'm the real Kooper.
+[PAUSE:0A][...]
+These others are impostors.[WAIT][END]
+
+#string:12:15D
+[STYLE:RIGHT][...]
+Mario, open your eyes!
+[PAUSE:0A][...]
+I'm Kooper!
+[PAUSE:0A][...]
+I mean, seriously! Look at me!
+[WAIT][NEXT][...]
+Is it really that tough to see
+through these "disguises"?
+[PAUSE:0A][...]
+Please![WAIT][END]
+
+#string:12:15E
+[STYLE:RIGHT][...]
+I'm the real Kooper, youngster.
+[PAUSE:0A][...]
+You're not saying you suspect
+this old Koopa, are you?[WAIT][END]
+
+#string:12:15F
+[STYLE:RIGHT][...]
+Brother!
+[PAUSE:0A][...]
+I'm the real Kooper!
+[PAUSE:0A][...]
+As my brother, you must be able
+to see that, right?[WAIT][END]
+
+#string:12:160
+[STYLE:RIGHT][...]
+Hm! Mario!
+[PAUSE:0A][...]
+Well done! I don't know how you
+did it, but you found me out!
+[WAIT]{Func_04}[NEXT][...]
+Good-bye![WAIT][END]
+
+#string:12:161
+[STYLE:RIGHT][...]
+Ouch! That hurt!
+[PAUSE:0A][...]
+Still, good job.
+You must have some incredibly
+keen eyes to spot me.
+[WAIT]{Func_04}[NEXT][...]
+Darn it![WAIT][END]
+
+#string:12:162
+[STYLE:RIGHT][...]
+Mario! Ow!
+[PAUSE:0A][...]
+You did that on purpose, didn't
+you!?
+[WAIT][NEXT][...]
+{StartFX:Jitter}That's just plain mean![WAIT][END]
+
+#string:12:163
+[STYLE:RIGHT][...]
+You must have some sort of sixth
+sense, sonny.
+[WAIT]{Func_04}[NEXT][...]
+Grrrr!
+[PAUSE:0A][...]
+Remember me! I'll return![WAIT][END]
+
+#string:12:164
+[STYLE:RIGHT][...]
+Brother!
+[PAUSE:05][...]
+I said I was the real Kooper so
+many times... [PAUSE:0A]So mean...
+[WAIT]{Func_04}[NEXT][...]
+Just joking.
+[PAUSE:0A][...]
+I definitely thought I had you
+going there, though...[WAIT][END]
+
+#string:12:165
+[STYLE:RIGHT][...]
+You must choose the impostors![WAIT][END]
+
+#string:12:166
+[STYLE:RIGHT][...]
+Yes! Yes!
+[PAUSE:0A][...]
+Good call, Mario!
+[WAIT][NEXT][...]
+I knew you'd get it right!
+[PAUSE:0A][...]
+Those were the worst disguises
+ever![WAIT][END]
+
+#string:12:167
+[STYLE:RIGHT][...]
+You can't go through here unless
+you solve the puzzle.
+[PAUSE:0A][...]
+Once you solve the puzzle, we'll
+let you through.[WAIT][END]
+
+#string:12:168
+[STYLE:RIGHT][...]
+You can't go through here unless
+you solve the puzzle.
+[PAUSE:0A][...]
+Once you solve the puzzle, we'll
+let you through.[WAIT][END]
+
+#string:12:169
+[STYLE:RIGHT][...]
+You can't go through here unless
+you solve the puzzle.
+[PAUSE:0A][...]
+Once you solve the puzzle, we'll
+let you through.[WAIT][END]
+
+#string:12:16A
+[STYLE:RIGHT][...]
+{StartFX:Shrinking}Who comes to my palace!?
+[PAUSE:0A][...]
+[WAIT][END]
+
+#string:12:16B
+[STYLE:RIGHT][...]
+{StartFX:Shrinking}{StartFX:Jitter}Mario...
+[PAUSE:0A][...]
+You finally arrived!
+[WAIT][NEXT][...]
+Heh, heh, heh, heh...
+[PAUSE:0A][...]
+I know you believe you can save
+the Star Spirit, but I'm afraid I
+won't let you.
+[WAIT][NEXT][...]
+First I shall defeat you, then
+I shall present Bowser with an
+iced Mario gift![WAIT][END]
+
+#string:12:16C
+[STYLE:RIGHT][...]
+Oh no!
+The last Star Spirit!!
+[PAUSE:0A][...]
+King Bowser, forgive meeeeee!![WAIT][END]
+
+#string:12:16D
+[STYLE:RIGHT][...]
+{SpeechSound:02}My name is Kalmar.
+[PAUSE:0A][...]
+Mario,
+[PAUSE:07][...]
+well done. Thank you for coming.
+[WAIT][NEXT][...]
+You have successfully rescued
+all of us Star Spirits.
+[PAUSE:0A][...]
+We are in your debt.
+[WAIT][NEXT][...]
+Now all that is left is for you
+to challenge Bowser.
+[WAIT][NEXT][...]
+My Power should help you...
+[WAIT][NEXT][...]
+to bring back the Star Rod,
+[PAUSE:0A][...]
+to beat Bowser, to bring peace
+back to the Mushroom Kingdom,
+[WAIT][NEXT][...]
+and...
+[PAUSE:0A][...]
+to save Princess Peach.[WAIT][END]
+
+#string:12:16E
+[STYLE:RIGHT][...]
+{SpeechSound:02}Mario,
+[PAUSE:0A][...]
+you must make your way back to
+Shooting Star Summit.
+[WAIT][NEXT][...]
+From Shooting Star Summit, we'll
+prepare the route to
+{Color:20}Star Haven{Color:0A}.
+[WAIT][NEXT][...]
+The name of this route is 
+{Color:20}Star Way{Color:0A}.
+[WAIT][NEXT][...]
+Once you travel the Star Way,
+you'll finally reach Star Haven.[WAIT][END]
+
+#string:12:16F
+[STYLE:RIGHT][...]
+{SpeechSound:02}My only wish is for you to save
+this precious world.
+[WAIT][NEXT][...]
+You can do it, Mario.
+[PAUSE:0A][...]
+Good-bye for now.[WAIT][END]
+

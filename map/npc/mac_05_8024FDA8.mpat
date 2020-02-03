@@ -1,0 +1,61 @@
+% automatically dumped from map mac_05
+
+#new:Npc $mac_05_8024FDA8
+00000007 $NpcSettings_8024502C_mac_05 00000000 00000000 00000000 
+00002D09 $Script_Init_8024D4E4_mac_05 00000000 00000000 0000005A 
+{NoItems} {NoHP} {NoFP} {NoCoinBonus}
+00000000 00000000 00000000 00000000 00000000 00000000 00000000 00000000 
+00000000 00000000 00000000 00000000 00000000 00000000 00000000 00000000 
+00000000 00000000 00000000 00000000 00000000 00000000 00000000 00000000 
+00000000 00000000 00000000 00000000 00000000 00000000 00000000 00000000 
+00000000 00000000 00000000 00000000 00000000 00000000 00000000 00000000 
+00000000 00000000 00000000 00000000 00000000 00000000 00000000 00000000 
+{AnimationTable:NPC_8024FDA8} % .Sprite:Bartender
+00000000 00000000 00000000 001A0052 % He runs this restaurant. He just opened it. He als ...
+
+#new:NpcSettings $NpcSettings_8024502C_mac_05
+00000000 001E0018 00000000 00000000 00000000 00000000 00000000 00000000 
+00000000 00000000 00630000 
+
+#new:Script $Script_8024D30C_mac_05
+    0:  Switch  *StoryProgress 
+    C:  	Case  <  FFFFFFCB 
+   18:  		If  *Flag_MAC_9A  ==  00000000 
+   28:  			Set  *Var[0]  00070000 
+   38:  		Else
+   40:  			Set  *Var[0]  00070001 
+   50:  		EndIf
+   58:  	Case  <  FFFFFFF1 
+   64:  		Set  *Var[0]  00070002 
+   74:  	Case  <  FFFFFFF9 
+   80:  		If  *Flag_MAC_A0  ==  00000000 
+   90:  			Set  *Var[0]  00070003 
+   A0:  		Else
+   A8:  			Set  *Var[0]  00070004 
+   B8:  		EndIf
+   C0:  	Case  <  00000007 
+   CC:  		Set  *Var[0]  00070005 
+   DC:  	Case  <  0000000A 
+   E8:  		Set  *Var[0]  00070006 
+   F8:  	Case  <  00000027 
+  104:  		Set  *Var[0]  00070007 
+  114:  	Case  <  0000002B 
+  120:  		Set  *Var[0]  00070008 
+  130:  	Case  <  00000039 
+  13C:  		Set  *Var[0]  00070009 
+  14C:  	Case  <  0000003D 
+  158:  		Set  *Var[0]  0007000A 
+  168:  	Case  <  00000059 
+  174:  		Set  *Var[0]  0007000B 
+  184:  	Case  <  00000060 
+  190:  		Set  *Var[0]  0007000C 
+  1A0:  EndSwitch
+  1A8:  Call     SayMessage0 	( .Npc:Self 00AC0005 00AC0001 00000000 *Var[0] ) % variable string ID
+  1C8:  Return
+  1D0:  End
+
+#new:Script $Script_Init_8024D4E4_mac_05
+    0:  Call     BindNpcInteract 	( .Npc:Self $Script_8024D30C_mac_05 )
+   14:  Return
+   1C:  End
+

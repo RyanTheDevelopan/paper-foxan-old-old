@@ -1,0 +1,807 @@
+#string:26:000
+Fire Flower[END]
+
+#string:26:001
+Snowman Doll[END]
+
+#string:26:002
+Thunder Rage[END]
+
+#string:26:003
+Thunder Bolt[END]
+
+#string:26:004
+Shooting Star[END]
+
+#string:26:005
+Dusty Hammer[END]
+
+#string:26:006
+Pebble[END]
+
+#string:26:007
+Stone Cap[END]
+
+#string:26:008
+Volt Shroom[END]
+
+#string:26:009
+Mushroom[END]
+
+#string:26:00A
+Super Shroom[END]
+
+#string:26:00B
+Ultra Shroom[END]
+
+#string:26:00C
+Life Shroom[END]
+
+#string:26:00D
+Dried Shroom[END]
+
+#string:26:00E
+Tasty Tonic[END]
+
+#string:26:00F
+Super Soda[END]
+
+#string:26:010
+Blue Berry[END]
+
+#string:26:011
+Red Berry[END]
+
+#string:26:012
+Yellow Berry[END]
+
+#string:26:013
+Bubble Berry[END]
+
+#string:26:014
+Lime[END]
+
+#string:26:015
+Lemon[END]
+
+#string:26:016
+Honey Syrup[END]
+
+#string:26:017
+Maple Syrup[END]
+
+#string:26:018
+Jammin' Jelly[END]
+
+#string:26:019
+Whacka's Bump[END]
+
+#string:26:01A
+Apple[END]
+
+#string:26:01B
+Goomnut[END]
+
+#string:26:01C
+Koopa Leaf[END]
+
+#string:26:01D
+Dried Pasta[END]
+
+#string:26:01E
+Dried Fruit[END]
+
+#string:26:01F
+Strange Leaf[END]
+
+#string:26:020
+Cake Mix[END]
+
+#string:26:021
+Egg[END]
+
+#string:26:022
+Coconut[END]
+
+#string:26:023
+Melon[END]
+
+#string:26:024
+Stinky Herb[END]
+
+#string:26:025
+Iced Potato[END]
+
+#string:26:026
+Sleepy Sheep[END]
+
+#string:26:027
+POW Block[END]
+
+#string:26:028
+Stop Watch[END]
+
+#string:26:029
+Dizzy Dial[END]
+
+#string:26:02A
+Fright Jar[END]
+
+#string:26:02B
+Mystery?[END]
+
+#string:26:02C
+Repel Gel[END]
+
+#string:26:02D
+Spicy Soup[END]
+
+#string:26:02E
+Apple Pie[END]
+
+#string:26:02F
+Honey Shroom[END]
+
+#string:26:030
+Maple Shroom[END]
+
+#string:26:031
+Jelly Shroom[END]
+
+#string:26:032
+Honey Super[END]
+
+#string:26:033
+Maple Super[END]
+
+#string:26:034
+Jelly Super[END]
+
+#string:26:035
+Honey Ultra[END]
+
+#string:26:036
+Maple Ultra[END]
+
+#string:26:037
+Jelly Ultra[END]
+
+#string:26:038
+Koopasta[END]
+
+#string:26:039
+Fried Shroom[END]
+
+#string:26:03A
+Hot Shroom[END]
+
+#string:26:03B
+Shroom Steak[END]
+
+#string:26:03C
+Shroom Cake[END]
+
+#string:26:03D
+Sweet Shroom[END]
+
+#string:26:03E
+Bland Meal[END]
+
+#string:26:03F
+Yummy Meal[END]
+
+#string:26:040
+Deluxe Feast[END]
+
+#string:26:041
+Special Shake[END]
+
+#string:26:042
+Healthy Juice[END]
+
+#string:26:043
+Big Cookie[END]
+
+#string:26:044
+Cake[END]
+
+#string:26:045
+Mistake[END]
+
+#string:26:046
+Koopa Tea[END]
+
+#string:26:047
+Spaghetti[END]
+
+#string:26:048
+Egg Missile[END]
+
+#string:26:049
+Fried Egg[END]
+
+#string:26:04A
+Honey Candy[END]
+
+#string:26:04B
+Electro Pop[END]
+
+#string:26:04C
+Fire Pop[END]
+
+#string:26:04D
+Lime Candy[END]
+
+#string:26:04E
+Coco Pop[END]
+
+#string:26:04F
+Lemon Candy[END]
+
+#string:26:050
+Jelly Pop[END]
+
+#string:26:051
+Strange Cake[END]
+
+#string:26:052
+Kooky Cookie[END]
+
+#string:26:053
+Frozen Fries[END]
+
+#string:26:054
+Potato Salad[END]
+
+#string:26:055
+Nutty Cake[END]
+
+#string:26:056
+Boiled Egg[END]
+
+#string:26:057
+Yoshi Cookie[END]
+
+#string:26:058
+Power Jump[END]
+
+#string:26:059
+Mega Jump[END]
+
+#string:26:05A
+Jump Charge[END]
+
+#string:26:05B
+S. Jump Chg.[END]
+
+#string:26:05C
+Sleep Stomp[END]
+
+#string:26:05D
+Dizzy Stomp[END]
+
+#string:26:05E
+Multibounce[END]
+
+#string:26:05F
+Shrink Stomp[END]
+
+#string:26:060
+D-Down Jump[END]
+
+#string:26:061
+Power Bounce[END]
+
+#string:26:062
+Power Smash[END]
+
+#string:26:063
+Mega Smash[END]
+
+#string:26:064
+Smash Charge[END]
+
+#string:26:065
+S. Smash Chg.[END]
+
+#string:26:066
+Hammer Throw[END]
+
+#string:26:067
+Shrink Smash[END]
+
+#string:26:068
+Spin Smash[END]
+
+#string:26:069
+D-Down Pound[END]
+
+#string:26:06A
+Quake Hammer[END]
+
+#string:26:06B
+Power Quake[END]
+
+#string:26:06C
+Mega Quake[END]
+
+#string:26:06D
+Double Dip[END]
+
+#string:26:06E
+Triple Dip[END]
+
+#string:26:06F
+Group Focus[END]
+
+#string:26:070
+Quick Change[END]
+
+#string:26:071
+HP Plus[END]
+
+#string:26:072
+FP Plus[END]
+
+#string:26:073
+Power Plus[END]
+
+#string:26:074
+Defend Plus[END]
+
+#string:26:075
+Damage Dodge[END]
+
+#string:26:076
+P-Up, D-Down[END]
+
+#string:26:077
+P-Down, D-Up[END]
+
+#string:26:078
+HP Drain[END]
+
+#string:26:079
+Happy Heart[END]
+
+#string:26:07A
+Happy Flower[END]
+
+#string:26:07B
+Flower Saver[END]
+
+#string:26:07C
+Heart Finder[END]
+
+#string:26:07D
+Flower Finder[END]
+
+#string:26:07E
+Deep Focus[END]
+
+#string:26:07F
+Spike Shield[END]
+
+#string:26:080
+Dodge Master[END]
+
+#string:26:081
+Pretty Lucky[END]
+
+#string:26:082
+Lucky Day[END]
+
+#string:26:083
+Close Call[END]
+
+#string:26:084
+Power Rush[END]
+
+#string:26:085
+Last Stand[END]
+
+#string:26:086
+Mega Rush[END]
+
+#string:26:087
+First Attack[END]
+
+#string:26:088
+Bump Attack[END]
+
+#string:26:089
+Spin Attack[END]
+
+#string:26:08A
+Dizzy Attack[END]
+
+#string:26:08B
+Speedy Spin[END]
+
+#string:26:08C
+Feeling Fine[END]
+
+#string:26:08D
+Attack FX A[END]
+
+#string:26:08E
+Attack FX D[END]
+
+#string:26:08F
+Attack FX B[END]
+
+#string:26:090
+Attack FX E[END]
+
+#string:26:091
+Attack FX C[END]
+
+#string:26:092
+Attack FX F[END]
+
+#string:26:093
+All or Nothing[END]
+
+#string:26:094
+Slow Go[END]
+
+#string:26:095
+Ice Power[END]
+
+#string:26:096
+Pay-Off[END]
+
+#string:26:097
+Fire Shield[END]
+
+#string:26:098
+Chill Out[END]
+
+#string:26:099
+Zap Tap[END]
+
+#string:26:09A
+Money Money[END]
+
+#string:26:09B
+Right On![END]
+
+#string:26:09C
+Runaway Pay[END]
+
+#string:26:09D
+Refund[END]
+
+#string:26:09E
+I Spy[END]
+
+#string:26:09F
+Peekaboo[END]
+
+#string:26:0A0
+Jump[END]
+
+#string:26:0A1
+Spin Jump[END]
+
+#string:26:0A2
+Tornado Jump[END]
+
+#string:26:0A3
+Hammer[END]
+
+#string:26:0A4
+Super Hammer[END]
+
+#string:26:0A5
+Ultra Hammer[END]
+
+#string:26:0A6
+Lucky Star[END]
+
+#string:26:0A7
+Fortress Key[END]
+
+#string:26:0A8
+Ruins Key[END]
+
+#string:26:0A9
+Castle Key[END]
+
+#string:26:0AA
+Palace Key[END]
+
+#string:26:0AB
+Castle Key[END]
+
+#string:26:0AC
+Castle Key[END]
+
+#string:26:0AD
+Odd Key[END]
+
+#string:26:0AE
+Dolly[END]
+
+#string:26:0AF
+Kooper's Shell[END]
+
+#string:26:0B0
+Pulse Stone[END]
+
+#string:26:0B1
+Artifact[END]
+
+#string:26:0B2
+Golden Jar[END]
+
+#string:26:0B3
+Lunar Stone[END]
+
+#string:26:0B4
+Pyramid Stone[END]
+
+#string:26:0B5
+Diamond Stone[END]
+
+#string:26:0B6
+Record[END]
+
+#string:26:0B7
+Weight[END]
+
+#string:26:0B8
+Boo's Portrait[END]
+
+#string:26:0B9
+Mystical Key[END]
+
+#string:26:0BA
+Storeroom Key[END]
+
+#string:26:0BB
+Toy Train[END]
+
+#string:26:0BC
+Frying Pan[END]
+
+#string:26:0BD
+Dictionary[END]
+
+#string:26:0BE
+Mystery Note[END]
+
+#string:26:0BF
+Mailbag[END]
+
+#string:26:0C0
+Magical Seed[END]
+
+#string:26:0C1
+Magical Seed[END]
+
+#string:26:0C2
+Magical Seed[END]
+
+#string:26:0C3
+Magical Seed[END]
+
+#string:26:0C4
+Crystal Berry[END]
+
+#string:26:0C5
+Water Stone[END]
+
+#string:26:0C6
+Magical Bean[END]
+
+#string:26:0C7
+Fertile Soil[END]
+
+#string:26:0C8
+Miracle Water[END]
+
+#string:26:0C9
+Crystal Ball[END]
+
+#string:26:0CA
+Calculator[END]
+
+#string:26:0CB
+Cookbook[END]
+
+#string:26:0CC
+Jade Raven[END]
+
+#string:26:0CD
+Volcano Vase[END]
+
+#string:26:0CE
+Warehouse Key[END]
+
+#string:26:0CF
+Bucket[END]
+
+#string:26:0D0
+Scarf[END]
+
+#string:26:0D1
+Star Stone[END]
+
+#string:26:0D2
+Red Key[END]
+
+#string:26:0D3
+Blue Key[END]
+
+#string:26:0D4
+Sneaky Parasol[END]
+
+#string:26:0D5
+Prison Key[END]
+
+#string:26:0D6
+Lyrics[END]
+
+#string:26:0D7
+Melody[END]
+
+#string:26:0D8
+Sugar[END]
+
+#string:26:0D9
+Salt[END]
+
+#string:26:0DA
+Egg[END]
+
+#string:26:0DB
+Cream[END]
+
+#string:26:0DC
+Strawberry[END]
+
+#string:26:0DD
+Butter[END]
+
+#string:26:0DE
+Cleanser[END]
+
+#string:26:0DF
+Water[END]
+
+#string:26:0E0
+Flour[END]
+
+#string:26:0E1
+Milk[END]
+
+#string:26:0E2
+First-Degree Card[END]
+
+#string:26:0E3
+Second-Degree Card[END]
+
+#string:26:0E4
+Third-Degree Card[END]
+
+#string:26:0E5
+Fourth-Degree Card[END]
+
+#string:26:0E6
+Diploma[END]
+
+#string:26:0E7
+Ultra Stone[END]
+
+#string:26:0E8
+Silver Credit[END]
+
+#string:26:0E9
+Gold Credit[END]
+
+#string:26:0EA
+Letter[END]
+
+#string:26:0EB
+Letter[END]
+
+#string:26:0EC
+Letter[END]
+
+#string:26:0ED
+Letter[END]
+
+#string:26:0EE
+Letter[END]
+
+#string:26:0EF
+Letter[END]
+
+#string:26:0F0
+Letter[END]
+
+#string:26:0F1
+Letter[END]
+
+#string:26:0F2
+Letter[END]
+
+#string:26:0F3
+Letter[END]
+
+#string:26:0F4
+Letter[END]
+
+#string:26:0F5
+Letter[END]
+
+#string:26:0F6
+Letter[END]
+
+#string:26:0F7
+Letter[END]
+
+#string:26:0F8
+Letter[END]
+
+#string:26:0F9
+Letter[END]
+
+#string:26:0FA
+Letter[END]
+
+#string:26:0FB
+Letter[END]
+
+#string:26:0FC
+Letter[END]
+
+#string:26:0FD
+Letter[END]
+
+#string:26:0FE
+Letter[END]
+
+#string:26:0FF
+Letter[END]
+
+#string:26:100
+Letter[END]
+
+#string:26:101
+Letter[END]
+
+#string:26:102
+Letter[END]
+
+#string:26:103
+Koopa Legends[END]
+
+#string:26:104
+Tape[END]
+
+#string:26:105
+Autograph[END]
+
+#string:26:106
+Empty Wallet[END]
+
+#string:26:107
+Autograph[END]
+
+#string:26:108
+Old Photo[END]
+
+#string:26:109
+Glasses[END]
+
+#string:26:10A
+Package[END]
+
+#string:26:10B
+Red Jar[END]
+
+#string:26:10C
+Star Piece[END]
+

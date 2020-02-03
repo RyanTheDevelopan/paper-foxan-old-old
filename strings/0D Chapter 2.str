@@ -1,0 +1,3081 @@
+#string:0D:000
+[STYLE:RIGHT][...]
+Mt. Rugged!
+[PAUSE:0F][...]
+Mt. Rugged!
+[WAIT][NEXT][...]
+Passengers heading for Dry Dry
+Desert or {Color:20}Dry Dry Outpost{Color:0A},
+should proceed directly over Mt.
+Rugged from this station.[WAIT][END]
+
+#string:0D:001
+[STYLE:RIGHT][...]
+We still have a little time before
+our next departure.
+[PAUSE:0A][...]
+Come back in a while.[WAIT][END]
+
+#string:0D:002
+[STYLE:RIGHT][...]
+Hello, sir.
+[PAUSE:0A][...]
+This train is bound for Toad
+Town Station.
+[WAIT][NEXT][...]
+Are you coming aboard? 
+{Func_04}[END]
+
+#string:0D:003
+[STYLE:RIGHT][...]
+All aboard for Toad Town![WAIT][END]
+
+#string:0D:004
+[STYLE:RIGHT][...]
+The train's running again.
+[PAUSE:14][...]
+Phew. About time!
+[PAUSE:0A][...]
+I can finally go back to Toad
+Town.[WAIT][END]
+
+#string:0D:005
+[STYLE:RIGHT][...]
+If you want to go to Dry Dry
+Desert, you'll have to hike over
+Mt. Rugged.
+[WAIT][NEXT][...]
+Follow the arrows on the
+signboards [PAUSE:05]so you don't get 
+lost.
+[WAIT][NEXT][...]
+There are a lot of scary
+creatures around here.
+[PAUSE:0A][...]
+If you're not careful, you'll get
+hurt in a big way.
+[WAIT][NEXT][...]
+If things are looking desperate,
+you'd better run away really
+fast. At least I would...[WAIT][END]
+
+#string:0D:006
+[STYLE:RIGHT][...]
+If you want to go to Dry Dry
+Desert, you'll have to hike over
+Mt. Rugged.
+[WAIT][NEXT][...]
+Follow the arrows on the
+signboards [PAUSE:05]so you don't get lost.
+[WAIT][NEXT][...]
+There are a lot of scary
+creatures around here.
+[PAUSE:0A][...]
+If you're not careful, you'll get
+hurt in a big way.
+[WAIT][NEXT][...]
+If things are looking desperate,
+you'd better run away really
+fast. At least I would...[WAIT][END]
+
+#string:0D:007
+[STYLE:RIGHT][...]
+Somebody told me that Dry Dry
+Ruins just rose from the sand!
+[WAIT][NEXT][...]
+No way! Do you believe it?[WAIT][END]
+
+#string:0D:008
+[STYLE:RIGHT][...]
+Some people think trains are
+pretty boring, but I don't.
+[WAIT][NEXT][...]
+One day, I'm gonna get on this
+train right here and go to a
+town far, far away.[WAIT][END]
+
+#string:0D:009
+[STYLE:RIGHT][...]
+I saw a creature called a
+Whacka on Mt. Rugged!
+[WAIT][NEXT][...]
+It was extra cute![WAIT][END]
+
+#string:0D:00A
+[STYLE:RIGHT][...]
+That extra cute Whacka...
+[PAUSE:0A][...]
+I haven't seen it lately. What
+could have happened?
+[PAUSE:0A][...]
+I'm a little worried.
+[WAIT][NEXT][...]
+Mario,
+[PAUSE:05][...]
+do you know anything about the
+habits of the wild Whacka?[WAIT][END]
+
+#string:0D:00B
+[STYLE:RIGHT][...]
+Ah! Mt. Rugged Station!
+[PAUSE:0A][...]
+We finally made it, girls!
+[PAUSE:05][...]
+{StartFX:Wavy}Breathe that fresh air!
+{EndFX:Wavy}[WAIT][NEXT][...]
+I've always wanted to see Dry
+Dry Outpost and now we're
+almost there![WAIT][END]
+
+#string:0D:00C
+[STYLE:RIGHT][...]
+I heard that some of the hiking
+trails on Mt. Rugged are closed 
+and that some dangerous
+creatures are about.
+[WAIT][NEXT][...]
+How exciting! Danger!
+[PAUSE:05][...]
+We'll be all right, right?
+[WAIT][NEXT][...]
+Anything goes out here in the
+wild world! Oh, I've never felt so
+alive![WAIT][END]
+
+#string:0D:00D
+[STYLE:RIGHT][...]
+Stop it with those stories!
+You're giving me goosebumps!
+[PAUSE:14][...]
+Don't talk anymore! Let's just
+bite the bullet and forge ahead!
+[WAIT][NEXT][...]
+We didn't come all the way from
+Toad Town to turn back![WAIT][END]
+
+#string:0D:00E
+[STYLE:RIGHT][...]
+Ah... [PAUSE:05]No... Confound it!
+[PAUSE:05][...]
+Where could it be...?[WAIT][END]
+
+#string:0D:00F
+[STYLE:RIGHT][...]
+Oh!
+[PAUSE:05][...]
+Sorry, folks! Very sorry!
+[WAIT][NEXT][...]
+I was looking for something and
+[PAUSE:05][...]
+not watching where I was going.[WAIT][END]
+
+#string:0D:010
+[STYLE:RIGHT][...]
+What now?
+[PAUSE:0A][...]
+Aren't you Mario?
+[WAIT][NEXT][...]
+Why, you are! You're THE Mario!
+[PAUSE:0A][...]
+Hello there![WAIT][END]
+
+#string:0D:011
+[STYLE:RIGHT][...]
+The name's Parakarry.
+[PAUSE:0A][...]
+I deliver letters.
+[WAIT][NEXT][...]
+[PAUSE:05][...]
+Um[PAUSE:04].[PAUSE:04].[PAUSE:04].
+[WAIT][NEXT][...]
+I'm normally a letter-perfect
+postman, but I'm having a bit of
+trouble with a lost letter.
+[WAIT][NEXT][...]
+[PAUSE:0A][...]
+Wouldn't you know it--I dropped
+it on Mt. Rugged [PAUSE:05]and now I can't
+find it...
+[WAIT][NEXT][...]
+If you happen to stumble upon a
+letter anywhere around here,
+[PAUSE:05][...]
+please tell me, all right?
+[PAUSE:0A][...]
+My job could depend on it!
+[WAIT][NEXT][...]
+I'll be searching this area
+thoroughly for a while...[WAIT][END]
+
+#string:0D:012
+[STYLE:RIGHT][...]
+If you find a letter lying around
+somewhere, could you bring it to
+me, please?[WAIT][END]
+
+#string:0D:013
+[STYLE:RIGHT][...]
+Uh...? [PAUSE:05]That...[PAUSE:05] looks like the
+letter I'm looking for...
+[PAUSE:05][...]
+My mistake, perhaps...?[WAIT][END]
+
+#string:0D:014
+[STYLE:RIGHT][...]
+Oh! That's the one!
+[PAUSE:0F][...]
+Aw, thanks for finding it!
+[PAUSE:0F][...]
+I'm so relieved.
+[WAIT][NEXT][...]
+Uh... Actually...
+[PAUSE:05][...]
+I'm also looking for two other
+letters I may have lost.
+[WAIT][NEXT][...]
+It wasn't my fault, really! If
+you find them, could you...?
+[PAUSE:0F][...]
+Thank you so much.[WAIT][END]
+
+#string:0D:015
+[STYLE:RIGHT][...]
+I'm still looking for those two
+missing letters...
+[PAUSE:05][...]
+If you help me find them, I'll be
+very grateful.[WAIT][END]
+
+#string:0D:016
+[STYLE:RIGHT][...]
+Oh! There we go!
+[PAUSE:0A][...]
+That's one of the ones I dropped
+by accident!
+[WAIT][NEXT][...]
+Thanks so much! Really!
+[WAIT][NEXT][...]
+Of course, there's still one more 
+letter left...
+[PAUSE:0A][...]
+If at all possible, could you
+please find it, too?
+[WAIT][NEXT][...]
+I'm really scouring this area
+down here, but so far I haven't
+had much luck...[WAIT][END]
+
+#string:0D:017
+[STYLE:RIGHT][...]
+One more letter... Please, I
+really need it!
+[WAIT][NEXT][...]
+I'll keep looking for it right
+around here...[WAIT][END]
+
+#string:0D:018
+[STYLE:RIGHT][...]
+The last letter!
+[PAUSE:0A][...]
+You found it!
+[WAIT][NEXT][...]
+Now I've got all the letters I've
+lost...today.
+[PAUSE:0A][...]
+Oh, thank you so much!
+[WAIT][NEXT][...]
+You're a lifesaver!
+[PAUSE:0A][...]
+I wish there were some way I
+could repay you for your help.[WAIT][END]
+
+#string:0D:019
+[STYLE:RIGHT][...]
+Actually... To be honest...
+[PAUSE:0A][...]
+I haven't just lost letters on
+Mt. Rugged...
+[WAIT][NEXT][...]
+I may have sort of dropped some
+all over the Mushroom Kingdom
+while I was flying.
+[WAIT][NEXT][...]
+Heh heh... yeah. [PAUSE:03]You know, you're
+good at finding letters.
+[WAIT][NEXT][...]
+Do you think you could keep an
+eye out during your travels?
+[WAIT][NEXT][...]
+In return, I would offer you
+whatever help I can.
+{Func_04}[END]
+
+#string:0D:01A
+[NEXT][...]
+I see. May I ask why not?
+[PAUSE:0A][...]
+Please, Mario, I'm in a bind!
+[PAUSE:0A][...]
+You'd really save my shell!
+{Func_04}[END]
+
+#string:0D:01B
+[NEXT][...]
+Oh[PAUSE:03].[PAUSE:03].[PAUSE:03]. [PAUSE:03]I understand.
+[PAUSE:0A][...]
+I suppose I'm asking too much.
+You're a big hero with big goals.
+[WAIT][NEXT][...]
+Sigh... [PAUSE:05]I have to face the music.
+[WAIT][NEXT][...]
+Of course, if you change your
+mind let me know.
+[PAUSE:0A][...]
+I'll follow you in a heartbeat![WAIT][END]
+
+#string:0D:01C
+[STYLE:RIGHT][...]
+Hello again!
+[PAUSE:14][...]
+You changed your mind?
+[WAIT][NEXT][...]
+Can I go with you?
+{Func_04}[END]
+
+#string:0D:01D
+[NEXT][...]
+Oh, praise the Stars!
+[PAUSE:0A][...]
+I wasn't looking forward to
+having to find those letters all
+by myself, no sir.
+[WAIT][NEXT][...]
+I'll do my very best to help! You
+shall not regret this![WAIT][END]
+
+#string:0D:01E
+[STYLE:RIGHT][...]
+Now! Onward! 
+[WAIT][NEXT][...]
+[PAUSE:0A][...]
+Oh, but hey...
+[PAUSE:0A][...]
+By the way, if you want to
+deliver a letter to someone, just
+speak to that person.
+[WAIT][NEXT][...]
+I have to be next to you at the
+time for it to work, though.
+[PAUSE:0A][...]
+Keep it in mind, all right?[WAIT][END]
+
+#string:0D:01F
+[STYLE:RIGHT][...]
+Huh...?
+[PAUSE:0A][...]
+You're talking to me?
+[WAIT][NEXT][...]
+{StartFX:Shrinking}I don't see anyone else here...
+[PAUSE:0A][...]
+All right! You are talking to me!
+{EndFX:Shrinking}[WAIT][NEXT][...]
+It's been a long while since I
+first came here from my home in
+Flower Fields,
+[WAIT][NEXT][...]
+but you're still the very first
+person to speak a word to me.
+[WAIT][NEXT][...]
+Nobody ever notices me.
+[PAUSE:0A][...]
+The few people I actually see
+just think I'm blooming.
+[WAIT][NEXT][...]
+I love a good conversation!
+Here, take this as thanks!
+[PAUSE:05][...]
+This is a precious Seed.
+[PAUSE:0A][...]
+Keep it well and remember me.[WAIT][END]
+
+#string:0D:020
+[STYLE:RIGHT][...]
+Please grow my Seed with care.
+[PAUSE:0A][...]
+It'll help you one day...[WAIT][END]
+
+#string:0D:021
+[STYLE:RIGHT][...]
+You know what makes me happy?
+When folks see me and smile. 
+[WAIT][NEXT][...]
+That's every flower's dream.
+[PAUSE:0A][...]
+Every flower's hope.
+[PAUSE:0A][...]
+Every flower's...life.[WAIT][END]
+
+#string:0D:022
+[STYLE:RIGHT][...]
+You know what makes me happy?
+When folks see me and smile. 
+[WAIT][NEXT][...]
+That's every flower's dream.
+[PAUSE:0A][...]
+Every flower's hope.
+[PAUSE:0A][...]
+Every flower's...life.[WAIT][END]
+
+#string:0D:023
+[STYLE:RIGHT][...]
+You know, there are lots of my
+fellow Bub-ulbs living throughout
+the Mushroom Kingdom.
+[WAIT][NEXT][...]
+If you run into any of them, be
+sure to stop and chat a bit.
+[PAUSE:14][...]
+They'll be delighted.[WAIT][END]
+
+#string:0D:024
+[STYLE:RIGHT][...]
+You know, there are lots of my
+fellow Bub-ulbs living throughout
+the Mushroom Kingdom.
+[WAIT][NEXT][...]
+If you run into any of them, be
+sure to stop and chat a bit.
+[PAUSE:14][...]
+They'll be delighted.[WAIT][END]
+
+#string:0D:025
+[STYLE:RIGHT][...]
+Are you taking a trip around the
+world or something?
+[PAUSE:0A][...]
+Traveling's fun, I guess.
+[WAIT][NEXT][...]
+Not for me, though. Nuh-uh.
+[PAUSE:0A][...]
+I've decided to stay right here
+forever and ever.[WAIT][END]
+
+#string:0D:026
+[STYLE:RIGHT][...]
+Are you taking a trip around the
+world or something?
+[PAUSE:0A][...]
+Traveling's fun, I guess.
+[WAIT][NEXT][...]
+Not for me, though. Nuh-uh.
+[PAUSE:0A][...]
+I've decided to stay right here
+forever and ever.[WAIT][END]
+
+#string:0D:027
+[STYLE:RIGHT][...]
+Whaaack-hoo! [PAUSE:05]I'm Whacka!!
+[PAUSE:0A][...]
+Just another picture-perfect
+day atop Mt. Rugged! Wooo!
+[WAIT][NEXT][...]
+The sunshine! The fresh air! So
+refreshing, whack-a-do![WAIT][END]
+
+#string:0D:028
+[STYLE:RIGHT][...]
+Whaaack-hoo! [PAUSE:05]I'm Whacka!!
+[PAUSE:0A][...]
+Just another picture-perfect
+day atop Mt. Rugged! Wooo!
+[WAIT][NEXT][...]
+Of course, yesterday was also
+pretty nice! [WAIT][END]
+
+#string:0D:029
+[STYLE:RIGHT][...]
+Whaaack-hoo! [PAUSE:05]I'm Whacka!!
+[PAUSE:0A][...]
+Another lovely day! Hoo!
+[WAIT][NEXT][...]
+Tomorrow will be beautiful, and
+the day after, too![WAIT][END]
+
+#string:0D:02A
+[STYLE:RIGHT][...]
+{Speed:02:01}Whack-huh-ooo?
+[PAUSE:0A][...]
+I'm Wha[PAUSE:05]cka[PAUSE:05]... [PAUSE:0F]Aren't I?
+[WAIT][NEXT][...]
+I feel like I'm getting a touch
+forgetful nowadays.
+[PAUSE:0A][...]
+Did I remember to eat breakfast
+this morning?[WAIT][END]
+
+#string:0D:02B
+[STYLE:RIGHT][...]
+Whack-hoo, yack-a-doo...
+[PAUSE:05][...]
+Whick wick wack... [PAUSE:0F]Aah-hooo...[NOTE][WAIT][END]
+
+#string:0D:02C
+[STYLE:RIGHT][...]
+Whack-OW!
+[PAUSE:0A][...]
+Don't hit me![WAIT][END]
+
+#string:0D:02D
+[STYLE:RIGHT][...]
+Whack-a-bYAAARGH!
+[PAUSE:0A][...]
+Quit it![WAIT][END]
+
+#string:0D:02E
+[STYLE:RIGHT][...]
+Whack-OOOG!
+[PAUSE:0A][...]
+That really hurts![WAIT][END]
+
+#string:0D:02F
+[STYLE:RIGHT][...]
+Whack-a-waaaaaaaaa....
+[PAUSE:0A][...]
+I can't take this abuse![WAIT][END]
+
+#string:0D:030
+[STYLE:RIGHT][...]
+Hey there!
+[PAUSE:0A][...]
+Hold up a sec, pardner![WAIT][END]
+
+#string:0D:031
+[STYLE:RIGHT][...]
+Jest a dern minute...
+[PAUSE:0A][...]
+I've seen you somewhere...[WAIT][END]
+
+#string:0D:032
+[STYLE:RIGHT][...]
+Yep, verrrry similar!
+[WAIT][NEXT][...]
+You look a lot like this feller
+Mario who's on Bowser's wanted
+poster...
+[WAIT][NEXT][...]
+Now give!
+[PAUSE:05][...]
+What's yer name?
+{Func_04}[END]
+
+#string:0D:033
+[STYLE:RIGHT][...]
+{StartFX:Shrinking}Marioooo!? Well, I'll be!
+{EndFX:Shrinking}[WAIT][NEXT][...]
+If yer Mario, I reckon I've got
+to bust you up![WAIT][END]
+
+#string:0D:034
+[STYLE:RIGHT][...]
+Hmm... Well...
+[PAUSE:0A][...]
+Luigi, eh, pard...?
+[PAUSE:05][...]
+You do look like this dude...
+[WAIT][NEXT][...]
+Well, yer not Mario, I guess.
+[PAUSE:0A][...]
+I reckon you can pass.[WAIT][END]
+
+#string:0D:035
+[STYLE:RIGHT][...]
+{StartFX:Shrinking}What's that?!
+[PAUSE:0A][...]
+Princess Peach!?
+{EndFX:Shrinking}[WAIT][NEXT][...]
+You take me fer a fool?
+[PAUSE:0A][...]
+Princess Peach is captured up
+there in Bowser's Castle!
+[WAIT][NEXT][...]
+You reckon I don't know that?
+[WAIT][NEXT][...]
+Yer askin' fer it, you big fibber!
+[PAUSE:0A][...]
+I'm thinkin' yer Mario!
+[PAUSE:0A][...]
+Prepare fer yer whuppin'![WAIT][END]
+
+#string:0D:036
+[STYLE:RIGHT][...]
+Yow! I got whupped![WAIT][END]
+
+#string:0D:037
+[STYLE:RIGHT][...]
+Well, hello there, old boy!
+[PAUSE:0A][...]
+How goes the travels, eh?
+[WAIT][NEXT][...]
+I'm known as Kolorado. I'm an
+archaeologist, you know. I travel
+the world.
+[WAIT][NEXT][...]
+At the moment I'm turning Dry
+Dry Desert upside down to find
+the Dry Dry Ruins.
+[WAIT][NEXT][...]
+My assistants have attempted
+to gather information in Dry Dry
+Outpost, which is near here.
+[WAIT][NEXT][...]
+Sadly, as of yet, we're having
+little success. All I need's a clue
+and we'll be golden![WAIT][END]
+
+#string:0D:038
+[STYLE:RIGHT][...]
+Well, hello there, old boy!
+[PAUSE:0A][...]
+How goes the travels, eh?
+[WAIT][NEXT][...]
+I'm known as Kolorado. I'm an
+archaeologist, you know. I travel
+the world.
+[WAIT][NEXT][...]
+At the moment I'm turning Dry
+Dry Desert upside down to find
+the Dry Dry Ruins.
+[WAIT][NEXT][...]
+My assistants have attempted
+to gather information in Dry Dry
+Outpost, which is near here.
+[WAIT][NEXT][...]
+Sadly, as of yet, we're having
+little success. All I need's a clue
+and we'll be golden![WAIT][END]
+
+#string:0D:039
+[STYLE:RIGHT][...]
+Well, how goes it, old man?
+[PAUSE:0A][...]
+I'm still neck deep in this
+blasted Dry Dry Ruins search.
+[WAIT][NEXT][...]
+We at least have a lead now.
+According to the locals in Dry
+Dry Outpost,
+[WAIT][NEXT][...]
+there's an information trader
+named Sheek somewhere in Dry
+Dry Outpost. Apparently this
+chap knows the desert well.
+[WAIT][NEXT][...]
+Of course, he's proving rather
+difficult to track down.[WAIT][END]
+
+#string:0D:03A
+[STYLE:RIGHT][...]
+You know, old bean, gossip can be
+one of the most vital resources
+for archaeologists.
+[WAIT][NEXT][...]
+Without fail! That's why I must
+see this Sheek character as
+soon as possible.[WAIT][END]
+
+#string:0D:03B
+[STYLE:RIGHT][...]
+Hey, old boy.
+[PAUSE:0A][...]
+Doing well, I trust?
+[WAIT][NEXT][...]
+It's barely a morsel, but I
+finally got a bit of news about
+Dry Dry Ruins.
+[WAIT][NEXT][...]
+This fellow from Dry Dry Outpost
+claims that another bloke named
+Moustafa knows where the Dry
+Dry Ruins are.
+[WAIT][NEXT][...]
+Tragically, only his followers
+know where Moustafa is.[WAIT][END]
+
+#string:0D:03C
+[STYLE:RIGHT][...]
+What kind of chap do you think
+this Moustafa is?
+[PAUSE:0A][...]
+Hmm... I simply must see him.[WAIT][END]
+
+#string:0D:03D
+[STYLE:RIGHT][...]
+Hello there, old chum!
+[PAUSE:14][...]
+How are you holding up in this
+blasted heat, eh?
+[WAIT][NEXT][...]
+[PAUSE:0A][...]
+...Hm? Oh, yes, of course!
+[PAUSE:0F][...]
+Well, this Moustafa who knows
+where the Dry Dry Ruins lie...
+[WAIT][NEXT][...]
+Supposedly, this information
+trader by the name of Sheek
+knows something about him.[WAIT][END]
+
+#string:0D:03E
+[STYLE:RIGHT][...]
+But I tell you, old boy, I'm
+having a devil of a time getting
+Sheek to speak![WAIT][END]
+
+#string:0D:03F
+[STYLE:RIGHT][...]
+You know, time and again my mind
+returns to the image of the
+ruins hiding in the desert.
+[WAIT][NEXT][...]
+It haunts me... I can't sleep!
+[WAIT][NEXT][...]
+I am, quite simply, destined to
+be the one to find them![WAIT][END]
+
+#string:0D:040
+[STYLE:RIGHT][...]
+Well, what ill luck! No clues about
+the ruins!
+[WAIT][NEXT][...]
+I'm getting so frustrated I just
+might have to give up the
+excavation for now...
+[PAUSE:14][...]
+How very sad[PAUSE:03].[PAUSE:03].[PAUSE:03].
+[PAUSE:05][...]
+[WAIT][NEXT][...]
+[PAUSE:0A][...]
+I say...?
+[WAIT][NEXT][...]
+Mario,
+[PAUSE:0A][...]
+that artifact you hold in your
+hand[PAUSE:03].[PAUSE:03].[PAUSE:03].
+[PAUSE:05][...]
+[WAIT][NEXT][...]
+It looks like...
+[PAUSE:0A][...]
+It looks quite important!
+[WAIT][NEXT][...]
+Do my eyes deceive me, or is
+that a clue to Dry Dry Ruins?
+[WAIT][NEXT][...]
+Mario! [PAUSE:0A]Old chum! [PAUSE:0A]I beg of you!
+[PAUSE:0F][...]
+Could you possibly part with it?[WAIT][END]
+
+#string:0D:041
+[STYLE:RIGHT][...]
+[NEXT][...]
+Hmmm... Hmmm...
+[PAUSE:14][...]
+Are you quite sure?[WAIT][END]
+
+#string:0D:042
+[STYLE:RIGHT][...]
+[NEXT][...]
+Oh, bother.
+[PAUSE:0A][...]
+Well, I can't force you.
+[PAUSE:0A][...]
+I'll just suffer...[WAIT][END]
+
+#string:0D:043
+[STYLE:RIGHT][...]
+Mario,
+[WAIT][NEXT][...]
+if you could see to it to have a
+change of heart, please give me
+that artifact![WAIT][END]
+
+#string:0D:044
+[STYLE:RIGHT][...]
+[NEXT][...]
+Cheers, Mario!
+[PAUSE:0A][...]
+Smashing, really, old boy!
+[WAIT][NEXT][...]
+Soon now, the mysterious Dry
+Dry Ruins will rise from the
+sands that conceal them!
+[WAIT][NEXT][...]
+As a brilliant archaeologist, I
+say it must be so!
+[WAIT][NEXT][...]
+I suppose a thank-you gift is in
+order, eh, old boy?
+[PAUSE:0A][...]
+Here you go, then![WAIT][END]
+
+#string:0D:045
+[STYLE:RIGHT][...]
+You now know a bit of the magic
+of the desert.
+[PAUSE:14][...]
+Cherish the memory, old boy![WAIT][END]
+
+#string:0D:046
+[STYLE:RIGHT][...]
+Archaeology is about mystery.
+[PAUSE:0A][...]
+And you know, without mystery
+life is rather bland, hm?
+[WAIT][NEXT][...]
+Maybe you should write this
+stuff down, Mario.[WAIT][END]
+
+#string:0D:047
+[STYLE:RIGHT][...]
+What!? Whoa!
+[PAUSE:0A][...]
+You're Professor Kolorado!!
+[WAIT][NEXT][...]
+It's Kooper! I live next to you! 
+[PAUSE:0A][...]
+It's so great to see you! I
+never would've expected to meet
+up with you out here!
+[WAIT][NEXT][...]
+I'm right in the middle of an
+expedition with Mario. I wanna be
+an archaeologist like you.[WAIT][END]
+
+#string:0D:048
+[STYLE:RIGHT][...]
+Hello there, Kooper.
+[PAUSE:0A][...]
+It's been ages!
+[WAIT][NEXT][...]
+So... [PAUSE:05]If you're serious about
+taking up archaeology, you and I
+should go exploring someday.
+[WAIT][NEXT][...]
+Anytime, really!
+[WAIT][NEXT][...]
+...For now, you concentrate on
+your adventure with Mario.
+[WAIT][NEXT][...]
+You'll never attain such fame in
+archaeology as I have if you
+don't finish one task before
+starting the next.[WAIT][END]
+
+#string:0D:049
+[STYLE:RIGHT][...]
+{StartFX:Shrinking}Whoa! OK!
+{EndFX:Shrinking}[WAIT][NEXT][...]
+As soon as we're done saving the
+princess and Mushroom Kingdom
+and everything, you and I'll go
+exploring![WAIT][END]
+
+#string:0D:04A
+[STYLE:RIGHT][...]
+You're Kolorado, correct?
+[WAIT][NEXT][...]
+The name's Parakarry. I deliver
+letters.
+[WAIT][NEXT][...]
+I believe I have one for you.
+[PAUSE:0A][...]
+Hang on a moment.[WAIT][END]
+
+#string:0D:04B
+[STYLE:RIGHT][...]
+Uh...no! Confound it!
+[PAUSE:0A][...]
+I seem to have lost it!
+[PAUSE:0A][...]
+...I'm terribly sorry.[WAIT][END]
+
+#string:0D:04C
+[STYLE:RIGHT][...]
+Another letter, duly delivered. 
+A postman's job is never done.[WAIT][END]
+
+#string:0D:04D
+[STYLE:RIGHT][...]
+Oh, good show!
+[PAUSE:0F][...]
+It's a letter from my wife.
+[WAIT][NEXT][...]
+Thank you ever so, old chap.
+[PAUSE:0F][...]
+This is just what I needed to
+give me strength to go on.
+[WAIT][NEXT][...]
+[PAUSE:0A][...]
+...I know!
+[PAUSE:0A][...]
+I'll pass this along as a spot of
+thanks.
+[WAIT][NEXT][...]
+I came across it while I was
+immersed in the dig around here.[WAIT][END]
+
+#string:0D:04E
+[STYLE:RIGHT][...]
+We're assisting Prof. Kolorado.
+[WAIT][NEXT][...]
+Right now we're waiting on the
+guy who hiked over to Dry Dry
+Outpost to try to bring back
+some information.
+[WAIT][NEXT][...]
+Did you know the people of Dry
+Dry Outpost are descendants of
+the makers of Dry Dry Ruins?
+[WAIT][NEXT][...]
+What a cool thought, huh? People
+have been living here, watching
+over the ruins for many
+generations.[WAIT][END]
+
+#string:0D:04F
+[STYLE:RIGHT][...]
+We're assisting Prof. Kolorado.
+[WAIT][NEXT][...]
+Right now we're waiting on the
+guy who hiked over to Dry Dry
+Outpost to try to bring back
+some information.
+[WAIT][NEXT][...]
+Did you know the people of Dry
+Dry Outpost are descendants of
+the makers of Dry Dry Ruins?
+[WAIT][NEXT][...]
+What a cool thought, huh? People
+have been living here, watching
+over the ruins for many
+generations.[WAIT][END]
+
+#string:0D:050
+[STYLE:RIGHT][...]
+Professor Kolorado told me to
+look everywhere for clues about
+Dry Dry Ruins,
+[WAIT][NEXT][...]
+but I'm a little nervous 'cause I
+haven't found anything yet.[WAIT][END]
+
+#string:0D:051
+[STYLE:RIGHT][...]
+Wow, the Professor's really
+excited now that he found a clue
+to Dry Dry Ruins.
+[WAIT][NEXT][...]
+He's starting a full exploration
+immediately!
+[WAIT][NEXT][...]
+Finally, our research is starting
+to move forward!
+[PAUSE:05][...]
+Maybe it'll be less boring...[WAIT][END]
+
+#string:0D:052
+[STYLE:RIGHT][...]
+To get to the desert town, Dry
+Dry Outpost, just go due east
+on this path.
+[WAIT][NEXT][...]
+I'd be careful not to stray from
+the path if I were you. You may
+find some trouble, and you'll
+definitely get lost.
+[WAIT][NEXT][...]
+Even the path isn't that safe,
+so watch out for enemies.[WAIT][END]
+
+#string:0D:053
+[STYLE:RIGHT][...]
+To get to the desert town, Dry
+Dry Outpost, just go due east
+on this path.
+[WAIT][NEXT][...]
+I'd be careful not to stray from
+the path if I were you. You may
+find some trouble and you'll
+definitely get lost.
+[WAIT][NEXT][...]
+Even the path isn't that safe,
+so watch out for enemies.[WAIT][END]
+
+#string:0D:054
+[STYLE:RIGHT][...]
+Researching these ruins is
+incredibly difficult.
+[WAIT][NEXT][...]
+Everyone on the dig is completely
+exhausted.
+[WAIT][NEXT][...]
+Sometimes I wonder whether Dry
+Dry Ruins is really hidden there
+or just a local myth.[WAIT][END]
+
+#string:0D:055
+[STYLE:RIGHT][...]
+We found a clue! Yeah! I'm
+motivated again!
+[WAIT][NEXT][...]
+We're gonna find those ruins![WAIT][END]
+
+#string:0D:056
+[STYLE:RIGHT][...]
+Hello, fellow travelers.
+[PAUSE:0A][...]
+I'm in the middle of a journey,
+just as you appear to be.
+[WAIT][NEXT][...]
+Other travelers I meet are like
+brothers and sisters to me.
+[WAIT][NEXT][...]
+If a town is what you seek,
+follow this path to the east.
+[PAUSE:14][...]
+A desert town called Dry Dry
+Outpost waits at path's end.[WAIT][END]
+
+#string:0D:057
+[STYLE:RIGHT][...]
+Go straight east on this path
+to reach Dry Dry Outpost, a
+desert town.
+[WAIT][NEXT][...]
+I'm having a rest in the shade.
+[PAUSE:0A][...]
+Rule \#1 when traveling through a
+desert: never hurry.
+[WAIT][NEXT][...]
+Deserts, especially this desert,
+are vast and confusing, and if
+you wander too far afield you'll
+definitely get lost. [WAIT][END]
+
+#string:0D:058
+[STYLE:RIGHT][...]
+Hello, fellow travelers.
+[PAUSE:0A][...]
+I'm in the middle of a journey,
+just as you appear to be.
+[WAIT][NEXT][...]
+If you go southeast from here,
+you'll reach a beautiful desert
+oasis where lemon and lime trees
+grow.
+[WAIT][NEXT][...]
+It's nice and cool.
+[PAUSE:0A][...]
+It's really the best place to
+have a rest, but many enemies
+plague the surrounding area.
+[WAIT][NEXT][...]
+If you plan on reaching the oasis
+in one piece, be careful.[WAIT][END]
+
+#string:0D:059
+[STYLE:RIGHT][...]
+If you go southeast from here,
+you'll reach a beautiful desert
+oasis where lemon and lime trees
+grow.
+[WAIT][NEXT][...]
+It's nice and cool.
+[PAUSE:0A][...]
+It's really the best place to
+have a rest, but many enemies
+plague the surrounding area.
+[WAIT][NEXT][...]
+If you plan on reaching the oasis
+in one piece, be careful.[WAIT][END]
+
+#string:0D:05A
+[STYLE:RIGHT][...]
+I recently saw a billow of smoke
+over the northern part of the
+desert.
+[WAIT][NEXT][...]
+There was a big thud, as well.
+[PAUSE:0A][...]
+I wonder what it was.
+[WAIT][NEXT][...]
+Hm?
+[PAUSE:0A][...]
+Do you have any idea?[WAIT][END]
+
+#string:0D:05B
+[STYLE:RIGHT][...]
+Traveling Nomadimouse, correct?
+[WAIT][NEXT][...]
+The name's Parakarry. I deliver
+letters.
+[WAIT][NEXT][...]
+I believe I have one for you.
+[PAUSE:0A][...]
+Hang on a moment.[WAIT][END]
+
+#string:0D:05C
+[STYLE:RIGHT][...]
+Uh...no! Confound it!
+[PAUSE:0A][...]
+I seem to have lost it!
+[PAUSE:0A][...]
+...I'm terribly sorry.[WAIT][END]
+
+#string:0D:05D
+[STYLE:RIGHT][...]
+Another letter, duly delivered. 
+A postman's job is never done.[WAIT][END]
+
+#string:0D:05E
+[STYLE:RIGHT][...]
+A letter to me? From Moustafa?
+[PAUSE:0A][...]
+I've heard the name, but...
+[PAUSE:05][...]
+I can't remember who he is.
+[WAIT][NEXT][...]
+Anyway, thank you for delivering
+it.
+[PAUSE:0A][...]
+I'm surprised that you found me
+way out here.
+[WAIT][NEXT][...]
+It's extremely hot traveling in
+the desert, so take care.
+[WAIT][NEXT][...]
+Oh yeah!
+[PAUSE:0A][...]
+Take this as my thanks!
+[WAIT][NEXT][...]
+Don't hesitate. Please take it.[WAIT][END]
+
+#string:0D:05F
+[STYLE:RIGHT][...]
+Welcome, travelers! You must
+have had a long, hot journey
+getting here.
+[PAUSE:0A][...]
+Welcome to Dry Dry Outpost.
+[WAIT][NEXT][...]
+Moustafa is the leader of this
+entire town, so...
+[PAUSE:0A][...]
+You'd better keep it in mind.
+[WAIT][NEXT][...]
+...Although you probably won't
+ever see him...[WAIT][END]
+
+#string:0D:060
+[STYLE:RIGHT][...]
+There's no question that Mr.
+Moustafa is the boss of Dry Dry
+Outpost, but...
+[WAIT][NEXT][...]
+it's incredibly rare for him to
+actually be seen in public.
+[PAUSE:05][...]
+His personality is a mystery.
+He's surrounded by secrets.
+[WAIT][NEXT][...]
+Even so, as long as you behave
+yourself he won't mess with you.
+He's not a tyrant or anything.
+[WAIT][NEXT][...]
+Please enjoy yourself during
+your stay at Dry Dry Outpost.[WAIT][END]
+
+#string:0D:061
+[STYLE:RIGHT][...]
+There's no question that Mr.
+Moustafa is the boss of Dry Dry
+Outpost, but...
+[WAIT][NEXT][...]
+it's incredibly rare for him to
+actually be seen in public.
+[PAUSE:05][...]
+His personality is a mystery.
+He's surrounded by secrets.
+[WAIT][NEXT][...]
+Even so, as long as you behave
+yourself he won't mess with you.
+He's not a tyrant or anything.
+[WAIT][NEXT][...]
+Please enjoy yourself during
+your stay at Dry Dry Outpost.[WAIT][END]
+
+#string:0D:062
+[STYLE:RIGHT][...]
+Welcome! You must have had a
+grueling trip getting here.
+[PAUSE:0A][...]
+Please enjoy Dry Dry Outpost.[WAIT][END]
+
+#string:0D:063
+[STYLE:RIGHT][...]
+{StartFX:Wavy}Master Mr. Moustafa is the main
+man, yeah![NOTE] Master Mr.
+Moustafa is the main man, ooh![NOTE]
+[WAIT][NEXT][...]
+Where's the man? No one knows![NOTE]
+He stays hidden from his foes[NOTE]
+{EndFX:Wavy}[WAIT][END]
+
+#string:0D:064
+[STYLE:RIGHT][...]
+{StartFX:Wavy}Master Mr. Moustafa is the main
+man, yeah![NOTE] Master Mr.
+Moustafa is the main man, ooh![NOTE]
+[WAIT][NEXT][...]
+Where's the man? No one knows![NOTE]
+He stays hidden from his foes[NOTE]
+{EndFX:Wavy}[WAIT][END]
+
+#string:0D:065
+[STYLE:RIGHT][...]
+{StartFX:Wavy}Master Mr. Moustafa is the main
+man, yeah![NOTE] Master Mr.
+Moustafa is the main man, ooh![NOTE]
+[WAIT][NEXT][...]
+Where's the man? No one knows![NOTE]
+He stays hidden from his foes[NOTE]
+{EndFX:Wavy}[WAIT][END]
+
+#string:0D:066
+[STYLE:RIGHT][...]
+{StartFX:Wavy}Dry Dry Desert is a desert,
+very dry[NOTE]
+[PAUSE:0A][...]
+Winds of change blow sand in
+your eyes[NOTE]
+{EndFX:Wavy}[WAIT][NEXT][...]
+...Oh yeeeeah. That's right!
+[PAUSE:0A][...]
+Don't I rock?[WAIT][END]
+
+#string:0D:067
+[STYLE:RIGHT][...]
+I'm out of new songs.
+[WAIT][NEXT][...]
+I can't sing a song some
+composer wrote, either.
+[PAUSE:0A][...]
+I have to rock in my own style!
+[WAIT][NEXT][...]
+I made a wish to the Stars that
+I'd be inspired to write a
+ripping tune but so far, zilch.
+Nothing.[WAIT][END]
+
+#string:0D:068
+[STYLE:RIGHT][...]
+Hey! Guess what! Hey!
+[PAUSE:0A][...]
+Somewhere in the desert, there's
+a stone cactus.
+[WAIT][NEXT][...]
+If you move 3 south and 2 west
+from there, you'll find something
+special hidden.
+[WAIT][NEXT][...]
+I'm not sure how to find it
+exactly, however.
+[PAUSE:0A][...]
+You should go there, huh? Yeah!
+[WAIT][NEXT][...]
+Hey! Wanna hear something else?
+[PAUSE:0A][...]
+I know lots of other stuff!
+Useful stuff! Hey![WAIT][END]
+
+#string:0D:069
+[STYLE:RIGHT][...]
+Hey! Did you know?
+[PAUSE:0A][...]
+The desert is dangerous!
+[WAIT][NEXT][...]
+If you get caught in a desert
+whirlwind, it'll blow you away and
+you'll get lost.
+[WAIT][NEXT][...]
+Bandits are out there, too! They
+appear all of a sudden running
+really fast, and they steal
+people's coins!
+[WAIT][NEXT][...]
+There are many tales. You'd
+better pay attention to them,
+too, because the desert is an
+unforgiving place.
+[WAIT][NEXT][...]
+Hey! Wanna hear more?[WAIT][END]
+
+#string:0D:06A
+[STYLE:RIGHT][...]
+Hey! Guess what?
+[PAUSE:0A][...]
+Here's something not a whole lot
+of people know.
+[WAIT][NEXT][...]
+If you go south just after you
+leave town, you'll find an oasis.
+[PAUSE:0A][...]
+It's amazing... A paradise!
+[WAIT][NEXT][...]
+I go there sometimes.
+[PAUSE:0A][...]
+If you want to take a rest, it's
+the best place to go.
+[WAIT][NEXT][...]
+Wanna hear something else?
+[PAUSE:0A][...]
+You'll be sorry if you don't! I
+know lots of stuff! [WAIT][END]
+
+#string:0D:06B
+[STYLE:RIGHT][...]
+Hey! Know what I heard?
+[PAUSE:0A][...]
+There are these three trees
+growing in a triangle somewhere
+in the desert.
+[WAIT][NEXT][...]
+The rumor is that if you jump in
+the center of the triangle, you'll
+find something good.
+[WAIT][NEXT][...]
+Only... I don't know where the
+three trees are...
+[PAUSE:0A][...]
+I mean, the desert is huge! I
+can't know everything...
+[WAIT][NEXT][...]
+Hey! You wanna hear something
+else or what?
+[PAUSE:0A][...]
+I'm loaded with tons and tons of
+useful information![WAIT][END]
+
+#string:0D:06C
+[STYLE:RIGHT][...]
+Are you from Toad Town?
+[PAUSE:0A][...]
+Wow, that's a ways away!
+[WAIT][NEXT][...]
+Dry Dry Ruins?
+[PAUSE:0A][...]
+...Nope, never heard of it.
+[PAUSE:0A][...]
+It sounds like a local fairy tale
+or something.[WAIT][END]
+
+#string:0D:06D
+[STYLE:RIGHT][...]
+.[PAUSE:05].[PAUSE:05].
+[PAUSE:05][...]
+[WAIT][END]
+
+#string:0D:06E
+[STYLE:RIGHT][...]
+Hey, if you're serious about
+looking for Dry Dry whatever,
+[PAUSE:05][...]
+you should go and ask the
+information trader.
+[WAIT][NEXT][...]
+Supposedly this information
+trader lives in town and swaps
+information for items. Or
+something along those lines.
+[PAUSE:05][...]
+[WAIT][NEXT][...]
+...That's what my friend says.
+[WAIT][NEXT][...]
+My friend? This guy? Nah, he's
+way too shy to be an information
+trader.[WAIT][END]
+
+#string:0D:06F
+[STYLE:RIGHT][...]
+My friend is the shyest guy.
+[WAIT][NEXT][...]
+He can't talk to strangers at
+all. He just clams up.
+[WAIT][NEXT][...]
+That's why I usually talk for him,
+you see.[WAIT][END]
+
+#string:0D:070
+[STYLE:RIGHT][...]
+.[PAUSE:05].[PAUSE:05]. 
+[PAUSE:05][...]
+[WAIT][END]
+
+#string:0D:071
+[STYLE:RIGHT][...]
+What's that, buddy?
+[PAUSE:0A][...]
+You want to see the princess?
+Whuh-ho! That's a toughie!
+[WAIT][NEXT][...]
+For that wish to be granted,
+[PAUSE:05][...]
+I think you'd better wish to the
+Stars, buddy.
+[WAIT][NEXT][...]
+Hey, you travelers!
+[PAUSE:05][...]
+Am I right or am I right?[WAIT][END]
+
+#string:0D:072
+[STYLE:RIGHT][...]
+My quiet friend here just adores
+Princess Peach.
+[WAIT][NEXT][...]
+He's making a wish to the Stars
+to meet her,
+[WAIT][NEXT][...]
+but I'm thinking he needs to deal
+with some issues before that can
+happen.
+[WAIT][NEXT][...]
+As he is now, if he meets the
+princess, he won't be able to
+speak a word![WAIT][END]
+
+#string:0D:073
+[STYLE:RIGHT][...]
+[STAR][CIRCLE][CROSS][STAR][CROSS][CIRCLE]!!!![WAIT][END]
+
+#string:0D:074
+[STYLE:RIGHT][...]
+See... Look at this guy...
+[PAUSE:0A][...]
+He's only imagining seeing her
+and he's completely wigging out![WAIT][END]
+
+#string:0D:075
+[STYLE:RIGHT][...]
+Hey, someone said you're on a
+quest to save Princess Peach!
+[WAIT][NEXT][...]
+I never even realized that you
+were Mario! Imagine that![WAIT][END]
+
+#string:0D:076
+[STYLE:RIGHT][...]
+{Speed:03:01}Mario...
+[PAUSE:08][...]
+Ahem... [PAUSE:08]Good luck.
+[WAIT][NEXT][...]
+Please save [PAUSE:08]Princess Peach.[WAIT][END]
+
+#string:0D:077
+[STYLE:RIGHT][...]
+.......!
+[WAIT][NEXT][...]
+Buddy! You spoke out loud!
+[PAUSE:14][...]
+It's a miracle! Whoopee![WAIT][END]
+
+#string:0D:078
+[STYLE:RIGHT][...]
+Excuse me...
+[PAUSE:0A][...]
+Can I talk to you for a sec?[WAIT][END]
+
+#string:0D:079
+[STYLE:RIGHT][...]
+What exactly are you doing
+[PAUSE:0A][...]
+walking around that tree?
+You're making me dizzy![WAIT][END]
+
+#string:0D:07A
+[STYLE:RIGHT][...]
+What? You're joking.
+[PAUSE:0A][...]
+You believe some crazy dream?
+[WAIT][NEXT][...]
+Well, OK... I guess...
+[WAIT][NEXT][...]
+I mean, I got a message in a
+dream a long time ago but it
+didn't mean anything.
+[WAIT][NEXT][...]
+It said, "There's a house with a
+whirling roof in a large town
+near a castle.
+[WAIT][NEXT][...]
+If you Spin Jump three times
+inside the house, something good
+should happen to you..."
+[WAIT][NEXT][...]
+Ha ha ha...
+[PAUSE:0A][...]
+A house with a whirling roof! As
+if that existed! Ha!
+[WAIT][NEXT][...]
+I don't take dreams seriously.[WAIT][END]
+
+#string:0D:07B
+[STYLE:RIGHT][...]
+I remember the message that
+came to me in a dream:
+[WAIT][NEXT][...]
+"There's a house with a whirling
+roof in a large town near a
+castle.
+[WAIT][NEXT][...]
+If you Spin Jump three times
+inside the house, something good
+should happen to you..."
+[WAIT][NEXT][...]
+A house with a whirling roof! Like
+that existed! Ha!
+[WAIT][NEXT][...]
+Like I always say, you should
+never believe what you dream.[WAIT][END]
+
+#string:0D:07C
+[STYLE:RIGHT][...]
+Mm? [PAUSE:0A]Are you addressing me?
+[WAIT][NEXT][...]
+{StartFX:Wavy}A composer am I[NOTE]
+writing songs, well, I try[NOTE]
+{EndFX:Wavy}[WAIT][NEXT][...]
+Sigh...
+[PAUSE:0A][...]
+I wish I could find some lovely,
+heart-moving Lyrics.
+[WAIT][NEXT][...]
+I want to compose Music filled
+with beautiful Lyrics.
+[PAUSE:0A][...]
+It's my fondest wish![WAIT][END]
+
+#string:0D:07D
+[STYLE:RIGHT][...]
+Mm? [PAUSE:0A]Are you addressing me?
+[WAIT][NEXT][...]
+{StartFX:Wavy}A composer am I[NOTE]
+writing songs, well, I try[NOTE]
+{EndFX:Wavy}[WAIT][NEXT][...]
+Sigh...
+[PAUSE:0A][...]
+I wish I could find some lovely,
+heart-moving Lyrics.
+[WAIT][NEXT][...]
+I want to compose Music filled
+with beautiful Lyrics.
+[PAUSE:0A][...]
+It's my fondest wish![WAIT][END]
+
+#string:0D:07E
+[STYLE:RIGHT][...]
+{StartFX:Wavy}A composer, yes that's me[NOTE]
+I write songs, as you can see[NOTE]
+[WAIT][NEXT][...]
+Wind in the desert, some old
+rock[NOTE] Free mind sister[NOTE]
+[WAIT][NEXT][...]
+uh...singing blister[NOTE] La de dah
+di...[NOTE]
+{EndFX:Wavy}[WAIT][NEXT][...]
+I'm terrific at writing Music, but
+I think perhaps I'm not so good
+at writing Lyrics.[WAIT][END]
+
+#string:0D:07F
+[STYLE:RIGHT][...]
+{StartFX:Wavy}A composer, yes that's me[NOTE]
+I write songs, as you can see[NOTE]
+[WAIT][NEXT][...]
+Wind in the desert, some old
+rock[NOTE] Free mind sister[NOTE]
+[WAIT][NEXT][...]
+uh...singing blister[NOTE] La de dah
+di...[NOTE]
+{EndFX:Wavy}[WAIT][NEXT][...]
+I'm terrific at writing Music, but
+I think perhaps I'm not so good
+at writing Lyrics.[WAIT][END]
+
+#string:0D:080
+[STYLE:RIGHT][...]
+{StartFX:Wavy}A composer, yes that's me[NOTE]
+I write songs, as you can see[NOTE]
+[WAIT][NEXT][...]
+Hummahumma[NOTE] Chuchuchuuu[NOTE]
+Wheee-oooo[NOTE]
+{EndFX:Wavy}[WAIT][NEXT][...]
+I like making songs up as I go
+along.[WAIT][END]
+
+#string:0D:081
+[STYLE:RIGHT][...]
+{StartFX:Wavy}A composer, yes that's me[NOTE]
+I write songs, as you can see[NOTE]
+[WAIT][NEXT][...]
+Hummahumma[NOTE] Chuchuchuuu[NOTE]
+Wheee-oooo[NOTE]
+{EndFX:Wavy}[WAIT][NEXT][...]
+I like making songs up as I go
+along.[WAIT][END]
+
+#string:0D:082
+[STYLE:RIGHT][...]
+Mm? [PAUSE:0A]What's this, then?
+[WAIT][NEXT][...]
+Well...
+[PAUSE:14][...]
+... Un-huh...
+[PAUSE:1E][...]
+Fantastic... These are incredible
+Lyrics.
+[WAIT][NEXT][...]
+The wording is simple,
+[PAUSE:05][...]
+yet whoever wrote them packed
+them with powerful feeling.
+[WAIT][NEXT][...]
+It's been a long time since I was
+moved by something so deeply.
+[WAIT][NEXT][...]
+They move me so much, I just
+thought of beautiful Music to
+accompany them.
+[PAUSE:0A][...]
+Wait just a second...[WAIT][END]
+
+#string:0D:083
+[STYLE:RIGHT][...]
+Phew...
+[PAUSE:0A][...]
+I've written the perfect Music
+for these Lyrics.
+[WAIT][NEXT][...]
+I caution you, though, that this
+Music can be sung only by an
+expert.
+[WAIT][NEXT][...]
+I know of no one up to the task.
+[PAUSE:05][...]
+Here, take my masterpiece![WAIT][END]
+
+#string:0D:084
+[STYLE:RIGHT][...]
+I wonder if there's anyone with
+a voice pure enough to sing my
+soothing Music.
+[PAUSE:0A][...]
+My heart leaps at the thought![WAIT][END]
+
+#string:0D:085
+[STYLE:RIGHT][...]
+Mm?
+[PAUSE:0A][...]
+You don't have my soothing Music
+anymore?
+[WAIT][NEXT][...]
+But that means...
+[PAUSE:0A][...]
+You found a singer who could sing
+the song?[WAIT][END]
+
+#string:0D:086
+[STYLE:RIGHT][...]
+Oh. [PAUSE:0A]I see.
+[PAUSE:05][...]
+What a beautiful story! I weep
+with joy!
+[WAIT][NEXT][...]
+Ohh!?
+[PAUSE:0A][...]
+I've been struck by my musical
+muse yet again!
+[WAIT][NEXT][...]
+{StartFX:Wavy}To Toad Town I shall go[NOTE]
+to catch this Diva's show![NOTE]
+{EndFX:Wavy}[WAIT][END]
+
+#string:0D:087
+[STYLE:RIGHT][...]
+{StartFX:Shrinking}What ho!
+{EndFX:Shrinking}[PAUSE:0F]Buying a Dusty Hammer after a
+Dried Shroom... 
+[WAIT][NEXT][...]
+...is a secret sign that only
+friends of Mr. Moustafa know!
+[PAUSE:0A][...]
+... That means...
+[PAUSE:0A][...]
+You're in with Moustafa!
+[WAIT][NEXT][...]
+Hey! Brother!
+[PAUSE:14][...]
+Good to meet you! Have any
+questions you need answered?[WAIT][END]
+
+#string:0D:088
+[STYLE:RIGHT][...]
+...You want to see Mr. Moustafa?
+[WAIT][NEXT][...]
+He's usually up on the highest
+part of Dry Dry Outpost.
+[PAUSE:14][...]
+Just keep going up, my man![WAIT][END]
+
+#string:0D:089
+[STYLE:RIGHT][...]
+You're the owner of this shop,
+correct?
+[WAIT][NEXT][...]
+The name's Parakarry. I deliver
+letters.
+[WAIT][NEXT][...]
+I believe I have one for you.
+[PAUSE:0A][...]
+Hang on a moment.[WAIT][END]
+
+#string:0D:08A
+[STYLE:RIGHT][...]
+Uh...no! Confound it!
+[PAUSE:0A][...]
+I seem to have lost it!
+[PAUSE:0A][...]
+...I'm terribly sorry.[WAIT][END]
+
+#string:0D:08B
+[STYLE:RIGHT][...]
+Another letter, duly delivered. 
+A postman's job is never done.[WAIT][END]
+
+#string:0D:08C
+[STYLE:RIGHT][...]
+Oh, thanks.
+[PAUSE:0A][...]
+Yeah, this is an order sheet
+from one of my regulars.
+[WAIT][NEXT][...]
+Good deal.
+[PAUSE:0A][...]
+She's one of my best customers.
+She orders things all the time.
+[WAIT][NEXT][...]
+If health and beauty are what
+you're after, you can't beat
+desert Lemons and Limes.
+[WAIT][NEXT][...]
+You can find them in the oasis.
+[PAUSE:0A][...]
+Oh, if you make a juice with
+those things... Mmmm mmm!
+[WAIT][NEXT][...]
+Oh, hang on. Almost forgot.
+[PAUSE:05][...]
+Can you do me a favor?
+[WAIT][NEXT][...]
+Please deliver this letter to a
+Boo called Franky.
+[WAIT][NEXT][...]
+Franky lives in a mansion way
+out on the far edge of Forever
+Forest. It may be tough to find
+him.
+[WAIT][NEXT][...]
+Thanks.[WAIT][END]
+
+#string:0D:08D
+[STYLE:RIGHT][...]
+{StartFX:Shrinking}What ho!
+{EndFX:Shrinking}[PAUSE:0F]Buying goods in that order...
+[WAIT][NEXT][...]
+is a secret sign! It was written
+in an ancient will!
+[WAIT][NEXT][...]
+In keeping with the will,
+[PAUSE:05][...]
+I'm required to give you this.
+[WAIT][NEXT][...]
+Please take it![WAIT][END]
+
+#string:0D:08E
+[STYLE:RIGHT][...]
+This is sure different from our
+jobs at the castle!
+[WAIT][NEXT][...]
+We came all the way here to look
+for mystery and excitement and
+adventure!
+[WAIT][NEXT][...]
+But it's too hot.
+[PAUSE:0A][...]
+I feel like I'm drying up.[WAIT][END]
+
+#string:0D:08F
+[STYLE:RIGHT][...]
+Quiet, girl! The heat of the
+desert isn't anything compared
+to our passion for adventure!
+[WAIT][NEXT][...]
+As long as we stick together, we
+can take anything!
+[PAUSE:05][...]
+We can go from one end of the
+Mushroom Kingdom to the other![WAIT][END]
+
+#string:0D:090
+[STYLE:RIGHT][...]
+I've bought many rare goods
+here at Dry Dry Outpost.
+[WAIT][NEXT][...]
+And later we're totally stopping
+at the legendary Dry Dry Ruins.
+[PAUSE:0A][...]
+We're gonna be filled with stories
+when we get back home![WAIT][END]
+
+#string:0D:091
+[STYLE:RIGHT][...]
+I heard that an archaeologist
+named Kolorado is around here
+looking for Dry Dry Ruins.
+[WAIT][NEXT][...]
+You know what? Even if he digs
+up the entire desert, he won't
+find them.[WAIT][END]
+
+#string:0D:092
+[STYLE:RIGHT][...]
+A word to the wise:
+[PAUSE:0A][...]
+The owner of the local shop is a
+friend of Moustafa.[WAIT][END]
+
+#string:0D:093
+[STYLE:RIGHT][...]
+I love this town. I don't care
+that the desert's so harsh.
+[WAIT][NEXT][...]
+There's no place like home.
+[PAUSE:0A][...]
+I was born in Dry Dry Outpost,
+and this is where I'll stay![WAIT][END]
+
+#string:0D:094
+[STYLE:RIGHT][...]
+I haven't seen rain in ages.
+[WAIT][NEXT][...]
+I know it's a desert, but it
+should rain once in a while.
+[WAIT][NEXT][...]
+We made a wish to the Stars for
+a little moisture, but I guess it
+didn't help.
+[WAIT][NEXT][...]
+If this weather continues, it'll
+get...dry...around here.[WAIT][END]
+
+#string:0D:095
+[STYLE:RIGHT][...]
+You're Mr. E, correct?
+[WAIT][NEXT][...]
+The name's Parakarry. I deliver
+letters.
+[WAIT][NEXT][...]
+I believe I have one for you.
+[PAUSE:0A][...]
+Hang on a moment.[WAIT][END]
+
+#string:0D:096
+[STYLE:RIGHT][...]
+Uh...no! Confound it!
+[PAUSE:0A][...]
+I seem to have lost it!
+[PAUSE:0A][...]
+...I'm terribly sorry.[WAIT][END]
+
+#string:0D:097
+[STYLE:RIGHT][...]
+Another letter, duly delivered. 
+A postman's job is never done.[WAIT][END]
+
+#string:0D:098
+[STYLE:RIGHT][...]
+Gee, thanks!
+[PAUSE:0A][...]
+Oh, looks like an order from
+Koopa Village.
+[WAIT][NEXT][...]
+My job is delivering things from
+Dry Dry Outpost.
+[WAIT][NEXT][...]
+This guy's a great customer.
+He's always ordering stuff.
+[PAUSE:0F][...]
+[WAIT][NEXT][...]
+Hey, by the way. Would you do me
+a favor and deliver this letter
+the next time you're in Toad
+Town?
+[WAIT][NEXT][...]
+It's to Miss T. She lives there.
+She's one of three amazingly
+beautiful sisters.
+[WAIT][NEXT][...]
+She's normally chatting with her
+sisters in front of the Dojo.
+[PAUSE:0A][...]
+Thanks a lot![WAIT][END]
+
+#string:0D:099
+[STYLE:RIGHT][...]
+Are you aware that there's a
+Dojo in Toad Town? There is!
+[WAIT][NEXT][...]
+A while ago I took one of the
+Dojo challenges and did pretty
+well, I must say. I got a
+Second-Degree Card.
+[WAIT][NEXT][...]
+You look pretty strong, so...
+[PAUSE:0A][...]
+Huh?
+[PAUSE:0A][...]
+You haven't earned any Cards?[WAIT][END]
+
+#string:0D:09A
+[STYLE:RIGHT][...]
+Sayyyyy... Is that...
+[PAUSE:14][...]
+...a First-Degree Card?
+[WAIT][NEXT][...]
+Hee hee! [PAUSE:0A]It just so happens,
+[PAUSE:0A][...]
+that I have in my possession a
+Second-Degree Card!
+[WAIT][NEXT][...]
+Know what that means?
+[PAUSE:0A][...]
+I'm stronger than Mario! Yeah![WAIT][END]
+
+#string:0D:09B
+[STYLE:RIGHT][...]
+Sayyyyy... Is that...
+[PAUSE:14][...]
+...a Second-Degree Card?
+[WAIT][NEXT][...]
+Hey, I have a Second-Degree
+Card, too!
+[WAIT][NEXT][...]
+Oh, awesome! I can't believe
+that I'm as strong as you are,
+Mario![WAIT][END]
+
+#string:0D:09C
+[STYLE:RIGHT][...]
+Sayyyyy... Is that...
+[PAUSE:14][...]
+...a Third-Degree Card?
+[WAIT][NEXT][...]
+Whooa! That's great!
+[PAUSE:0A][...]
+Seriously, that's great, Mario.
+[PAUSE:14][...]
+You must be a powerhouse![WAIT][END]
+
+#string:0D:09D
+[STYLE:RIGHT][...]
+Sayyyyy... Is that...
+[PAUSE:14][...]
+...a Fourth-Degree Card?
+[WAIT][NEXT][...]
+Whooa!
+[PAUSE:0A][...]
+I wouldn't want to tangle with
+you, Mario![WAIT][END]
+
+#string:0D:09E
+[STYLE:RIGHT][...]
+Sayyyyy... Is that...
+[PAUSE:14][...]
+...a Diploma...!?
+[WAIT][NEXT][...]
+Whoa! WHOOOAAA!
+[PAUSE:14][...]
+You defeated The Master!!
+[WAIT][NEXT][...]
+That's unbelievable, Mario!
+[PAUSE:0F][...]
+Great! Seriously great!
+[PAUSE:14][...]
+I mean, really great!![WAIT][END]
+
+#string:0D:09F
+[STYLE:RIGHT][...]
+Have you seen the old fortune-
+teller in Toad Town?
+[WAIT][NEXT][...]
+He's always right, so his
+fortune-telling is famous.
+[WAIT][NEXT][...]
+If you hit trouble in the middle
+of your adventure, it'd be a
+good idea to see him.[WAIT][END]
+
+#string:0D:0A0
+[STYLE:RIGHT][...]
+A brother and sister who are
+very close live atop Shooting
+Star Summit.
+[WAIT][NEXT][...]
+The brother, Merlow, collects
+Star Pieces and will trade
+Badges for them.
+[WAIT][NEXT][...]
+The sister, Merluvee, is a
+fortune-teller who will tell you
+where to find Badges.[WAIT][END]
+
+#string:0D:0A1
+[STYLE:RIGHT][...]
+Dry Dry Outpost was built by
+robbers long ago, you know. The
+boss of the robbers was the
+descendant of a king.
+[WAIT][NEXT][...]
+The king hid the entrance to the
+ruins of his kingdom, and the
+robber boss guarded them.
+[WAIT][NEXT][...]
+Legend has it that even now, the
+descendant of that boss hides
+in this town and keeps the ruins
+safe from prying eyes.[WAIT][END]
+
+#string:0D:0A2
+[STYLE:RIGHT][...]
+Dry Dry Outpost was built by
+robbers long ago, you know. The
+boss of the robbers was the
+descendant of a king.
+[WAIT][NEXT][...]
+The king hid the entrance to the
+ruins of his kingdom, and the
+robber boss guarded them.
+[WAIT][NEXT][...]
+Legend has it that even now, the
+descendant of that boss hides in
+this town and keeps the ruins
+safe from prying eyes.[WAIT][END]
+
+#string:0D:0A3
+[STYLE:RIGHT][...]
+People are saying that the ruins
+that were hidden long ago have
+appeared in Dry Dry Desert.
+[WAIT][NEXT][...]
+Amazing. That means that the
+legend about the boss of the
+robbers in the desert was...
+[PAUSE:05][...]
+...actually true.[WAIT][END]
+
+#string:0D:0A4
+[STYLE:RIGHT][...]
+I took the train to Toad Town.
+[WAIT][NEXT][...]
+I can't tell you how many things
+were different there from here
+in the desert.
+[WAIT][NEXT][...]
+The people were so different
+and...just plain weird.[WAIT][END]
+
+#string:0D:0A5
+[STYLE:RIGHT][...]
+{StartFX:Growing}Keep this quiet...
+{EndFX:Growing}[WAIT][NEXT][...]
+If this woman casts a spell on
+you, it might help you during
+battle.
+[WAIT][NEXT][...]
+For instance, your attack power
+might get stronger or you might
+get more coins for winning.
+[WAIT][NEXT][...]
+Other, stranger, things may
+happen, as well.
+[WAIT][NEXT][...]
+But do not rely on this spell. By
+no means will it take effect in
+every battle.
+[WAIT][NEXT][...]
+The spell can be beneficial, but
+it's also unpredictable.[WAIT][END]
+
+#string:0D:0A6
+[STYLE:RIGHT][...]
+{StartFX:Growing}Keep this quiet...
+{EndFX:Growing}[WAIT][NEXT][...]
+If this woman casts a spell on
+you, it might help you during
+battle.
+[WAIT][NEXT][...]
+For instance, your attack power
+might get stronger or you might
+get more coins for winning.
+[WAIT][NEXT][...]
+Other, stranger, things may
+happen, as well.
+[WAIT][NEXT][...]
+But do not rely on this spell. By
+no means will it take effect in
+every battle.
+[WAIT][NEXT][...]
+The spell can be beneficial, but
+it's also unpredictable.[WAIT][END]
+
+#string:0D:0A7
+[STYLE:RIGHT][...]
+{StartFX:Growing}Keep this quiet...
+{EndFX:Growing}[WAIT][NEXT][...]
+If this woman casts a spell on
+you, it might help you during
+battle.
+[WAIT][NEXT][...]
+For instance, your attack power
+might get stronger or you might
+get more coins for winning.
+[WAIT][NEXT][...]
+Other, stranger, things may
+happen, as well.
+[WAIT][NEXT][...]
+But do not rely on this spell. By
+no means will it take effect in
+every battle.
+[WAIT][NEXT][...]
+The spell can be beneficial, but
+it's also unpredictable.[WAIT][END]
+
+#string:0D:0A8
+[STYLE:RIGHT][...]
+{StartFX:Growing}Keep this quiet...
+{EndFX:Growing}[WAIT][NEXT][...]
+If this woman casts a spell on
+you, it might help you during
+battle.
+[WAIT][NEXT][...]
+For instance, your attack power
+might get stronger or you might
+get more coins for winning.
+[WAIT][NEXT][...]
+Other, stranger, things may
+happen, as well.
+[WAIT][NEXT][...]
+But do not rely on this spell. By
+no means will it take effect in
+every battle.
+[WAIT][NEXT][...]
+The spell can be beneficial, but
+it's also unpredictable.[WAIT][END]
+
+#string:0D:0A9
+[STYLE:RIGHT][...]
+{StartFX:Growing}Keep this quiet...
+{EndFX:Growing}[WAIT][NEXT][...]
+If this woman casts a spell on
+you, it might help you during
+battle.
+[WAIT][NEXT][...]
+For instance, your attack power
+might get stronger or you might
+get more coins for winning.
+[WAIT][NEXT][...]
+Other, stranger, things may
+happen, as well.
+[WAIT][NEXT][...]
+But do not rely on this spell. By
+no means will it take effect in
+every battle.
+[WAIT][NEXT][...]
+The spell can be beneficial, but
+it's also unpredictable.[WAIT][END]
+
+#string:0D:0AA
+[STYLE:RIGHT][...]
+{StartFX:Growing}Keep this quiet...
+{EndFX:Growing}[WAIT][NEXT][...]
+If this woman casts a spell on
+you, it might help you during
+battle.
+[WAIT][NEXT][...]
+For instance, your attack power
+might get stronger or you might
+get more coins for winning.
+[WAIT][NEXT][...]
+Other, stranger, things may
+happen, as well.
+[WAIT][NEXT][...]
+But do not rely on this spell. By
+no means will it take effect in
+every battle.
+[WAIT][NEXT][...]
+The spell can be beneficial, but
+it's also unpredictable.[WAIT][END]
+
+#string:0D:0AB
+[STYLE:RIGHT][...]
+Long ago, in this very land,
+there was a kingdom called Dry
+Dry Kingdom. 
+[PAUSE:05][...]
+King Mousta ruled over it.
+[WAIT][NEXT][...]
+One dark day, he was betrayed
+by his subjects.
+[PAUSE:05][...]
+In the uprising that followed,
+Dry Dry Kingdom was ruined.
+[WAIT][NEXT][...]
+King Mousta escaped and vowed
+vengeance on his enemies.
+[PAUSE:0A][...]
+He gathered those faithful to
+him and defeated his betrayers. 
+[WAIT][NEXT][...]
+King Mousta's supporters were
+the original robbers who built Dry
+Dry Outpost.[WAIT][END]
+
+#string:0D:0AC
+[STYLE:RIGHT][...]
+Long ago, in this very land,
+there was a kingdom called Dry
+Dry Kingdom. 
+[PAUSE:05][...]
+King Mousta ruled over it.
+[WAIT][NEXT][...]
+One dark day, he was betrayed
+by his subjects.
+[PAUSE:05][...]
+In the uprising that followed,
+Dry Dry Kingdom was ruined.
+[WAIT][NEXT][...]
+King Mousta escaped and vowed
+vengeance on his enemies.
+[PAUSE:0A][...]
+He gathered those faithful to
+him and defeated his betrayers. 
+[WAIT][NEXT][...]
+King Mousta's supporters were
+the original robbers who built Dry
+Dry Outpost.[WAIT][END]
+
+#string:0D:0AD
+[STYLE:RIGHT][...]
+One of the descendants of King
+Mousta still lives here in Dry
+Dry Outpost.
+[WAIT][NEXT][...]
+No one knows who he is, but...
+[WAIT][NEXT][...]
+You can be sure that everyone
+secretly wishes to be that one
+special person...
+[WAIT][NEXT][...]
+It would be pretty cool to be
+related to the great robbers of
+yesteryear.[WAIT][END]
+
+#string:0D:0AE
+[STYLE:RIGHT][...]
+Those rebels who rose up against
+King Mousta... Do you know what
+they wanted?
+[WAIT][NEXT][...]
+They wanted to live without rules
+in the desert and use all the
+treasures of Dry Dry Kingdom as
+their own.
+[WAIT][NEXT][...]
+The great King Mousta had no
+patience for such selfishness.
+[WAIT][NEXT][...]
+Because he had such high ideals,
+King Mousta is the hero of this
+outpost to this day.[WAIT][END]
+
+#string:0D:0AF
+[STYLE:RIGHT][...]
+Hey, hello.
+[WAIT][NEXT][...]
+I'm assisting an archaeologist,
+Professor Kolorado. 
+[WAIT][NEXT][...]
+I came to Dry Dry Desert to 
+excavate Dry Dry Ruins, but...
+[WAIT][NEXT][...]
+It's hot as blazes every day and
+I'm constantly thirsty...
+[PAUSE:0A][...]
+I want to quit and go home.[WAIT][END]
+
+#string:0D:0B0
+[STYLE:RIGHT][...]
+I was sent here because we
+heard that there's an important
+clue about the ruins, but...
+[WAIT][NEXT][...]
+I can't find the information
+trader anywhere. It's vital that
+I find him so I can get the clue.
+[WAIT][NEXT][...]
+I don't want to think about how
+mad the professor will be if I
+go back with nothing.
+[PAUSE:0A][...]
+What am I going to do?[WAIT][END]
+
+#string:0D:0B1
+[STYLE:RIGHT][...]
+I was sent here because we
+heard that there's an important
+clue about the ruins, but...
+[WAIT][NEXT][...]
+I can't find the information
+trader anywhere. It's vital that
+I find him so I can get the clue.
+[WAIT][NEXT][...]
+I don't want to think about how
+mad the professor will be if I
+go back with nothing.
+[PAUSE:0A][...]
+What am I going to do?[WAIT][END]
+
+#string:0D:0B2
+[STYLE:RIGHT][...]
+Hey, hello, Mario.
+[PAUSE:14][...]
+At least I've found some news.
+Supposedly, this guy Moustafa
+knows the key to Dry Dry Ruins.
+[WAIT][NEXT][...]
+And then there's this other guy
+named Sheek who knows where
+Moustafa is, but...
+[WAIT][NEXT][...]
+That Sheek guy is really stingy
+and won't tell me anything.
+[WAIT][NEXT][...]
+Why do people in this town like
+mysteries and secrets so much?[WAIT][END]
+
+#string:0D:0B3
+[STYLE:RIGHT][...]
+Somebody just said that the
+ruins rose from the desert!
+[PAUSE:0A][...]
+Can it be true?[WAIT][END]
+
+#string:0D:0B4
+[STYLE:RIGHT][...]
+Someone who gives things is nice,
+yes, very nice.
+[PAUSE:0A][...]
+Nice guys get told nice stuff.
+{Func_04}[END]
+
+#string:0D:0B5
+[STYLE:RIGHT][...]
+Ah! You give me something!
+[PAUSE:14][...]
+You might be nice.
+[WAIT][NEXT][...]
+If you're a very nice guy, you'll
+give me something more.
+{Func_04}[END]
+
+#string:0D:0B6
+[NEXT][...]
+Well, good-bye.[WAIT][END]
+
+#string:0D:0B7
+[STYLE:RIGHT][...]
+Someone who hesitates when
+giving things is not truly a nice
+guy, no, not nice.
+[WAIT][NEXT][...]
+Truly nice guys give truly
+precious things, yes.[WAIT][END]
+
+#string:0D:0B8
+[STYLE:RIGHT][...]
+You have nothing to give.
+[PAUSE:0A][...]
+Then I have nothing to say.
+[PAUSE:0A][...]
+Maybe another time.[WAIT][END]
+
+#string:0D:0B9
+[STYLE:RIGHT][...]
+You give me many things.
+[PAUSE:0A][...]
+Very nice guy, yes, very nice.
+[WAIT][NEXT][...]
+My name is Sheek.
+[PAUSE:05][...]
+I trade in information, things
+others do not know.
+[WAIT][NEXT][...]
+So, nice guy...
+[PAUSE:05][...]
+...what would you like to know?
+{Func_04}[END]
+
+#string:0D:0BA
+[STYLE:RIGHT][...]
+I thank you for giving things.
+[PAUSE:0A][...]
+To show I am truly thankful,
+allow me to tell you something.
+[PAUSE:05][...]
+What would you like to know?
+{Func_04}[END]
+
+#string:0D:0BB
+[STYLE:RIGHT][...]
+Oh, heavenly! A Lemon!!
+[PAUSE:0A][...]
+The nicest of nice things!
+[WAIT][NEXT][...]
+You have proven you're nice by
+giving me my favorite thing.
+[WAIT][NEXT][...]
+And since you're so nice, yes, I'll
+tell you something really nice.
+{Func_04}[END]
+
+#string:0D:0BC
+[NEXT][...]
+You are obviously the nicest of
+nice guys...
+[PAUSE:0A][...]
+...but you haven't let me repay
+the favor.
+[WAIT]{Func_04}[END]
+
+#string:0D:0BD
+[NEXT][...]
+Dry Dry Desert is a vast and
+everlasting sea of sand.
+[WAIT][NEXT][...]
+Under this sea, many secrets lie
+buried. More secrets than there
+are Stars in the sky.
+[WAIT][NEXT][...]
+The legend of Dry Dry Ruins is
+one of these secrets.
+[WAIT][NEXT][...]
+Only Mr. Moustafa knows where
+the legend rests.
+[WAIT]{Func_04}[END]
+
+#string:0D:0BE
+[NEXT][...]
+You must see Mr. Moustafa to
+find the resting place of Dry
+Dry Ruins.
+[WAIT][NEXT][...]
+Mr. Moustafa is a descendant of
+the great robbers who built Dry
+Dry Outpost.
+[WAIT][NEXT][...]
+He is somewhere in the town,
+yes...but exactly where, only his
+close followers know.
+[WAIT][NEXT][...]
+I could tell his secret, but only
+to the nicest of nice guys, yes.
+[WAIT]{Func_04}[END]
+
+#string:0D:0BF
+[NEXT][...]
+My favorite food starts with an
+L and ends with an N. It's a
+yellow fruit...so sour.
+[WAIT][NEXT][...]
+Such a nice fragrance...
+[PAUSE:0A][...]
+Its tree grows only in the
+desert oasis outside town.
+[WAIT][NEXT][...]
+If you were to go to the oasis
+and get one for me, I might
+believe you're a true nice guy.
+[WAIT][NEXT][...]
+For, of course, only the nicest
+of nice guys can meet Moustafa.
+[WAIT]{Func_04}[END]
+
+#string:0D:0C0
+[NEXT][...]
+If you still seek knowledge, you
+must give me something more,
+yes, you understand?
+{Func_04}[END]
+
+#string:0D:0C1
+[NEXT][...]
+To find Mr. Moustafa, go to the
+shop in this town.
+[WAIT][NEXT][...]
+First buy a Dried Shroom. Then
+buy a Dusty Hammer.
+[WAIT][NEXT][...]
+You must buy them in the correct
+order, yes? Remember, Dried
+Shroom first and then Dusty
+Hammer.
+[WAIT][NEXT][...]
+This is a secret sign known to
+those loyal to Moustafa.
+[WAIT][NEXT][...]
+If you buy these things in the
+correct order,
+[PAUSE:05][...]
+the owner of the shop will let you
+see Mr. Moustafa.
+[WAIT][NEXT][...]
+Remember, you must not buy them
+in the incorrect order!
+[WAIT]{Func_04}[END]
+
+#string:0D:0C2
+[STYLE:RIGHT][...]
+I wish you luck in finding Mr.
+Moustafa, nice guy.[WAIT][END]
+
+#string:0D:0C3
+[STYLE:RIGHT][...]
+Hey, nice guy. We meet again.
+[PAUSE:0A][...]
+I'm glad you found me.[WAIT][END]
+
+#string:0D:0C4
+[STYLE:RIGHT][...]
+I'm Moustafa.
+[PAUSE:0A][...]
+I'm the one you've been seeking
+all this time.
+[WAIT][NEXT][...]
+When I'm out and about in Dry
+Dry Outpost, I use the name
+Sheek.
+[WAIT][NEXT][...]
+It's always good to meet a
+genuinely nice guy.
+[WAIT][NEXT][...]
+I meet people all the time, but
+you are by far the nicest guy
+I've met so far.[WAIT][END]
+
+#string:0D:0C5
+[STYLE:RIGHT][...]
+How did you get here?
+[PAUSE:0A][...]
+Who told you how to find this
+place?[WAIT][END]
+
+#string:0D:0C6
+[STYLE:RIGHT][...]
+...Yes, Moustafa is my name.
+[WAIT][NEXT][...]
+When I'm out and about in Dry
+Dry Outpost, I use the name
+Sheek.
+[WAIT][NEXT][...]
+You look nice enough. I'm a good
+judge of character.
+[PAUSE:0A][...]
+I've been watching you ever
+since you came to town.
+[WAIT][NEXT][...]
+I still can't believe you found me
+without being told.
+[PAUSE:0A][...]
+I think you must have extremely
+good luck, yes?[WAIT][END]
+
+#string:0D:0C7
+[STYLE:RIGHT][...]
+Your name is Mario, yes?
+[PAUSE:0A][...]
+I heard that you want to go to
+Dry Dry Ruins.
+[WAIT][NEXT][...]
+I have a feeling you are on an
+important journey, so I will tell
+you the secret.[WAIT][END]
+
+#string:0D:0C8
+[STYLE:RIGHT][...]
+Dry Dry Ruins is a very
+important place. My ancestors
+have watched over it for many
+generations.
+[WAIT][NEXT][...]
+If I do not keep evil folk out of
+the ruins, who will?
+[WAIT][NEXT][...]
+You must promise me that you will
+tell no one this secret![WAIT][END]
+
+#string:0D:0C9
+[STYLE:RIGHT][...]
+I'll give you this.[WAIT][END]
+
+#string:0D:0CA
+[STYLE:RIGHT][...]
+This Pulse Stone is the key to
+finding Dry Dry Ruins.
+[WAIT][NEXT][...]
+Take it to the desert, yes?
+[WAIT][NEXT][...]
+The Pulse Stone will flash above
+your head as you get close to
+the ruins.
+[WAIT][NEXT][...]
+The closer you get to the ruins,
+the faster the Pulse Stone will
+flash.
+[PAUSE:14][...]
+Follow where it leads you!
+[WAIT][NEXT][...]
+Find the place where the Pulse
+Stone flashes the fastest and
+use it to open the way.[WAIT][END]
+
+#string:0D:0CB
+[STYLE:RIGHT][...]
+The closer you get to the ruins,
+the faster the Pulse Stone will
+flash.
+[PAUSE:14][...]
+Follow where it leads you!
+[WAIT][NEXT][...]
+Find the place where the Pulse
+Stone flashes the fastest and
+use it to open the way.[WAIT][END]
+
+#string:0D:0CC
+[STYLE:RIGHT][...]
+Did you find Dry Dry Ruins?[WAIT][END]
+
+#string:0D:0CD
+[STYLE:RIGHT][...]
+How were Dry Dry Ruins?[WAIT][END]
+
+#string:0D:0CE
+[STYLE:RIGHT][...]
+What!? It cannot be!
+[PAUSE:0F][...]
+Followers of that evil Bowser had
+already entered the ruins?
+[WAIT][NEXT][...]
+...Oh... You scared them off!
+[WAIT][NEXT][...]
+Mario, you have earned the
+eternal thanks of Moustafa.
+[WAIT][NEXT][...]
+You are as nice as nice gets. I
+wish you great success![WAIT][END]
+
+#string:0D:0CF
+[STYLE:RIGHT][...]
+Please return to Dry Dry
+Outpost when you have time.[WAIT][END]
+
+#string:0D:0D0
+[STYLE:RIGHT][...]
+Welcome, Mario.
+[PAUSE:0A][...]
+Do you need anything of me?
+[WAIT][NEXT][...]
+It's obvious you've attained
+great power.
+[PAUSE:0A][...]
+It's clear to me you will be
+victorious one day.[WAIT][END]
+
+#string:0D:0D1
+[STYLE:RIGHT][...]
+The Toad House slogan is, 
+"Refresh your Body and Soul!"
+[WAIT][NEXT][...]
+Would you like to take a nap?
+{Func_04}[END]
+
+#string:0D:0D2
+[STYLE:RIGHT][...]
+...Uh, are you sure?
+[PAUSE:0A][...]
+You look fine to me.
+[PAUSE:0A][...]
+Would you like to take a nap
+anyway?
+{Func_04}[END]
+
+#string:0D:0D3
+[NEXT][...]
+Please come again![WAIT][END]
+
+#string:0D:0D4
+[NEXT][...]
+Pleasant dreams![WAIT][END]
+
+#string:0D:0D5
+[STYLE:RIGHT][...]
+Did you sleep well?
+[WAIT][NEXT][...]
+Good luck out there![WAIT][END]
+
+#string:0D:0D6
+[STYLE:RIGHT][...]
+Hello, welcome, how are you?
+Feeling jolly? Feeling blue?
+[WAIT][NEXT][...]
+I'm Merlee, you see? That's me!
+[PAUSE:05][...]
+A cuter gal you'll never see. I do
+magic, but not for free.
+[WAIT][NEXT][...]
+Your luck has steered you well
+[PAUSE:0A][...]
+for I'm a master of the spell.
+[WAIT][NEXT][...]
+When my spell upon you glows
+[PAUSE:05][...]
+you might get lucky, but who
+knows?
+[WAIT][NEXT][...]
+Do you dare to take a chance?
+Want to watch my cards dance?
+{Func_04}[END]
+
+#string:0D:0D7
+[NEXT][...]
+Oh, how tragic, what a loss!
+[PAUSE:05][...]
+Well, I guess you are the boss.
+[WAIT][NEXT][...]
+Bye bye! Don't forget to floss![WAIT][END]
+
+#string:0D:0D8
+[NEXT][...]
+Oh, how lovely! Very good!
+[PAUSE:05][...]
+Pick just one now, if you would.[HEART]
+[WAIT][NEXT][...]
+I'd pay as much as I could...
+{Func_04}[END]
+
+#string:0D:0D9
+[NEXT][...]
+Oh! Of coins [PAUSE:05]you lack a few.
+[PAUSE:05][...]
+What a pity. Oh boo hoo!
+[WAIT][NEXT][...]
+Come again some other day. 
+[PAUSE:04][...]
+Bye [PAUSE:04]bye! [PAUSE:04]Come back soon, OK?[HEART][WAIT][END]
+
+#string:0D:0DA
+[NEXT][...]
+Well, we're ready! Tally-ho!
+[PAUSE:0A][...]
+And here [PAUSE:04]we [PAUSE:04]go![PAUSE:04][HEART] 
+[PAUSE:05][...]
+[WAIT][END]
+
+#string:0D:0DB
+[STYLE:RIGHT][...]
+I think you'll find this power
+might get your foes to cower.[HEART]
+It will light your darkest hour.
+[WAIT][NEXT][...]
+Even should you meet a beast...
+Do not fear! Not in the least![HEART]
+My spell makes a famine feast.
+[WAIT][NEXT][...]
+See you, then.
+[PAUSE:05][...]
+Please come again. Good-bye, my
+friend![HEART][WAIT][END]
+
+#string:0D:0DC
+[STYLE:RIGHT][...]
+My older sister? Merluvlee?
+What's she want? Oh, I see...
+[PAUSE:0A][...]
+Is that so...?
+[WAIT][NEXT][...]
+I bet I know...... [PAUSE:04]oh...[PAUSE:04]ho...[PAUSE:04].
+[PAUSE:14][...]
+OK, OK.
+[WAIT][NEXT][...]
+Please give this to Merluvlee,
+with love, from her sis Merlee.[WAIT][END]
+
+#string:0D:0DD
+[STYLE:RIGHT][...]
+{StartFX:FadedNoise:32}{StartFX:Jitter}{StartFX:Shrinking}{StartFX:Wavy}Bleeag, Blooooaaaagh!!
+{EndFX:Wavy}{EndFX:Shrinking}[WAIT][NEXT][...]
+I'm the huge, scary Tutankoopa!
+[PAUSE:0A][...]
+Remorseless king of the desert!
+[WAIT][NEXT][...]
+Who dares set foot in this, my
+palace of the sands?
+{StartFX:Shrinking}Speak and be known!
+{EndFX:Shrinking}[WAIT][NEXT][...]
+Begone from this place! Now!
+[PAUSE:14][...]
+Or disaster will befall you![WAIT][END]
+
+#string:0D:0DE
+[STYLE:RIGHT][...]
+{StartFX:FadedNoise:32}{StartFX:Jitter}Fool! You have ignored my
+warning, haven't you?
+{StartFX:Shrinking}You fool!
+{EndFX:Shrinking}[WAIT][NEXT][...]
+You will fall to my legions and
+become a mummy of the sands![WAIT][END]
+
+#string:0D:0DF
+[STYLE:RIGHT][...]
+Uh...? Wait!
+[PAUSE:14][...]
+C'mon, don't go in that room!
+[WAIT][NEXT][...]
+... Ooops. Ahem! I mean...
+[WAIT][NEXT][...]
+{StartFX:FadedNoise:32}{StartFX:Jitter}Flee now while you still can!
+[PAUSE:0F][...]
+If you continue...uh...you'll feel
+a horrible curse![WAIT][END]
+
+#string:0D:0E0
+[STYLE:RIGHT][...]
+{StartFX:FadedNoise:32}{StartFX:Jitter}Turn back, thief!
+[PAUSE:0A][...]
+Your time is running out!
+[WAIT][NEXT][...]
+If you do not retreat, you'll be
+in grave trouble!
+[WAIT][NEXT][...]
+I do not lie!
+[PAUSE:0A][...]
+You will regret it![WAIT][END]
+
+#string:0D:0E1
+[STYLE:RIGHT][...]
+{StartFX:FadedNoise:32}{StartFX:Jitter}This is your final warning!
+[PAUSE:0A][...]
+Enough of this foolishness! Leave
+at once![WAIT][END]
+
+#string:0D:0E2
+[STYLE:RIGHT][...]
+{StartFX:FadedNoise:32}{StartFX:SizeJitter}{StartFX:Wavy}Bleah [PAUSE:03]heh [PAUSE:03]heh [PAUSE:03]heh [PAUSE:03]...[WAIT][END]
+
+#string:0D:0E3
+[STYLE:RIGHT][...]
+{StartFX:Shrinking}{StartFX:Wavy}You!!
+[PAUSE:0A][...]
+You ignored all those very scary
+warnings!
+{EndFX:Wavy}[WAIT][NEXT][...]
+Don't you have the common sense
+to get scared and run away?
+[PAUSE:0A][...]
+What's wrong with you!?
+[WAIT][NEXT][...]
+You shouldn't mess with
+Tutankoopa, a faithful follower
+of King Bowser!
+[WAIT][NEXT][...]
+{EndFX:Shrinking}Ooops... I mean...
+[WAIT][NEXT][...]
+{StartFX:Shrinking}{StartFX:Jitter}You shall regret this![WAIT][END]
+
+#string:0D:0E4
+[STYLE:RIGHT][...]
+Ouch!
+[PAUSE:0A][...]
+What are you doing? [PAUSE:05]That hurt!
+[WAIT][NEXT][...]
+I'm king of the desert!
+[PAUSE:0A][...]
+You rude, rude man!
+[PAUSE:0A][...]
+Take this![WAIT][END]
+
+#string:0D:0E5
+[STYLE:RIGHT][...]
+Bleah [PAUSE:03]heh [PAUSE:03]heh [PAUSE:03]heh[PAUSE:03]...
+[WAIT][NEXT][...]
+I'm a magical genius!
+[PAUSE:0A][...]
+Watch, and be amazed![WAIT][END]
+
+#string:0D:0E6
+[STYLE:RIGHT][...]
+Bleah [PAUSE:03]heh [PAUSE:03]heh [PAUSE:03]heh[PAUSE:03]...
+[WAIT][NEXT][...]
+[PAUSE:05][...]
+{StartFX:Shrinking}Come, Chomp! Come!
+[PAUSE:0A][...]
+Bite this intruder![WAIT][END]
+
+#string:0D:0E7
+[STYLE:RIGHT][...]
+{StartFX:Shrinking}Come!! Chomp!![WAIT][END]
+
+#string:0D:0E8
+[STYLE:RIGHT][...]
+{StartFX:Shrinking}Noooooooooooooooooooo!!
+[PAUSE:1E][...]
+[END]
+
+#string:0D:0E9
+[STYLE:RIGHT][...]
+{StartFX:Shrinking}Aw...
+{EndFX:Shrinking}[PAUSE:05]C'mere, Chompy...[WAIT][END]
+
+#string:0D:0EA
+[STYLE:RIGHT][...]
+{StartFX:Shrinking}{StartFX:Wavy}Waah! What're you...ow! Help![WAIT][END]
+
+#string:0D:0EB
+[STYLE:RIGHT][...]
+{SpeechSound:02}Thank you, Mario.
+[PAUSE:0A][...]
+At last I can head home to Star
+Haven.
+[WAIT][NEXT][...]
+My name is Mamar.
+[PAUSE:0F][...]
+So nice to meet you in person![HEART]
+[WAIT][NEXT][...]
+You've still got a long way to go,
+but I just know you can save
+Princess Peach!
+[WAIT][NEXT][...]
+I'll do my best to help you![HEART]
+[PAUSE:14][...]
+Here's a present for you.[WAIT][END]
+
+#string:0D:0EC
+[STYLE:RIGHT][...]
+{SpeechSound:02}Call on me when times are bad.
+[PAUSE:0A][...]
+Believe in this, Mario: My powers
+are strong...
+[PAUSE:0A][...]
+I'm a Star Spirit, after all![HEART]
+[WAIT][NEXT][...]
+Hm hm hm... Our powers are
+growing all the time.
+[PAUSE:0A][...]
+Keep up the good work, Mario!
+[WAIT][NEXT][...]
+You must save the other Star
+Spirits as soon as possible![WAIT][END]
+
+#string:0D:0ED
+[STYLE:RIGHT][...]
+{SpeechSound:02}For now, I'm going back to
+recover in Star Haven.
+[WAIT][NEXT][...]
+Who knows how my dear old Star
+Haven is faring without the Star
+Rod? 
+[WAIT][NEXT][...]
+Good-bye, Mario!
+[PAUSE:0F][...]
+{StartFX:Shrinking}I'm off!{StartFX:Wavy}[HEART]
+{EndFX:Wavy}{EndFX:Shrinking}[WAIT][END]
+
+#string:0D:0EE
+[STYLE:RIGHT][...]
+Aargh!
+No more time!
+[WAIT][NEXT][...]
+Too bad!! Please try again next
+time.
+[WAIT][NEXT][...]
+See you at the next trading
+event, all right?
+So long![WAIT][END]
+
+#string:0D:0EF
+[STYLE:RIGHT][...]
+Hello! I'm the Toad from the
+trading event. How are you?
+[PAUSE:0F][...]
+Did you bring the item?
+[WAIT][NEXT][...]
+No?
+[PAUSE:14][...]
+You don't have anything?
+[WAIT][NEXT][...]
+Look, I can't trade with you
+unless you bring the item I told
+you to bring.[WAIT][END]
+
+#string:0D:0F0
+[STYLE:RIGHT][...]
+Hello! I'm the Toad from the
+trading event. How are you?
+[PAUSE:0F][...]
+Did you bring the item?[WAIT][END]
+
+#string:0D:0F1
+[STYLE:RIGHT][...]
+Congratulations!
+[WAIT][NEXT][...]
+This is the item for today![WAIT][END]
+
+#string:0D:0F2
+[STYLE:RIGHT][...]
+Use it wisely!
+[WAIT][NEXT][...]
+See you again at the next
+trading event![WAIT][END]
+
+#string:0D:0F3
+[STYLE:RIGHT][...]
+Wrong! Sorry.
+[PAUSE:0F][...]
+That's not the right item.
+[WAIT][NEXT][...]
+As a penalty, I'm afraid I'll
+have to take this item.[WAIT][END]
+
+#string:0D:0F4
+[STYLE:RIGHT][...]
+Hello?
+[PAUSE:0F][...]
+You don't want the item?[WAIT][END]
+

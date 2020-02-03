@@ -1,0 +1,681 @@
+#string:17:000
+{DelayOff}[STYLE:SIGN][...]
+{Func_29:87}{Color:18}
+{Down:06}  [STAR]  Toad Town News Flash  [STAR]
+{Down:06}
+{Down:06}{Indent:0A}Princess Peach Kidnapped!!
+{Down:06}{Indent:2D}Castle Uprooted!!
+
+{Color:18}{Func_29:00}A few days ago, Princess Peach's
+Castle was stolen.
+She was inside and is presumed
+kidnapped.
+The whereabouts of the princess
+are unknown, and where the
+castle once stood there is now
+a gaping hole in the ground.
+According to witnesses, the
+castle rose into the sky.
+
+
+As soon as we get new
+information, we'll post follow-up
+reports on this board.
+
+{DelayOn}[WAIT]{Scroll:04}[WAIT]{Scroll:04}[WAIT]{Scroll:04}[WAIT]{Scroll:04}[WAIT]{Scroll:04}{DelayOn}[WAIT][END]
+
+#string:17:001
+{DelayOff}[STYLE:SIGN][...]
+{Func_29:87}{Color:18}
+{Down:06}[STAR]  Toad Town News  [STAR]
+{Down:06}
+{Down:06}   Frantic Fuzzies
+{Down:06}Conquer Koopa Village
+
+{Color:18}{Func_29:00}Recently, it seems that Fuzzies
+have invaded Koopa Village and
+and are causing mayhem.
+
+Please exercise extreme caution
+when visiting Koopa Village...
+
+
+{DelayOn}[WAIT]{Scroll:04}[WAIT]{Scroll:04}[WAIT]{Scroll:04}{DelayOn}[WAIT][END]
+
+#string:17:002
+{DelayOff}[STYLE:SIGN][...]
+{Func_29:87}{Color:18}
+{Down:06}[STAR]  Toad Town News  [STAR]
+{Down:06}
+{Func_29:00}{Down:06}The Explorer Kolorado Challenges
+{Down:06}{Indent:0A}the Mystery of the Desert!
+
+{Color:18}{Down:06}Mr. Kolorado of Koopa Village,
+{Down:06}an explorer and archaeologist,
+
+has just started his search for
+the legendary ruins rumored to
+lie beneath Dry Dry Desert.
+
+As of this writing, he has yet
+to come across a single clue.
+Morale, however, remains high!
+
+{DelayOn}[WAIT]{Scroll:04}[WAIT]{Scroll:04}[WAIT]{Scroll:04}[WAIT]{Scroll:04}{DelayOn}[WAIT][END]
+
+#string:17:003
+{DelayOff}[STYLE:SIGN][...]
+{Func_29:87}{Color:18}
+{Down:06}  [STAR]  Toad Town News Flash  [STAR]
+{Down:06}
+{Down:06}Mario More than a Match for the
+{Down:06}Koopa Bros. Fortress!
+
+{Color:18}{Func_29:00}Our hero, Mario, has vanquished
+the Koopa Bros. who lived in the
+great fortress to the east.
+
+The Koopa Bros., longtime
+underlings of Bowser, had been
+left to guard one of the
+kidnapped Star Spirits.
+That Star Spirit has returned
+to Star Haven, all thanks to our
+hero. Huzzahs for Mario!
+
+{DelayOn}[WAIT]{Scroll:04}[WAIT]{Scroll:04}[WAIT]{Scroll:04}[WAIT]{Scroll:04}{DelayOn}[WAIT][END]
+
+#string:17:004
+{DelayOff}[STYLE:SIGN][...]
+{Func_29:87}{Color:18}
+{Down:06}[STAR]  Toad Town News  [STAR]
+{Down:06}
+{Down:06} Dry Dry Railroad's
+{Down:06}  Grand Reopening!
+
+{Color:18}{Func_29:00}The massive boulder problem
+plaguing Dry Dry Railroad has
+finally been solved. The tracks
+are as clear as the desert sky!
+If you plan to visit Mt. Rugged
+or Dry Dry Desert,
+
+
+climb aboard the luxurious, 
+convenient Dry Dry Railroad!
+
+...paid for by Dry Dry Railroad
+{DelayOn}[WAIT]{Scroll:04}[WAIT]{Scroll:04}[WAIT]{Scroll:04}[WAIT]{Scroll:04}{DelayOn}[WAIT][END]
+
+#string:17:005
+{DelayOff}[STYLE:SIGN][...]
+{Func_29:87}{Color:18}
+{Down:06}[STAR]  Toad Town News  [STAR]
+{Down:06}
+{Down:06}        Attention!
+{Down:06}Gala Radio Giveaway!
+
+{Color:18}{Func_29:00}{Down:02}If you listen to the radio,
+{Down:04}you have a chance to win some
+{Down:04}fabulous prizes!
+{Down:02}
+{Down:06}You have three chances to win!
+{Down:06}
+C'mon! Tune in to the radio or
+these prizes'll tune you out!
+
+
+Listen to the Radio Information
+channel for more details.
+
+                   DJ Toad-rock 
+
+{DelayOn}[WAIT]{Scroll:04}[WAIT]{Scroll:04}[WAIT]{Scroll:04}[WAIT]{Scroll:04}[WAIT]{Scroll:04}{DelayOn}[WAIT][END]
+
+#string:17:006
+{DelayOff}[STYLE:SIGN][...]
+{Func_29:8C}{Color:18}
+{Down:06}{Indent:14}[STAR]  Toad Town News  [STAR]
+{Down:06}
+{Down:06}        Ancient Ruins
+{Down:06}Discovered in Dry Dry Desert
+
+{Color:18}{Func_29:00}Our resident archaeologist,
+the esteemed Mr. Kolorado, has
+finally discovered the legendary
+Dry Dry Ruins.
+Although it could not be
+confirmed at press time, Mario
+may have played a key role.
+
+Details are sketchy, but if the
+early reports are true, a Star
+Spirit languishing in the ruins
+has been rescued.
+
+{Down:04}Let's hear it for Mario!
+{Down:08}
+{DelayOn}[WAIT]{Scroll:04}[WAIT]{Scroll:04}[WAIT]{Scroll:04}[WAIT]{Scroll:04}[WAIT]{Scroll:04}{DelayOn}[WAIT][END]
+
+#string:17:007
+{DelayOff}[STYLE:SIGN][...]
+{Func_29:87}{Color:18}
+{Down:06}[STAR]  Toad Town News  [STAR]
+{Down:06}
+{Func_29:00}
+{Down:04}{Indent:14}Ghost Sightings Slowly Fade
+{Down:08}
+{Color:18}The rash of ghost sightings in
+the area seemed to be reaching
+epidemic proportions.
+
+Lately, though, we've seen a
+marked decrease.
+
+
+And now, we likely know why.
+The Forever Forest path guard
+tells us that Mario has entered
+the forest.
+As soon as we can, TTN will
+interview Mario to get a
+first-hand report on this bold
+move.
+Stay tuned to this board for our
+follow-up to this breaking news.
+
+{DelayOn}[WAIT]{Scroll:04}[WAIT]{Scroll:04}[WAIT]{Scroll:04}[WAIT]{Scroll:04}[WAIT]{Scroll:04}[WAIT]{Scroll:04}{DelayOn}[WAIT][END]
+
+#string:17:008
+{DelayOff}[STYLE:SIGN][...]
+{Func_29:87}{Color:18}
+{Down:06}[STAR]  Toad Town News  [STAR]
+{Down:06}
+{Func_29:00}{Down:06}Princess Peach's Cooking Contest
+{Down:06}Postponed Due to Lack of Castle
+
+{Color:18}The annual Cooking Contest
+sponsored by Princess Peach has
+been postponed indefinitely.
+
+Besides sponsoring the annual
+affair, Peach also hosted the
+culinary contest at her castle.
+
+The disappearance of the castle
+itself presents some perplexing
+problems for the contest
+planners.
+To those who are pulling their
+hair out in frustration, we say:
+Keep the faith, champion chefs!
+Mario will save the day!
+{DelayOn}[WAIT]{Scroll:04}[WAIT]{Scroll:04}[WAIT]{Scroll:04}[WAIT]{Scroll:04}[WAIT]{Scroll:04}{DelayOn}[WAIT][END]
+
+#string:17:009
+{DelayOff}[STYLE:SIGN][...]
+{Func_29:87}{Color:18}
+{Down:06}[STAR]  Toad Town News  [STAR]
+{Down:06}
+{Func_29:00}{Down:06}{Indent:2D}Shy Guy Invasion!
+{Down:06}{Indent:08}Robbing Rogues Run Roughshod!
+
+{Color:18}A squad of scurrilous Shy Guys
+has beset Toad Town, leaving
+our fair citizens in a daze.
+
+The thefts are too numerous to
+name here, but suffice it to say
+residents are urged to guard
+their possessions.
+It's still unclear where the Shy
+Guys are hiding out.
+We'll post news as it breaks.
+
+{DelayOn}[WAIT]{Scroll:04}[WAIT]{Scroll:04}[WAIT]{Scroll:04}[WAIT]{Scroll:04}{DelayOn}[WAIT][END]
+
+#string:17:00A
+{DelayOff}[STYLE:SIGN][...]
+{Func_29:87}{Color:18}
+{Down:06}[STAR]  Toad Town News  [STAR]
+{Down:06}
+{Down:06}Ghost Story, Part Two
+{Down:06}  Mario's Coup de Boo
+
+{Color:18}{Func_29:00}Breaking news on our continuing
+ghost coverage:
+
+
+It seems that a single Boo was
+responsible for all of the
+sightings in town.
+
+This Boo was merely looking for
+a brave soul to help vanquish
+a Boo-eating monster.
+
+Mario, of course, took the
+challenge and punished the
+great beast, freeing another
+Star Spirit in the process.
+Afterlife has returned to normal
+for the Boos, so the town
+hauntings should cease.
+
+Next week's editorial:
+Why Mario is The Man!
+
+
+{DelayOn}[WAIT]{Scroll:04}[WAIT]{Scroll:04}[WAIT]{Scroll:04}[WAIT]{Scroll:04}[WAIT]{Scroll:04}[WAIT]{Scroll:04}[WAIT]{Scroll:04}{DelayOn}[WAIT][END]
+
+#string:17:00B
+{DelayOff}[STYLE:SIGN][...]
+{Func_29:87}{Color:18}
+{Down:06}  [STAR]  Toad Town News Flash  [STAR]
+{Down:06}
+{Down:06}    Shy Guys Still Stealing
+{Down:06}    Toad Town in Trouble!
+
+{Color:18}{Func_29:00}Look around, folks! Shy Guys
+still run rampant in our town.
+
+
+Miss Tayce T., our resident
+master chef, recently lost a
+vital frying pan to the pests.
+
+These scoundrels came upon
+Minh T. in her flower garden
+and gave her quite a fright.
+
+By the main gate, they drove
+a well-meaning shopkeeper from
+his very own store.
+
+They've even been seen bouncing
+on the bed in Toad's House.
+
+
+Reports are pouring in from all
+over town about these miniature
+menaces. They're everywhere!
+Please take care, folks!
+{DelayOn}[WAIT]{Scroll:04}[WAIT]{Scroll:04}[WAIT]{Scroll:04}[WAIT]{Scroll:04}[WAIT]{Scroll:04}[WAIT]{Scroll:04}[WAIT]{Scroll:04}{DelayOn}[WAIT][END]
+
+#string:17:00C
+{DelayOff}[STYLE:SIGN][...]
+{Func_29:87}{Color:18}
+{Down:06}[STAR]  Toad Town News  [STAR]
+{Down:06}
+{Func_29:00}{Func_29:8C}{Down:06}  The Very Latest
+{Down:06}  Tour Information
+
+{Color:18}{Func_29:00}Toad Town Tours are planning
+many types of trips for your
+holidays this year.
+
+There's a Pleasant Path and
+Fortress Tour, an Exploration
+Tour of Dry Dry Ruins,
+
+a Cruise Tour in the South Sea
+by luxury liner, and a full
+selection of Winter Sports Tours
+in the Shiver region.
+We have a tour to fit every
+preference, and our reservation
+agents are standing by.
+
+For further information,
+please come by our office or
+request a brochure. Thank you.
+                   Toad Town Tours
+
+{DelayOn}[WAIT]{Scroll:04}[WAIT]{Scroll:04}[WAIT]{Scroll:04}[WAIT]{Scroll:04}[WAIT]{Scroll:04}[WAIT]{Scroll:04}{DelayOn}[WAIT][END]
+
+#string:17:00D
+{DelayOff}[STYLE:SIGN][...]
+{Func_29:87}{Color:18}
+{Down:06}{Indent:0C} [STAR]  Toad Town News  [STAR]
+{Down:06}
+
+{Down:06}Volcano Wakes from Slumber
+{Down:06}
+{Color:18}{Func_29:00}The once dormant volcano in the
+South Sea has officially been
+classified as active.
+
+As molten lava can be lethal,
+travel there is now forbidden.
+
+         TT Meteorological Agency
+{DelayOn}[WAIT]{Scroll:04}[WAIT]{Scroll:04}[WAIT]{Scroll:04}{DelayOn}[WAIT][END]
+
+#string:17:00E
+{DelayOff}[STYLE:SIGN][...]
+{Func_29:87}{Color:18}
+{Down:06}  [STAR]  Toad Town News Flash  [STAR]
+{Down:06}
+{Down:06}{Indent:0F}  What Shy Guy Problem?
+{Down:06}{Indent:0F} Mario Trounces Thieves
+
+{Color:18}{Func_29:00}The little larceny-lovers known
+as Shy Guys have finally quit
+terrorizing the town.
+
+Mario tracked them to their Toy
+Box hideout, valiantly dispersed
+their ranks,
+
+and managed to rescue an
+imprisoned Star Spirit.
+
+
+To those who would prey on the
+innocent and weak, we say this:
+Mario will prevail!
+
+{DelayOn}[WAIT]{Scroll:04}[WAIT]{Scroll:04}[WAIT]{Scroll:04}[WAIT]{Scroll:04}[WAIT]{Scroll:04}{DelayOn}[WAIT][END]
+
+#string:17:00F
+{DelayOff}[STYLE:SIGN][...]
+{Func_29:87}{Color:18}
+{Down:06}[STAR]  Toad Town News  [STAR]
+{Down:06}
+
+{Down:06}{Indent:0C}A Whale of a Story
+{Down:06}
+{Color:18}{Func_29:00}The small island that appeared
+recently in the harbor has
+turned out to be an ailing whale
+from the deeps.
+Apparently the whale was
+floating there, trying to quell
+a stomachache caused by a hairy
+caterpillar it swallowed.
+Mario saved the caterpillar,
+which had been used as bait by
+a fisherman. Both whale and
+caterpillar felt lots better.
+All's "whale" that ends "whale"!
+
+
+{DelayOn}[WAIT]{Scroll:04}[WAIT]{Scroll:04}[WAIT]{Scroll:04}[WAIT]{Scroll:04}[WAIT]{Scroll:04}{DelayOn}[WAIT][END]
+
+#string:17:010
+{DelayOff}[STYLE:SIGN][...]
+{Func_29:87}{Color:18}
+{Down:06}{Indent:0F}[STAR]  Toad Town News  [STAR]
+{Down:06}
+{Color:1B}
+{Down:06}Flower Days are Blooming!
+{Down:06}
+{Func_29:00}{Color:18}Take one look in front of the
+Post Office or in the garden of
+Minh T. and you'll see that
+Flower Days are here.
+Let's make this town bloom!
+Grow flowers in your home garden
+or plant a few in the town
+flower garden!
+{DelayOn}[WAIT]{Scroll:04}[WAIT]{Scroll:04}[WAIT]{Scroll:04}{DelayOn}[WAIT][END]
+
+#string:17:011
+{DelayOff}[STYLE:SIGN][...]
+{Func_29:87}{Color:18}
+{Down:06}{Indent:0F}[STAR]  Toad Town News  [STAR]
+{Down:06}
+{Down:06}       Pleasant Path
+{Down:06}  to Become a Toll Road?!
+
+{Color:18}{Func_29:00}An enormous Koopa Troopa has
+parked himself on Pleasant Path
+between Koopa Village and Toad
+Town.
+The huge creature, who is
+apparently calling himself
+Kent C. Koopa, demands coins
+from every passing traveler.
+If the traveler refuses, this
+brute blocks the way with his
+enormous body.
+
+We must stop this extortion
+as soon as possible!
+Any ideas would be welcome...
+
+For now, we would suggest that
+you take some coins with you
+when you go to Koopa Village.
+
+{DelayOn}[WAIT]{Scroll:04}[WAIT]{Scroll:04}[WAIT]{Scroll:04}[WAIT]{Scroll:04}[WAIT]{Scroll:04}[WAIT]{Scroll:04}{DelayOn}[WAIT][END]
+
+#string:17:012
+{DelayOff}[STYLE:SIGN][...]
+{Func_29:FF}{Color:18}
+{Down:06}[STAR]  Mysterious Events File  [STAR]
+{Down:06}
+{Down:06}Door to Another World Opens
+{Down:06}  In Center of Toad Town
+
+{Color:18}{Func_29:00}Behind an unremarkable door
+that appeared in the center
+of Minh T.'s flower garden,
+a flower world seems to exist.
+Toad Town officials are
+considering a scouting team
+
+
+but there's probably no point,
+as Mario has already stepped
+through. We await word from him.
+
+Where did the door come from?
+And why? And how?
+             Mysterious Events
+            Investigation Team 
+{DelayOn}[WAIT]{Scroll:04}[WAIT]{Scroll:04}[WAIT]{Scroll:04}[WAIT]{Scroll:04}[WAIT]{Scroll:04}
+{DelayOn}[WAIT][END]
+
+#string:17:013
+{DelayOff}[STYLE:SIGN][...]
+{Func_29:87}{Color:18}
+{Down:06}[STAR]  Toad Town News  [STAR]
+{Down:06}
+{Func_29:00}{Down:02}{Indent:23}Volcano Blows its Lid on
+{Down:04}{Indent:28}   Lavalava Island
+{Down:04}{Indent:14}Mario Escapes Molten Magma
+{Down:02}{Color:18}{Down:02}A little while ago we reported on
+{Down:04}new volcanic activity erupting on
+{Down:04}an island in the South Sea.
+{Down:02}{Down:06}Mt. Lavalava on Lavalava Island
+{Down:06}was the volcano in question.
+
+We recently received a report
+from Kolorado, the famed
+archaeologist who journeyed into
+the volcano with Mario.
+He states that Bowser's minions
+were behind the seismic tremors
+that caused the volcano to
+violently erupt.
+At great risk to life and limb,
+Mario made a daring rescue of
+the Star Spirit that was held
+in the fiery depths.
+Mario...he's on fire!!!
+
+
+
+{DelayOn}[WAIT]{Scroll:04}[WAIT]{Scroll:04}[WAIT]{Scroll:04}[WAIT]{Scroll:04}[WAIT]{Scroll:04}[WAIT]{Scroll:04}[WAIT]{Scroll:04}{DelayOn}[WAIT][END]
+
+#string:17:014
+{DelayOff}[STYLE:SIGN][...]
+{Func_29:FF}{Color:18}
+{Down:06}[STAR]  Mysterious Events File  [STAR]
+{Down:06}
+Reports from the Bizarre
+Interdimensional Door
+
+    Another World, Same Story
+{Color:18}{Func_29:00}A world populated by flowers
+lies on the other side of the
+mysterious door in Minh T.'s
+flower garden.
+It should come as no surprise to
+learn that Bowser's goons were
+causing trouble there.
+
+But guess what? Our own Mario
+did a little extermination of the
+pests in that garden!
+
+By kicking Bowser's underlings
+out of the world, he also saved
+another Star Spirit!
+Now that's flower power!
+{DelayOn}[WAIT]{Scroll:04}[WAIT]{Scroll:04}[WAIT]{Scroll:04}[WAIT]{Scroll:04}[WAIT]{Scroll:04}{DelayOn}[WAIT][END]
+
+#string:17:015
+{DelayOff}[STYLE:SIGN][...]
+{Func_29:87}{Color:18}
+{Down:06}[STAR]  Toad Town News  [STAR]
+{Down:06}
+{Func_29:00}{Func_29:78}{Down:06}{Indent:19}!!Breaking News!!
+{Down:06}Peach's Castle Spotted?!
+
+{Color:18}{Func_29:00}On fine days, some keen-eyed
+observers have reported seeing
+a tiny black dot way up in the
+sky.
+It is only a faint shadow, but
+even that is enough to fill the
+people of our fair town with
+hope.
+Although the shape is fuzzy,
+popular opinion holds that it is
+Bowser's and Peach's Castles,
+linked together.
+Perhaps there is hope after all!
+Princess Peach! Come home!
+
+                    The TTN staff
+{DelayOn}[WAIT]{Scroll:04}[WAIT]{Scroll:04}[WAIT]{Scroll:04}[WAIT]{Scroll:04}[WAIT]{Scroll:04}{DelayOn}[WAIT][END]
+
+#string:17:016
+{DelayOff}[STYLE:SIGN][...]
+{Func_29:87}{Color:18}
+{Down:06}[STAR]  Toad Town News  [STAR]
+{Down:06}
+{Func_29:00}{Func_29:6E}{Down:06}Safety Week
+{Down:06}  Let's Prevent Accidents!
+
+{Color:18}{Func_29:00}As the inside of pipes may be
+dangerous, do not let children
+enter them.
+
+You never know what sort of
+creatures might hide within.
+Even adults should think twice
+before exploring.
+
+
+     Toad Town
+        Crime Prevention Office
+{DelayOn}[WAIT]{Scroll:04}[WAIT]{Scroll:04}[WAIT]{Scroll:04}[WAIT]{Scroll:04}{DelayOn}[WAIT][END]
+
+#string:17:017
+{DelayOff}[STYLE:SIGN][...]
+{Func_29:87}{Color:18}
+{Down:06}[STAR]  Toad Town News  [STAR]
+{Down:06}
+{Func_29:00}{Down:06}{Indent:32}Shiver Sensation!
+{Down:06}{Indent:0D}Mario Masters Crystal Palace
+
+{Color:18}Mario went to the Shiver region
+to look for the last Star Spirit
+
+
+and discovered the legendary
+Crystal Palace at the top of
+Shiver Mountain.
+
+This Palace is said to have been
+built and dedicated to the Star
+Spirits.
+
+Bowser's evil followers, however,
+had taken it over.
+
+
+Mario put those goons on ice and
+saved the last Star Spirit!
+Now, with all of the Star Spirits
+together, they're on their way to
+Shooting Star Summit.
+It's finally time to head for
+Bowser's Castle!
+Good luck, Mario!!
+
+{DelayOn}[WAIT]{Scroll:04}[WAIT]{Scroll:04}[WAIT]{Scroll:04}[WAIT]{Scroll:04}[WAIT]{Scroll:04}[WAIT]{Scroll:04}[WAIT]{Scroll:04}{DelayOn}[WAIT][END]
+
+#string:17:018
+{DelayOff}[STYLE:SIGN][...]
+{Func_29:87}{Color:18}
+{Down:06}[STAR]  Toad Town News  [STAR]
+{Down:06}
+{Func_29:00}
+{Down:06}{Indent:1E}Spirits at All-Time High
+{Down:06}
+{Color:18}Now that Mario has found a way
+into Bowser's Castle,
+
+
+local folks cannot help but
+expect that our princess and
+her castle will soon return.
+
+Several shops even appear to be
+planning "Welcome Home" sales
+for the return.
+
+Everywhere you look, hope shines
+in people's eyes.
+Will our fair town return to
+normal soon?
+{DelayOn}[WAIT]{Scroll:04}[WAIT]{Scroll:04}[WAIT]{Scroll:04}[WAIT]{Scroll:04}[WAIT]{Scroll:04}{DelayOn}[WAIT][END]
+
+#string:17:019
+{DelayOff}[STYLE:SIGN][...]
+{Func_29:87}{Color:18}
+{Down:06}[STAR]  Toad Town News  [STAR]
+{Down:06}
+{Func_29:00}{Down:02}!!PRINCESS PEACH RESCUED!!
+{Down:04}   !!CASTLE DESCENDS!!
+{Down:04}Commemorative Party to be Held
+{Down:02}{Color:18}Just like we knew he would,
+Mario defeated Bowser and
+rescued our dear princess.
+
+Bowser was badly beaten and
+will likely never return.
+We're sure of it.
+Almost positive.
+Peach's Castle has been
+perfectly restored to its
+original position, and it even
+sports fresh paint!
+A grand party celebrating the
+victory is planned at the castle,
+with everyone who's anyone in
+attendance.
+Hooray for Mario!
+Hooray for our hero!!
+
+
+From all the reporters,
+           with many thanks!
+We owe you one, Mario!!
+
+{DelayOn}[WAIT]{Scroll:04}[WAIT]{Scroll:04}[WAIT]{Scroll:04}[WAIT]{Scroll:04}[WAIT]{Scroll:04}[WAIT]{Scroll:04}[WAIT]{Scroll:04}{DelayOn}[WAIT][END]
+

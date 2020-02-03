@@ -1,0 +1,6 @@
+Script: 802BDD6C (00317C8C)
+
+    0:  Call     802BD188 ( )
+    C:  Return
+   14:  End
+

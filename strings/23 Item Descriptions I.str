@@ -1,0 +1,1058 @@
+#string:23:000
+A flower that burns all enemies 
+with fireballs. Attack Power: 3[END]
+
+#string:23:001
+A snowman that crushes all
+enemies. Attack Power: 4[END]
+
+#string:23:002
+Lightning that strikes all
+enemies.  Attack Power: 5[END]
+
+#string:23:003
+Lightning that strikes 1 enemy.
+Attack Power: 5[END]
+
+#string:23:004
+Shooting stars that hit all
+enemies. Attack Power: 6[END]
+
+#string:23:005
+A dusty old Hammer. Throw it to
+damage 1 enemy.[END]
+
+#string:23:006
+A common pebble. Throw it to
+damage 1 enemy.[END]
+
+#string:23:007
+Turns Mario to stone and makes
+him unable to move for a while. [END]
+
+#string:23:008
+Electrifies Mario briefly and
+damages enemies who touch him.  [END]
+
+#string:23:009
+A regular Mushroom. Restores
+5 HP.[END]
+
+#string:23:00A
+A truly super Mushroom.
+Restores 10 HP.[END]
+
+#string:23:00B
+An ultra-fine Mushroom. Restores
+50 HP.[END]
+
+#string:23:00C
+A life-giving Mushroom. Restores
+10 HP when Mario's HP hits 0.[END]
+
+#string:23:00D
+A very dry Mushroom. Restores
+1 HP.[END]
+
+#string:23:00E
+A very tasty tonic. Cures
+poisoning and shrinking.[END]
+
+#string:23:00F
+A bubbly soda. Cures shrinking or
+poisoning and restores 5 FP.[END]
+
+#string:23:010
+A berry found in Flower Fields.
+Restores 5 FP.[END]
+
+#string:23:011
+A berry found in Flower Fields.
+Restores 5 HP.[END]
+
+#string:23:012
+A berry found in Flower Fields.
+Restores 3 HP and 3 FP.[END]
+
+#string:23:013
+A berry found in Flower Fields.
+Restores 5 HP.[END]
+
+#string:23:014
+A fruit found in a desert oasis.
+Restores 3 FP.[END]
+
+#string:23:015
+A fruit found in a desert oasis.
+Restores 1 HP and 2 FP.[END]
+
+#string:23:016
+Sweet honey syrup. Restores
+5 FP.[END]
+
+#string:23:017
+Delicious maple syrup. Restores
+10 FP.[END]
+
+#string:23:018
+A highly nutritious snack.
+Restores 50 FP.[END]
+
+#string:23:019
+A Whacka Bump from Mt. Rugged.
+Restores 25 HP and 25 FP.[END]
+
+#string:23:01A
+A sweet, tangy apple. Restores
+5 HP.[END]
+
+#string:23:01B
+A special nut found only in 
+Goomba Village. Restores 3 FP.
+[END]
+
+#string:23:01C
+A leaf found in Koopa Village.
+Restores 3 FP.[END]
+
+#string:23:01D
+Pasta from Dry Dry Outpost.
+Restores 3 HP and 2 FP.[END]
+
+#string:23:01E
+A fruit found deep within Dry
+Dry Desert. Restores 15 HP.[END]
+
+#string:23:01F
+A very rare leaf. Restores 5 FP.
+[END]
+
+#string:23:020
+A mix used to bake tasty cakes.
+Restores 1 FP.[END]
+
+#string:23:021
+An egg of unknown origin.
+Restores 5 HP.[END]
+
+#string:23:022
+A coconut from Lavalava Island.
+Throw it to damage 1 enemy.[END]
+
+#string:23:023
+A succulent, ripe melon. Restores
+15 HP.[END]
+
+#string:23:024
+This herb smells kind of bad...
+Restores 5 FP.[END]
+
+#string:23:025
+A tough potato found in the
+Shiver Region. Restores 5 HP.[END]
+
+#string:23:026
+If it works, makes all enemies
+sleep for a little while.[END]
+
+#string:23:027
+Flips shell enemies and inflicts
+2 damage points on all enemies.[END]
+
+#string:23:028
+If it works, paralyzes all
+enemies for a short time.[END]
+
+#string:23:029
+If it works, dazes and paralyzes
+all enemies briefly.
+[END]
+
+#string:23:02A
+Makes a scary spirit appear and
+chase some enemies away.[END]
+
+#string:23:02B
+Who knows what it does... Take a
+chance to find out![END]
+
+#string:23:02C
+Makes Mario transparent and
+invulnerable for a short time. [END]
+
+#string:23:02D
+A hot soup cooked by Tayce T.
+Restores 4 HP and 4 FP.[END]
+
+#string:23:02E
+An apple pie baked by Tayce T.
+Restores 5 HP and 15 FP.[END]
+
+#string:23:02F
+A dessert made by Tayce T.
+Restores 5 HP and 5 FP.[END]
+
+#string:23:030
+A dessert made by Tayce T.
+Restores 5 HP and 10 FP.[END]
+
+#string:23:031
+A dessert made by Tayce T.
+Restores 5 HP and 50 FP.[END]
+
+#string:23:032
+A dessert made by Tayce T.
+Restores 10 HP and 5 FP.[END]
+
+#string:23:033
+A dessert made by Tayce T.
+Restores 10 HP and 10 FP.[END]
+
+#string:23:034
+A dessert made by Tayce T.
+Restores 10 HP and 50 FP.
+[END]
+
+#string:23:035
+A dessert made by Tayce T.
+Restores 50 HP and 5 FP.[END]
+
+#string:23:036
+A dessert made by Tayce T.
+Restores 50 HP and 10 FP.
+[END]
+
+#string:23:037
+A dessert made by Tayce T.
+Restores 50 HP and 50 FP.[END]
+
+#string:23:038
+Special pasta made by Tayce T.
+Restores 7 HP and 7 FP.
+[END]
+
+#string:23:039
+A snack made by Tayce T.
+Restores 6 HP and 2 FP.[END]
+
+#string:23:03A
+A snack made by Tayce T.
+Restores 15 HP and 5 FP.[END]
+
+#string:23:03B
+A dish cooked by Tayce T.
+Restores 30 HP and 10 FP.
+[END]
+
+#string:23:03C
+A cake baked by Tayce T.
+Restores 10 HP and 10 FP.[END]
+
+#string:23:03D
+A yummy cake baked by Tayce T.
+Restores 30 HP and 20 FP.[END]
+
+#string:23:03E
+Boring food cooked by Tayce T.
+Restores 10 HP and 10 FP.[END]
+
+#string:23:03F
+Tasty food cooked by Tayce T.
+Restores 20 HP and 20 FP.[END]
+
+#string:23:040
+Amazing food cooked by Tayce T.
+Restores 40 HP and 40 FP.[END]
+
+#string:23:041
+A smoothie made by Tayce T.
+Restores 20 FP.[END]
+
+#string:23:042
+A juice blend made by Tayce T.
+Restores 40 FP.[END]
+
+#string:23:043
+A huge cookie baked by Tayce T.
+Restores 20 FP.[END]
+
+#string:23:044
+A tasty cake baked by Tayce T.
+Restores 15 FP.[END]
+
+#string:23:045
+This doesn't look very good!
+Restores 1 HP and 1 FP.[END]
+
+#string:23:046
+Tea brewed by Tayce T.
+Restores 7 FP.[END]
+
+#string:23:047
+Spaghetti cooked by Tayce T.
+Restores 6 HP and 4 FP.[END]
+
+#string:23:048
+An egg Bomb made by Tayce T.
+Throw it to damage 1 enemy.[END]
+
+#string:23:049
+Food cooked by Tayce T.
+Restores 10 HP.[END]
+
+#string:23:04A
+A sweet candy made by Tayce T.
+Restores 20 FP.[END]
+
+#string:23:04B
+A tart lollipop made by Tayce T.
+Restores 15 FP.[END]
+
+#string:23:04C
+A hot lollipop made by Tayce T.
+Restores 20 FP but uses 1 HP.
+[END]
+
+#string:23:04D
+A tangy candy made by Tayce T.
+Restores 20 FP.[END]
+
+#string:23:04E
+A sweet candy made by Tayce T.
+Restores 3 HP and 15 FP.[END]
+
+#string:23:04F
+A tangy candy made by Tayce T.
+Restores 5 HP and 15 FP.[END]
+
+#string:23:050
+A big lollipop made by Tayce T.
+Restores 64 FP.[END]
+
+#string:23:051
+This electrifies Mario, turns him 
+transparent, or makes him sleep.[END]
+
+#string:23:052
+Makes Mario electric, sleepy,
+or transparent. Restores 15 FP.[END]
+
+#string:23:053
+A side dish made by Tayce T.
+Restores 15 HP.[END]
+
+#string:23:054
+A side dish made by Tayce T.
+Restores 10 HP.[END]
+
+#string:23:055
+A nut cake baked by Tayce T.
+Restores 10 FP.[END]
+
+#string:23:056
+Food cooked by Tayce T.
+Restores 8 HP and 8 FP.[END]
+
+#string:23:057
+A cookie baked by Tayce T.
+Restores 15 HP and 15 FP.[END]
+
+#string:23:058
+Mario stomps on a single enemy
+using a lot of attack power.[END]
+
+#string:23:059
+Mario stomps on a single enemy
+using tons of attack power.[END]
+
+#string:23:05A
+When charged, Mario's Jump
+power goes up by 2.[END]
+
+#string:23:05B
+When supercharged, Mario's Jump
+power goes up by 3.[END]
+
+#string:23:05C
+If it works, the enemy Mario
+jumps on falls asleep for a bit.[END]
+
+#string:23:05D
+If it works, the enemy Mario
+jumps on becomes dizzy.[END]
+
+#string:23:05E
+Jumps on all enemies in a row if
+action command is timed right.[END]
+
+#string:23:05F
+If it works, the enemy shrinks.
+Its attack power decreases.[END]
+
+#string:23:060
+Disables an enemy's defense
+power and causes some damage.[END]
+
+#string:23:061
+Jumps on one enemy continuously 
+until you miss an action command.[END]
+
+#string:23:062
+Hammers an enemy using lots of
+attack power.[END]
+
+#string:23:063
+Hammers an enemy with a huge
+amount of attack power.[END]
+
+#string:23:064
+When charged, Mario's Hammer
+power goes up by 2.[END]
+
+#string:23:065
+When supercharged, Mario's
+Hammer power goes up by 3.[END]
+
+#string:23:066
+Hits one enemy with the Hammer,
+no matter where the enemy is. [END]
+
+#string:23:067
+If it works, the enemy shrinks.
+Its attack power decreases.[END]
+
+#string:23:068
+If Mario hits an enemy, it
+smashes into the ones behind it.[END]
+
+#string:23:069
+Disables an enemy's defense
+power and injures it.[END]
+
+#string:23:06A
+Slightly damages all enemies on
+the ground or ceiling.[END]
+
+#string:23:06B
+Greatly damages all enemies on
+the ground or ceiling.[END]
+
+#string:23:06C
+Severely damages all enemies on
+the ground or ceiling.[END]
+
+#string:23:06D
+During battle, lets you use two
+items during one turn.[END]
+
+#string:23:06E
+During battle, lets you use three
+items during one turn.[END]
+
+#string:23:06F
+Lets Mario's party members use
+the Focus command, as well.[END]
+
+#string:23:070
+Changes your party member and
+attacks with it on that turn.[END]
+
+#string:23:071
+Increases maximum HP by 5.[END]
+
+#string:23:072
+Increases maximum FP by 5.[END]
+
+#string:23:073
+Increases Mario's Jump and
+Hammer attack powers by 1.[END]
+
+#string:23:074
+Decreases the damage that
+Mario takes by 1.[END]
+
+#string:23:075
+If you do the action command,
+decreases Mario's damage by 1.[END]
+
+#string:23:076
+Increases attack power by 1.
+Decreases defense power by 1.[END]
+
+#string:23:077
+Decreases attack power by 1.
+Increases defense power by 1.[END]
+
+#string:23:078
+Decreases Mario's attack power 
+by 1. Restores 1 HP per turn.[END]
+
+#string:23:079
+Restores HP automatically during
+battle at a slow rate.[END]
+
+#string:23:07A
+Restores FP automatically during
+battle at a slow rate.[END]
+
+#string:23:07B
+During battle, saves 1 FP every
+time you attack. [END]
+
+#string:23:07C
+After beating an enemy, makes
+more hearts appear than usual.[END]
+
+#string:23:07D
+After beating an enemy, makes 
+more flowers appear than usual.[END]
+
+#string:23:07E
+When using Focus, charges Star
+Energy more than usual.[END]
+
+#string:23:07F
+Lets Mario jump on a spiked
+enemy without taking damage.[END]
+
+#string:23:080
+Makes the action command work
+more frequently.[END]
+
+#string:23:081
+Makes enemies fail to attack
+Mario every once in a while.[END]
+
+#string:23:082
+Sometimes makes enemies fail to
+attack Mario.[END]
+
+#string:23:083
+When Mario's in Danger, enemies
+sometimes fail to attack.[END]
+
+#string:23:084
+When Mario's in Danger, his
+attack power increases by 2.[END]
+
+#string:23:085
+When Mario's in Danger, he
+receives only half the damage.[END]
+
+#string:23:086
+When Mario's in Peril, his attack
+power goes up by 4.  [END]
+
+#string:23:087
+Lets Mario destroy a weaker
+enemy with a First Strike.  [END]
+
+#string:23:088
+Lets Mario destroy a weaker 
+enemy in the field by hitting it.[END]
+
+#string:23:089
+Lets Mario destroy a weaker
+enemy with a spinning move.[END]
+
+#string:23:08A
+Delivers a blow that makes an
+enemy dizzy and unable to move. [END]
+
+#string:23:08B
+Increases the distance Mario
+can Spin Dash.[END]
+
+#string:23:08C
+Protects Mario from poisoning
+and dizziness during attack.[END]
+
+#string:23:08D
+Changes the sound effects when
+Mario's attacking.[END]
+
+#string:23:08E
+Changes the sound effects when
+Mario's attacking.[END]
+
+#string:23:08F
+Changes the sound effects when
+Mario's attacking.[END]
+
+#string:23:090
+Changes the sound effects when
+Mario's attacking.[END]
+
+#string:23:091
+Changes the sound effects when
+Mario's attacking.[END]
+
+#string:23:092
+Changes the sound effects when
+Mario's attacking.[END]
+
+#string:23:093
+If the action command works,
+attack power +1. If not, it's 0.[END]
+
+#string:23:094
+Makes Mario unable to run. His
+pace becomes very slow.[END]
+
+#string:23:095
+Increases attack power against
+fire enemies by 2.  [END]
+
+#string:23:096
+The more damage Mario takes,
+the more coins he receives.[END]
+
+#string:23:097
+Makes the damage Mario takes
+from fire attacks go down by 1.[END]
+
+#string:23:098
+Keeps you from being hit by a
+First Strike.[END]
+
+#string:23:099
+In battle, makes most enemies
+who touch Mario take damage.  [END]
+
+#string:23:09A
+After a battle, lets Mario get
+twice as many coins as usual.[END]
+
+#string:23:09B
+Makes the action command work
+every time Mario attacks.[END]
+
+#string:23:09C
+Lets Mario earn Star Points
+even if he escapes from battle. [END]
+
+#string:23:09D
+Refunds some coins if you use an
+item in battle.[END]
+
+#string:23:09E
+A sound and icon alert you to a
+nearby hidden panel.[END]
+
+#string:23:09F
+Makes it possible to see your
+enemy's HP.[END]
+
+#string:23:0A0
+Jump and stomp on an enemy.[END]
+
+#string:23:0A1
+Jump and stomp on an enemy.[END]
+
+#string:23:0A2
+Jump and stomp on an enemy.[END]
+
+#string:23:0A3
+Smack enemies with the Hammer.[END]
+
+#string:23:0A4
+Smack enemies with the Hammer.[END]
+
+#string:23:0A5
+Smack enemies with the Hammer.[END]
+
+#string:23:0A6
+A star-shaped pendant. Lets
+you use the action command.[END]
+
+#string:23:0A7
+Opens a locked door in the
+Koopa Bros. Fortress.[END]
+
+#string:23:0A8
+Opens a locked door in Dry Dry
+Ruins.[END]
+
+#string:23:0A9
+Opens a locked door in Tubba
+Blubba's Castle.[END]
+
+#string:23:0AA
+Opens a locked door in the
+Crystal Palace.[END]
+
+#string:23:0AB
+Opens a locked door in Bowser's
+Castle.[END]
+
+#string:23:0AC
+Opens a locked door in Princess
+Peach's Castle.[END]
+
+#string:23:0AD
+Opens a locked door in the Odd
+House.[END]
+
+#string:23:0AE
+An adorable doll that looks 
+exactly like Princess Peach.[END]
+
+#string:23:0AF
+Kooper's blue shell.[END]
+
+#string:23:0B0
+The closer you get to Dry Dry 
+Ruins, the faster it flashes.[END]
+
+#string:23:0B1
+A strange artifact found in Dry
+Dry Ruins.[END]
+
+#string:23:0B2
+A sparkling gold pot. Moustafa
+was looking for this.[END]
+
+#string:23:0B3
+A crescent-shaped stone found
+in Dry Dry Ruins.[END]
+
+#string:23:0B4
+A triangle-shaped stone found
+in Dry Dry Ruins.[END]
+
+#string:23:0B5
+A star-shaped stone found in
+Dry Dry Ruins.[END]
+
+#string:23:0B6
+A record of upbeat music. How
+can you play this?[END]
+
+#string:23:0B7
+A very heavy weight. How can
+you use this?[END]
+
+#string:23:0B8
+A portrait of an old male Boo.[END]
+
+#string:23:0B9
+A key found in Tubba Blubba's
+room.[END]
+
+#string:23:0BA
+A key to the storeroom in a
+Toad Town shop.[END]
+
+#string:23:0BB
+A very well designed toy train.
+Could this be more than a toy?[END]
+
+#string:23:0BC
+Tayce T.'s frying pan. Return it
+to her.[END]
+
+#string:23:0BD
+The scholar Russ T.'s dictionary.
+Return it to him.[END]
+
+#string:23:0BE
+You can't read this. Show it to 
+someone who is very smart.[END]
+
+#string:23:0BF
+A bag full of letters. Return it
+to the post office.[END]
+
+#string:23:0C0
+A seed. Have it planted in the
+Flower Garden in Toad Town.[END]
+
+#string:23:0C1
+A seed. Have it planted in the
+Flower Garden in Toad Town.[END]
+
+#string:23:0C2
+A seed. Have it planted in the
+Flower Garden in Toad Town.[END]
+
+#string:23:0C3
+A seed. Have it planted in the
+Flower Garden in Toad Town.[END]
+
+#string:23:0C4
+A glittering berry made of
+crystal.[END]
+
+#string:23:0C5
+A magical stone. Water springs
+from it.[END]
+
+#string:23:0C6
+A bean. It's twitching as if to
+say, "Plant me this instant!"[END]
+
+#string:23:0C7
+Absolutely pollutant free. This
+smells like very good soil.[END]
+
+#string:23:0C8
+Very cold water. It glitters in
+the sun.[END]
+
+#string:23:0C9
+A gorgeous crystal ball. Give it
+to Merluvlee.[END]
+
+#string:23:0CA
+The calculator from Rowf's
+Badge Shop. Return it to him.[END]
+
+#string:23:0CB
+A book Gourmet Guy dropped.
+Show it to a good cook.[END]
+
+#string:23:0CC
+The jade statue of a Raven that
+Yoshi's Village Leader gave you.[END]
+
+#string:23:0CD
+A treasure found inside Mt.
+Lavalava.[END]
+
+#string:23:0CE
+A key to the warehouse in Shiver
+City.[END]
+
+#string:23:0CF
+An ordinary bucket that the
+Shiver City Mayor gave you.[END]
+
+#string:23:0D0
+An ordinary scarf from Merle in
+Starborn Valley.[END]
+
+#string:23:0D1
+A stone. It opens the path to
+the Crystal Palace.[END]
+
+#string:23:0D2
+A big red key.[END]
+
+#string:23:0D3
+A big blue key.[END]
+
+#string:23:0D4
+A fabulous parasol given to quiz
+show participants.[END]
+
+#string:23:0D5
+A key to the prison in Bowser's
+Castle.[END]
+
+#string:23:0D6
+Show it to a composer somewhere
+in the world.[END]
+
+#string:23:0D7
+Give it to the Master Poet in
+Toad Town.[END]
+
+#string:23:0D8
+Snow white sugar.[END]
+
+#string:23:0D9
+As salty as salt gets.[END]
+
+#string:23:0DA
+Newly laid eggs.[END]
+
+#string:23:0DB
+Very rich and fresh cream.[END]
+
+#string:23:0DC
+Bright red strawberries. They
+look fresh and juicy.[END]
+
+#string:23:0DD
+The best butter available. It
+looks freshly churned.[END]
+
+#string:23:0DE
+Detergent to wash utensils.[END]
+
+#string:23:0DF
+Ordinary water.[END]
+
+#string:23:0E0
+The best flour available to bake
+the finest royal cakes.[END]
+
+#string:23:0E1
+Milk, fresh from the cow![END]
+
+#string:23:0E2
+Proof of Mario's strength, won
+by defeating Chan at the Dojo.[END]
+
+#string:23:0E3
+Proof of Mario's strength, won
+by defeating Lee at the Dojo.[END]
+
+#string:23:0E4
+Proof of Mario's strength, for
+besting The Master at the Dojo.[END]
+
+#string:23:0E5
+Proof of Mario's strength, for
+besting The Master at the Dojo.[END]
+
+#string:23:0E6
+Proof of Mario's strength. Now
+Mario is the strongest.[END]
+
+#string:23:0E7
+A stone. Use it to ultra-rank
+one of your party members.[END]
+
+#string:23:0E8
+A card Koopa Koot gave you. Use
+it to play in the Playroom.[END]
+
+#string:23:0E9
+A card Koopa Koot gave you. Use
+it to play in the Playroom.[END]
+
+#string:23:0EA
+A letter to Kolorado.[END]
+
+#string:23:0EB
+A letter to Merlon in Toad Town.
+[END]
+
+#string:23:0EC
+A letter to Goompa in Goomba
+Village.[END]
+
+#string:23:0ED
+A letter to Mort T. in Koopa
+Village.[END]
+
+#string:23:0EE
+A letter to Russ T. in Toad
+Town.[END]
+
+#string:23:0EF
+A letter to Mayor Penguin in
+Shiver City.[END]
+
+#string:23:0F0
+A letter to Merlow at Shooting
+Star Summit.[END]
+
+#string:23:0F1
+A letter to Fice T. near the
+entrance to Forever Forest.[END]
+
+#string:23:0F2
+A letter to the traveling
+Nomadimouse on the road.[END]
+
+#string:23:0F3
+A letter to Minh T. in Toad
+Town.[END]
+
+#string:23:0F4
+A letter to Goompapa in Goomba
+Village.[END]
+
+#string:23:0F5
+A letter to Igor in Boo's Shop.[END]
+
+#string:23:0F6
+A letter to Franky in Boo's
+Mansion.[END]
+
+#string:23:0F7
+A letter to Muss T. near
+Princess Peach's Castle.[END]
+
+#string:23:0F8
+A letter to Koover in Koopa
+Village.[END]
+
+#string:23:0F9
+A letter to Fishmael at the Toad
+Town Port.[END]
+
+#string:23:0FA
+A letter to Koover in Koopa
+Village.[END]
+
+#string:23:0FB
+A letter to Mr. E. in Dry Dry
+Outpost.[END]
+
+#string:23:0FC
+A letter to Miss T. near the
+Toad Town Dojo.[END]
+
+#string:23:0FD
+A letter to Little Mouser in the
+Dry Dry Outpost shop.[END]
+
+#string:23:0FE
+A letter to Dane T. near Toad
+Town Station.[END]
+
+#string:23:0FF
+A letter to the Red Yoshi Kid in
+Yoshi's Village.[END]
+
+#string:23:100
+A letter to Dane T. near Toad
+Town Station.[END]
+
+#string:23:101
+A letter to Frost T. in Starborn
+Valley.[END]
+
+#string:23:102
+A letter to Goompapa in Goomba
+Village.[END]
+
+#string:23:103
+Kolorado's strange book. Deliver
+this to Koopa Koot.[END]
+
+#string:23:104
+A tape returned by Goompa.
+Deliver it to Koopa Koot.[END]
+
+#string:23:105
+Luigi's autograph. Koopa Koot
+wants this.[END]
+
+#string:23:106
+A wallet Koopa Koot dropped.
+Return it to him.[END]
+
+#string:23:107
+An autograph from Merluvlee.
+Koopa Koot wants this.[END]
+
+#string:23:108
+Is this a picture of a young
+Koopa Koot? He wants this.[END]
+
+#string:23:109
+Glasses Koopa Koot dropped.
+Deliver them to him.[END]
+
+#string:23:10A
+A package received from a Boo.
+Deliver it to Koopa Koot.[END]
+
+#string:23:10B
+A jar at Little Mouser's Shop.
+A collector's item, perhaps?[END]
+

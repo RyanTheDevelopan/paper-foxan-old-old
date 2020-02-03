@@ -1,0 +1,393 @@
+#string:29:000
+Goomba[END]
+
+#string:29:001
+Spiked Goomba[END]
+
+#string:29:002
+Paragoomba[END]
+
+#string:29:003
+Red Goomba[END]
+
+#string:29:004
+Blue Goomba[END]
+
+#string:29:005
+Goomba King[END]
+
+#string:29:006
+Goomnut Tree[END]
+
+#string:29:007
+Koopa Troopa[END]
+
+#string:29:008
+Paratroopa[END]
+
+#string:29:009
+Fuzzy[END]
+
+#string:29:00A
+Bob-omb[END]
+
+#string:29:00B
+Bullet Bill[END]
+
+#string:29:00C
+Bill Blaster[END]
+
+#string:29:00D
+Bowser???[END]
+
+#string:29:00E
+R Ninjakoopa[END]
+
+#string:29:00F
+B Ninjakoopa[END]
+
+#string:29:010
+Y Ninjakoopa[END]
+
+#string:29:011
+G Ninjakoopa[END]
+
+#string:29:012
+Koopa Bros.[END]
+
+#string:29:013
+Jr. Troopa[END]
+
+#string:29:014
+Monty Mole[END]
+
+#string:29:015
+Cleft[END]
+
+#string:29:016
+Pokey[END]
+
+#string:29:017
+Bandit[END]
+
+#string:29:018
+Pokey Mummy[END]
+
+#string:29:019
+Buzzy Beetle[END]
+
+#string:29:01A
+Swooper[END]
+
+#string:29:01B
+Buzzar[END]
+
+#string:29:01C
+Tutankoopa[END]
+
+#string:29:01D
+Chomp[END]
+
+#string:29:01E
+Stone Chomp[END]
+
+#string:29:01F
+Piranha Plant[END]
+
+#string:29:020
+Forest Fuzzy[END]
+
+#string:29:021
+Hyper Goomba[END]
+
+#string:29:022
+Hyper Paragoomba[END]
+
+#string:29:023
+Hyper Cleft[END]
+
+#string:29:024
+Clubba[END]
+
+#string:29:025
+Tubba Blubba[END]
+
+#string:29:026
+Tubba's Heart[END]
+
+#string:29:027
+Shy Guy[END]
+
+#string:29:028
+Groove Guy[END]
+
+#string:29:029
+Spy Guy[END]
+
+#string:29:02A
+Pyro Guy[END]
+
+#string:29:02B
+Sky Guy[END]
+
+#string:29:02C
+Medi Guy[END]
+
+#string:29:02D
+Anti Guy[END]
+
+#string:29:02E
+Big Lantern Ghost[END]
+
+#string:29:02F
+General Guy[END]
+
+#string:29:030
+Shy Squad[END]
+
+#string:29:031
+Shy Stack[END]
+
+#string:29:032
+Stilt Guy[END]
+
+#string:29:033
+Hurt Plant[END]
+
+#string:29:034
+M. Bush[END]
+
+#string:29:035
+Jungle Fuzzy[END]
+
+#string:29:036
+Spear Guy[END]
+
+#string:29:037
+Putrid Piranha[END]
+
+#string:29:038
+Lava Bubble[END]
+
+#string:29:039
+Spike Top[END]
+
+#string:29:03A
+Lava Piranha[END]
+
+#string:29:03B
+Lava Bud[END]
+
+#string:29:03C
+Petit Piranha[END]
+
+#string:29:03D
+Lakitu[END]
+
+#string:29:03E
+Spiny[END]
+
+#string:29:03F
+Bzzap![END]
+
+#string:29:040
+Crazee Dayzee[END]
+
+#string:29:041
+Amazy Dayzee[END]
+
+#string:29:042
+Monty Mole[END]
+
+#string:29:043
+Spike?[END]
+
+#string:29:044
+Ruff Puff[END]
+
+#string:29:045
+Huff N. Puff[END]
+
+#string:29:046
+Tuff Puff[END]
+
+#string:29:047
+Gulpit[END]
+
+#string:29:048
+Gulpits' Rocks[END]
+
+#string:29:049
+Monstar[END]
+
+#string:29:04A
+Frost Piranha[END]
+
+#string:29:04B
+White Clubba[END]
+
+#string:29:04C
+Duplighost[END]
+
+#string:29:04D
+Watt???[END]
+
+#string:29:04E
+Kooper???[END]
+
+#string:29:04F
+Goombario???[END]
+
+#string:29:050
+Sushie???[END]
+
+#string:29:051
+Lakilester???[END]
+
+#string:29:052
+Parakarry???[END]
+
+#string:29:053
+Bombette???[END]
+
+#string:29:054
+Bow???[END]
+
+#string:29:055
+Albino Dino[END]
+
+#string:29:056
+Swoopula[END]
+
+#string:29:057
+Crystal King[END]
+
+#string:29:058
+Crystal Bit[END]
+
+#string:29:059
+Ember[END]
+
+#string:29:05A
+Dry Bones[END]
+
+#string:29:05B
+Bony Beetle[END]
+
+#string:29:05C
+Magikoopa[END]
+
+#string:29:05D
+Koopatrol[END]
+
+#string:29:05E
+Hammer Bros.[END]
+
+#string:29:05F
+Bombshell Bill[END]
+
+#string:29:060
+B. Bill Blaster[END]
+
+#string:29:061
+Bowser[END]
+
+#string:29:062
+Kammy Koopa[END]
+
+#string:29:063
+Kent C. Koopa[END]
+
+#string:29:064
+Blooper[END]
+
+#string:29:065
+Electro Blooper[END]
+
+#string:29:066
+Super Blooper[END]
+
+#string:29:067
+Blooper Baby[END]
+
+#string:29:068
+The Master[END]
+
+#string:29:069
+Chan[END]
+
+#string:29:06A
+Lee[END]
+
+#string:29:06B
+Gloomba[END]
+
+#string:29:06C
+Paragloomba[END]
+
+#string:29:06D
+Spiked Gloomba[END]
+
+#string:29:06E
+Dark Koopa[END]
+
+#string:29:06F
+D. Paratroopa[END]
+
+#string:29:070
+R Magikoopa[END]
+
+#string:29:071
+GRN Magikoopa[END]
+
+#string:29:072
+Y Magikoopa[END]
+
+#string:29:073
+GRY Magikoopa[END]
+
+#string:29:074
+W Magikoopa[END]
+
+#string:29:075
+Mario[END]
+
+#string:29:076
+Slot Machine (start)[END]
+
+#string:29:077
+Slot Machine (stop)[END]
+
+#string:29:078
+Whacka[END]
+
+#string:29:079
+General Guy[END]
+
+#string:29:07A
+Bulb[END]
+
+#string:29:07B
+Shy Squad[END]
+
+#string:29:07C
+Fuzzipede[END]
+
+#string:29:07D
+Monty's Hole[END]
+
+#string:29:07E
+Balloon[END]
+
+#string:29:07F
+Lantern[END]
+
+#string:29:080
+Aqua Fuzzy[END]
+
+#string:29:081
+Red Goomba[END]
+
+#string:29:082
+R Paragoomba[END]
+

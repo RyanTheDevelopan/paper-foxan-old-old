@@ -1,0 +1,4123 @@
+#string:19:000
+[STYLE:TATTLE][...]
+{Func_2B}This is the west entrance to
+Toad Town. In case you couldn't
+tell, it's the main gate.
+[WAIT][NEXT][...]
+The fancy gate and the star
+emblem on the ground are symbols
+of this fair town.  
+[WAIT][NEXT][...]
+Goomba Village, where my house
+is, is a brief journey west from
+here.
+[WAIT][NEXT][...]
+You'll find a very smart Toad
+named Russ T. living in this town.
+[WAIT][NEXT][...]
+He knows lots of useful
+information for adventurers.
+[WAIT][NEXT][...]
+You'll also find shops that sell
+various items.
+[PAUSE:0A][...]
+Oh yeah! There's also a Dojo.[WAIT][END]
+
+#string:19:001
+[STYLE:TATTLE][...]
+{Func_2B}This is the central area of Toad
+Town, a plaza in front of
+Princess Peach's Castle.
+[WAIT][NEXT][...]
+Pleasant Path begins to the
+east of here.
+[WAIT][NEXT][...]
+This used to be a bustling area
+before Bowser's attack. Guests
+at the castle were always in
+and out.
+[WAIT][NEXT][...]
+And tourists came from all over
+to see the castle.
+[WAIT][NEXT][...]
+The wizard Merlon also lives
+around here. If you get stuck,
+his fortune-telling might just
+help you out!
+[WAIT][NEXT][...]
+There's also a Toad House where
+you can take a short rest and
+a post office where you can pick
+up mail for your party members.
+[WAIT][NEXT][...]
+Also, over by the flower garden,
+there's a guy named Rowf who's
+opening his own specialty shop.[WAIT][END]
+
+#string:19:002
+[STYLE:TATTLE][...]
+{Func_2B}Miss. Tayce T., a famous local
+cook, lives around here.
+[WAIT][NEXT][...]
+I'm pretty sure my mom wants to
+learn cooking from her.
+[PAUSE:0F][...]
+Tayce T. will cook for you if you
+take ingredients to her.
+[WAIT][NEXT][...]
+Oh yeah! Forever Forest lies to
+the east,
+[WAIT][NEXT][...]
+so a Toad watchman stands guard
+there and prevents people from
+wandering in.[WAIT][END]
+
+#string:19:003
+[STYLE:TATTLE][...]
+{Func_2B}There's Toad Town Station.
+[WAIT][NEXT][...]
+It's a station for the Dry Dry
+Railroad. From there, you can
+take the train to scenic
+Mt. Rugged.
+[WAIT][NEXT][...]
+And there's also Oink-Oink Farm,
+where they raise Li'l-Oinks.
+[PAUSE:0A][...]
+Raising Li'l-Oinks costs coins.
+[WAIT][NEXT][...]
+My dad said there's a Playroom 
+here, but I don't see it...[WAIT][END]
+
+#string:19:004
+[STYLE:TATTLE][...]
+{Func_2B}This is the residential area of
+Toad Town. It's mostly homes.
+[PAUSE:0A][...]
+But there's also a shop.
+[WAIT][NEXT][...]
+For Toad Town, this area is
+pretty quiet.[WAIT][END]
+
+#string:19:005
+[STYLE:TATTLE][...]
+{Func_2B}This is Toad Town's port. It's
+home to the only restaurant in
+town.
+[WAIT][NEXT][...]
+I like to stand at the end of
+the pier and gaze at the sea.[WAIT][END]
+
+#string:19:006
+[STYLE:TATTLE][...]
+{Func_2B}This is the reception area for
+the Playroom.
+[PAUSE:0A][...]
+You should ask what kind of
+games they have, Mario.[WAIT][END]
+
+#string:19:007
+[STYLE:TATTLE][...]
+{Func_2B}It's called Jump Attack.
+[PAUSE:0A][...]
+If you win the game, you'll collect
+lots of coins.
+[WAIT][NEXT][...]
+If you lose, you won't get a
+thing. Too bad![WAIT][END]
+
+#string:19:008
+[STYLE:TATTLE][...]
+{Func_2B}They said this is called Smash
+Attack.
+[PAUSE:0A][...]
+The idea is to whack the blocks
+placed on the floor.
+[WAIT][NEXT][...]
+Let's get in there and smash all
+of 'em! [PAUSE:05]But...
+Actually, it may not be a good
+idea to hit them all.[WAIT][END]
+
+#string:19:009
+[STYLE:TATTLE][...]
+{Func_2B}Peach's Castle[PAUSE:03].[PAUSE:03].[PAUSE:03]. 
+[PAUSE:03][...]
+used to be here.
+[WAIT][NEXT][...]
+There's not even a trace of it
+now. How awful![WAIT][END]
+
+#string:19:00A
+[STYLE:TATTLE][...]
+{Func_2B}This is Peach's Castle.
+[PAUSE:0A][...]
+But we just came out of
+Bowser's Castle! I've got a
+funny feeling about this...
+[WAIT][NEXT][...]
+I wonder where Princess Peach
+is being held captive.
+[PAUSE:0A][...]
+I think we should brace
+ourselves, Mario.[WAIT][END]
+
+#string:19:00B
+[STYLE:TATTLE][...]
+{Func_2B}This is the first floor hall of
+Princess Peach's Castle.
+[WAIT][NEXT][...]
+There are so many doors, though.
+Where on earth can Princess
+Peach be?[WAIT][END]
+
+#string:19:00C
+[STYLE:TATTLE][...]
+{Func_2B}This is the second floor hall of
+Princess Peach's Castle.
+[WAIT][NEXT][...]
+There are so many doors, though.
+Where on earth can Princess
+Peach be?[WAIT][END]
+
+#string:19:00D
+[STYLE:TATTLE][...]
+{Func_2B}It's a covered hallway in Peach's
+Castle, Mario.
+[PAUSE:0A][...]
+Let's find Bowser and save
+Princess Peach![WAIT][END]
+
+#string:19:00E
+[STYLE:TATTLE][...]
+{Func_2B}We have to help Princess Peach!!
+[PAUSE:05][...]
+Mario! [PAUSE:05]Hurry up! Let's move![WAIT][END]
+
+#string:19:00F
+[STYLE:TATTLE][...]
+{Func_2B}Wow! [PAUSE:08]This is Princess Peach's
+room, isn't it? It smells great
+in here!
+[WAIT][NEXT][...]
+It's such a cheerful room,
+just like Princess Peach.
+[WAIT][NEXT][...]
+I can't believe she was locked up
+in here for so long, all by
+herself. She must've been so
+lonely[PAUSE:03].[PAUSE:03].[PAUSE:03].
+[PAUSE:0A][...]
+[WAIT][NEXT][...]
+We've got to rescue her,
+right now!![WAIT][END]
+
+#string:19:010
+[STYLE:TATTLE][...]
+{Func_2B}This is just an ordinary room.
+[WAIT][NEXT][...]
+Do you smell something, though?
+[PAUSE:0A][...]
+What a strange odor...[WAIT][END]
+
+#string:19:011
+[STYLE:TATTLE][...]
+{Func_2B}Wow! So many books.
+[WAIT][NEXT][...]
+If we weren't in the middle of
+such an adventure, I'd love to
+read some of these.[WAIT][END]
+
+#string:19:012
+[STYLE:TATTLE][...]
+{Func_2B}This looks like a storeroom.
+[WAIT][NEXT][...]
+.[PAUSE:04].[PAUSE:05].[PAUSE:05]!
+Hey! Check out that box! Let's
+see what's in it.[WAIT][END]
+
+#string:19:013
+[STYLE:TATTLE][...]
+{Func_2B}It's a dining room.
+[WAIT][NEXT][...]
+It looks like somebody has eaten
+here recently.
+[PAUSE:05][...]
+Probably not the princess--
+they're probably starving her!
+[WAIT][NEXT][...]
+People always say that the meals
+served here are delectable.
+[PAUSE:0A][...]
+I'd love to eat here sometime.[WAIT][END]
+
+#string:19:014
+[STYLE:TATTLE][...]
+{Func_2B}It's a kitchen.
+[PAUSE:05][...]
+I'm just guessing, but I bet this
+is where they make the meals.
+[WAIT][NEXT][...]
+The castle's head chef probably
+cooks all the meals, don't you
+think?
+[WAIT][NEXT][...]
+I wonder what kinds of savory
+dishes he knows how to make.
+[PAUSE:0F][...]
+Hey, Mario...
+[PAUSE:05][...]
+Have you ever eaten here?[WAIT][END]
+
+#string:19:015
+[STYLE:TATTLE][...]
+{Func_2B}That's a pretty huge drawer
+over there.
+[PAUSE:05][...]
+I bet a person could fit inside!
+If they wanted to, that is...
+[WAIT][NEXT][...]
+Hey, there's a bed, too!
+This must be a guest room.[WAIT][END]
+
+#string:19:016
+[STYLE:TATTLE][...]
+{Func_2B}Boy, what happened here? This
+is even messier than my room
+back home!
+[WAIT][NEXT][...]
+It looks like nobody ever puts
+anything away in here.[WAIT][END]
+
+#string:19:017
+[STYLE:TATTLE][...]
+{Func_2B}Bowser's gone upstairs.
+[PAUSE:05][...]
+C'mon, we have to follow him!
+[PAUSE:05][...]
+Mario, [PAUSE:05]let's roll!![WAIT][END]
+
+#string:19:018
+[STYLE:TATTLE][...]
+{Func_2B}We have to save the princess!!
+Hurry up!
+[PAUSE:05][...]
+Mario! [PAUSE:05]There's no time to waste![WAIT][END]
+
+#string:19:019
+[STYLE:TATTLE][...]
+{Func_2B}It's a castle tower.
+[PAUSE:05][...]
+These long spiral stairs go up
+and up and around and around.
+Oog...I feel dizzy.[WAIT][END]
+
+#string:19:01A
+[STYLE:TATTLE][...]
+{Func_2B}Huh?
+[PAUSE:05][...]
+Where in the world did Bowser
+just disappear to?[WAIT][END]
+
+#string:19:01B
+[STYLE:TATTLE][...]
+{Func_2B}This balcony has a great view.
+[PAUSE:05][...]
+I'm betting that this is one of
+the princess's favorite places.[WAIT][END]
+
+#string:19:01C
+[STYLE:TATTLE][...]
+{Func_2B}This place feels strange and
+mysterious, doesn't it?
+[WAIT][NEXT][...]
+If we go east from here, we'll
+eventually get to Shooting Star
+Summit.[WAIT][END]
+
+#string:19:01D
+[STYLE:TATTLE][...]
+{Func_2B}This is Shooting Star Summit.
+[PAUSE:0A][...]
+Stars are really...uh, shooting.
+[WAIT][NEXT][...]
+People say that this place,
+like no other, reaches up and
+embraces the sky.[WAIT][END]
+
+#string:19:01E
+[STYLE:TATTLE][...]
+{Func_2B}This must be... Yes! This is the
+legendary Star Way!
+[WAIT][NEXT][...]
+It's a path formed out of actual
+stars.
+[PAUSE:0A][...]
+It's absolutely beautiful![WAIT][END]
+
+#string:19:01F
+[STYLE:TATTLE][...]
+{Func_2B}It's Star Haven.
+[PAUSE:0A][...]
+This place is so peaceful![WAIT][END]
+
+#string:19:020
+[STYLE:TATTLE][...]
+{Func_2B}This building...
+[PAUSE:0A][...]
+No, not building... This palace
+[PAUSE:0A][...]
+is incredible! Look at this
+architecture, Mario![WAIT][END]
+
+#string:19:021
+[STYLE:TATTLE][...]
+{Func_2B}Everything seems to be shining
+and glittering in here. I feel
+like I should shield my eyes or
+something.[WAIT][END]
+
+#string:19:022
+[STYLE:TATTLE][...]
+{Func_2B}This is the house of an amazingly
+gorgeous woman, the fortune-
+teller Merluvlee.
+[WAIT][NEXT][...]
+Merlow, who collects Star Pieces,
+also lives here.
+[WAIT][NEXT][...]
+This house pulses with psychic
+power. Can you feel it?
+[WAIT][NEXT][...]
+It feels...weird. It feels like
+I'm floating on some sort of
+spiritual cushion.[WAIT][END]
+
+#string:19:023
+[STYLE:TATTLE][...]
+{Func_2B}We're in Toad Town Tunnels.
+[PAUSE:0A][...]
+Eew... I wonder what's making
+the water drip from up there?
+[WAIT][NEXT][...]
+At best, I guess this place
+could be called "damp". Although
+"dank" is more like it.[WAIT][END]
+
+#string:19:024
+[STYLE:TATTLE][...]
+{Func_2B}Ugh! I wonder where this filthy
+water is going?
+[PAUSE:05][...]
+This'd better not drain into the
+sea or the river!
+[WAIT][NEXT][...]
+I may have to alert the Goomba 
+Environmental Board![WAIT][END]
+
+#string:19:025
+[STYLE:TATTLE][...]
+{Func_2B}Let's see...disgusting flows
+of water...dripping ceilings...
+Yup, it's gross down here!
+[WAIT][NEXT][...]
+Can we leave now?
+[PAUSE:0A][...]
+I... [PAUSE:03]I'm really uncomfortable.[WAIT][END]
+
+#string:19:026
+[STYLE:TATTLE][...]
+{Func_2B}That's a strange platform.
+[PAUSE:05][...]
+What do you think'll happen if
+we climb on board?
+[WAIT][NEXT][...]
+Are you worried about where the
+platform will end up? That's
+never stopped you before...[WAIT][END]
+
+#string:19:027
+[STYLE:TATTLE][...]
+{Func_2B}The cool air is certainly nice and
+refreshing,
+[WAIT][NEXT][...]
+but it's too dark, it smells awful
+and I have a bad feeling about
+this place. Let's move![WAIT][END]
+
+#string:19:028
+[STYLE:TATTLE][...]
+{Func_2B}Ah, Toad Town Tunnels!
+[PAUSE:0A][...]
+Visit its scenic filthy streams
+that lead to who-knows-where!
+[WAIT][NEXT][...]
+It's spectacularly disgusting!
+[PAUSE:0A][...]
+Come stay awhile! If you're not
+totally grossed out the first
+night, you stay for free![WAIT][END]
+
+#string:19:029
+[STYLE:TATTLE][...]
+{Func_2B}This is a strange, dark place.
+[WAIT][NEXT][...]
+Who'd think that a place like this
+could exist beneath lovely old
+Toad Town?[WAIT][END]
+
+#string:19:02A
+[STYLE:TATTLE][...]
+{Func_2B}Uh... I think this is a sewer.
+[PAUSE:0A][...]
+You know...the Toad Town sewer.
+Under Toad Town.
+[WAIT][NEXT][...]
+What am I saying? You know!
+You're a plumber, after all![WAIT][END]
+
+#string:19:02B
+[STYLE:TATTLE][...]
+{Func_2B}Oh, gross!
+[PAUSE:0F][...]
+I've never seen so much sewage
+in my life!
+[WAIT][NEXT][...]
+Eew...floating garbage, too!
+[PAUSE:0A][...]
+Talk about disgusting![WAIT][END]
+
+#string:19:02C
+[STYLE:TATTLE][...]
+{Func_2B}I'm sure that some nasty things
+live down here in the dark.
+[WAIT][NEXT][...]
+We should be ready to defend
+ourselves in case of a surprise
+attack.[WAIT][END]
+
+#string:19:02D
+[STYLE:TATTLE][...]
+{Func_2B}You know, I really don't like foul
+water dripping on me.
+[WAIT][NEXT][...]
+Ugh! That one hit the back of my
+neck! Bleah! Where's it dripping
+from?
+[WAIT][NEXT][...]
+Can we get out of here or what?
+I hate it here![WAIT][END]
+
+#string:19:02E
+[STYLE:TATTLE][...]
+{Func_2B}Where are we[PAUSE:03].[PAUSE:03].[PAUSE:03].?
+[WAIT][NEXT][...]
+Are we lost or what? We've been
+down here so long... You know,
+I didn't know that adventuring
+would be this gross.[WAIT][END]
+
+#string:19:02F
+[STYLE:TATTLE][...]
+{Func_2B}Boy, who could live down here?
+What a crazy dude![WAIT][END]
+
+#string:19:030
+[STYLE:TATTLE][...]
+{Func_2B}The tunnel is freezing!
+[WAIT][NEXT][...]
+I should've worn a sweater!
+[PAUSE:0A][...]
+What do you say we go someplace
+a bit warmer?[WAIT][END]
+
+#string:19:031
+[STYLE:TATTLE][...]
+{Func_2B}You know, even though these
+tunnels have many sections
+[PAUSE:0A][...]
+you can always count on one
+thing: filthy, stinking water.
+[WAIT][NEXT][...]
+Would it be too much to ask to
+get out of here before the
+stench knocks me out?
+[PAUSE:05][...]
+Seriously! I'm about to wig out![WAIT][END]
+
+#string:19:032
+[STYLE:TATTLE][...]
+{Func_2B}It's a room beneath the Toad
+Town pond.
+[PAUSE:0A][...]
+I don't think anyone's been here
+for a long time.[WAIT][END]
+
+#string:19:033
+[STYLE:TATTLE][...]
+{Func_2B}Oh, gross! Look, Mario!
+[PAUSE:05][...]
+The water's filthy!
+[PAUSE:05][...]
+And look! Garbage!
+[WAIT][NEXT][...]
+These tunnels are a total
+nightmare. Let's keep moving 
+and get out fast.[WAIT][END]
+
+#string:19:034
+[STYLE:TATTLE][...]
+{Func_2B}It just keeps getting grosser
+[PAUSE:0A][...]
+down here, huh, Mario?[WAIT][END]
+
+#string:19:035
+[STYLE:TATTLE][...]
+{Func_2B}It's a small room with a single
+pipe in the center.
+[PAUSE:05][...]
+Don't quote me, but I'm betting
+that the pipe goes somewhere.[WAIT][END]
+
+#string:19:036
+[STYLE:TATTLE][...]
+{Func_2B}{StartFX:Wavy}Still Toad Town Tunnels...
+{EndFX:Wavy}[WAIT][NEXT][...]
+We've been in these tunnels so
+long that it's starting to feel
+like... 
+[PAUSE:03][...]
+I'm [PAUSE:03]becoming [PAUSE:03]a [PAUSE:03]mole[PAUSE:03][HEART] [PAUSE:0A]...ha ha![WAIT][END]
+
+#string:19:037
+[STYLE:TATTLE][...]
+{Func_2B}It looks like just another
+passage in the tunnels.
+[PAUSE:05][...]
+I get the feeling...
+[PAUSE:0F][...]
+[WAIT][NEXT][...]
+that something valuable rests
+around here...
+[PAUSE:0A][...]
+Can't you feel it in your bones?
+Do Goombas have bones?
+[WAIT][NEXT][...]
+Anyway, something big is near...
+[PAUSE:0A][...]
+I'm almost positive.[WAIT][END]
+
+#string:19:038
+[STYLE:TATTLE][...]
+{Func_2B}{StartFX:Shrinking}"It smells of treasure here."
+{EndFX:Shrinking}[PAUSE:0A][WAIT][NEXT][...]
+{StartFX:Wavy}How was that?
+{EndFX:Wavy}[PAUSE:05]That was my Kolorado imitation.
+[PAUSE:05][...]
+Any good? Mario? Hello?[WAIT][END]
+
+#string:19:039
+[STYLE:TATTLE][...]
+{Func_2B}According to Goombaria,
+[PAUSE:0A][...]
+this is where you landed.
+[WAIT][NEXT][...]
+Something about this clearing
+feels weird. I can't really say
+exactly what, though...[WAIT][END]
+
+#string:19:03A
+[STYLE:TATTLE][...]
+{Func_2B}This is Goomba Village.
+[PAUSE:0A][...]
+My family lives here.
+[WAIT][NEXT][...]
+There's also a Toad House, which,
+as you probably know, is a good
+place to take a rest.
+[WAIT][NEXT][...]
+That big tree near my house is a
+great place to get Goomnuts.[WAIT][END]
+
+#string:19:03B
+[STYLE:TATTLE][...]
+{Func_2B}These are the woods behind my
+house.
+[WAIT][NEXT][...]
+Until a little while ago,
+Goombaria and I used to play
+hide-and-seek here...
+[WAIT][NEXT][...]
+But there have been a lot of
+evil Goombas and Paragoombas
+spotted in the area, so Mom
+doesn't let us play anymore.[WAIT][END]
+
+#string:19:03C
+[STYLE:TATTLE][...]
+{Func_2B}I think this is Jr. Troopa's
+secret base.
+[WAIT][NEXT][...]
+That crazy kid!
+[PAUSE:05][...]
+Whenever I try to explore in
+there, he freaks out.
+[PAUSE:05][...]
+He needs to chill.[WAIT][END]
+
+#string:19:03D
+[STYLE:TATTLE][...]
+{Func_2B}These are the woods behind my
+house.
+[PAUSE:0A][...]
+Careful! There are many bad
+Goombas around here.
+[WAIT][NEXT][...]
+Sorry... I'm sure that you can
+probably take care of yourself,
+huh?[WAIT][END]
+
+#string:19:03E
+[STYLE:TATTLE][...]
+{Func_2B}Did you know...
+[PAUSE:0A][...]
+...there are good Goombas and
+bad Goombas?
+[WAIT][NEXT][...]
+A bad Goomba will try to pick
+a fight with us the second it
+spots us.[WAIT][END]
+
+#string:19:03F
+[STYLE:TATTLE][...]
+{Func_2B}Look, [PAUSE:05]Mario!
+[PAUSE:05][...]
+There's a Save Block.
+[PAUSE:0A][...]
+Might be a good idea to use it,
+don't you think?[WAIT][END]
+
+#string:19:040
+[STYLE:TATTLE][...]
+{Func_2B}If we go east a bit farther,
+we'll find a bridge.
+[WAIT][NEXT][...]
+Once we cross it, we'll be a hop,
+skip and a jump away from Toad
+Town.[WAIT][END]
+
+#string:19:041
+[STYLE:TATTLE][...]
+{Func_2B}There're lots of bad Goombas
+around these parts.[WAIT][END]
+
+#string:19:042
+[STYLE:TATTLE][...]
+{Func_2B}I think there was a bridge
+between Toad Town and Goomba
+Village.
+[WAIT][NEXT][...]
+If we head east, we'll get to
+Toad Town. If we head west,
+we'll come to my house in Goomba
+Village.[WAIT][END]
+
+#string:19:043
+[STYLE:TATTLE][...]
+{Func_2B}Ah, the outskirts of Toad Town.
+[WAIT][NEXT][...]
+To the east is Toad Town.
+[PAUSE:05][...]
+If we go west, we'll reach my
+hometown, Goomba Village.[WAIT][END]
+
+#string:19:044
+[STYLE:TATTLE][...]
+{Func_2B}It's your house!
+[PAUSE:05][...]
+Cool! Nice landscaping!
+[WAIT][NEXT][...]
+I like my house, but yours is even
+nicer. Did you do the decorating
+yourself?[WAIT][END]
+
+#string:19:045
+[STYLE:TATTLE][...]
+{Func_2B}To the west of here is Toad
+Town,
+[PAUSE:0A][...]
+and to the east is Koopa Village.
+[WAIT][NEXT][...]
+If we go even farther east,
+we'll eventually reach Koopa
+Bros. Fortress.[WAIT][END]
+
+#string:19:046
+[STYLE:TATTLE][...]
+{Func_2B}It's always pleasant around
+here. That's why we call this
+place Pleasant Path.
+[PAUSE:0A][...]
+It's nice and warm today, too.
+[WAIT][NEXT][...]
+Incidentally, lots of Koopas
+live around here.[WAIT][END]
+
+#string:19:047
+[STYLE:TATTLE][...]
+{Func_2B}Koopas like to live around
+Pleasant Path because there's
+plenty of water for them to
+lounge in.
+[WAIT][NEXT][...]
+Koopa Village is down this way.
+[WAIT][NEXT][...]
+If you want to go to Koopa
+Bros. Fortress, we should take
+the upper path and just keep
+going straight.[WAIT][END]
+
+#string:19:048
+[STYLE:TATTLE][...]
+{Func_2B}It's Koopa Village.
+[PAUSE:0A][...]
+Big surprise! Koopas live here.
+[WAIT][NEXT][...]
+Recently it seems like some
+Bob-ombs have moved here, too.
+They must have run away from
+the fortress, huh?[WAIT][END]
+
+#string:19:049
+[STYLE:TATTLE][...]
+{Func_2B}The house with the yellowish
+roof is the home of the famous
+archaeologist and explorer,
+Kolorado.
+[WAIT][NEXT][...]
+Kolorado's always running from
+one mysterious place to another
+in order to do research.
+[WAIT][NEXT][...]
+He's really well respected in his
+field.[WAIT][END]
+
+#string:19:04A
+[STYLE:TATTLE][...]
+{Func_2B}We'd better be careful. There
+are supposedly lots of Fuzzies
+around this area.
+[WAIT][NEXT][...]
+Usually they stay hidden, but
+lately they're more aggressive.[WAIT][END]
+
+#string:19:04B
+[STYLE:TATTLE][...]
+{Func_2B}This part of the forest is the
+Fuzzies' main stronghold.
+[WAIT][NEXT][...]
+The woods would actually be
+quite beautiful if not for the 
+Fuzzies. The light's nice...
+[WAIT][NEXT][...]
+Do you think Koopas do the
+logging around here?[WAIT][END]
+
+#string:19:04C
+[STYLE:TATTLE][...]
+{Func_2B}If we continue along the pass,
+we should reach Koopa Bros.
+Fortress.
+[WAIT][NEXT][...]
+Many Koopas and Paratroopas
+live around here. If they're 
+loyal to Bowser, they'll
+definitely attack us.[WAIT][END]
+
+#string:19:04D
+[STYLE:TATTLE][...]
+{Func_2B}Just east of here, we can see
+Koopa Bros. Fortress.
+[WAIT][NEXT][...]
+Actually, we're probably already
+on fortress grounds.
+[WAIT][NEXT][...]
+That arch certainly looks like
+part of it. And there are lots
+of bad guys, too.[WAIT][END]
+
+#string:19:04E
+[STYLE:TATTLE][...]
+{Func_2B}Here's Koopa Bros. Fortress.
+[PAUSE:0A][...]
+This used to be ruined, but I
+guess the Koopa Bros. rebuilt it.
+[WAIT][NEXT][...]
+It looks pretty huge, huh?
+And solid, too.
+[WAIT][NEXT][...]
+This fortress was originally 
+built around the same time the 
+Bob-ombs took up residence on
+Pleasant Path.[WAIT][END]
+
+#string:19:04F
+[STYLE:TATTLE][...]
+{Func_2B}It's pretty chilly inside this
+fortress, isn't it?
+[PAUSE:0A][...]
+It must be because there's so
+much water inside.[WAIT][END]
+
+#string:19:050
+[STYLE:TATTLE][...]
+{Func_2B}This fortress stays cool all the
+time because it's built entirely
+of stone.[WAIT][END]
+
+#string:19:051
+[STYLE:TATTLE][...]
+{Func_2B}This seems to be the central
+area of the fortress.
+[PAUSE:0A][...]
+This area looks extremely
+suspicious to me.
+[WAIT][NEXT][...]
+I wonder what all these gates
+guard, [PAUSE:05]don't you, Mario?[WAIT][END]
+
+#string:19:052
+[STYLE:TATTLE][...]
+{Func_2B}I heard there are many tricky
+parts of this castle.
+[WAIT][NEXT][...]
+I wonder who built it.
+[PAUSE:0A][...]
+It's pretty curious looking.[WAIT][END]
+
+#string:19:053
+[STYLE:TATTLE][...]
+{Func_2B}This place is pretty huge.
+[PAUSE:0A][...]
+Before the Koopa Bros. came
+here, this place used to be
+filled with Bob-ombs. 
+[WAIT][NEXT][...]
+I don't think the Bob-ombs
+built it, but they became its
+caretakers. 
+[WAIT][NEXT][...]
+Of course,
+[PAUSE:05][...]
+they explode all the time, so
+you can see why there are so
+many cracked walls.[WAIT][END]
+
+#string:19:054
+[STYLE:TATTLE][...]
+{Func_2B}It looks like they turned this
+large chamber into a prison cell.[WAIT][END]
+
+#string:19:055
+[STYLE:TATTLE][...]
+{Func_2B}It seems strange to keep so
+much water in the building.
+[WAIT][NEXT][...]
+Do you think it's here to keep
+Bob-ombs from burning the place
+down? Or maybe it's just for
+Koopas to bathe in.
+[WAIT][NEXT][...]
+I mean, it's nice that it keeps
+the place so cool, but I'm still
+suspicious...
+Mario... [PAUSE:05]Let's keep moving, huh?[WAIT][END]
+
+#string:19:056
+[STYLE:TATTLE][...]
+{Func_2B}These fire bars are a menace!
+[PAUSE:0A][...]
+They're hot to the touch. They'll
+hurt you if you touch 'em.
+[WAIT][NEXT][...]
+Somebody said there's a way to 
+destroy 'em. How do you think
+we do that?[WAIT][END]
+
+#string:19:057
+[STYLE:TATTLE][...]
+{Func_2B}Boy, the air is refreshing up
+here, huh?
+[WAIT][NEXT][...]
+And look at the view! Isn't that
+Pleasant Path way down there? [WAIT][END]
+
+#string:19:058
+[STYLE:TATTLE][...]
+{Func_2B}This is the room where we fought
+the Koopa Bros.
+[WAIT][NEXT][...]
+Those guys weren't so tough!
+They certainly weren't a match 
+for us, huh, Mario?[WAIT][END]
+
+#string:19:059
+[STYLE:TATTLE][...]
+{Func_2B}This is the Mt. Rugged Station
+on the Dry Dry Railroad line.
+[WAIT][NEXT][...]
+Not much grows around here or
+on the barren mountain.[WAIT][END]
+
+#string:19:05A
+[STYLE:TATTLE][...]
+{Func_2B}What a steep mountain![WAIT][END]
+
+#string:19:05B
+[STYLE:TATTLE][...]
+{Func_2B}Watch out for the sneaky Monty
+Moles that are common to this
+area.
+[WAIT][NEXT][...]
+They're dirty fighters. They pop
+up from underground and chuck
+rocks at people. The cowards![WAIT][END]
+
+#string:19:05C
+[STYLE:TATTLE][...]
+{Func_2B}Phew! Maybe we ought to take a
+break! I didn't realize the road
+up would be so rough!
+[WAIT][NEXT][...]
+Of course, as nice as it would
+be to take five on a rock, you
+have to watch yourself. Enemies
+disguise themselves as rocks.
+[WAIT][NEXT][...]
+They're nasty and spiky, so keep
+your eyes open.[WAIT][END]
+
+#string:19:05D
+[STYLE:TATTLE][...]
+{Func_2B}Oh...I'm exhausted.
+[PAUSE:08][...]
+Do we have to keep going? Can't
+we chill for a bit?
+[WAIT][NEXT][...]
+Why'd this mountain have to be
+so huge?[WAIT][END]
+
+#string:19:05E
+[STYLE:TATTLE][...]
+{Func_2B}Whoa! We're pretty high up!
+[PAUSE:05][...]
+Ooog... I feel a little faint.
+[WAIT][NEXT][...]
+I never told you this before, but
+I have a fear of heights.[WAIT][END]
+
+#string:19:05F
+[STYLE:TATTLE][...]
+{Func_2B}This is the gateway between Mt.
+Rugged and Dry Dry Desert.
+[WAIT][NEXT][...]
+If we head due east from here,
+we'll eventually reach the town
+called Dry Dry Outpost.[WAIT][END]
+
+#string:19:060
+[STYLE:TATTLE][...]
+{Func_2B}So hot... I feel dizzy...
+[PAUSE:0A][...]
+Where are we going again? Who
+are you, anyway?[WAIT][END]
+
+#string:19:061
+[STYLE:TATTLE][...]
+{Func_2B}So...very...hot!
+[PAUSE:05][...]
+Anyone smell roasting Goomba?
+[WAIT][NEXT][...]
+Must...concentrate...
+Many dangers in the desert...
+Keep eyes open...[WAIT][END]
+
+#string:19:062
+[STYLE:TATTLE][...]
+{Func_2B}We're going to get lost...
+[PAUSE:0A][...]
+This desert seems endless.[WAIT][END]
+
+#string:19:063
+[STYLE:TATTLE][...]
+{Func_2B}It's Dry Dry Ruins.
+[PAUSE:0A][...]
+Weren't you totally blown away
+when it rose out of the sand?
+[WAIT][NEXT][...]
+That was awesome! I wish we 
+could make it happen again![WAIT][END]
+
+#string:19:064
+[STYLE:TATTLE][...]
+{Func_2B}Dry Dry Desert never ends.
+[PAUSE:05][...]
+How big is it, anyway?
+[PAUSE:05][...]
+I'm beat. My feet hurt.
+[WAIT][NEXT][...]
+This sand feels like it's a
+thousand degrees.[WAIT][END]
+
+#string:19:065
+[STYLE:TATTLE][...]
+{Func_2B}You know what I just realized?
+I hate the desert! Yup! 
+[WAIT][NEXT][...]
+Sand gets in my eyes so I can't
+see. I feel like I've eaten a
+couple pounds of sand, and my
+feet itch.
+[WAIT][NEXT][...]
+I'm freaking out here![WAIT][END]
+
+#string:19:066
+[STYLE:TATTLE][...]
+{Func_2B}Ah, yes! Some more sand and
+some more cacti!
+[PAUSE:0A][...]
+How do you stand such a boring
+landscape?
+[WAIT][NEXT][...]
+Look, when I signed on for this
+adventure, I was under the
+impression that there would be
+no boredom involved.[WAIT][END]
+
+#string:19:067
+[STYLE:TATTLE][...]
+{Func_2B}{StartFX:Wavy}It's scorching, Mario!
+[PAUSE:0A][...]
+I'm turning to charcoal![WAIT][END]
+
+#string:19:068
+[STYLE:TATTLE][...]
+{Func_2B}I feel dazed... So thirsty...
+[PAUSE:0F][...]
+The cacti seem to be moving...[WAIT][END]
+
+#string:19:069
+[STYLE:TATTLE][...]
+{Func_2B}You know what? Traveling in the
+desert is really hard.
+[WAIT][NEXT][...]
+Just moving my feet in the sand
+is exhausting. I feel like I'm
+stuck in quicksand. 
+[PAUSE:0A][...]
+Are we even getting anywhere?[WAIT][END]
+
+#string:19:06A
+[STYLE:TATTLE][...]
+{Func_2B}Hey, Mario!
+[PAUSE:05][...]
+Did you know that...
+[WAIT][NEXT][...]
+cacti save water inside?
+[PAUSE:05][...]
+That's the only way they can
+survive out here.[WAIT][END]
+
+#string:19:06B
+[STYLE:TATTLE][...]
+{Func_2B}Does it ever rain in a desert
+like this?
+[PAUSE:0A][...]
+I seriously doubt it.[WAIT][END]
+
+#string:19:06C
+[STYLE:TATTLE][...]
+{Func_2B}If there's too little rain, the
+cacti will dry up.
+[PAUSE:0A][...]
+Did you know that?[WAIT][END]
+
+#string:19:06D
+[STYLE:TATTLE][...]
+{Func_2B}So blue...the desert sky...
+[PAUSE:05][...]
+They ought to call it...
+"Big Ol' Super Blue Sky"!
+[WAIT][NEXT][...]
+I think I'm delirious. It's so
+hot out here, I can't think
+straight.[WAIT][END]
+
+#string:19:06E
+[STYLE:TATTLE][...]
+{Func_2B}This looks almost exactly the
+same as everywhere else.
+[WAIT][NEXT][...]
+Fine, so there're a few trees
+growing here. Big deal! I still
+hate this place![WAIT][END]
+
+#string:19:06F
+[STYLE:TATTLE][...]
+{Func_2B}It's hot. The desert is hot.
+[WAIT][NEXT][...]
+I can't imagine that people would
+actually choose to live in a place
+like this.
+[WAIT][NEXT][...]
+Don't they get hot?
+[PAUSE:0A][...]
+I guess some like it hot...[WAIT][END]
+
+#string:19:070
+[STYLE:TATTLE][...]
+{Func_2B}I'm spent, Mario.
+[PAUSE:0A][...]
+No shade, no water, no nothing.
+I hate this place. [WAIT][END]
+
+#string:19:071
+[STYLE:TATTLE][...]
+{Func_2B}All this blowing sand would cover
+up most paths.
+[PAUSE:05][...]
+I don't even know which direction
+we're moving.
+[WAIT][NEXT][...]
+If we find that big path again,
+let's stick to it so we don't get
+lost again.[WAIT][END]
+
+#string:19:072
+[STYLE:TATTLE][...]
+{Func_2B}Is there nothing here but sand,
+rocks and cacti?
+[WAIT][NEXT][...]
+I guess we should be happy that
+we're not in a sandstorm. I did
+see a whirlwind, though.[WAIT][END]
+
+#string:19:073
+[STYLE:TATTLE][...]
+{Func_2B}Mario... I'm so tired...
+[PAUSE:0A][...]
+If we find a shady tree, let's
+take a rest for a while...[WAIT][END]
+
+#string:19:074
+[STYLE:TATTLE][...]
+{Func_2B}How do trees grow here?
+[PAUSE:05][...]
+When we find a big one, let's
+take a rest for a while.
+[WAIT][NEXT][...]
+You wouldn't think that anything
+could grow around here.
+[PAUSE:03][...]
+These must be a hardy type of
+tree, huh?[WAIT][END]
+
+#string:19:075
+[STYLE:TATTLE][...]
+{Func_2B}We should be near Dry Dry
+Outpost.
+[WAIT][NEXT][...]
+Boy, after the endless sands of
+this desert, it'll be nice to put
+our feet up in a town for a while.[WAIT][END]
+
+#string:19:076
+[STYLE:TATTLE][...]
+{Func_2B}Kolorado is searching out
+mysteries, as usual. He seems
+to be looking for ruins here.[WAIT][END]
+
+#string:19:077
+[STYLE:TATTLE][...]
+{Func_2B}Here... [PAUSE:03]I remember this spot.
+[PAUSE:05][...]
+It's where that explorer,
+Kolorado, used to have his
+base camp set up.
+[WAIT][NEXT][...]
+Do you think he found what he
+was looking for?[WAIT][END]
+
+#string:19:078
+[STYLE:TATTLE][...]
+{Func_2B}As long as we stick to the path,
+it's easy to go from Mt. Rugged
+to Dry Dry Outpost without
+getting lost.
+[WAIT][NEXT][...]
+Since so many people use this
+path, the desert sands can't
+cover it up.[WAIT][END]
+
+#string:19:079
+[STYLE:TATTLE][...]
+{Func_2B}Traveling through places like
+this desert really makes you
+appreciate water.
+[WAIT][NEXT][...]
+I'm pretty thirsty right now.
+[PAUSE:0A][...]
+Aren't you, Mario?[WAIT][END]
+
+#string:19:07A
+[STYLE:TATTLE][...]
+{Func_2B}In an area like this,
+[PAUSE:05][...]
+it's tough to find things that
+can serve as landmarks.
+[WAIT][NEXT][...]
+But that rock in the shape of a
+cactus is a pretty good one.[WAIT][END]
+
+#string:19:07B
+[STYLE:TATTLE][...]
+{Func_2B}Just putting one foot in front
+of another is hard here.
+[PAUSE:0A][...]
+Whenever I take a break, I feel
+like I don't want to move again.[WAIT][END]
+
+#string:19:07C
+[STYLE:TATTLE][...]
+{Func_2B}Ah, a couple of trees are
+growing here. It might just be
+my imagination, but the air feels
+a bit cooler right here.[WAIT][END]
+
+#string:19:07D
+[STYLE:TATTLE][...]
+{Func_2B}Just east of here is the desert
+town, Dry Dry Outpost.
+[WAIT][NEXT][...]
+We'd better remember how to get
+back here.[WAIT][END]
+
+#string:19:07E
+[STYLE:TATTLE][...]
+{Func_2B}The desert is filled with bandits
+who love to steal coins from
+travelers.[WAIT][END]
+
+#string:19:07F
+[STYLE:TATTLE][...]
+{Func_2B}More rocks and sand! It'd be
+really easy to get lost around
+here.[WAIT][END]
+
+#string:19:080
+[STYLE:TATTLE][...]
+{Func_2B}Wow! There's a whole lot of
+nothing around here.
+[PAUSE:0A][...]
+Any idea which direction we
+should take, [PAUSE:05]Mario?[WAIT][END]
+
+#string:19:081
+[STYLE:TATTLE][...]
+{Func_2B}You know, it's smart to take a
+nap when it gets too hot.
+[WAIT][NEXT][...]
+That reminds me of something my
+mom used to say:
+[PAUSE:05][...]
+"Take a nap, will you!"[WAIT][END]
+
+#string:19:082
+[STYLE:TATTLE][...]
+{Func_2B}Look, it's unbearably hot out. I'm
+getting pretty fed up with it, if
+you want to know the truth...
+[WAIT][NEXT][...]
+Isn't there somewhere we can
+stop for a rest? [WAIT][END]
+
+#string:19:083
+[STYLE:TATTLE][...]
+{Func_2B}Look at that rocky plateau.
+[PAUSE:0A][...]
+It looks like it's too high to
+climb, but I can almost see
+something good up there...[WAIT][END]
+
+#string:19:084
+[STYLE:TATTLE][...]
+{Func_2B}Look! Look, Mario!
+[PAUSE:0A][...]
+There's actually some grass
+growing around here![WAIT][END]
+
+#string:19:085
+[STYLE:TATTLE][...]
+{Func_2B}You know, there sure are a lot
+of rocks in the desert.
+[WAIT][NEXT][...]
+Before I came here, I thought
+there was just sand. But there
+are rocks, too. Whoopee.[WAIT][END]
+
+#string:19:086
+[STYLE:TATTLE][...]
+{Func_2B}Cacti also have flowers, did you
+know that?
+[PAUSE:05][...]
+I haven't seen any, though...
+[WAIT][NEXT][...]
+Do people eat cacti?[WAIT][END]
+
+#string:19:087
+[STYLE:TATTLE][...]
+{Func_2B}The desert wind constantly
+builds up and tears down the
+sand dunes.
+[WAIT][NEXT][...]
+They say it constantly changes,
+but it pretty much looks the
+same to me all the time.[WAIT][END]
+
+#string:19:088
+[STYLE:TATTLE][...]
+{Func_2B}There are big cacti around here.[WAIT][END]
+
+#string:19:089
+[STYLE:TATTLE][...]
+{Func_2B}Hey, Mario?
+Are you thirsty at all?
+[PAUSE:05][...]
+I'm parched. Really thirsty.
+Totally dried up.
+[WAIT][NEXT][...]
+[PAUSE:14][...]
+Wait a minute...
+[PAUSE:0A][...]
+My mouth is really dry! Maybe
+that's why they call it Dry Dry
+Desert![WAIT][END]
+
+#string:19:08A
+[STYLE:TATTLE][...]
+{Func_2B}Look! Look, Mario!
+[PAUSE:0A][...]
+There's actually some grass
+growing around here![WAIT][END]
+
+#string:19:08B
+[STYLE:TATTLE][...]
+{Func_2B}Oh...thank heavens!
+[PAUSE:0A][...]
+At last, we've found an oasis!
+It's not a mirage, is it?
+[WAIT][NEXT][...]
+The trees are so green! The
+water, so blue! Hurray![WAIT][END]
+
+#string:19:08C
+[STYLE:TATTLE][...]
+{Func_2B}So hot...so very, very hot...
+[PAUSE:0A][...]
+This desert trip...
+{StartFX:Jitter}I can't take it anymore!
+{EndFX:Jitter}[WAIT][NEXT][...]
+Hey, Mario,
+[PAUSE:0A][...]
+let's find some shade and relax
+for a while, huh?[WAIT][END]
+
+#string:19:08D
+[STYLE:TATTLE][...]
+{Func_2B}If we get lost in the desert,
+we'll dry up and turn into
+mummies.
+[WAIT][NEXT][...]
+How about it? Let's rest by that
+small rock.
+[PAUSE:0F][...]
+Maybe there's something unusual
+about that rock...[WAIT][END]
+
+#string:19:08E
+[STYLE:TATTLE][...]
+{Func_2B}Mario, aren't you hungry? How
+about thirsty? Tired?
+[PAUSE:05][...]
+I'm all of those things.[WAIT][END]
+
+#string:19:08F
+[STYLE:TATTLE][...]
+{Func_2B}W... Water...
+Must have water...
+[WAIT][NEXT][...]
+I'm so thirsty I could bite a
+cactus...[WAIT][END]
+
+#string:19:090
+[STYLE:TATTLE][...]
+{Func_2B}Do you think there are any other
+mysteries in this desert besides
+the ruins?
+[WAIT][NEXT][...]
+It'd be nice if we stumbled upon
+some treasure or something.[WAIT][END]
+
+#string:19:091
+[STYLE:TATTLE][...]
+{Func_2B}No matter where we go, all I see
+is sand.
+[PAUSE:0A][...]
+That's what this is like. A sea of
+sand.[WAIT][END]
+
+#string:19:092
+[STYLE:TATTLE][...]
+{Func_2B}We're lucky we have hats on.
+[PAUSE:0A][...]
+We'd probably have come down
+with sunstroke by now if we
+hadn't had our hats.[WAIT][END]
+
+#string:19:093
+[STYLE:TATTLE][...]
+{Func_2B}It's Dry Dry Outpost.
+[PAUSE:05][...]
+Lots of Dryites and Nomadimice
+live here.
+[WAIT][NEXT][...]
+I'm so happy to find civilization
+after crossing that desert.
+[WAIT][NEXT][...]
+Despite the climate, lots of
+travelers seem to come here.
+[PAUSE:0A][...]
+Still, they can't get that many
+tourists. It's too hot![WAIT][END]
+
+#string:19:094
+[STYLE:TATTLE][...]
+{Func_2B}I heard that this town was
+originally founded by thieves
+from the desert.
+[WAIT][NEXT][...]
+It's a pretty mysterious town,
+don't you think?
+[WAIT][NEXT][...]
+There are all kinds of stories
+and legends about this place.
+The residents around here love
+all those old tales.[WAIT][END]
+
+#string:19:095
+[STYLE:TATTLE][...]
+{Func_2B}That's the entrance to Dry Dry
+Ruins. It's called the illusion
+ruin.
+[WAIT][NEXT][...]
+Nobody could find this place for
+ages. But we did![WAIT][END]
+
+#string:19:096
+[STYLE:TATTLE][...]
+{Func_2B}Legend has it that there are
+many traps and puzzles in these
+ruins.
+[WAIT][NEXT][...]
+When this was a great palace,
+the keepers set all the traps
+up to keep looters from stealing
+their treasures.[WAIT][END]
+
+#string:19:097
+[STYLE:TATTLE][...]
+{Func_2B}Compared to the desert, it's
+cool in here.[WAIT][END]
+
+#string:19:098
+[STYLE:TATTLE][...]
+{Func_2B}There's a great view of the
+desert from the upstairs floor.
+[WAIT][NEXT][...]
+The farther down we go,
+[PAUSE:05][...]
+the cooler it'll get. It'll get
+darker, too, though.
+[PAUSE:0A][...]
+Should we go down there?[WAIT][END]
+
+#string:19:099
+[STYLE:TATTLE][...]
+{Func_2B}Now that I've helped you find 
+Dry Dry Ruins, will I become
+famous, too?
+[WAIT][NEXT][...]
+You don't care. You're already
+a household name.
+[WAIT][NEXT][...]
+Hmmph.
+[PAUSE:0A][...]
+Hey, a picture of some Chomps.
+[WAIT][NEXT][...]
+Maybe there are Chomps
+guarding these ruins.[WAIT][END]
+
+#string:19:09A
+[STYLE:TATTLE][...]
+{Func_2B}It's a bit sandy, huh?
+[PAUSE:05][...]
+Well, when you're buried in the
+desert, you pick up some sand.[WAIT][END]
+
+#string:19:09B
+[STYLE:TATTLE][...]
+{Func_2B}It's amazing that these ruins
+still have moving parts.
+[PAUSE:05][...]
+Haven't they been buried here
+for ages and ages?
+[WAIT][NEXT][...]
+And yet, when we push switches,
+stuff moves...
+[PAUSE:05][...]
+Amazing craftsmanship. You've
+gotta applaud the designers.[WAIT][END]
+
+#string:19:09C
+[STYLE:TATTLE][...]
+{Func_2B}My mouth is so dry...
+[PAUSE:0A][...]
+I feel like I ate dust.
+[WAIT][NEXT][...]
+I feel like my skin is cracking
+off and my eyes are turning 
+into sandpaper.
+[WAIT][NEXT][...]
+D'you have any moisturizer?[WAIT][END]
+
+#string:19:09D
+[STYLE:TATTLE][...]
+{Func_2B}Look at these stairways!
+[PAUSE:0A][...]
+How do they make 'em revolve?
+[WAIT][NEXT][...]
+Whoever built this place must
+have been brilliant.[WAIT][END]
+
+#string:19:09E
+[STYLE:TATTLE][...]
+{Func_2B}I'm sure that ruins like these
+are full of hidden rooms.
+[WAIT][NEXT][...]
+We should keep our eyes open for
+anything suspicious.[WAIT][END]
+
+#string:19:09F
+[STYLE:TATTLE][...]
+{Func_2B}Look at the Chomp statues!
+[PAUSE:0A][...]
+Even though I know they're just
+statues, they still scare me.
+[WAIT][NEXT][...]
+This seems to be the very center
+of the ruins.
+[WAIT][NEXT][...]
+In case I haven't mentioned it
+before, the architects of this
+place were geniuses.
+[WAIT][NEXT][...]
+Moustafa's ancestors must have
+been amazing people.[WAIT][END]
+
+#string:19:0A0
+[STYLE:TATTLE][...]
+{Func_2B}I'm pretty beat.
+[WAIT][NEXT][...]
+Phew[PAUSE:03].[PAUSE:03].[PAUSE:03]. [PAUSE:05]Well, heroes don't take
+rests, I guess.[WAIT][END]
+
+#string:19:0A1
+[STYLE:TATTLE][...]
+{Func_2B}I feel hungry for some reason.
+[PAUSE:0A][...]
+Did you hear that? My belly
+is making sounds like a Chomp!
+[WAIT][NEXT][...]
+Boy, a cold drink and a hot
+sandwich would taste good.[WAIT][END]
+
+#string:19:0A2
+[STYLE:TATTLE][...]
+{Func_2B}I knew this place would have
+lots of hidden areas.
+[WAIT][NEXT][...]
+Ancient palaces always do!
+[PAUSE:05][...]
+It's like a law of ancient
+architecture, I think.
+[WAIT][NEXT][...]
+And by the way, there's always
+supposed to be treasure, too.
+[PAUSE:0A][...]
+I wouldn't mind finding
+something nice...[WAIT][END]
+
+#string:19:0A3
+[STYLE:TATTLE][...]
+{Func_2B}It's Tutankoopa's old lair.
+[PAUSE:0A][...]
+That guy wasn't so tough.
+[PAUSE:0A][...]
+You're much tougher, Mario.
+[WAIT][NEXT][...]
+I can't believe Tutankoopa was
+the master here.
+[WAIT][NEXT][...]
+This kingdom was originally
+built by Nomadimice, many
+generations ago. 
+[WAIT][NEXT][...]
+I'll tell you, Tutankoopa didn't
+look much like a Nomadimouse.[WAIT][END]
+
+#string:19:0A4
+[STYLE:TATTLE][...]
+{Func_2B}It's pretty dark around here.
+[PAUSE:0A][...]
+We'd better be careful not to
+get lost or ambushed.[WAIT][END]
+
+#string:19:0A5
+[STYLE:TATTLE][...]
+{Func_2B}We'd better get ready for a
+fight![WAIT][END]
+
+#string:19:0A6
+[STYLE:TATTLE][...]
+{Func_2B}If we go east, we'll get to the
+entrance of Forever Forest.
+[PAUSE:05][...]
+If we go west, we'll hit Toad
+Town. Remember?[WAIT][END]
+
+#string:19:0A7
+[STYLE:TATTLE][...]
+{Func_2B}Boy... This forest is really dark
+and spooky.
+[WAIT][NEXT][...]
+People say that if you don't
+choose exactly the right paths,
+you'll get totally lost.
+[WAIT][NEXT][...]
+I can believe it. This looks like
+the type of place where you get
+lost and then monsters come out
+of the grass and...
+[WAIT][NEXT][...]
+Hey!
+[PAUSE:08][...]
+{StartFX:Jitter}Did you notice that grass over
+there rustling? I swear I saw
+it move![WAIT][END]
+
+#string:19:0A8
+[STYLE:TATTLE][...]
+{Func_2B}{StartFX:Jitter}Mario...
+[PAUSE:0A][...]
+Don't look now, but I think I
+saw an eye shining deep inside
+the hole in that tree. [WAIT][END]
+
+#string:19:0A9
+[STYLE:TATTLE][...]
+{Func_2B}The flowers in this forest are
+unusual, huh?
+[PAUSE:05][...]
+They're strangely colored, and
+they look creepy when they move.
+[WAIT][NEXT][...]
+I think I saw some that were a
+slightly different color over
+there.
+[PAUSE:08][...]
+Did you see 'em?[WAIT][END]
+
+#string:19:0AA
+[STYLE:TATTLE][...]
+{Func_2B}The trees in this forest are
+weird, aren't they?
+[PAUSE:0A][...]
+I've heard sometimes they smile
+wickedly...
+[WAIT][NEXT][...]
+I'll tell you, if I see a tree
+smiling, I'm gonna run in the
+opposite direction![WAIT][END]
+
+#string:19:0AB
+[STYLE:TATTLE][...]
+{Func_2B}Is it just my imagination or is
+it getting darker?
+[PAUSE:05][...]
+Are we going the right way?
+[PAUSE:0A][...]
+I'm getting a little worried.
+[WAIT][NEXT][...]
+There seem to be a lot of
+strange glowing mushrooms
+around these tree trunks.
+[WAIT][NEXT][...]
+Boy! They're everywhere!
+Must be an infestation...
+[WAIT][NEXT][...]
+It kind of looks like one
+mushroom patch is slightly
+different from the others.
+[WAIT][NEXT][...]
+My mind may just be playing
+tricks on me, though.[WAIT][END]
+
+#string:19:0AC
+[STYLE:TATTLE][...]
+{Func_2B}What kind of evil flowers would
+grow in a place like this?
+[PAUSE:05][...]
+When we approach, some seem to
+shrink, while others just grin...
+[WAIT][NEXT][...]
+{StartFX:Jitter}But...but I'm not scared.
+[PAUSE:05][...]
+I mean it, Mario!
+I told you that they don't scare
+me! All right?[WAIT][END]
+
+#string:19:0AD
+[STYLE:TATTLE][...]
+{Func_2B}Where are we?
+[WAIT][NEXT][...]
+After making so many turns on
+different paths, I'm getting
+confused as to which way is up.
+Aren't there any signs? [WAIT][END]
+
+#string:19:0AE
+[STYLE:TATTLE][...]
+{Func_2B}Look, I'm sick of this forest, all
+right? Let's get out of here.
+[WAIT][NEXT][...]
+I don't care how many important
+things are hidden in this forest,
+I can't spend another instant in
+the freaky place!
+[WAIT][NEXT][...]
+Look, I know I saw a beehive.
+[PAUSE:0A][...]
+Let's make the beehive a
+landmark. OK?[WAIT][END]
+
+#string:19:0AF
+[STYLE:TATTLE][...]
+{Func_2B}This all looks the same to me.
+Gloomy trees that seem to go on
+forever. Seems like they found
+the perfect name for this place.
+[WAIT][NEXT][...]
+By the way, did you hear
+something in that bush?[WAIT][END]
+
+#string:19:0B0
+[STYLE:TATTLE][...]
+{Func_2B}It's Boo's Mansion.
+[WAIT][NEXT][...]
+Great name for a haunted house,
+don't you think?[WAIT][END]
+
+#string:19:0B1
+[STYLE:TATTLE][...]
+{Func_2B}This is the back gate to Boo's
+Mansion.
+[WAIT][NEXT][...]
+As far as I can tell, this is
+the edge of Gusty Gulch. Tubba
+Blubba's Castle is up on the hill.
+[WAIT][NEXT][...]
+It's amazing how the scenery
+changes from forest to gulch
+so quickly.[WAIT][END]
+
+#string:19:0B2
+[STYLE:TATTLE][...]
+{Func_2B}What a magnificent mansion!
+Being haunted must hurt the
+real estate value, though...
+[WAIT][NEXT][...]
+I like the old-fashioned yet
+eerie style.
+[WAIT][NEXT][...]
+The chandelier and the display
+case look like they're valuable
+antiques.
+[WAIT][NEXT][...]
+Even the sofa in the foyer looks
+like it's pricey, even though
+it's a bit worn.
+[WAIT][NEXT][...]
+I love antiques.
+[PAUSE:0A][...]
+I wouldn't mind taking a good
+look at those things.[WAIT][END]
+
+#string:19:0B3
+[STYLE:TATTLE][...]
+{Func_2B}The blue light is spooky in here,
+but you can tell that this room
+is really nice.
+[PAUSE:08][...]
+[WAIT][NEXT][...]
+It feels like [PAUSE:05]something [PAUSE:05]is
+[PAUSE:05][...]
+watching [PAUSE:05]us.
+[WAIT][NEXT][...]
+It feels like that everywhere.
+It's almost as if this haunted
+mansion is...haunted.[WAIT][END]
+
+#string:19:0B4
+[STYLE:TATTLE][...]
+{Func_2B}A storage room... [PAUSE:05]isn't it?
+[PAUSE:0A][...]
+You'd think those candles
+would provide a bit more light.[WAIT][END]
+
+#string:19:0B5
+[STYLE:TATTLE][...]
+{Func_2B}Another storage room, I guess.
+[PAUSE:05][...]
+Not a whole lot here, as far as
+I can tell.
+[PAUSE:0F][...]
+[WAIT][NEXT][...]
+Hey, incidentally,
+[PAUSE:0F][...]
+what happened to the door...? [WAIT][END]
+
+#string:19:0B6
+[STYLE:TATTLE][...]
+{Func_2B}This room does have a lot of
+space, but it's still a shame
+to use it for storage.
+[WAIT][NEXT][...]
+That pot and those wooden
+boxes look suspicious...
+[WAIT][NEXT][...]
+There's also a weakened spot
+on the floor.
+[PAUSE:0A][...]
+Look...[PAUSE:05]under the chandelier.
+[WAIT][NEXT][...]
+Hey, check it out!
+A real old rocking chair!
+These things rule! 
+[WAIT][NEXT][...]
+It rocks back and forth when
+you sit on it. I love napping
+in these.[WAIT][END]
+
+#string:19:0B7
+[STYLE:TATTLE][...]
+{Func_2B}There certainly seem to be a
+lot of books.
+[PAUSE:05][...]
+I didn't know Boos liked books.[WAIT][END]
+
+#string:19:0B8
+[STYLE:TATTLE][...]
+{Func_2B}Hey, [PAUSE:05]that strange contraption
+at the back of the room is a
+phonograph.
+[WAIT][NEXT][...]
+You know, a machine for
+listening to records.
+[WAIT][NEXT][...]
+Have you seen any records
+around here?
+[WAIT][NEXT][...]
+I wouldn't mind doing a little
+adventuring to the timeless
+classic, "Mario's Theme"![WAIT][END]
+
+#string:19:0B9
+[STYLE:TATTLE][...]
+{Func_2B}Wow!
+[PAUSE:05][...]
+What a gorgeous chandelier!
+[PAUSE:0A][...]
+If they actually cleaned it,
+it would brighten this place up.[WAIT][END]
+
+#string:19:0BA
+[STYLE:TATTLE][...]
+{Func_2B}This is the highest room in the
+mansion.
+[WAIT][NEXT][...]
+I'm guessing it's Bow's room.
+[PAUSE:05][...]
+She seems like the type to live
+in a huge room.
+[WAIT][NEXT][...]
+When you look at this room, it's
+pretty obvious that Bow was
+raised by a really wealthy family
+of Boos.[WAIT][END]
+
+#string:19:0BB
+[STYLE:TATTLE][...]
+{Func_2B}There's a windmill.
+[WAIT][NEXT][...]
+Those vanes are turning really
+slowly.
+[PAUSE:05][...]
+The sound of it turning is sort
+of lonely...[WAIT][END]
+
+#string:19:0BC
+[STYLE:TATTLE][...]
+{Func_2B}Somebody told me if a house is
+dilapidated, it means it's
+crumbly and deserted.
+[PAUSE:0A][...]
+That sounds like this place.
+[WAIT][NEXT][...]
+Goompa said Boos love this sort
+of place.[WAIT][END]
+
+#string:19:0BD
+[STYLE:TATTLE][...]
+{Func_2B}The way that house leans is
+bizarre, isn't it?
+[WAIT][NEXT][...]
+Why do Boos like homes like
+these?[WAIT][END]
+
+#string:19:0BE
+[STYLE:TATTLE][...]
+{Func_2B}It's Gusty Gulch.
+[PAUSE:05][...]
+Watch your step on the rocky
+slopes.
+[WAIT][NEXT][...]
+You also have to beware of
+strange creatures.
+[PAUSE:0A][...]
+My dad would say that going
+through here builds character...[WAIT][END]
+
+#string:19:0BF
+[STYLE:TATTLE][...]
+{Func_2B}It's Gusty Gulch.
+[PAUSE:05][...]
+It looks like there's a gap over
+there that won't be easy to
+cross. You'll need some help.
+[WAIT][NEXT][...]
+Let's be quick but careful. I
+don't like the looks of the
+creatures around here.[WAIT][END]
+
+#string:19:0C0
+[STYLE:TATTLE][...]
+{Func_2B}We've reached the top of
+Gusty Gulch.
+[PAUSE:0A][...]
+That building is Tubba Blubba's
+Castle, isn't it?
+[WAIT][NEXT][...]
+The land here is totally barren.
+Was it always like this?[WAIT][END]
+
+#string:19:0C1
+[STYLE:TATTLE][...]
+{Func_2B}What a huge hall!
+[PAUSE:03][...]
+Looks like it's crumbling, though.
+[WAIT][NEXT][...]
+Boy, if this main hall collapses,
+the entire castle will follow.
+This whole place looks like it's
+falling apart.[WAIT][END]
+
+#string:19:0C2
+[STYLE:TATTLE][...]
+{Func_2B}It's a corridor.
+[WAIT][NEXT][...]
+I'm sure it was really 
+magnificent before Tubba
+Blubba let it get filthy.
+[WAIT][NEXT][...]
+You can barely see the beauty
+beneath the dirt.[WAIT][END]
+
+#string:19:0C3
+[STYLE:TATTLE][...]
+{Func_2B}Wow! This room is huge!
+[PAUSE:05][...]
+I guess Tubba Blubba's pretty
+big, though, so it's probably
+just the right size.
+[WAIT][NEXT][...]
+High ceilings really make a
+room feel luxurious.[WAIT][END]
+
+#string:19:0C4
+[STYLE:TATTLE][...]
+{Func_2B}There're the stairs.
+[PAUSE:0A][...]
+Even the staircases are big.
+This place is monstrous. [WAIT][END]
+
+#string:19:0C5
+[STYLE:TATTLE][...]
+{Func_2B}There're the stairs.
+[PAUSE:05][...]
+Ugh! A cobweb!
+[WAIT][NEXT][...]
+I just can't stand creatures
+that don't tidy up...[WAIT][END]
+
+#string:19:0C6
+[STYLE:TATTLE][...]
+{Func_2B}This is a basement, isn't it?
+[PAUSE:03][...]
+Yup...
+[PAUSE:0A][...]
+and a big one, too. This makes
+a great hiding place.
+[WAIT][NEXT][...]
+I don't think Clubbas patrol
+down here, so it's probably 
+safe to rest for a while.[WAIT][END]
+
+#string:19:0C7
+[STYLE:TATTLE][...]
+{Func_2B}Ooh! The dining room set here
+is fantastic!
+[WAIT][NEXT][...]
+If they got curtains that
+weren't so old, they could
+really bring the room together.[WAIT][END]
+
+#string:19:0C8
+[STYLE:TATTLE][...]
+{Func_2B}This castle's too big...
+[PAUSE:05][...]
+I'm so tired.
+[PAUSE:05][...]
+All we ever do is walk...[WAIT][END]
+
+#string:19:0C9
+[STYLE:TATTLE][...]
+{Func_2B}You know, even the huge cracks
+in the walls don't bother me
+that much.
+[WAIT][NEXT][...]
+But spiderwebs? C'mon, a little
+housecleaning, people![WAIT][END]
+
+#string:19:0CA
+[STYLE:TATTLE][...]
+{Func_2B}You think Tubba Blubba likes this
+castle?
+[WAIT][NEXT][...]
+If he did, you'd think he could
+spend a little time fixing it up.
+I mean, an occasional cleaning...
+[WAIT][NEXT][...]
+What a waste.[WAIT][END]
+
+#string:19:0CB
+[STYLE:TATTLE][...]
+{Func_2B}Filthy as it is, this castle has
+surprisingly little dust.[WAIT][END]
+
+#string:19:0CC
+[STYLE:TATTLE][...]
+{Func_2B}Whoa!
+Spikes in the floor!
+[PAUSE:05][...]
+Don't try to jump over 'em!
+There are too many!
+[WAIT][NEXT][...]
+How can we get through without
+being hurt by the spikes?[WAIT][END]
+
+#string:19:0CD
+[STYLE:TATTLE][...]
+{Func_2B}Oh, here we go! A chair tipped
+over, a drawer left open...
+Doesn't anyone ever clean 
+around here?
+[WAIT][NEXT][...]
+While we're here, though, let's
+take a closer look at that
+drawer.[WAIT][END]
+
+#string:19:0CE
+[STYLE:TATTLE][...]
+{Func_2B}Ugh...more stairs...
+[PAUSE:0A][...]
+Up and down, up and down...
+Will it never end?
+[WAIT][NEXT][...]
+It's just a little tiring,
+that's all.[WAIT][END]
+
+#string:19:0CF
+[STYLE:TATTLE][...]
+{Func_2B}We've been in here a while.
+[WAIT][NEXT][...]
+I wouldn't mind having a house
+this huge. Of course, it's kind
+of a pain to have to walk so far
+between rooms.
+[WAIT][NEXT][...]
+We could get an awesome game of
+hide and seek going in here, but
+I guess kids might get lost
+pretty easily.
+[WAIT][NEXT][...]
+Well...
+[PAUSE:05][...]
+I wouldn't get lost, of course.[WAIT][END]
+
+#string:19:0D0
+[STYLE:TATTLE][...]
+{Func_2B}What is this, a Clubba nap room?
+[PAUSE:05][...]
+If we don't disturb 'em, maybe
+they won't wake up. 
+[WAIT][NEXT][...]
+But [PAUSE:05]sshh...
+[PAUSE:0A][...]
+We must go slow and be quiet...[WAIT][END]
+
+#string:19:0D1
+[STYLE:TATTLE][...]
+{Func_2B}This is only a corridor but it's
+as big as an ordinary room.
+Is that necessary?
+[WAIT][NEXT][...]
+This area alone might be bigger
+than my entire house.
+[PAUSE:0F][...]
+That makes me mad for some
+reason.[WAIT][END]
+
+#string:19:0D2
+[STYLE:TATTLE][...]
+{Func_2B}Hey look! A table, a bed,
+a chest and a drawer.
+[WAIT][NEXT][...]
+This is the only tasteful room
+in the place! Everything is so
+elegantly coordinated.[WAIT][END]
+
+#string:19:0D3
+[STYLE:TATTLE][...]
+{Func_2B}I haven't been in many windmills,
+but this one seems weird.
+[PAUSE:0A][...]
+Isn't this a well sitting in the
+middle of it?[WAIT][END]
+
+#string:19:0D4
+[STYLE:TATTLE][...]
+{Func_2B}I guess the well's dry.
+[PAUSE:05][...]
+Lucky for us.[WAIT][END]
+
+#string:19:0D5
+[STYLE:TATTLE][...]
+{Func_2B}You can tell from the dampness
+that there used to be water in
+this well.
+[WAIT][NEXT][...]
+The rocks are also moist to the
+touch.[WAIT][END]
+
+#string:19:0D6
+[STYLE:TATTLE][...]
+{Func_2B}You wouldn't expect there to be
+such a nice walkway in a place
+like this.
+[WAIT][NEXT][...]
+It's so neat. It doesn't look
+like it's a natural path.
+[PAUSE:0A][...]
+Somebody must take care of it...[WAIT][END]
+
+#string:19:0D7
+[STYLE:TATTLE][...]
+{Func_2B}Something important has just got
+to be back here. Nobody would
+dig such a long tunnel for
+nothing...
+[WAIT][NEXT][...]
+What do you think it could
+possibly be, Mario?[WAIT][END]
+
+#string:19:0D8
+[STYLE:TATTLE][...]
+{Func_2B}This is the very end of the
+tunnel in the well.
+[PAUSE:05][...]
+It seems to be a big dead end.
+[WAIT][NEXT][...]
+This really is the perfect spot
+for hiding something really
+valuable.[WAIT][END]
+
+#string:19:0D9
+[STYLE:TATTLE][...]
+{Func_2B}This seems to be a playroom for
+Shy Guys.
+[WAIT][NEXT][...]
+They don't have to answer to
+anybody down here.
+[PAUSE:05][...]
+I envy these guys...[WAIT][END]
+
+#string:19:0DA
+[STYLE:TATTLE][...]
+{Func_2B}Wow! Just like a real toy box.
+[PAUSE:0A][...]
+Look! There are building blocks 
+lying around everywhere.[WAIT][END]
+
+#string:19:0DB
+[STYLE:TATTLE][...]
+{Func_2B}Say...are we actually inside the
+Toy Box right now?
+[WAIT][NEXT][...]
+How could all this be inside that
+little box? Best not to think
+about it too much...
+[WAIT][NEXT][...]
+Looks like this is Blue Station.
+[PAUSE:0A][...]
+It's a train station.
+[WAIT][NEXT][...]
+I think if we use that jump pad
+we can go back to Toad Town
+whenever we want.[WAIT][END]
+
+#string:19:0DC
+[STYLE:TATTLE][...]
+{Func_2B}Look at all the doodles on the
+walls!
+[PAUSE:05][...]
+Did Shy Guys draw all these?
+[WAIT][NEXT][...]
+They're kind of cute.
+[PAUSE:05][...]
+I didn't know that Shy Guys had
+a cute side.[WAIT][END]
+
+#string:19:0DD
+[STYLE:TATTLE][...]
+{Func_2B}Look! There are moving panels
+on the walls and [PAUSE:05]even a railroad
+crossing.
+What a fun room!
+[WAIT][NEXT][...]
+I wish I could play here![WAIT][END]
+
+#string:19:0DE
+[STYLE:TATTLE][...]
+{Func_2B}Pink Station! Pink Station!
+[PAUSE:0A][...]
+There's the switch to
+change the tracks.
+[WAIT][NEXT][...]
+I have to admit, this Toy Box is
+a pretty cool place.
+[WAIT][NEXT][...]
+If I told Goombaria about this,
+I'm sure she would be so jealous.[WAIT][END]
+
+#string:19:0DF
+[STYLE:TATTLE][...]
+{Func_2B}Over, around, up and back...
+It's like a maze in here.
+[PAUSE:0A][...]
+Still, since we're inside a Toy
+Box, I'm enjoying myself.[WAIT][END]
+
+#string:19:0E0
+[STYLE:TATTLE][...]
+{Func_2B}Hey, it's Green Station!
+[PAUSE:0A][...]
+This train takes us to all the
+stations.
+[WAIT][NEXT][...]
+Boy, if we could go anywhere by
+just pushing a button, traveling
+would be a dream, don't you
+think?[WAIT][END]
+
+#string:19:0E1
+[STYLE:TATTLE][...]
+{Func_2B}Somebody told me...
+[PAUSE:0A][...]
+Bow can easily avoid all kinds
+of enemy attacks.
+[WAIT][NEXT][...]
+What a cool skill!
+[PAUSE:0A][...]
+I wish I had that kind of useful
+talent.[WAIT][END]
+
+#string:19:0E2
+[STYLE:TATTLE][...]
+{Func_2B}It's Red Station.
+[PAUSE:05][...]
+First Blue, then Pink, then Green
+and finally Red.
+[WAIT][NEXT][...]
+It's a pretty cute touch, naming
+stations after colors.
+[WAIT][NEXT][...]
+By the looks of this place, I'd
+say that Shy Guys like cuteness.
+They even look like cute kids![WAIT][END]
+
+#string:19:0E3
+[STYLE:TATTLE][...]
+{Func_2B}The walls here are made of
+gigantic colored blocks.
+[PAUSE:05][...]
+Luckily, there also seem to be
+several elevators.
+[WAIT][NEXT][...]
+What do you think we'll see if
+we ride them?
+[PAUSE:0A][...]
+I say we find out.[WAIT][END]
+
+#string:19:0E4
+[STYLE:TATTLE][...]
+{Func_2B}Uh... I do believe it's dark.
+[PAUSE:05][...]
+Isn't there a light switch in this
+place?
+[PAUSE:05][...]
+I can't see anything at all.[WAIT][END]
+
+#string:19:0E5
+[STYLE:TATTLE][...]
+{Func_2B}I wonder who made this Toy Box.
+[PAUSE:0A][...]
+I assume Shy Guys made it.
+[WAIT][NEXT][...]
+They have such cool toys... I wish
+I could befriend 'em, but I guess
+they're too mischievous.[WAIT][END]
+
+#string:19:0E6
+[STYLE:TATTLE][...]
+{Func_2B}It's really dark in here.
+[PAUSE:05][...]
+I can't see a thing.
+[WAIT][NEXT][...]
+I feel like somebody could be
+right next to me and I wouldn't
+even know it. Yikes![WAIT][END]
+
+#string:19:0E7
+[STYLE:TATTLE][...]
+{Func_2B}This is quite an open space.
+[PAUSE:05][...]
+It kind of resembles a toy
+arena, don't you think?
+[WAIT][NEXT][...]
+Remember those Shy Guys we
+fought here? They were tough.
+[WAIT][NEXT][...]
+Of course,
+[PAUSE:05][...]
+they weren't as tough as us.[WAIT][END]
+
+#string:19:0E8
+[STYLE:TATTLE][...]
+{Func_2B}The walls here are so fancy and
+fun to look at.
+[PAUSE:05][...]
+What a cool place![WAIT][END]
+
+#string:19:0E9
+[STYLE:TATTLE][...]
+{Func_2B}This whale's tongue is squishy.
+It makes it hard to walk.
+[PAUSE:05][...]
+It's also kind of dark...[WAIT][END]
+
+#string:19:0EA
+[STYLE:TATTLE][...]
+{Func_2B}It's completely dark. I can't
+see a thing,
+Mario! [PAUSE:0A]What's up ahead?
+[WAIT][NEXT][...]
+You know, being inside a whale
+belly is gross...
+Damp... Squishy...
+[PAUSE:05][...]
+Let's never do this again.[WAIT][END]
+
+#string:19:0EB
+[STYLE:TATTLE][...]
+{Func_2B}This is where the whale comes
+and goes!
+[PAUSE:0A][...]
+Riding the whale sure was fun!
+[WAIT][NEXT][...]
+This is where all travelers
+first set foot on the beach of
+Lavalava Island.
+[WAIT][NEXT][...]
+Beautiful water... Deep, lush
+jungles... A huge volcano...
+There's something for everyone![WAIT][END]
+
+#string:19:0EC
+[STYLE:TATTLE][...]
+{Func_2B}These beaches seem to go on
+forever, don't they?
+[WAIT][NEXT][...]
+I've never seen some of these
+flowers. They're sure pretty!
+[PAUSE:05][...]
+I should look for some shells
+if we have time later.
+[WAIT][NEXT][...]
+I'm going to take flowers and
+shells back to Goombaria.
+[PAUSE:0A][...]
+She'll be happy...and she'll
+also be jealous. Ha ha ha![WAIT][END]
+
+#string:19:0ED
+[STYLE:TATTLE][...]
+{Func_2B}Yoshis seem to love the beach.
+[PAUSE:0F][...]
+Just looking at those guys
+basking in the sun makes me
+feel very relaxed.
+[WAIT][NEXT][...]
+And yet, even though I'd love
+to just sleep on the beach, I'm
+excited to move on.
+[WAIT][NEXT][...]
+Nothing compares to adventure,
+that's for sure![WAIT][END]
+
+#string:19:0EE
+[STYLE:TATTLE][...]
+{Func_2B}There's a real tropical resort
+atmosphere here, isn't there?
+[WAIT][NEXT][...]
+There's a nice Toad House with
+beach access, and you can go to
+the volcano or Jade Jungle.[WAIT][END]
+
+#string:19:0EF
+[STYLE:TATTLE][...]
+{Func_2B}The entrance to the volcano is
+very near here.
+[WAIT][NEXT][...]
+A green jungle, a massive
+volcano and red-hot, flowing
+lava. What a view!
+[WAIT][NEXT][...]
+It probably wouldn't look so
+good if the lava were coming
+toward us.[WAIT][END]
+
+#string:19:0F0
+[STYLE:TATTLE][...]
+{Func_2B}Sometimes crossing bridges is
+the only way to reach certain
+islands.
+[WAIT][NEXT][...]
+It seems like a pain, but what
+are you gonna do?[WAIT][END]
+
+#string:19:0F1
+[STYLE:TATTLE][...]
+{Func_2B}This is where we saved Sushie
+when she was caught up in that
+tree.
+[WAIT][NEXT][...]
+Waa ha ha ha...
+[WAIT][NEXT][...]
+I just can't help laughing when
+I remember that!
+[PAUSE:05][...]
+Please don't tell her I laughed
+about it, Mario![WAIT][END]
+
+#string:19:0F2
+[STYLE:TATTLE][...]
+{Func_2B}I thought jungles were supposed
+to be all trees, but this one's
+full of water.
+[PAUSE:05][...]
+Are all jungles like this?
+[WAIT][NEXT][...]
+It looks like we can't reach the
+other shore from here.
+[PAUSE:05][...]
+We'll have to find another way.[WAIT][END]
+
+#string:19:0F3
+[STYLE:TATTLE][...]
+{Func_2B}I can't imagine what those Yoshi
+kids were thinking...
+...playing in a place like this...
+[PAUSE:05][...]
+I'm not surprised, though.
+[WAIT][NEXT][...]
+Kids! Always up to something!
+Besides, it's natural to want
+to go on an adventure.[WAIT][END]
+
+#string:19:0F4
+[STYLE:TATTLE][...]
+{Func_2B}We're in Jade Jungle.
+[PAUSE:05][...]
+Quite a lot of water, huh?
+[WAIT][NEXT][...]
+Since there's no bridge,
+[PAUSE:05][...]
+we'll have to find another way
+to get around.[WAIT][END]
+
+#string:19:0F5
+[STYLE:TATTLE][...]
+{Func_2B}That rotating flower down by
+that ledge? Locals call it a
+Spinning Flower.
+[WAIT][NEXT][...]
+If you spin around on top of
+that flower, I hear that you can
+float upward.[WAIT][END]
+
+#string:19:0F6
+[STYLE:TATTLE][...]
+{Func_2B}For a jungle, there sure aren't
+many trees around.
+[WAIT][NEXT][...]
+It gets brutally hot here
+whenever the sun shines directly
+on me.[WAIT][END]
+
+#string:19:0F7
+[STYLE:TATTLE][...]
+{Func_2B}My, it's bright here!
+[PAUSE:0A][...]
+This must be on the outskirts of
+the jungle, huh?
+[WAIT][NEXT][...]
+Incidentally, I have no idea
+[PAUSE:0A][...]
+how those Yoshi kids could come
+this deep into the jungle.[WAIT][END]
+
+#string:19:0F8
+[STYLE:TATTLE][...]
+{Func_2B}There's a big Raven's statue.
+[WAIT][NEXT][...]
+You gotta figure... A big statue
+this deep in the jungle...
+I bet it's important.[WAIT][END]
+
+#string:19:0F9
+[STYLE:TATTLE][...]
+{Func_2B}I bet only jungle explorers know
+about this hidden underground
+chamber.
+[WAIT][NEXT][...]
+It's so dark in here I can't see
+a thing.[WAIT][END]
+
+#string:19:0FA
+[STYLE:TATTLE][...]
+{Func_2B}Ooh...it's darker in here.
+[PAUSE:05][...]
+The trees are much thicker and
+that bizarre ivy seems to be
+growing everywhere.[WAIT][END]
+
+#string:19:0FB
+[STYLE:TATTLE][...]
+{Func_2B}What cool little fountains!
+Must be an underground spring.
+[WAIT][NEXT][...]
+If we push these blocks over the
+holes to seal 'em, what'll happen
+to the water?
+[WAIT][NEXT][...]
+Do you think it'll come out from
+another hole?[WAIT][END]
+
+#string:19:0FC
+[STYLE:TATTLE][...]
+{Func_2B}Looks like some of the ivy is
+hanging off the trees here.
+[PAUSE:0A][...]
+I wonder what would happen if
+you pulled on it?[WAIT][END]
+
+#string:19:0FD
+[STYLE:TATTLE][...]
+{Func_2B}What part of Jade Jungle are
+we in?
+[PAUSE:05][...]
+I'm thinking we're deep in the
+inner jungle.
+[WAIT][NEXT][...]
+I think I hear something.
+[PAUSE:0A][...]
+From just ahead, I can almost
+hear mysterious voices...[WAIT][END]
+
+#string:19:0FE
+[STYLE:TATTLE][...]
+{Func_2B}What a huge tree!
+[PAUSE:0A][...]
+This definitely must be the
+biggest tree in Jade Jungle.
+[WAIT][NEXT][...]
+How old must it be?[WAIT][END]
+
+#string:19:0FF
+[STYLE:TATTLE][...]
+{Func_2B}It's so spacious in here!
+[PAUSE:0A][...]
+I can't believe we're inside a
+tree right now.[WAIT][END]
+
+#string:19:100
+[STYLE:TATTLE][...]
+{Func_2B}Whoa! We're way up high!
+[PAUSE:05][...]
+The jungle floor looks so tiny
+from here! 
+[WAIT][NEXT][...]
+Gulp! Have I mentioned before
+that I hate heights?[WAIT][END]
+
+#string:19:101
+[STYLE:TATTLE][...]
+{Func_2B}I can't get over how huge the
+inside of this tree is! It's
+enormous! It's mammoth!
+[WAIT][NEXT][...]
+And another thing, it's giant![WAIT][END]
+
+#string:19:102
+[STYLE:TATTLE][...]
+{Func_2B}This appears to be the nest of
+Raphael the Raven.
+[PAUSE:05][...]
+He's the guardian of Jade
+Jungle.
+[WAIT][NEXT][...]
+This nest is really sturdy. It
+won't budge, even if Raphael
+jumps up and down on the
+branch.[WAIT][END]
+
+#string:19:103
+[STYLE:TATTLE][...]
+{Func_2B}This is definitely the entrance
+to the volcano.
+[PAUSE:05][...]
+What do you say we explore
+deeper inside?
+[WAIT][NEXT][...]
+The scenery around here is
+unlike anything I've ever seen.
+I wish we had time to inspect it![WAIT][END]
+
+#string:19:104
+[STYLE:TATTLE][...]
+{Func_2B}Now that...is a lot of lava.
+[PAUSE:05][...]
+Did you know it'd be this hot?
+[PAUSE:05][...]
+And we have to cross here, don't
+we? I knew it.[WAIT][END]
+
+#string:19:105
+[STYLE:TATTLE][...]
+{Func_2B}This is a big cavern.
+[PAUSE:05][...]
+I've heard that some volcanoes
+have caverns that go down for
+miles and miles![WAIT][END]
+
+#string:19:106
+[STYLE:TATTLE][...]
+{Func_2B}These Fire Bars are a huge pain,
+aren't they, Mario?
+[PAUSE:05][...]
+We can get by 'em. Don't worry.[WAIT][END]
+
+#string:19:107
+[STYLE:TATTLE][...]
+{Func_2B}This is a steep slope.
+[PAUSE:0A][...]
+We have to press on, but I'm 
+getting a little tired going over
+over such rough road.[WAIT][END]
+
+#string:19:108
+[STYLE:TATTLE][...]
+{Func_2B}You know, if it weren't for that
+lava, it'd be dark in here.[WAIT][END]
+
+#string:19:109
+[STYLE:TATTLE][...]
+{Func_2B}Boy, this lava is everywhere!
+How are we gonna cross it?[WAIT][END]
+
+#string:19:10A
+[STYLE:TATTLE][...]
+{Func_2B}Boy, we're real spelunkers,
+aren't we? My Goompa told me
+that means cave-explorer.
+Kind of like Kolorado!
+[WAIT][NEXT][...]
+I wonder how he manages,
+exploring all by himself?
+[PAUSE:0F][...]
+At least we have each other.[WAIT][END]
+
+#string:19:10B
+[STYLE:TATTLE][...]
+{Func_2B}This is a pit if I ever saw one.
+[PAUSE:05][...]
+It's a big one, too. If we're not
+careful, we could get lost. [WAIT][END]
+
+#string:19:10C
+[STYLE:TATTLE][...]
+{Func_2B}This is a really steep slope.
+[PAUSE:05][...]
+If we dropped something here,
+gravity would make it roll down.[WAIT][END]
+
+#string:19:10D
+[STYLE:TATTLE][...]
+{Func_2B}It's like a sea filled with lava.
+[WAIT]{Scroll:01}{StartFX:FadedJitter:02}{StartFX:Wavy}Welcome to the Lava Sea!
+{EndFX:Wavy}{EndFX:FadedJitter}[PAUSE:08][WAIT]{Scroll:01}Wanna swim? [PAUSE:0A]I'm just joking, Mario.[WAIT][END]
+
+#string:19:10E
+[STYLE:TATTLE][...]
+{Func_2B}We need to go east from here.
+It's a good thing that it's just
+light enough to see. [WAIT][END]
+
+#string:19:10F
+[STYLE:TATTLE][...]
+{Func_2B}This cavern is lit by the lava
+below, so the upper level is
+slightly darker.[WAIT][END]
+
+#string:19:110
+[STYLE:TATTLE][...]
+{Func_2B}Lava has filled in the floor down
+there, so we can't go back down.
+[WAIT][NEXT][...]
+Too bad! Well, I guess we should
+be moving on--with any luck to 
+someplace a lot cooler![WAIT][END]
+
+#string:19:111
+[STYLE:TATTLE][...]
+{Func_2B}It's hot, hot, [PAUSE:05]scorching hot!
+[WAIT][NEXT][...]
+It's like being slowly cooked
+from the bottom up!
+In hot grease! On a hot day!
+I can't take it anymore![WAIT][END]
+
+#string:19:112
+[STYLE:TATTLE][...]
+{Func_2B}This place is shaking itself to
+pieces! This is not good![WAIT][END]
+
+#string:19:113
+[STYLE:TATTLE][...]
+{Func_2B}The lava's overflowing...
+[PAUSE:08][...]
+We're never gonna make it!
+[PAUSE:0A][...]
+What are we gonna do??[WAIT][END]
+
+#string:19:114
+[STYLE:TATTLE][...]
+{Func_2B}This is the portal between the
+flower garden in Toad Town and
+Flower Fields. 
+[WAIT][NEXT][...]
+The Wise Wisterwood, who's the
+elder of this fair land, watches
+over the area.
+[PAUSE:0A][...]
+Talk about a big tree![WAIT][END]
+
+#string:19:115
+[STYLE:TATTLE][...]
+{Func_2B}Petunia makes her home here.
+[WAIT][NEXT][...]
+But I didn't know that Monty
+Moles did, as well.[WAIT][END]
+
+#string:19:116
+[STYLE:TATTLE][...]
+{Func_2B}What crystal-clear water!
+[PAUSE:05][...]
+Just looking at it refreshes me!
+[PAUSE:0A][...]
+I feel like a new Goomba![WAIT][END]
+
+#string:19:117
+[STYLE:TATTLE][...]
+{Func_2B}I guess they couldn't call it
+Flower Fields without flowers.
+[PAUSE:05][...]
+Me, I'd rather have some tasty
+fruit than pretty flowers.
+[WAIT][NEXT][...]
+As short as I am, when we walk
+through flowers, I can't see
+a thing! And I have allergies!
+[PAUSE:0A][...]
+It's not a whole lot of fun.[WAIT][END]
+
+#string:19:118
+[STYLE:TATTLE][...]
+{Func_2B}There's another platform up
+there, but I don't think we can
+get up there.
+[WAIT][NEXT][...]
+I hate these flower patches!
+They totally cover me!
+[WAIT][NEXT][...]
+Those three trees seem to be
+important to me. If we hit 'em
+right, something might drop.[WAIT][END]
+
+#string:19:119
+[STYLE:TATTLE][...]
+{Func_2B}It looks like there hasn't been
+water here in a while.
+[WAIT][NEXT][...]
+And there's just one flower.
+How very sad.[WAIT][END]
+
+#string:19:11A
+[STYLE:TATTLE][...]
+{Func_2B}Lily looks happy in her
+replenished spring, huh?
+[PAUSE:05][...]
+It's so much more beautiful here
+when there's water flowing.
+[WAIT][NEXT][...]
+Do you think this water flows to
+all parts of Flower Fields?
+[WAIT][NEXT][...]
+I've heard that this water is
+absolutely bursting with healthy
+nutrients.[WAIT][END]
+
+#string:19:11B
+[STYLE:TATTLE][...]
+{Func_2B}It's a hedge maze.
+[WAIT][NEXT][...]
+I hope we don't get lost. I'm not
+very good at mazes. Still, I know
+you'll get us through all right.
+You're Mario![WAIT][END]
+
+#string:19:11C
+[STYLE:TATTLE][...]
+{Func_2B}Oh, I love rose gardens!
+Roses are just the best.
+[PAUSE:0A][...]
+Although they do have thorns,
+don't they?
+[WAIT][NEXT][...]
+All of the most beautiful flowers
+have thorns. At least that's
+what they say.[WAIT][END]
+
+#string:19:11D
+[STYLE:TATTLE][...]
+{Func_2B}This area is full of flowers.
+[PAUSE:0A][...]
+Red flowers, blue flowers,
+yellow flowers...even orange
+flowers are blooming.
+[WAIT][NEXT][...]
+It looks like there are a lot of
+Lakitus in bloom, too.[WAIT][END]
+
+#string:19:11E
+[STYLE:TATTLE][...]
+{Func_2B}Look, a flower blowing lots of
+bubbles!
+[PAUSE:0A][...]
+Will wonders never cease?[WAIT][END]
+
+#string:19:11F
+[STYLE:TATTLE][...]
+{Func_2B}It's the Sun Tower.
+[WAIT][NEXT][...]
+This is where the sun comes to
+rest.
+[PAUSE:0A][...]
+Do you think it's waiting here or
+being forced to stay?[WAIT][END]
+
+#string:19:120
+[STYLE:TATTLE][...]
+{Func_2B}Green, purple and red...
+the platforms are all different
+colors.
+[WAIT][NEXT][...]
+If you jump on them hard, they'll
+move up and down.
+[PAUSE:0A][...]
+We need to figure out the right
+order to move them in.[WAIT][END]
+
+#string:19:121
+[STYLE:TATTLE][...]
+{Func_2B}There are flower patches
+bordering this path.
+[WAIT][NEXT][...]
+It looks peaceful, but there are
+lots of briar patches and
+enemies around, so be careful.[WAIT][END]
+
+#string:19:122
+[STYLE:TATTLE][...]
+{Func_2B}What happened to the wall here?
+It looks like it collapsed.
+[PAUSE:05][...]
+This place seems very different
+from the rest of Flower Fields.[WAIT][END]
+
+#string:19:123
+[STYLE:TATTLE][...]
+{Func_2B}Wow! We're in the clouds!
+[PAUSE:0A][...]
+We're floating!. It feels comfy,
+but I just don't quite trust it.
+[PAUSE:05][...]
+Mario,
+[WAIT][NEXT][...]
+am I sinking? Am I?[WAIT][END]
+
+#string:19:124
+[STYLE:TATTLE][...]
+{Func_2B}We're way up in the air.
+[PAUSE:05][...]
+Since we're on a cloud, we must
+be close to Star Haven.
+[WAIT][NEXT][...]
+Do you think the Star Spirits
+are OK?[WAIT][END]
+
+#string:19:125
+[STYLE:TATTLE][...]
+{Func_2B}A tree's been cut down here.
+[PAUSE:05][...]
+And there's a well. Do you think
+we can get water from there?
+[WAIT][NEXT][...]
+You never know, something might
+be living in there...
+[PAUSE:0F][...]
+What if something weird jumps
+out at us? Well, it could![WAIT][END]
+
+#string:19:126
+[STYLE:TATTLE][...]
+{Func_2B}Look at all the flowers.
+[PAUSE:0A][...]
+Even the flowers blooming along
+the road are beautiful here in
+Flower Fields.[WAIT][END]
+
+#string:19:127
+[STYLE:TATTLE][...]
+{Func_2B}Boy, if you like flowers, this is
+the place to be. Look at all the
+foliage!
+[WAIT][NEXT][...]
+Hey, by the way, blue trees
+produce Bubble Berries.[WAIT][END]
+
+#string:19:128
+[STYLE:TATTLE][...]
+{Func_2B}Since it's called Flower Fields,
+you know there have to be lots
+of flowers around here.
+[PAUSE:0A][...]
+But there are also a few trees.[WAIT][END]
+
+#string:19:129
+[STYLE:TATTLE][...]
+{Func_2B}I heard from Goompa that Shiver
+City is covered with snow all
+year round.[WAIT][END]
+
+#string:19:12A
+[STYLE:TATTLE][...]
+{Func_2B}This is Shiver City.
+[PAUSE:05][...]
+It's usually completely covered
+with snow and ice.
+[WAIT][NEXT][...]
+It's perfect for penguins.
+[PAUSE:05][...]
+It's a bit cold for me.
+[PAUSE:05][...]
+You seem to be fine, though.
+How do you do it, Mario?[WAIT][END]
+
+#string:19:12B
+[STYLE:TATTLE][...]
+{Func_2B}It looks like we could go skating
+on that frozen pond.
+[WAIT][NEXT][...]
+Skating is tons of fun!
+I don't know, though... Do you
+think that ice might break?
+[WAIT][NEXT][...]
+Oh, [PAUSE:05]you might also notice that
+gate over there. It leads out
+into the highlands.
+[WAIT][NEXT][...]
+The path from that gate leads
+all the way to Starborn Valley.[WAIT][END]
+
+#string:19:12C
+[STYLE:TATTLE][...]
+{Func_2B}It's too bad we broke the ice in 
+that pond, huh? Now we can't go
+skating!
+[PAUSE:0A][...]
+What a pity!
+[WAIT][NEXT][...]
+That gate is the way between
+the village and the cold hills
+beyond. A guard is always
+stationed there.
+[WAIT][NEXT][...]
+If you follow the path from that
+gate, eventually you'll come to
+Starborn Valley.[WAIT][END]
+
+#string:19:12D
+[STYLE:TATTLE][...]
+{Func_2B}This path is pretty clear of
+snow, don't you think?
+[WAIT][NEXT][...]
+Do you think people clear it off,
+or does the snow just melt?
+[PAUSE:0A][...]
+Bit of a mystery,
+eh, Mario?
+[WAIT][NEXT][...]
+I wonder if the good citizens
+of Shiver City have an answer
+for it...[WAIT][END]
+
+#string:19:12E
+[STYLE:TATTLE][...]
+{Func_2B}Look at all those snowmen
+standing in a line.
+[WAIT][NEXT][...]
+I wonder who made them...
+And why. They kind of look like
+they're watching the path.
+[WAIT][NEXT][...]
+They look pretty cold, too...
+but I guess snowmen like cold.[WAIT][END]
+
+#string:19:12F
+[STYLE:TATTLE][...]
+{Func_2B}I think we're still on the path,
+but it feels more wild here.
+[WAIT][NEXT][...]
+If we travel east from here,
+we'll hit Starborn Valley.
+[PAUSE:05][...]
+Shiver City is way off to the
+west.[WAIT][END]
+
+#string:19:130
+[STYLE:TATTLE][...]
+{Func_2B}This is Starborn Valley.
+[PAUSE:05][...]
+Merle makes his home here, along
+with Ninjis and Toads.
+[WAIT][NEXT][...]
+They look after Star Kids until
+they go up to the sky.
+[PAUSE:0A][...]
+It must be a hard work.[WAIT][END]
+
+#string:19:131
+[STYLE:TATTLE][...]
+{Func_2B}This is Shiver Mountain.
+[WAIT][NEXT][...]
+This is a very cold, dangerous
+climb.
+Be careful. [PAUSE:05]OK, Mario?[WAIT][END]
+
+#string:19:132
+[STYLE:TATTLE][...]
+{Func_2B}I feel like we're on the edge of
+the world up here.
+[WAIT][NEXT][...]
+Seriously! This is a really
+remote place to go adventuring![WAIT][END]
+
+#string:19:133
+[STYLE:TATTLE][...]
+{Func_2B}Boy, climbing this mountain is
+really hard!
+[WAIT][NEXT][...]
+You'd think the path to a palace
+dedicated to the Stars would be
+a lot less trying on the legs.[WAIT][END]
+
+#string:19:134
+[STYLE:TATTLE][...]
+{Func_2B}Walk carefully up here or else
+you may slip, Mario.
+[WAIT][NEXT][...]
+That would be a long, long way
+down, huh?[WAIT][END]
+
+#string:19:135
+[STYLE:TATTLE][...]
+{Func_2B}What a strange place this is!
+[PAUSE:05][...]
+It's bright even in the cave...
+[PAUSE:0A][...]
+[WAIT][NEXT][...]
+This must be the small cave that
+Merle told us about.
+[WAIT][NEXT][...]
+There's something strange about
+this place...
+[PAUSE:0A][...]
+Even the walls seem suspicious
+to me for some reason.[WAIT][END]
+
+#string:19:136
+[STYLE:TATTLE][...]
+{Func_2B}This is the door to the Crystal
+Palace.
+[PAUSE:05][...]
+We can get in from here.
+[WAIT][NEXT][...]
+It must've been tough to get
+building materials up here!
+[WAIT][NEXT][...]
+Don't you think it would've 
+been more convenient if they
+had built it at a lower
+elevation?[WAIT][END]
+
+#string:19:137
+[STYLE:TATTLE][...]
+{Func_2B}So spacious!
+[PAUSE:05][...]
+You gotta love the high ceilings,
+huh, Mario?
+[WAIT][NEXT][...]
+You could set up a basketball
+court in here!
+[PAUSE:0A][...]
+The rich really know how to live![WAIT][END]
+
+#string:19:138
+[STYLE:TATTLE][...]
+{Func_2B}This room is pretty cramped.
+[PAUSE:05][...]
+I wonder what it was used for.
+[PAUSE:05][...]
+Servants quarters, maybe?[WAIT][END]
+
+#string:19:139
+[STYLE:TATTLE][...]
+{Func_2B}Is this like a waiting room?
+[PAUSE:05][...]
+I don't know how people could
+deal with so many rooms. It's
+totally confusing.[WAIT][END]
+
+#string:19:13A
+[STYLE:TATTLE][...]
+{Func_2B}Even though we're indoors, it's
+still freezing in here!
+[PAUSE:05][...]
+I mean, seriously, the floor's
+frozen.[PAUSE:03].[PAUSE:03]. [PAUSE:05]I hate it.[WAIT][END]
+
+#string:19:13B
+[STYLE:TATTLE][...]
+{Func_2B}Boy, these rooms all seem to look
+alike, huh?
+[WAIT][NEXT][...]
+It seems symmetrical. You know,
+the left side is a mirror image
+of the right side.
+[WAIT][NEXT][...]
+It'll be really easy to get lost
+in here.
+[PAUSE:05][...]
+Continue with care. [PAUSE:05]OK, Mario?[WAIT][END]
+
+#string:19:13C
+[STYLE:TATTLE][...]
+{Func_2B}This is a long corridor, huh?
+[WAIT][NEXT][...]
+Even the wallpaper around here
+looks frozen.
+[PAUSE:05][...]
+Although I do very much like the
+star pattern.[WAIT][END]
+
+#string:19:13D
+[STYLE:TATTLE][...]
+{Func_2B}This is a long corridor, huh?
+[PAUSE:05][...]
+Hey! That's our reflection in the
+floor! It's like a mirror!
+[WAIT][NEXT][...]
+This place almost makes me miss
+the desert. I'm freezing!
+How can you stand it?[WAIT][END]
+
+#string:19:13E
+[STYLE:TATTLE][...]
+{Func_2B}Mario,
+[PAUSE:05][...]
+have you noticed our reflection
+on the floor?
+[WAIT][NEXT][...]
+I don't trust a floor this shiny.
+I bet it's slippery.[WAIT][END]
+
+#string:19:13F
+[STYLE:TATTLE][...]
+{Func_2B}Talk about cold! My knees are
+knocking! My teeth are
+chattering!
+[WAIT][NEXT][...]
+Don't you have any problems
+at all, Mario?
+[PAUSE:0F][...]
+Let's keep moving so I don't 
+freeze into a Goombsicle.
+[WAIT][NEXT][...]
+I've had all I can stand...
+{StartFX:Shrinking}...must leave this fridge...[WAIT][END]
+
+#string:19:140
+[STYLE:TATTLE][...]
+{Func_2B}It looks like your basic passage.
+[PAUSE:05][...]
+Since we're in a palace, I'll call
+it a palatial passage. [WAIT][END]
+
+#string:19:141
+[STYLE:TATTLE][...]
+{Func_2B}Strange... The reflected room
+looks slightly different...
+[PAUSE:0A][...]
+Funny, huh[PAUSE:03].[PAUSE:03].[PAUSE:03].
+[PAUSE:05][...]
+[WAIT][END]
+
+#string:19:142
+[STYLE:TATTLE][...]
+{Func_2B}Ah-ha! [PAUSE:0A]It's a cave, isn't it?
+[WAIT][NEXT][...]
+It's nice to get a breath of
+fresh air, but I must say that
+it's even colder out here than
+in there. Unbelievable![WAIT][END]
+
+#string:19:143
+[STYLE:TATTLE][...]
+{Func_2B}The architecture of this place
+is really bizarre.
+[WAIT][NEXT][...]
+We pass back and forth through
+these glass walls...
+Not knowing what's a mirror and
+what's not really bugs me.[WAIT][END]
+
+#string:19:144
+[STYLE:TATTLE][...]
+{Func_2B}An indoor bridge? Now I've seen
+everything![WAIT][END]
+
+#string:19:145
+[STYLE:TATTLE][...]
+{Func_2B}The official line on this palace
+is that it's temporarily closed
+because of the snow and ice.
+[WAIT][NEXT][...]
+Do you think Kolorado would
+research this place?
+[WAIT][NEXT][...]
+I wonder if he's already planning
+a trip here...
+[PAUSE:05][...]
+Maybe he's never heard of the
+palace at all.
+[WAIT][NEXT][...]
+Or maybe he just has no clue how
+to get up here.[WAIT][END]
+
+#string:19:146
+[STYLE:TATTLE][...]
+{Func_2B}It's easy to believe that this
+place was originally built as
+a palace to honor the Stars of
+the sky.
+[WAIT][NEXT][...]
+Merle said that, didn't he?
+[PAUSE:05][...]
+It's terrible that people have
+forgotten it and don't come
+here anymore. What a waste.
+[WAIT][NEXT][...]
+Maybe after we clear it, the
+tourist trade will start anew.[WAIT][END]
+
+#string:19:147
+[STYLE:TATTLE][...]
+{Func_2B}That's one big stone statue.
+[PAUSE:0A][...]
+Even you couldn't budge a
+statue that massive, Mario. 
+[WAIT][NEXT][...]
+If it were just a bit smaller,
+we could probably push it.[WAIT][END]
+
+#string:19:148
+[STYLE:TATTLE][...]
+{Func_2B}There's a mysterious stone
+statue.
+[WAIT][NEXT][...]
+This palace seems to have
+cornered the market on
+mysterious stone statues, huh?[WAIT][END]
+
+#string:19:149
+[STYLE:TATTLE][...]
+{Func_2B}The blue decorating scheme
+makes this place feel so cold.
+[WAIT][NEXT][...]
+Some warm tones would help.
+[PAUSE:08][...]
+{StartFX:Jitter}{StartFX:FadedNoise:1E}...So...very...cold...[WAIT][END]
+
+#string:19:14A
+[STYLE:TATTLE][...]
+{Func_2B}I think my body temperature has
+dropped about ten degrees since
+we've been here.
+[WAIT][NEXT][...]
+I should've kept that scarf we
+gave to the snowman.
+[WAIT][NEXT][...]
+Mario, you don't look cold.
+[PAUSE:0A][...]
+Is it just because I'm a Goomba
+or because you're a fine-tuned
+adventuring machine?[WAIT][END]
+
+#string:19:14B
+[STYLE:TATTLE][...]
+{Func_2B}Hey, Mario!
+[PAUSE:0A][...]
+You can reach far-off objects
+by jumping and kicking Kooper's
+shell, isn't that right?
+[WAIT][NEXT][...]
+So he can activate switches that
+are across wide gaps or even in
+reflections, right?
+[PAUSE:0A][...]
+I wish I could do that, too.[WAIT][END]
+
+#string:19:14C
+[STYLE:TATTLE][...]
+{Func_2B}Those Albino Dinos...
+[PAUSE:0A][...]
+They seem to turn and face us
+when we talk to 'em.[WAIT][END]
+
+#string:19:14D
+[STYLE:TATTLE][...]
+{Func_2B}Hmm...a back door.
+[PAUSE:05][...]
+You think it's going to be a
+dead end up ahead? 
+[WAIT][NEXT][...]
+Hey, by the way...
+What do you think the Star
+Spirits are up to right now?
+[WAIT][NEXT][...]
+I was just thinking of 'em.[WAIT][END]
+
+#string:19:14E
+[STYLE:TATTLE][...]
+{Func_2B}I thought you already knew that
+you could activate switches by
+giving them some sort of shock.
+[WAIT][NEXT][...]
+You can use Kooper or Bombette
+to do it, you know.
+[PAUSE:0A][...]
+Don't forget![WAIT][END]
+
+#string:19:14F
+[STYLE:TATTLE][...]
+{Func_2B}Well, I've determined that
+there's nothing here but cold,
+and {StartFX:Shrinking}I don't like it at all!!![WAIT][END]
+
+#string:19:150
+[STYLE:TATTLE][...]
+{Func_2B}All the rooms look alike around
+here.
+[PAUSE:0A][...]
+Did they design this area to
+intentionally confuse us?[WAIT][END]
+
+#string:19:151
+[STYLE:TATTLE][...]
+{Func_2B}I wonder how far we've gone.
+[PAUSE:0A][...]
+I really can't say enough
+good things about the star
+decorations here.
+[WAIT][NEXT][...]
+I mean it.
+[PAUSE:05][...]
+It's such a pity that people
+don't visit here.[WAIT][END]
+
+#string:19:152
+[STYLE:TATTLE][...]
+{Func_2B}{StartFX:Jitter}{StartFX:FadedNoise:1E}Brrr...
+{EndFX:FadedNoise}{EndFX:Jitter}It's so cold. This cold is gonna
+give me a cold...[WAIT][END]
+
+#string:19:153
+[STYLE:TATTLE][...]
+{Func_2B}I never trust polished floors
+because they're often slippery.
+[PAUSE:0A][...]
+I really don't want to fall and
+bump my head.[WAIT][END]
+
+#string:19:154
+[STYLE:TATTLE][...]
+{Func_2B}My reflection is weird.
+[PAUSE:0A][...]
+Seeing myself in the floor is
+starting to freak me out.[WAIT][END]
+
+#string:19:155
+[STYLE:TATTLE][...]
+{Func_2B}It looks like we can take a
+break here, doesn't it?
+[PAUSE:0A][...]
+If only we had some hot cocoa,
+we could take a real rest.[WAIT][END]
+
+#string:19:156
+[STYLE:TATTLE][...]
+{Func_2B}It's Bowser's Castle.
+[PAUSE:05][...]
+This appears to be the hangar
+for Bowser's vehicles.[WAIT][END]
+
+#string:19:157
+[STYLE:TATTLE][...]
+{Func_2B}Boy! Bowser's Castle.
+[PAUSE:05][...]
+Talk about your basic eerie
+atmosphere, huh? 
+[WAIT][NEXT][...]
+{StartFX:Jitter}{StartFX:FadedNoise:1E}Oh... {EndFX:Jitter}{EndFX:FadedNoise}[PAUSE:0A]I'm nervous and excited at
+the same time.
+[PAUSE:05][...]
+We're heading for the final fight
+at last![WAIT][END]
+
+#string:19:158
+[STYLE:TATTLE][...]
+{Func_2B}Are we still outside the castle
+or what?
+[PAUSE:0A][...]
+Let's hurry through here.
+[PAUSE:05][...]
+OK, Mario?[WAIT][END]
+
+#string:19:159
+[STYLE:TATTLE][...]
+{Func_2B}I've gotta hand it to him.
+Bowser's Castle is amazing!
+[PAUSE:0A][...]
+Such creative use of lava flows!
+It's just like that volcano![WAIT][END]
+
+#string:19:15A
+[STYLE:TATTLE][...]
+{Func_2B}It's a covered hallway in
+Bowser's Castle.
+[WAIT][NEXT][...]
+It doesn't look like anything's
+amiss in here.
+[PAUSE:05][...]
+Let's press on, Mario.[WAIT][END]
+
+#string:19:15B
+[STYLE:TATTLE][...]
+{Func_2B}These stairs aren't lighted
+very well, are they?
+[PAUSE:05][...]
+I wonder how deep below ground
+they go.
+[WAIT][NEXT][...]
+Bowser should really look into
+some ambient lighting.  [WAIT][END]
+
+#string:19:15C
+[STYLE:TATTLE][...]
+{Func_2B}This is a prison cell where
+Toads are being held.
+[WAIT][NEXT][...]
+You know... There are Toads
+here...and beds...
+It's kind of like a Toad House!
+[WAIT][NEXT][...]
+Do you think that I'm just an
+incurable optimist? Well, what's
+wrong with that?[WAIT][END]
+
+#string:19:15D
+[STYLE:TATTLE][...]
+{Func_2B}It's a covered hallway.
+[PAUSE:05][...]
+I can sum up the decorations in
+two words: pure Bowser!
+[WAIT][NEXT][...]
+Such dark colors and drab
+lighting! What terrible taste![WAIT][END]
+
+#string:19:15E
+[STYLE:TATTLE][...]
+{Func_2B}Look at the size of that stone
+Bowser face!
+[PAUSE:05][...]
+He's pretty scary looking.
+[WAIT][NEXT][...]
+That face gives me the creeps,
+Mario.[WAIT][END]
+
+#string:19:15F
+[STYLE:TATTLE][...]
+{Func_2B}It's an underground prison cell,
+Mario.
+[WAIT][NEXT][...]
+Are you sure you can find the
+way back to where we were
+before?[WAIT][END]
+
+#string:19:160
+[STYLE:TATTLE][...]
+{Func_2B}I wonder where all this lava
+comes from?
+[PAUSE:05][...]
+Don't you think it's odd?[WAIT][END]
+
+#string:19:161
+[STYLE:TATTLE][...]
+{Func_2B}The lava seems to have hardened
+as it cooled off.[WAIT][END]
+
+#string:19:162
+[STYLE:TATTLE][...]
+{Func_2B}Lava, lava, lava!  There's such
+a thing as too much lava,
+that's for sure.
+[WAIT][NEXT][...]
+Mario, are you all right in this
+heat?
+[WAIT][NEXT][...]
+Boy, it's hot!
+[PAUSE:0A][...]
+This adventure has just been
+one extreme or the other.[WAIT][END]
+
+#string:19:163
+[STYLE:TATTLE][...]
+{Func_2B}You know, walking on newly
+hardened lava is not exactly
+something that your average
+Goomba gets to experience.[WAIT][END]
+
+#string:19:164
+[STYLE:TATTLE][...]
+{Func_2B}The only way to cross the lava  
+is to have somebody carry us.
+[WAIT][NEXT][...]
+If we could find a way to cool
+the lava off, we could probably
+walk on it, though.
+[WAIT][NEXT][...]
+And if we have to pass through
+lava flows, we can have Bow hide
+us from danger.[WAIT][END]
+
+#string:19:165
+[STYLE:TATTLE][...]
+{Func_2B}Now we're cooking! I mean, now
+we're not cooking!
+[PAUSE:0A][...]
+It's still hot, but not, you know,
+burning hot.[WAIT][END]
+
+#string:19:166
+[STYLE:TATTLE][...]
+{Func_2B}There's a treasure chest.
+[PAUSE:0A][...]
+Things are looking up. The lava
+has even cooled. [WAIT][END]
+
+#string:19:167
+[STYLE:TATTLE][...]
+{Func_2B}Here's the source of the lava.
+[PAUSE:05][...]
+It's miserably hot when it's
+flowing.
+[WAIT][NEXT][...]
+It's not so bad when it's cooled
+off, though.[WAIT][END]
+
+#string:19:168
+[STYLE:TATTLE][...]
+{Func_2B}It seems to be a cave.
+[PAUSE:05][...]
+Are we below the castle?
+[PAUSE:05][...]
+It's so dark.
+[WAIT][NEXT][...]
+They must have had problems
+setting up lights down here.
+What a pain for us.[WAIT][END]
+
+#string:19:169
+[STYLE:TATTLE][...]
+{Func_2B}It seems to be a cave.
+[PAUSE:05][...]
+Are we below the castle?
+[PAUSE:05][...]
+It's so dark.
+[WAIT][NEXT][...]
+How long can this darkness
+possibly last? [WAIT][END]
+
+#string:19:16A
+[STYLE:TATTLE][...]
+{Func_2B}Ah! We're back inside Bowser's
+Castle.
+[WAIT][NEXT][...]
+There's a stone pedestal with
+Bowser's face carved on it.
+[WAIT][NEXT][...]
+What poor taste!
+[PAUSE:05][...]
+What an egomaniac!
+[PAUSE:0A][...]
+If we push that thing, what do
+you think will happen?[WAIT][END]
+
+#string:19:16B
+[STYLE:TATTLE][...]
+{Func_2B}It's a hall in Bowser's Castle.
+[WAIT][NEXT][...]
+I wonder where it leads.
+[PAUSE:05][...]
+We have to hurry! And yet, we
+should also be careful.[WAIT][END]
+
+#string:19:16C
+[STYLE:TATTLE][...]
+{Func_2B}Here's the storage room for
+Bowser's Castle.
+[PAUSE:05][...]
+It looks like one of his subjects
+is selling his stuff. Ha ha![WAIT][END]
+
+#string:19:16D
+[STYLE:TATTLE][...]
+{Func_2B}We're somewhere inside Bowser's
+Castle.
+[PAUSE:05][...]
+This hall is quite large.
+[WAIT][NEXT][...]
+It also looks well fortified.
+[PAUSE:05][...]
+I wonder if there's anything
+good around here?
+[PAUSE:05][...]
+An attack item, maybe?[WAIT][END]
+
+#string:19:16E
+[STYLE:TATTLE][...]
+{Func_2B}I'm sure Bowser's going to be
+surprised.
+[PAUSE:05][...]
+I'm sure he'd never believe that
+we could make it this far.
+[WAIT][NEXT][...]
+I can't wait to see the
+expression on his face.[WAIT][END]
+
+#string:19:16F
+[STYLE:TATTLE][...]
+{Func_2B}If Bombette were about three
+times bigger, we could just blow
+all these walls up.
+[PAUSE:0A][...]
+[WAIT][NEXT][...]
+It would certainly let us move
+through these areas a lot
+faster.
+[WAIT][NEXT][...]
+But that's probably not a good
+idea.
+[PAUSE:05][...]
+It would be far too dangerous.[WAIT][END]
+
+#string:19:170
+[STYLE:TATTLE][...]
+{Func_2B}This room is one big ego massage
+for Bowser.
+[PAUSE:05][...]
+I wish we could crush all these
+statues to dust.[WAIT][END]
+
+#string:19:171
+[STYLE:TATTLE][...]
+{Func_2B}It's a covered hallway in
+Bowser's Castle.
+[PAUSE:03][...]
+There's no place to hide around
+here, that's for sure.
+[WAIT][NEXT][...]
+Not that we need one, Mario!
+Who'd hide? Not me![WAIT][END]
+
+#string:19:172
+[STYLE:TATTLE][...]
+{Func_2B}Do you think those windows open
+to outside or to the inner part
+of the castle?
+[WAIT][NEXT][...]
+I'm getting totally turned
+around in here. This castle
+really is huge.[WAIT][END]
+
+#string:19:173
+[STYLE:TATTLE][...]
+{Func_2B}It's a room without a window.
+[PAUSE:05][...]
+It also has a chandelier with no
+lights in it.
+[WAIT][NEXT][...]
+I'm getting the feeling that
+Bowser is really going for the
+dark, gothic look in here. 
+[WAIT][NEXT][...]
+Maybe he hates bright lights.[WAIT][END]
+
+#string:19:174
+[STYLE:TATTLE][...]
+{Func_2B}All the torches hanging over
+there... Doesn't their pattern
+strike you as sort of
+suspicious?
+[WAIT][NEXT][...]
+It's almost as if there's a
+hidden meaning there.
+[PAUSE:0A][...]
+What do you say we try to
+remember it?[WAIT][END]
+
+#string:19:175
+[STYLE:TATTLE][...]
+{Func_2B}I think we keep passing through
+the same room.
+[PAUSE:0A][...]
+Do you think, perhaps, that
+somebody's messing with us?
+[WAIT][NEXT][...]
+Well, it's a waste of time to
+just keep running around with
+no clue about what we're doing.
+[WAIT][NEXT][...]
+It's kind of like what happened
+in Forever Forest.
+[PAUSE:0A][...]
+Say...those torches might hold
+a clue for us.[WAIT][END]
+
+#string:19:176
+[STYLE:TATTLE][...]
+{Func_2B}Again with the Bowser faces!
+[PAUSE:05][...]
+I'm sick of looking at his ugly
+mug!
+[WAIT][NEXT][...]
+Let's find the real Bowser and
+show him who's boss!
+[WAIT][NEXT][...]
+And then I can meet Princess
+Peach! [WAIT][END]
+
+#string:19:177
+[STYLE:TATTLE][...]
+{Func_2B}It's the outside of Bowser's
+Castle.
+[PAUSE:05][...]
+Even the outside feels gross
+and ominous.
+[WAIT][NEXT][...]
+Maybe he wasn't so bad until he
+moved here. Living in a such a
+dank place isn't good for the
+soul.[WAIT][END]
+
+#string:19:178
+[STYLE:TATTLE][...]
+{Func_2B}How many halls have we been
+through?
+[PAUSE:05][...]
+I wonder what this one leads
+to...
+[WAIT][NEXT][...]
+To Bowser's room? [PAUSE:0A]Maybe?[WAIT][END]
+
+#string:19:179
+[STYLE:TATTLE][...]
+{Func_2B}Know what this reminds me of?
+[PAUSE:05][...]
+A ghost story! This would make
+the perfect setting for a
+freaky ghost story!
+[WAIT][NEXT][...]
+We could have Bow and her
+friends play the scary parts.
+[PAUSE:05][...]
+Remind me to do that some time
+back at Toad Town![WAIT][END]
+
+#string:19:17A
+[STYLE:TATTLE][...]
+{Func_2B}It's a prison cell within Bowser's
+Castle.
+[PAUSE:05][...]
+A lot of Toads are here.
+[WAIT][NEXT][...]
+It's a bit strange...
+[PAUSE:05][...]
+Why would Bowser ever need this
+many prison cells?
+[WAIT][NEXT][...]
+Do you think there are that many
+prisoners?[WAIT][END]
+
+#string:19:17B
+[STYLE:TATTLE][...]
+{Func_2B}I think we've already come
+really far. 
+[PAUSE:05][...]
+But we're not at Bowser's
+room yet. [PAUSE:05]Where could it be?
+[WAIT][NEXT][...]
+This place is so complicated!
+[PAUSE:0A][...]
+That Bowser...
+{StartFX:Shrinking}I really don't like him![WAIT][END]
+
+#string:19:17C
+[STYLE:TATTLE][...]
+{Func_2B}{StartFX:Shrinking}"I smell treasure!"
+{EndFX:Shrinking}Isn't that a good Kolorado
+imitation? Mario? Wasn't that
+right on?
+[WAIT][NEXT][...]
+I wonder what Kolorado's doing?[WAIT][END]
+
+#string:19:17D
+[STYLE:TATTLE][...]
+{Func_2B}This is a corridor of sorts. I
+guess it's more like an elevated
+skyway, though.
+[WAIT][NEXT][...]
+If a guy were afraid of heights,
+his legs would probably tremble
+and he'd probably freak out.
+Gulp![WAIT][END]
+
+#string:19:17E
+[STYLE:TATTLE][...]
+{Func_2B}You know, if I were designing
+a castle, I wouldn't put in so
+many corridors.
+[WAIT][NEXT][...]
+Well, whatever. You can't expect
+Bowser to have good taste.[WAIT][END]
+
+#string:19:17F
+[STYLE:TATTLE][...]
+{Func_2B}Look at all these carvings of
+Bowser's ugly mug! It's really
+shameless!
+[PAUSE:0A][...]
+I guess he thinks he's cool.
+[WAIT][NEXT][...]
+Hey, incidentally, about those
+stone pedestals...
+Some move and some don't, so
+check 'em all out.[WAIT][END]
+
+#string:19:180
+[STYLE:TATTLE][...]
+{Func_2B}Whoa! This corridor has much
+lower ceilings, huh?
+[PAUSE:05][...]
+I guess I had gotten used to
+really high ceilings.[WAIT][END]
+
+#string:19:181
+[STYLE:TATTLE][...]
+{Func_2B}In case you don't know by now,
+some of these Bowser pedestals
+can be pushed and others can't.
+[WAIT][NEXT][...]
+In many cases, you can push
+them from either the right
+or left sides.
+[PAUSE:0A][...]
+I wonder where I heard that?[WAIT][END]
+
+#string:19:182
+[STYLE:TATTLE][...]
+{Func_2B}This is a hidden passage.
+[PAUSE:05][...]
+It's a bit dark, huh?
+[PAUSE:05][...]
+That's all right. I can sense
+that something good's in here.[HEART][WAIT][END]
+
+#string:19:183
+[STYLE:TATTLE][...]
+{Func_2B}Some of these Bowser pedestals
+can be pushed and others can't.
+[WAIT][NEXT][...]
+In many cases, you can push
+them from either the right
+or left sides.
+[WAIT][NEXT][...]
+If they move, you can be sure
+they're covering a hidden
+passage.[WAIT][END]
+
+#string:19:184
+[STYLE:TATTLE][...]
+{Func_2B}See! A hidden passage.
+[PAUSE:0A][...]
+This one doesn't seem to be
+hiding anything interesting.[WAIT][END]
+
+#string:19:185
+[STYLE:TATTLE][...]
+{Func_2B}...Nothing.
+[PAUSE:0A][...]
+This room's just a dead end.
+How worthless.
+[WAIT][NEXT][...]
+Let's go back to the room where
+the pedestals are and check 'em
+out![WAIT][END]
+
+#string:19:186
+[STYLE:TATTLE][...]
+{Func_2B}This hidden passage looks
+promising, doesn't it? It
+must lead somewhere...
+[WAIT][NEXT][...]
+You know, I hope we're going the
+right direction. I feel kind of
+disoriented.[WAIT][END]
+
+#string:19:187
+[STYLE:TATTLE][...]
+{Func_2B}We've certainly seen many kinds
+of treasure on our adventures,
+haven't we, Mario?
+[WAIT][NEXT][...]
+There's one that I would value
+above all others, though.
+[WAIT][NEXT][...]
+I would keep it in the safest
+place I know...
+[PAUSE:0A][...]
+Mario, please give me your
+autograph!![WAIT][END]
+
+#string:19:188
+[STYLE:TATTLE][...]
+{Func_2B}Stairs again!
+[PAUSE:05][...]
+Do you think Princess Peach's 
+Castle is at the top of 'em?
+[WAIT][NEXT][...]
+We're almost there, Mario! I can
+feel it! Onward! The princess
+awaits![WAIT][END]
+

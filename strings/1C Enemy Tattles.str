@@ -1,0 +1,3039 @@
+#string:1C:000
+[STYLE:RIGHT][...]
+This is a Goomba.
+[WAIT][NEXT][...]
+Goombas are what you'd call
+"small fries." Actually, they're
+pretty much the smallest fries.
+[PAUSE:14][...]
+...Hey, wait! I'm one of 'em!
+[WAIT][NEXT][...]
+Max HP: 2, Attack Power: 1
+Defense Power: 0
+You can jump on them or whack
+'em with the Hammer.
+[WAIT][NEXT][...]
+These guys are old school.
+They've been around since you
+were in Super Mario Bros.![WAIT][END]
+
+#string:1C:001
+[STYLE:RIGHT][...]
+This is a Spiked Goomba.
+[PAUSE:0A][...]
+Spiked Goombas are Goombas
+with spikes on their heads.
+[WAIT][NEXT][...]
+Max HP: 2, Attack Power: 2,
+Defense Power: 0
+[WAIT][NEXT][...]
+Whatever you do, don't jump on
+their spikes or you'll get 
+hurt or even paralyzed![WAIT][END]
+
+#string:1C:002
+[STYLE:RIGHT][...]
+This is a Paragoomba.
+[PAUSE:0A][...]
+Obviously, Paragoombas are
+Goombas with wings.
+[WAIT][NEXT][...]
+Max Hp: 2, Attack Power: 1,
+Defense Power: 0
+[WAIT][NEXT][...]
+You can't hit 'em with the
+Hammer while they're airborne.
+[WAIT][NEXT][...]
+If you damage 'em, they'll fall
+to the ground and become 
+ordinary Goombas.[WAIT][END]
+
+#string:1C:003
+[STYLE:RIGHT][...]
+This is Red Goomba.
+[PAUSE:0A][...]
+He's the older of the two
+notorious Goomba Bros.
+[WAIT][NEXT][...]
+Max HP: 7, Attack Power: 1,
+Defense Power: 0
+[WAIT][NEXT][...]
+The Goomba King ordered him
+to try to stop you.
+[WAIT][NEXT][...]
+You can take this guy, no prob.
+He has just a little more HP
+than an ordinary Goomba.[WAIT][END]
+
+#string:1C:004
+[STYLE:RIGHT][...]
+This is Blue Goomba.
+[PAUSE:0A][...]
+He's the younger of the two
+notorious Goomba Bros.
+[WAIT][NEXT][...]
+Max HP: 6, Attack Power: 1,
+Defense Power: 0
+[WAIT][NEXT][...]
+As you heard in his little speech,
+he's one of the Goomba King's
+men.
+[WAIT][NEXT][...]
+He doesn't look that healthy.
+[PAUSE:05][...]
+He's weaker than his brother.[WAIT][END]
+
+#string:1C:005
+[STYLE:RIGHT][...]
+This is the Goomba King.
+[PAUSE:0A][...]
+He's really big. I mean, look
+at him! He looks really powerful.
+[WAIT][NEXT][...]
+Max HP: 10, Attack Power: 1,
+Defense Power: 0
+[WAIT][NEXT][...]
+He's the boss of Red Goomba
+and Blue Goomba.
+[PAUSE:0A][...]
+Who cares if he's strong?
+You're much stronger.
+[WAIT][NEXT][...]
+Gee, I wonder what he ate
+to become so big?
+[PAUSE:0A][...]
+I'd like to be a bit bigger, too.[WAIT][END]
+
+#string:1C:006
+[STYLE:RIGHT][...]
+This is a Goomnut Tree.
+[PAUSE:0A][...]
+Spiky Goomnuts will fall down
+if you hit this tree.
+[WAIT][NEXT][...]
+They'll definitely hurt if they
+hit us, but it may be worth it 
+to use them against the enemy.[WAIT][END]
+
+#string:1C:007
+[STYLE:RIGHT][...]
+This is a Koopa Troopa.
+[PAUSE:0A][...]
+Everybody knows Koopa Troopas.
+They're Bowser's followers.
+[WAIT][NEXT][...]
+Max HP: 4, Attack Power: 1,
+Defense Power: 1
+Their shells are hard.
+[WAIT][NEXT][...]
+If you can flip 'em over,
+their defense power will fall
+to 0 and it will become much
+easier for you to defeat 'em.
+[WAIT][NEXT][...]
+You can flip 'em with a POW
+Block or a Jump attack. [WAIT][END]
+
+#string:1C:008
+[STYLE:RIGHT][...]
+This is a Paratroopa.
+[PAUSE:0A][...]
+No surprise here--Paratroopas
+are Koopa Troopas with wings.
+[WAIT][NEXT][...]
+Max HP: 4, Attack Power: 1,
+Defense Power: 1
+[WAIT][NEXT][...]
+When you jump on 'em or use a
+POW Block, their wings fall
+off and they become normal
+Koopa Troopas.
+[WAIT][NEXT][...]
+It's easy to beat 'em once
+they're normal Koopa Troopas.
+[PAUSE:0A][...]
+Give 'em another Jump attack!
+[WAIT][NEXT][...]
+They think they're pretty cool
+because they wear sunglasses,
+but they're not that tough.[WAIT][END]
+
+#string:1C:009
+[STYLE:RIGHT][...]
+This is a Fuzzy.
+[PAUSE:0A][...]
+Why do Fuzzies always jump
+up and down? They need to
+chill out!
+[WAIT][NEXT][...]
+Max HP: 3, Attack Power: 1,
+Defense Power: 0
+[WAIT][NEXT][...]
+The problem with Fuzzies is their
+quickness. It's really tough to
+time their attacks.
+[WAIT][NEXT][...]
+If they latch on to you, watch
+out! They'll absorb your HP.[WAIT][END]
+
+#string:1C:00A
+[STYLE:RIGHT][...]
+This is a Bob-omb.
+[WAIT][NEXT][...]
+Bob-ombs are pretty
+temperamental, 
+[PAUSE:0A][...]
+and they get steaming mad
+when you attack 'em.
+[WAIT][NEXT][...]
+Max HP: 3, Attack Power: 1,
+Defense Power: 0
+[WAIT][NEXT][...]
+You'd better not jump on 'em
+when they're angry or they'll
+blow up in your face.
+[PAUSE:0A][...]
+In fact, stay away entirely.
+[WAIT][NEXT][...]
+Attack 'em from a distance with
+items like Hammers.
+[PAUSE:0A][...]
+Or you could send in other
+things, like shells.
+[WAIT][NEXT][...]
+If they attack when angry,
+they'll charge in and explode.
+[PAUSE:0A][...]
+So you'd better take care of 
+them before they blow![WAIT][END]
+
+#string:1C:00B
+[STYLE:RIGHT][...]
+This is a Bullet Bill, 
+a kamikaze attacker.
+[WAIT][NEXT][...]
+If you don't beat Bullet Bills
+quickly, they'll slam into you
+and explode.
+[WAIT][NEXT][...]
+Max HP: 2, Attack Power: 2,
+Defense Power: 0
+[WAIT][NEXT][...]
+I'm serious, Mario. These guys
+will really make us pay if they
+manage to hit us!
+[WAIT][NEXT][...]
+We have to beat 'em before they
+get the chance to strike us.[WAIT][END]
+
+#string:1C:00C
+[STYLE:RIGHT][...]
+This is a Bill Blaster.
+[PAUSE:0A][...]
+Bill Blasters are the cannons
+that shoot out Bullet Bills.
+[WAIT][NEXT][...]
+Max HP: 4, Attack Power: 0,
+Defense Power: 1
+[WAIT][NEXT][...]
+They won't attack us directly,
+but they'll keep shooting out
+Bullet Bills as long as they can.
+[WAIT][NEXT][...]
+It's efficient to attack 'em 
+all at once, but you can also 
+beat 'em one at a time.[WAIT][END]
+
+#string:1C:00D
+[STYLE:RIGHT][...]
+Bowser...?
+[PAUSE:0A][...]
+But he looks kind of...lame. 
+[PAUSE:0A][...]
+I mean, he's lame anyway, but...
+[WAIT][NEXT][...]
+Max HP: 10, Attack Power: 1,
+Defense Power: 1
+[WAIT][NEXT][...]
+Does Bowser really look like this?
+[PAUSE:0A][...]
+I always imagined him looking,
+well, a lot scarier.[WAIT][END]
+
+#string:1C:00E
+[STYLE:RIGHT][...]
+This is Red Ninjakoopa.
+[PAUSE:0A][...]
+He's the Koopa Bros. leader.
+[WAIT][NEXT][...]
+
+He's pretty much just a normal
+Koopa Troopa, though.
+[WAIT][NEXT][...]
+Max HP: 5, Attack Power: 1,
+Defense Power: 1
+[WAIT][NEXT][...]
+He has a little bit of defense
+power, but you can flip him
+over by jumping on him, just
+like a normal Koopa Troopa.
+[WAIT][NEXT][...]
+Let's flip him over quick!
+Otherwise, the Bros. may form
+a tower and do their famous
+spinning attack![WAIT][END]
+
+#string:1C:00F
+[STYLE:RIGHT][...]
+This is Black Ninjakoopa.
+[PAUSE:0A][...]
+Black is pretty fashionable...
+[WAIT][NEXT][...]
+Max HP: 5, Attack Power: 1,
+Defense Power: 1
+[WAIT][NEXT][...]
+He has a little bit of defense
+power, but you can flip him
+over by jumping on him, just
+like a normal Koopa Troopa.
+[WAIT][NEXT][...]
+Let's flip him over quick!
+Otherwise, the Bros. may form
+a tower and do their famous
+spinning attack!
+[WAIT][END]
+
+#string:1C:010
+[STYLE:RIGHT][...]
+This is Yellow Ninjakoopa.
+[WAIT][NEXT][...]
+Yellow reminds me of curry.
+Isn't that a weird thing to
+think of in the middle of
+a battle?
+[WAIT][NEXT][...]
+Max HP: 5, Attack Power: 1,
+Defense Power: 1
+[WAIT][NEXT][...]
+He has a little bit of defense
+power, but you can flip him
+over by jumping on him, just
+like a normal Koopa Troopa.
+[WAIT][NEXT][...]
+Let's flip him over quick!
+Otherwise, the Bros. may form
+a tower and do their famous
+spinning attack![WAIT][END]
+
+#string:1C:011
+[STYLE:RIGHT][...]
+This is Green Ninjakoopa.
+[PAUSE:0A][...]
+He looks exactly the same as a
+normal Koopa Troopa.
+[WAIT][NEXT][...]
+Max HP: 5, Attack Power: 1,
+Defense Power: 1
+[WAIT][NEXT][...]
+He has a little bit of defense
+power, but you can turn him
+over by jumping on him, just
+like a normal Koopa Troopa.
+[WAIT][NEXT][...]
+Let's flip him over quick!
+Otherwise, the Bros. may form
+a tower and do their famous
+spinning attack![WAIT][END]
+
+#string:1C:012
+[STYLE:RIGHT][...]
+The Koopa Bros. have formed
+a tall Koopa tower!
+[WAIT][NEXT][...]
+Max HP: ?, Attack Power: ?,
+Defense Power: ?
+I'm not sure about this...
+[WAIT][NEXT][...]
+They do a spinning attack
+with the whole gang piled
+high atop one another.
+[WAIT][NEXT][...]
+Hit 'em with a Hammer or
+something to make 'em unstable.
+After that, any attack should 
+knock 'em down.
+[WAIT][NEXT][...]
+If you use an explosion, you
+can make 'em fall down at once.
+[WAIT][NEXT][...]
+If you flip 'em over, the battle
+will nearly be ours!
+[PAUSE:0A][...]
+Beat 'em one by one![WAIT][END]
+
+#string:1C:013
+[STYLE:RIGHT][...]
+What was his name? Jr. Troopa?
+I don't remember exactly...
+[PAUSE:0F][...]
+...Just joking, kid!
+[WAIT][NEXT][...]
+Max HP: 15, Attack Power: 2,
+Defense Power: 1
+[WAIT][NEXT][...]
+He looks so adorable hiding in
+his egg, doesn't he? So cute!
+[WAIT][NEXT][...]
+It should be a snap to
+beat him now.
+[PAUSE:0A][...]
+...I think.[WAIT][END]
+
+#string:1C:014
+[STYLE:RIGHT][...]
+This is a Monty Mole.
+[PAUSE:0A][...]
+Monty Moles are rock-throwing
+moles, big time mischief-makers.
+[WAIT][NEXT][...]
+Max HP: 3, Attack Power: 2,
+Defense Power: 0
+[WAIT][NEXT][...]
+Ugh. They have kind of scary
+looking faces.
+[PAUSE:0A][...]
+They're pretty weak, though.
+[WAIT][NEXT][...]
+Maybe they wear sunglasses
+because they have really
+sensitive eyes.
+[PAUSE:0A][...]
+Or maybe they're just hip.[WAIT][END]
+
+#string:1C:015
+[STYLE:RIGHT][...]
+This is a Cleft.
+[PAUSE:0A][...]
+Clefts are pretty strong, so
+you'd better be careful.
+[WAIT][NEXT][...]
+Max HP: 2, Attack Power: 2,
+Defense Power: 2
+[WAIT][NEXT][...]
+Their specialty is pretending
+to be rocks, so watch your step
+on the mountain.
+[WAIT][NEXT][...]
+You'll get hurt if you jump
+on the spikes on their heads.
+[WAIT][NEXT][...]
+You know, there's courage in
+running away sometimes...[WAIT][END]
+
+#string:1C:016
+[STYLE:RIGHT][...]
+This is Pokey, an evil cactus.
+[PAUSE:0A][...]
+Pokeys attack by throwing parts
+of their bodies or by coming up
+close and falling on you.
+[WAIT][NEXT][...]
+Max HP: 4, Attack Power: 2,
+Defense Power: 0
+[WAIT][NEXT][...]
+Be careful fighting them!
+It'll hurt if you jump on their
+spiky heads!
+[WAIT][NEXT][...]
+They also have an annoying habit
+of calling in reinforcements.
+[PAUSE:0A][...]
+Let's beat 'em quickly![WAIT][END]
+
+#string:1C:017
+[STYLE:RIGHT][...]
+This is a Bandit.
+[PAUSE:0A][...]
+Bandits bump into you hard
+and shake up your pockets.
+They can steal up to 10 coins. 
+[WAIT][NEXT][...]
+Max HP: 5, Attack Power: 2,
+Defense Power: 0
+[WAIT][NEXT][...]
+They'll slyly approach and then
+slam into you all of a sudden.
+[WAIT][NEXT][...]
+If you can damage them in
+an attack, you can get your
+stolen coins back.
+[WAIT][NEXT][...]
+Let's beat 'em before they
+can make off with our loot![WAIT][END]
+
+#string:1C:018
+[STYLE:RIGHT][...]
+This is a Pokey Mummy.
+[WAIT][NEXT][...]
+Pokey Mummies are Pokeys
+that dried out and became
+mummies then went to live
+in the ruins. 
+[WAIT][NEXT][...]
+Max HP: 4, Attack Power: 2,
+Defense Power: 0
+[WAIT][NEXT][...]
+Careful! They have spikes on
+their heads!
+[PAUSE:0A][...]
+Trust me--it'll hurt if you
+jump on 'em.
+[WAIT][NEXT][...]
+The mummification also made
+'em poisonous. If you get
+poisoned when they attack you,
+you'll take damage for a while.
+[WAIT][NEXT][...]
+What do you say we beat 'em
+before they can poison us?[WAIT][END]
+
+#string:1C:019
+[STYLE:RIGHT][...]
+This is a Buzzy Beetle.
+[PAUSE:0A][...]
+Buzzy Beetles are cute--
+but mean.
+[WAIT][NEXT][...]
+Max HP: 3, Attack Power: 2,
+Defense Power: 2
+[WAIT][NEXT][...]
+Fire attacks don't work very
+well against these hardheads.
+[WAIT][NEXT][...]
+If you can flip 'em, though,
+their defense power falls to 0.
+[PAUSE:0A][...]
+Keep flipping 'em, Mario!
+[WAIT][NEXT][...]
+I heard that they used to
+flourish all over the place, but
+now they're only found in dark,
+shadowy places.[WAIT][END]
+
+#string:1C:01A
+[STYLE:RIGHT][...]
+This is a Swooper, a ghost bat.
+[PAUSE:0A][...]
+Swoopers got their name
+because they swoop down
+out of the shadows.
+[WAIT][NEXT][...]
+Max HP: 4, Attack Power: 2,
+Defense Power: 0
+[WAIT][NEXT][...]
+Even Jump attacks can't reach
+'em when they're hanging on
+the ceiling, but earth tremors
+will knock 'em loose.
+[WAIT][NEXT][...]
+Parakarry can also knock 'em
+loose with one of his moves.
+[WAIT][NEXT][...]
+You can attack 'em however
+you choose once they're
+hovering in the air.[WAIT][END]
+
+#string:1C:01B
+[STYLE:RIGHT][...]
+This is Buzzar.
+[PAUSE:0A][...]
+He guards Mt. Rugged.
+[PAUSE:0A][...]
+Wow! That's one big bird!
+[WAIT][NEXT][...]
+Max HP: 40, Attack Power: 3,
+Defense Power: 0
+[WAIT][NEXT][...]
+If you get caught in the
+clutches of his sharp claws,
+you'll lose 4 HP!
+Try to wriggle out of his grip.
+[WAIT][NEXT][...]
+His special attack is flapping
+his wings to create wind.
+This attack damages your
+party members, too.
+[WAIT][NEXT][...]
+But he was hatching eggs,
+wasn't he? Is it possible
+that he's really a she?
+[PAUSE:0A][...]
+I wonder...[WAIT][END]
+
+#string:1C:01C
+[STYLE:RIGHT][...]
+This is Tutankoopa.
+[PAUSE:0A][...]
+He's one of Bowser's followers
+and he's been assigned to guard
+one of the Star Spirits.
+[WAIT][NEXT][...]
+I've heard that he has sort
+of a pharaoh complex.
+[WAIT][NEXT][...]
+Max HP: 30, Attack Power: 3,
+Defense Power: 0
+[WAIT][NEXT][...]
+He attacks by throwing shells
+from that high perch.
+[WAIT][NEXT][...]
+Try to dodge when he uses
+magic: its attack power is 2
+and it'll sting for sure.
+[WAIT][NEXT][...]
+[PAUSE:05][...]
+And he also summons Chomps,
+his loyal subjects.
+[PAUSE:0A][...]
+Those Chomps have some serious
+attack power.
+[WAIT][NEXT][...]
+Think hard about who to attack 
+first, Tutankoopa or Chomp.[WAIT][END]
+
+#string:1C:01D
+[STYLE:RIGHT][...]
+It's a Chomp.
+[PAUSE:0A][...]
+You've heard about Chomps
+before, I'm sure.
+[WAIT][NEXT][...]
+Max HP: 4, Attack Power: 3,
+Defense Power: 3
+[WAIT][NEXT][...]
+They're made of such hard
+stuff that most of your
+attacks won't even faze them.
+[WAIT][NEXT][...]
+I heard a rumor that the
+Chomps are a little peeved at
+Tutankoopa because he works
+them so hard.[WAIT][END]
+
+#string:1C:01E
+[STYLE:RIGHT][...]
+This is a Stone Chomp, who
+guards the treasure in this
+room.
+[PAUSE:0A][...]
+He's made of stone. Duh!
+[WAIT][NEXT][...]
+Max HP: 4, Attack Power: 3,
+Defense Power: 1
+[WAIT][NEXT][...]
+His jaws can supposedly crush
+a Coconut.
+[PAUSE:0A][...]
+I don't know about you, but I
+don't want to become a snack.[WAIT][END]
+
+#string:1C:01F
+[STYLE:RIGHT][...]
+This is a Piranha Plant.
+[PAUSE:0A][...]
+Piranha Plants pop out of
+the ground at unexpected
+moments, so be on your guard.
+[WAIT][NEXT][...]
+Max HP: 5, Attack Power: 3,
+Defense Power: 0
+[WAIT][NEXT][...]
+You've seen 'em in every one
+of your adventures, so I imagine
+you know 'em pretty well.
+[WAIT][NEXT][...]
+Their sharp jaws point upward,
+so you'll get bitten if you try
+to jump on 'em.
+[WAIT][NEXT][...]
+They smile after biting people.
+[PAUSE:0A][...]
+That smug smile...it makes me
+hopping mad![WAIT][END]
+
+#string:1C:020
+[STYLE:RIGHT][...]
+This is a Forest Fuzzy.
+[PAUSE:0A][...]
+Forest Fuzzies are always green.
+[WAIT][NEXT][...]
+Max HP: 6, Attack Power: 1,
+Defense Power: 0
+[WAIT][NEXT][...]
+If they grab hold of you,
+they'll absorb your HP and add
+it to their own. The fiends!
+[PAUSE:0A][...]
+Those no good...
+[WAIT][NEXT][...]
+Oh! And they sometimes divide.
+[PAUSE:0A][...]
+If they divide they become even
+stronger, so try to beat 'em
+before they can split.[WAIT][END]
+
+#string:1C:021
+[STYLE:RIGHT][...]
+This is a Hyper Goomba.
+[PAUSE:0A][...]
+Hyper Goombas are crazy,
+uncivilized Goombas living
+in Gusty Gulch.
+[WAIT][NEXT][...]
+Max HP: 7, Attack Power: 1,
+Defense Power: 0
+[WAIT][NEXT][...]
+They sometimes charge their
+power before attacking.
+[WAIT][NEXT][...]
+That charged attack will take
+away 8 HP, so watch out when
+they start to glow.
+[WAIT][NEXT][...]
+It's a good idea to use Bow or
+an item to become transparent.
+The attack will miss for sure.[WAIT][END]
+
+#string:1C:022
+[STYLE:RIGHT][...]
+This is a Hyper Paragoomba.
+[PAUSE:0A][...]
+Hyper Paragoombas are
+Hyper Goombas with wings.
+[WAIT][NEXT][...]
+Max HP: 7, Attack Power: 1,
+Defense Power: 0
+[WAIT][NEXT][...]
+They sometimes charge their
+power before attacking.
+[WAIT][NEXT][...]
+That charged attack will take
+away 8 HP, so watch out when
+they start to glow.
+[WAIT][NEXT][...]
+It'll miss you if you can
+become transparent.
+[WAIT][NEXT][...]
+Except for that, they're no
+different from normal
+Paragoombas, so use a Jump
+attack to defeat 'em.[WAIT][END]
+
+#string:1C:023
+[STYLE:RIGHT][...]
+This is a Hyper Cleft.
+[PAUSE:0A][...]
+Hyper Clefts have more defense
+power than normal Clefts.
+[WAIT][NEXT][...]
+Max HP: 4, Attack Power: 3,
+Defense Power: 3
+[WAIT][NEXT][...]
+They sometimes charge their
+power before attacking.
+[WAIT][NEXT][...]
+That charged attack will take
+away 8 HP, so watch out when
+they start to glow.
+[WAIT][NEXT][...]
+It'll miss you if you can
+become transparent.
+[WAIT][NEXT][...]
+Their defense power will fall
+to 1 if you use an explosion
+to flip 'em over.
+[WAIT][NEXT][...]
+And in case you hadn't noticed,
+they have spikes up top!
+[PAUSE:0A][...]
+It'll hurt if you jump on 'em.[WAIT][END]
+
+#string:1C:024
+[STYLE:RIGHT][...]
+This is a Clubba.
+[PAUSE:0A][...]
+Clubbas are the main guards of
+Tubba Blubba's Castle.
+[WAIT][NEXT][...]
+Max HP: 8, Attack Power: 3,
+Defense Power: 0
+[WAIT][NEXT][...]
+They often sleep on the job.
+If you walk very slowly,
+they won't wake up.
+[WAIT][NEXT][...]
+They may look big, but if you use
+the action command perfectly,
+they're not so tough.[WAIT][END]
+
+#string:1C:025
+[STYLE:RIGHT][...]
+This is Tubba Blubba.
+[PAUSE:0A][...]
+He is one of Bowser's toughest
+followers and he's the master
+of this cursed castle.
+[WAIT][NEXT][...]
+Max HP: 10, Attack Power: 4,
+Defense Power: ?
+Hip Attack Power : 6
+[WAIT][NEXT][...]
+I don't know his defense power.
+[PAUSE:0A][...]
+Everyone says he's invincible
+because he has never been hurt.
+[WAIT][NEXT][...]
+I'd say it's a good idea to
+run from immortal enemies!
+[PAUSE:0A][...]
+If you get in deep trouble, Bow
+can hide you from him.[WAIT][END]
+
+#string:1C:026
+[STYLE:RIGHT][...]
+This is Tubba's Heart.
+[PAUSE:0A][...]
+You might say it's the "heart"
+of Tubba's secret. Ha!
+OK, that wasn't funny.
+[WAIT][NEXT][...]
+Max HP: 50, Attack Power: 6,
+Defense Power: 0
+[WAIT][NEXT][...]
+He has a terrible attack, so
+hide when he tells you he's
+about to unleash it.
+[WAIT][NEXT][...]
+This attack will take away
+12 HP! Whoa!
+[WAIT][NEXT][...]
+Try to beat him before he can
+do his huge attack again.
+Trust me, it's dangerous.
+[PAUSE:0A][...]
+This is Bow's turn to shine![WAIT][END]
+
+#string:1C:027
+[STYLE:RIGHT][...]
+This is Tubba Blubba, now
+reunited with his heart.
+[PAUSE:0A][...]
+This is finally his true self.
+[WAIT][NEXT][...]
+Max HP: 10, Attack Power: 4,
+Defense Power: 0 [PAUSE:05]...probably.
+[WAIT][NEXT][...]
+His Hip Attack causes 6
+points worth of damage.
+[WAIT][NEXT][...]
+Be careful, because I'm not
+exactly sure what his other
+attacks can do.
+[WAIT][NEXT][...]
+...But...
+I think he's definitely weaker
+than before...[WAIT][END]
+
+#string:1C:028
+[STYLE:RIGHT][...]
+It's Jr. Troopa.
+I can't get enough of this guy!
+[WAIT][NEXT][...]
+Waa ha ha ha!
+[PAUSE:0A][...]
+Did the little guy get lost
+in the big, bad forest?
+[WAIT][NEXT][...]
+Max HP: 40, Attack Power: 5,
+Defense Power: 1
+[WAIT][NEXT][...]
+Apparently he's grown wings,
+so he can fly now. You'll have
+to jump to reach him.
+[WAIT][NEXT][...]
+He's a bit stronger, so it may
+be worth it to use any items you
+have to attack him.[WAIT][END]
+
+#string:1C:029
+[STYLE:RIGHT][...]
+This is a Shy Guy.
+[PAUSE:0A][...]
+They're ne'er-do-wells.
+Big time rascals. No good...  
+[WAIT][NEXT][...]
+Max HP: 7, Attack Power: 2,
+Defense Power: 0
+[WAIT][NEXT][...]
+They occasionally do acrobatic
+attacks that have an attack
+power of 3.
+[WAIT][NEXT][...]
+Who knows what lies in the
+hearts of these troublemakers?
+[PAUSE:0A][...]
+I guess they're dangerous, but
+they're pretty small time.[WAIT][END]
+
+#string:1C:02A
+[STYLE:RIGHT][...]
+This is a Groove Guy.
+[PAUSE:0A][...]
+Groove Guys wear weird clothes.
+[PAUSE:05][...]
+They're probably stage clothes.
+Pssh... You know performers...
+[WAIT][NEXT][...]
+Max HP: 7, Attack Power: 2,
+Defense Power: 0
+[WAIT][NEXT][...]
+They shake their booties to
+call in reinforcements.
+[PAUSE:05][...]
+They also spin around in front
+of you and make you feel dizzy.
+[WAIT][NEXT][...]
+These rock 'n' rollers are a
+drag, so let's ditch 'em as
+fast as we can.[WAIT][END]
+
+#string:1C:02B
+[STYLE:RIGHT][...]
+This is a Spy Guy.
+[PAUSE:0A][...]
+Spy Guys look like they're
+ready for war in their spiffy
+camouflage gear!
+[WAIT][NEXT][...]
+Max HP: 7, Attack Power: 2,
+Defense Power: 0
+[WAIT][NEXT][...]
+They change their weapons each
+time they're attacked.
+[WAIT][NEXT][...]
+You'd best try to avoid their
+hammer attack! Every time
+you're hit by it, you'll lose
+one of your commands![WAIT][END]
+
+#string:1C:02C
+[STYLE:RIGHT][...]
+This is a Pyro Guy.
+[PAUSE:0A][...]
+Pyro Guys are on fire, so any
+contact with them will cause
+damage.
+[WAIT][NEXT][...]
+Max HP: 7, Attack Power: 4,
+Defense Power: 0
+[WAIT][NEXT][...]
+They're tough opponents, mainly
+because their attack power is
+so high.
+[WAIT][NEXT][...]
+Any attacks that involve water
+or snow are our best bet
+because...well...you know.[WAIT][END]
+
+#string:1C:02D
+[STYLE:RIGHT][...]
+This is a Sky Guy.
+[PAUSE:0A][...]
+Sky Guys are master balloonists.
+[WAIT][NEXT][...]
+Max HP: 7, Attack Power: 3,
+Defense Power: 0
+[WAIT][NEXT][...]
+We can attack the balloon, too.
+[PAUSE:0A][...]
+Once they fall, they're just
+like normal Shy Guys.
+[WAIT][NEXT][...]
+I wish I had a balloon so I could
+float... That looks awesome![WAIT][END]
+
+#string:1C:02E
+[STYLE:RIGHT][...]
+This is a Medi Guy.
+[PAUSE:0A][...]
+Medi Guys are the emergency
+workers of the Shy Guy clan.
+[WAIT][NEXT][...]
+Max HP: 7, Attack Power: 1,
+Defense Power: 0
+[WAIT][NEXT][...]
+They have the power to heal
+their wounded companions.
+[PAUSE:0A][...]
+Of course, they also attack.
+[WAIT][NEXT][...]
+We'd better hurry up and take
+them out of the mix. It's a
+pain if they keep fixing all
+the damage we do.[WAIT][END]
+
+#string:1C:02F
+[STYLE:RIGHT][...]
+This is an Anti Guy.
+[PAUSE:0A][...]
+His attacks are so intense that
+he's also called Deadly Guy.
+[WAIT][NEXT][...]
+Max HP: 50, Attack Power: 10,
+Defense Power: 0
+[WAIT][NEXT][...]
+His attack power is 12
+when he does an acrobatic
+attack, so dodge it! 
+[WAIT][NEXT][...]
+This guy is for real, so we'd
+better take him seriously.[WAIT][END]
+
+#string:1C:030
+[STYLE:RIGHT][...]
+This is a Big Lantern Ghost.
+[PAUSE:0A][...]
+He avoids attacks by hiding
+in the dark.
+[WAIT][NEXT][...]
+Max HP: 40, Attack Power: 5,
+Defense Power: 0
+[WAIT][NEXT][...]
+Your friends, like (ahem) me,
+will also be damaged when
+he does the flash attack.
+[PAUSE:0A][...]
+The flash attack's power is 2.
+[WAIT][NEXT][...]
+Hit the Lantern many times
+to make it brighter, then
+you'll be able to attack him.
+[WAIT][NEXT][...]
+As soon as you can see, hit
+him right in the head![WAIT][END]
+
+#string:1C:031
+[STYLE:RIGHT][...]
+This is General Guy in his tank.
+[PAUSE:0A][...]
+The tank seems to be dangerous
+even though it's a toy.
+[WAIT][NEXT][...]
+Max HP: 30, Attack Power: 4,
+Defense Power: 2
+[WAIT][NEXT][...]
+Not only does the General give
+commands from the tank, but he
+also throws bombs and uses
+electric attacks.
+[WAIT][NEXT][...]
+The power of his electric
+attack is 5, and your party
+member takes 2 damage points,
+so defend yourself carefully.
+[WAIT][NEXT][...]
+He'll lose the electric attack
+if we break the light bulb.
+[WAIT][NEXT][...]
+Normal fighting styles seem
+ineffective because the tank
+is well fortified.[WAIT][END]
+
+#string:1C:032
+[STYLE:RIGHT][...]
+This is the Shy Squad.
+[PAUSE:0A][...]
+It'll attack us with all 
+its members at once.
+[WAIT][NEXT][...]
+Max HP: 15, Attack Power: 1,
+Defense Power: 0
+[WAIT][NEXT][...]
+The number of times we're 
+attacked will equal the number 
+of Shy Guys in the Squad.  
+[WAIT][NEXT][...]
+Its attack power is huge when
+there are many Guys, but it 
+drops for each one that falls. 
+[WAIT][NEXT][...]
+Let's use an attack that does
+tons of damage so we can
+decrease their numbers and
+increase our chances![WAIT][END]
+
+#string:1C:033
+[STYLE:RIGHT][...]
+This is a Shy Stack.
+[PAUSE:0A][...]
+Whoa, this pile has an
+incredible sense of balance!
+Look at that stack!
+[WAIT][NEXT][...]
+Max HP: 10, Attack Power: 1,
+Defense Power: 0
+[WAIT][NEXT][...]
+Its attack power equals the 
+number of Guys in the stack.  
+It will be 4 if there are four 
+Shy Guys stacked up.
+[WAIT][NEXT][...]
+If you have the Spin Hammer
+ability, you can knock 'em
+off one by one.
+[WAIT][NEXT][...]
+Obviously, their attack power
+decreases when there are fewer
+of 'em in the stack.[WAIT][END]
+
+#string:1C:034
+[STYLE:RIGHT][...]
+This is Stilt Guy.
+[PAUSE:0A][...]
+Yes, as the name suggests, 
+Stilt Guys are Shy Guys on
+Stilts.
+[WAIT][NEXT][...]
+I mean, it seems pretty obvious
+to me...
+[WAIT][NEXT][...]
+Max HP: 7, Attack Power: 4,
+Defense Power: 0
+[WAIT][NEXT][...]
+If you attack 'em by shaking
+the ground, they'll fall off
+their stilts and become
+normal Shy Guys.[WAIT][END]
+
+#string:1C:035
+[STYLE:RIGHT][...]
+This is a Hurt Plant.
+[PAUSE:0A][...]
+Hurt Plants pretend to be 
+Heart Plants, which give you
+a Heart when you touch them.
+[WAIT][NEXT][...]
+Max HP: 8, Attack Power: 2,
+Defense Power: 0
+[WAIT][NEXT][...]
+If a Hurt Plant bites you,
+you'll be poisoned.
+[PAUSE:0A][...]
+Then your HP will slowly
+fall with each turn.
+[WAIT][NEXT][...]
+We'd better beat 'em as quickly
+as possible.
+[WAIT][NEXT][...]
+Unless you can frequently
+restore your HP, you'll find
+yourself in trouble pretty fast.[WAIT][END]
+
+#string:1C:036
+[STYLE:RIGHT][...]
+This is an M. Bush.
+[PAUSE:0A][...]
+M. Bushes pretend to be bushes
+and wait for unwary prey. 
+[WAIT][NEXT][...]
+Max HP: 8, Attack Power: 3,
+Defense Power: 0
+[WAIT][NEXT][...]
+Their bites are sometimes
+poisonous, so be careful.
+[WAIT][NEXT][...]
+If you get poisoned, your HP
+will gradually fall.
+[WAIT][NEXT][...]
+Your situation could become
+critical unless you restore
+your HP as soon as possible.
+[WAIT][NEXT][...]
+Let's clear 'em out quickly,
+OK? Use your most powerful
+attack, why don't you?[WAIT][END]
+
+#string:1C:037
+[STYLE:RIGHT][...]
+This is a Jungle Fuzzy.
+[WAIT][NEXT][...]
+Jungle Fuzzies are very similar
+to other Fuzzies, but they live
+in the jungle, so...
+...that's their name.
+[WAIT][NEXT][...]
+Max HP: 7, Attack Power: 2,
+Defense Power: 0
+[WAIT][NEXT][...]
+They cling to you, suck out
+your HP and add it to their own.
+What a sleazy move!
+[WAIT][NEXT][...]
+They won't stop clinging to you
+unless you tear 'em off
+with the action command.
+[WAIT][NEXT][...]
+They also occasionally divide,
+[PAUSE:0A][...]
+so let's beat 'em before they
+get the chance.[WAIT][END]
+
+#string:1C:038
+[STYLE:RIGHT][...]
+This is a Spear Guy.
+[PAUSE:0A][...]
+Spear Guys are relatives of
+Shy Guys. They live in the
+jungle.
+[WAIT][NEXT][...]
+Max HP: 7, Attack Power: 3,
+Defense Power: 0
+[WAIT][NEXT][...]
+You'll get hurt if you attack
+with the Hammer while they're
+pointing the spear at you.
+[WAIT][NEXT][...]
+You'll also get hurt if you
+try to jump on 'em when the
+spear's pointing upward.
+[WAIT][NEXT][...]
+Pay attention to the position
+of their spears when we attack.
+[WAIT][NEXT][...]
+Oh yeah, they also sometimes
+call in reinforcements.
+[PAUSE:0A][...]
+After they throw their spears,
+they become ordinary Shy Guys.[WAIT][END]
+
+#string:1C:039
+[STYLE:RIGHT][...]
+This is a Putrid Piranha.
+[PAUSE:0A][...]
+[WAIT][NEXT][...]
+Max HP: 12, Attack Power: 3,
+Defense Power: 0
+[WAIT][NEXT][...]
+Putrid Piranhas sometimes bite,
+but the truly scary thing is
+their nasty, poisonous breath.
+[WAIT][NEXT][...]
+The power of their bad breath
+is 2, but your HP will begin
+to fall if you get poisoned.
+[WAIT][NEXT][...]
+You should try to recover as
+quickly as possible if you
+get poisoned.[WAIT][END]
+
+#string:1C:03A
+[STYLE:RIGHT][...]
+This is a Lava Bubble, a fire
+ball monster.
+[PAUSE:0A][...]
+Lava Bubbles live near lava.
+[WAIT][NEXT][...]
+Max HP: 9, Attack Power: 4,
+Defense Power: 0
+[WAIT][NEXT][...]
+They are obviously pretty hot,
+so you'll get hurt if you try
+to jump on 'em.
+[WAIT][NEXT][...]
+They sometimes attack your
+friends (like me!), too.
+[PAUSE:0A][...]
+The power of that attack is 2.
+[WAIT][NEXT][...]
+Because of their fiery nature,
+they fear snow and water.[WAIT][END]
+
+#string:1C:03B
+[STYLE:RIGHT][...]
+This is Spike Top.
+[PAUSE:0A][...]
+Spike Tops have spikes on top.
+Duh!
+[WAIT][NEXT][...]
+Max HP: 4, Attack Power: 3,
+Defense Power: 4
+[WAIT][NEXT][...]
+They're tough, just like Buzzy
+Beetles, and fire attacks
+don't affect 'em at all.
+[WAIT][NEXT][...]
+But their defense power drops
+if you can flip 'em over.[WAIT][END]
+
+#string:1C:03C
+[STYLE:RIGHT][...]
+This is a Lava Piranha.
+[PAUSE:0A][...]
+Lava Piranhas are plants that
+can somehow survive in lava.
+[WAIT][NEXT][...]
+Max HP: 40, Attack Power: 5,
+Defense Power: 0
+[WAIT][NEXT][...]
+They blow out huge balls of
+fire to attack.
+[WAIT][NEXT][...]
+That is one big flower! Wow![WAIT][END]
+
+#string:1C:03D
+[STYLE:RIGHT][...]
+This is a Lava Piranha.
+[PAUSE:0A][...]
+Lava Piranhas are plants that
+can somehow survive in lava.
+[WAIT][NEXT][...]
+Max HP: 40, Attack Power: 5,
+Defense Power: 0
+[WAIT][NEXT][...]
+Since their bodies are on fire,
+you'll take damage if you step
+on 'em.
+[PAUSE:0A][...]
+Don't worry if you're fireproof.
+[WAIT][NEXT][...]
+They'll try to burn you with
+their fire breath.
+[WAIT][NEXT][...]
+They're creatures born of fire,
+so water attacks will work
+extremely well against them.[WAIT][END]
+
+#string:1C:03E
+[STYLE:RIGHT][...]
+This is a Lava Bud.
+[WAIT][NEXT][...]
+Lava Buds are little flowers
+branching out from the main
+stem of the Lava Piranha.
+They love it in the lava.
+[WAIT][NEXT][...]
+Hey, if you were a fiery plant,
+you'd love it in there, too.
+[WAIT][NEXT][...]
+Max HP: 8, Defense Power: 0
+[WAIT][NEXT][...]
+They blow small seeds or
+other projectiles to attack.
+[PAUSE:0A][...]
+The small Lava Buds'
+attack power is 4.[WAIT][END]
+
+#string:1C:03F
+[STYLE:RIGHT][...]
+This is a Lava Bud.
+[WAIT][NEXT][...]
+Lava Buds are little flowers
+branching out from the main
+stem of the Lava Piranha.
+They love it in the lava.
+[WAIT][NEXT][...]
+Hey, if you were a fiery plant,
+you'd love it in there, too.
+[WAIT][NEXT][...]
+Max HP: 8, Defense Power: 0
+[WAIT][NEXT][...]
+They blow out Petit Piranhas.
+[PAUSE:0A][...]
+The Lava Buds' stems
+themselves won't attack you.[WAIT][END]
+
+#string:1C:040
+[STYLE:RIGHT][...]
+This is a Petit Piranha.
+[PAUSE:0A][...]
+Petit Piranhas spew from
+Lava Buds.
+[WAIT][NEXT][...]
+Max HP: 1, Attack Power: 6,
+Defense Power: 0
+[WAIT][NEXT][...]
+These things can do some
+serious damage, so watch it![WAIT][END]
+
+#string:1C:041
+[STYLE:RIGHT][...]
+It's Jr. Troopa!
+[PAUSE:0A][...]
+He swam all the way after us!
+[PAUSE:05][...]
+This kid...he's got guts!
+[WAIT][NEXT][...]
+Max HP: 40, Attack Power: 6,
+Defense Power: 1
+[WAIT][NEXT][...]
+He still flies but now he has
+a spike on his head. It'll hurt
+if you jump on him.
+[PAUSE:0A][...]
+He seems tougher this time...
+[WAIT][NEXT][...]
+Luckily for us, he also looks
+pretty tuckered out.
+[WAIT][NEXT][...]
+Well, he should be tired.
+The little guy swam to
+Lavalava Island and back!
+[WAIT][NEXT][...]
+It seems better to attack
+from a distance with an item
+or something, rather than
+attacking him directly.[WAIT][END]
+
+#string:1C:042
+[STYLE:RIGHT][...]
+This is a Lakitu.
+[PAUSE:0A][...]
+Lakitus are strange Koopas
+that can ride clouds.
+[WAIT][NEXT][...]
+Max HP: 12, Attack Power: 3,
+Defense Power: 0
+[WAIT][NEXT][...]
+They toss down Spiny Eggs,
+and these sometimes turn
+into crawling Spinies.
+[WAIT][NEXT][...]
+We'd better deal with them
+quickly or else we'll be
+surrounded by Spinies.
+[WAIT][NEXT][...]
+It seems like these Lakitus
+have been hassling you for
+your entire career, Mario.[WAIT][END]
+
+#string:1C:043
+[STYLE:RIGHT][...]
+This is a Spiny.
+[PAUSE:0A][...]
+Spinies have spikes on their
+shells that are pretty sharp.
+[WAIT][NEXT][...]
+Max HP: 5, Attack Power: 4,
+Defense Power: 3
+[WAIT][NEXT][...]
+They'll roll into Spiny Eggs
+and slam into you.
+[WAIT][NEXT][...]
+It'll be much easier to fight
+them if you can flip them over.
+Their defense power falls to 0.[WAIT][END]
+
+#string:1C:044
+[STYLE:RIGHT][...]
+This is a Bzzap!
+[PAUSE:0A][...]
+Bzzaps! are monstrous bees.
+[WAIT][NEXT][...]
+Max HP: 3, Attack Power: 6,
+Defense Power: 0
+[WAIT][NEXT][...]
+If they sting you, sometimes
+you'll be poisoned.
+[WAIT][NEXT][...]
+They also occasionally call a
+swarm of small bees to attack
+you in a cloud.
+[WAIT][NEXT][...]
+Be careful of those little
+attackers, because you'll
+sometimes shrink when stung. 
+[WAIT][NEXT][...]
+They don't have a lot of HP,
+so take care of 'em as quick
+as you can.[WAIT][END]
+
+#string:1C:045
+[STYLE:RIGHT][...]
+This is a Crazee Dayzee.
+[PAUSE:0A][...]
+Crazee Dayzees look cute, but
+you won't think they're so
+cute after they attack you!
+[WAIT][NEXT][...]
+Max HP: 8, Attack Power: 4,
+Defense Power: 0
+[WAIT][NEXT][...]
+They attack by singing a song.
+[PAUSE:0A][...]
+If you fall under the song's
+spell, you'll fall asleep.
+[WAIT][NEXT][...]
+If you get their HP low enough,
+they'll try to run away. Beat
+'em quickly so they can't flee.[WAIT][END]
+
+#string:1C:046
+[STYLE:RIGHT][...]
+This is an Amazy Dayzee.
+[PAUSE:0A][...]
+Amazy Dayzees are so rare that
+they're also called the 
+Legendary Crazee Dayzees. 
+[WAIT][NEXT][...]
+Max HP: 20, Attack Power: 20,
+Defense Power: 1
+[WAIT][NEXT][...]
+These guys almost always flee
+at their first chance.
+[WAIT][NEXT][...]
+It would be nice to beat one,
+but be careful! Their attacks
+pack a powerful punch![WAIT][END]
+
+#string:1C:047
+[STYLE:RIGHT][...]
+This is a Monty Mole.
+[PAUSE:0A][...]
+You remember Monty Moles from
+Mt. Rugged, don't you?
+[WAIT][NEXT][...]
+Max HP: 12, Attack Power: 3,
+Defense Power: 0
+[PAUSE:0A][...]
+They're vicious rock-throwers.
+[WAIT][NEXT][...]
+They may look intimidating
+but they're not very strong.[WAIT][END]
+
+#string:1C:048
+[STYLE:RIGHT][...]
+He said his name is Spike.
+[PAUSE:0A][...]
+He seems to be a Lakitu, but
+he's the weirdest one I've seen.
+[WAIT][NEXT][...]
+Max HP: 50, Attack Power: 4,
+Defense Power: 0
+[PAUSE:0A][...]
+He throws Spiny Eggs.
+[WAIT][NEXT][...]
+Is it just me, or did he call 
+himself Spike, Michael and
+Lakilester? What an odd guy...
+[WAIT][NEXT][...]
+...I have to wonder just what
+his real name is...[WAIT][END]
+
+#string:1C:049
+[STYLE:RIGHT][...]
+This is a Ruff Puff.
+[PAUSE:0A][...]
+Ruff Puffs are nasty little
+cloud henchmen of Huff N. Puff.
+[WAIT][NEXT][...]
+Max HP: 10, Attack Power: 4,
+Defense Power: 0
+[WAIT][NEXT][...]
+Ruff Puffs float in the air,
+so a Jump attack or something
+similar may be best.
+[WAIT][NEXT][...]
+Of course, I'd be more than
+happy to give 'em a Headbonk!
+[WAIT][NEXT][...]
+It's your call, Mario.[WAIT][END]
+
+#string:1C:04A
+[STYLE:RIGHT][...]
+This is Huff N. Puff.
+[PAUSE:0A][...]
+He's a giant cloud monster.
+[WAIT][NEXT][...]
+Max HP: 60, Attack Power: 5,
+Defense Power: 0
+[WAIT][NEXT][...]
+His thunder attack is very
+dangerous. If you don't defend,
+you'll take massive damage.
+[WAIT][NEXT][...]
+When you attack Huff N. Puff,
+little clouds called Tuff Puffs
+come out. Their number is based
+on the amount of damage you do.
+[WAIT][NEXT][...]
+If you leave the Tuff Puffs,
+Huff N. Puff will swallow
+them up and restore his HP.
+[WAIT][NEXT][...]
+You need to use smart tactics
+to beat this guy, Mario.[WAIT][END]
+
+#string:1C:04B
+[STYLE:RIGHT][...]
+These are the Tuff Puffs that
+break off when you damage
+Huff N. Puff.
+[WAIT][NEXT][...]
+Max HP: 1, Attack Power: 2,
+Defense Power: 0
+[WAIT][NEXT][...]
+Tuff Puffs will fly over and
+attack you directly.
+[WAIT][NEXT][...]
+You have to shake them off you
+using the action command or
+they'll keep on damaging you.
+[WAIT][NEXT][...]
+Huff N. Puff will swallow
+the Tuff Puffs to restore
+his HP, so think carefully
+when attacking.
+[WAIT][NEXT][...]
+You can beat the Tuff Puffs
+easily by attacking all enemies.[WAIT][END]
+
+#string:1C:04C
+[STYLE:RIGHT][...]
+It's Jr. Troopa!
+[PAUSE:0A][...]
+I'm stunned! Really!
+This guy just will not quit!
+[WAIT][NEXT][...]
+Max HP: 50, Attack Power: 8,
+Defense Power: 1
+[WAIT][NEXT][...]
+He's obviously been training.
+It seems he can use magic now.
+[WAIT][NEXT][...]
+Sigh... Let's get this over with.[WAIT][END]
+
+#string:1C:04D
+[STYLE:RIGHT][...]
+This is a Gulpit.
+[PAUSE:0A][...]
+Whoa! Gulpits look pretty 
+burly, don't they?
+[WAIT][NEXT][...]
+Max HP: 12, Attack Power: 2,
+Defense Power: 0
+[WAIT][NEXT][...]
+Gulpits attack by picking rocks
+up in their mouths and then
+spitting 'em back out.
+[WAIT][NEXT][...]
+The bigger the rock they spit,
+the more damage you'll take.
+[WAIT][NEXT][...]
+Big rocks take 7 HP in damage,
+and small ones take 5 HP.
+[WAIT][NEXT][...]
+They can't do much damage
+without ammo, so you should
+concentrate on the rocks first.[WAIT][END]
+
+#string:1C:04E
+[STYLE:RIGHT][...]
+These are Gulpits' Rocks. Gulpits
+gulp them and then spit 'em at
+people.
+[PAUSE:0A][...]
+There are two sizes of rocks.
+[WAIT][NEXT][...]
+The big rocks do more damage
+than the small rocks do. 
+[PAUSE:0A][...]
+...Big surprise, huh?[WAIT][END]
+
+#string:1C:04F
+[STYLE:RIGHT][...]
+This monster... Even I don't
+know what it is!
+[WAIT][NEXT][...]
+I don't know why, but it looks
+really terrifying.
+[PAUSE:0A][...]
+...I get the funny feeling I
+had a nightmare about it...
+[WAIT][NEXT][...]
+Max HP: 20, Defense Power: 0
+[WAIT][NEXT][...]
+I don't know its attack power,
+but it must be very powerful,
+judging by its looks.[WAIT][END]
+
+#string:1C:050
+[STYLE:RIGHT][...]
+This is a Frost Piranha.
+[PAUSE:0A][...]
+Frost Piranhas are frozen
+Piranha Plants.
+[WAIT][NEXT][...]
+Max HP: 10, Attack Power: 4,
+Defense Power: 0
+[WAIT][NEXT][...]
+They'll try to freeze you with
+their icy breath.
+[WAIT][NEXT][...]
+You'll be at their mercy if
+they freeze you, so you'd
+better try to immobilize them
+right away.
+[WAIT][NEXT][...]
+Ice attacks won't work--
+they love ice!
+[PAUSE:0A][...]
+Fire attacks, though...[WAIT][END]
+
+#string:1C:051
+[STYLE:RIGHT][...]
+This is a White Clubba. They
+live in cold climates.
+[PAUSE:0A][...]
+Who knows why they moved here...
+[WAIT][NEXT][...]
+Max HP: 12, Attack Power: 5,
+Defense Power: 0
+[WAIT][NEXT][...]
+They sometimes attack
+consecutively.
+[WAIT][NEXT][...]
+They're pretty powerful. It's
+tough to swing such big clubs!
+[WAIT][NEXT][...]
+Ice attacks won't work on them,
+so break out fire if you have it.[WAIT][END]
+
+#string:1C:052
+[STYLE:RIGHT][...]
+This is a Duplighost.
+[PAUSE:0A][...]
+Duplighosts disguise themselves
+as members of our party.
+[WAIT][NEXT][...]
+Max HP: 15, Attack Power: 4,
+Defense Power: 0
+[WAIT][NEXT][...]
+They love to attack in disguise.
+[WAIT][NEXT][...]
+It seems like they're generally
+stronger fighters when they're
+not disguised, though.[WAIT][END]
+
+#string:1C:053
+[STYLE:RIGHT][...]
+It's a Duplighost disguised
+as Watt.
+[PAUSE:0A][...]
+Max HP: 15
+[WAIT][NEXT][...]
+Its disguise is pretty much
+perfect. Its attack power
+is exactly the same as the
+character it's imitating.
+[WAIT][NEXT][...]
+You know how Watt is shocking?
+Same goes for this Duplighost.[WAIT][END]
+
+#string:1C:054
+[STYLE:RIGHT][...]
+It's a Duplighost disguised
+as Kooper.
+[PAUSE:0A][...]
+Max HP: 15
+[WAIT][NEXT][...]
+This imposter almost looks
+better than the original! Ha!
+[WAIT][NEXT][...]
+Its disguise is pretty much
+perfect. Its attack power
+is exactly the same as the
+character it's imitating.
+[WAIT][NEXT][...]
+It's probably not very difficult
+for this Duplighost to disguise
+itself as Kooper. After all, our
+pal is pretty unusual looking.
+[WAIT][NEXT][...]
+It'll attack us with its shell,
+just like the regular Kooper.
+[WAIT][NEXT][...]
+You'll have the best luck
+beating it if you flip it.[WAIT][END]
+
+#string:1C:055
+[STYLE:RIGHT][...]
+It's a Duplighost disguised
+as me.
+[PAUSE:0A][...]
+Max HP: 15
+[PAUSE:0A][...]
+It'll do Headbonk and Tattle.
+[WAIT][NEXT][...]
+That looks nothing like me.
+Does it? No!
+Seriously, though, does it?
+[PAUSE:0F][...]
+Mario? Hello?
+[WAIT][NEXT][...]
+Look, I've been working out
+like crazy trying to get in
+shape for adventuring. There's
+just no way I'm that pudgy![WAIT][END]
+
+#string:1C:056
+[STYLE:RIGHT][...]
+It's a Duplighost disguised
+as Sushie.
+[PAUSE:0A][...]
+Max HP: 15
+[WAIT][NEXT][...]
+Its face looks even grouchier
+than the real thing!
+[WAIT][NEXT][...]
+Its disguise is pretty much
+perfect. Its attack power
+is exactly the same as Sushie's.
+[WAIT][NEXT][...]
+I'm glad we have Sushie on our
+side. She's intimidating!
+[PAUSE:0A][...]
+I wonder if this imposter is
+meddlesome as well...[WAIT][END]
+
+#string:1C:057
+[STYLE:RIGHT][...]
+It's a Duplighost disguised
+as Lakilester.
+[PAUSE:0A][...]
+Max HP: 15
+[PAUSE:0A][...]
+It's hard to take him seriously.
+[WAIT][NEXT][...]
+Its disguise is pretty much
+perfect. Its attack power
+is exactly the same as 
+Lakilester's.
+[WAIT][NEXT][...]
+It's tough to dodge his
+Spiny Flip, so pay attention.[WAIT][END]
+
+#string:1C:058
+[STYLE:RIGHT][...]
+It's a Duplighost disguised
+as Parakarry.
+[PAUSE:0A][...]
+Max HP: 15
+[WAIT][NEXT][...]
+He looks even more intelligent
+as an enemy.
+[WAIT][NEXT][...]
+Its disguise is pretty much
+perfect. Its attack power
+is exactly the same as 
+Parakarry's.
+[WAIT][NEXT][...]
+Don't underestimate him, Mario.
+He looks pretty serious.[WAIT][END]
+
+#string:1C:059
+[STYLE:RIGHT][...]
+It's a Duplighost disguised
+as Bombette.
+[PAUSE:0A][...]
+Max HP: 15
+[WAIT][NEXT][...]
+Its disguise is pretty much
+perfect. Its attack power 
+is exactly the same as
+Bombette's.
+[WAIT][NEXT][...]
+You should be careful even
+though she looks cute.[WAIT][END]
+
+#string:1C:05A
+[STYLE:RIGHT][...]
+It's a Duplighost disguised
+as Bow.
+[PAUSE:0A][...]
+Max HP: 15
+[WAIT][NEXT][...]
+Its disguise is pretty much
+perfect. Its attack power
+is exactly the same as Bow's.
+[WAIT][NEXT][...]
+Look, you've seen her in action.
+Do you really want to know what
+a Smack attack feels like?[WAIT][END]
+
+#string:1C:05B
+[STYLE:RIGHT][...]
+This is an Albino Dino.
+[PAUSE:0A][...]
+Albino Dinos are the guards
+of this frosty place.
+[WAIT][NEXT][...]
+Max HP: 8, Attack Power: 4,
+Defense Power: 4
+[WAIT][NEXT][...]
+Fire attacks won't work.
+[WAIT][NEXT][...]
+Their defense power is huge,
+so let's reduce their HP
+steadily using our strongest
+damage-dealing attacks.[WAIT][END]
+
+#string:1C:05C
+[STYLE:RIGHT][...]
+This is a Swoopula.
+[PAUSE:0A][...]
+Swoopulas attack from the air
+and cling to you to suck your HP.
+[WAIT][NEXT][...]
+Max HP: 8, Attack Power: 2,
+Defense Power: 0
+[WAIT][NEXT][...]
+Hit {PushColor}{Color:10}[A]{PopColor} repeatedly to fight
+it off or else it'll keep
+sucking your HP.
+[WAIT][NEXT][...]
+You can't jump high enough
+to attack them while they're
+hanging from the ceiling.
+[WAIT][NEXT][...]
+An earthquake attack ought
+to work, though.
+[WAIT][NEXT][...]
+Flying party members, like
+Bow or Parakarry, can also
+attack them with ease.
+[WAIT][NEXT][...]
+If they fall and begin to flap
+around, you can attack them by
+jumping as well.[WAIT][END]
+
+#string:1C:05D
+[STYLE:RIGHT][...]
+This is the Crystal King.
+[PAUSE:0A][...]
+He's one of Bowser's main guys.
+I don't know how he managed
+to take over this palace, but...
+[WAIT][NEXT][...]
+Max HP: 70, Attack Power: 6,
+Defense Power: 2
+[WAIT][NEXT][...]
+He'll attack you by summoning
+and launching Crystal Bits.
+[WAIT][NEXT][...]
+The power of each attack is 4.
+The number of times he
+attacks equals the number of
+Crystal Bits he's deployed.
+[WAIT][NEXT][...]
+He'll also try to freeze you
+whenever he can.
+[WAIT][NEXT][...]
+When his HP gets low, he may
+try to divide and conquer.
+[PAUSE:0A][...]
+The power of this attack is 8.
+[WAIT][NEXT][...]
+You can hurt him only by
+attacking his real body.
+[WAIT][NEXT][...]
+If you don't know which one's
+the main body, you should
+attack all of them.
+[PAUSE:0A][...]
+Pretty brilliant, eh?[WAIT][END]
+
+#string:1C:05E
+[STYLE:RIGHT][...]
+I think this is a deceptive
+duplicate of the Crystal King.
+[WAIT][NEXT][...]
+Since it's just an illusion,
+all of your attacks will just
+go through it.
+[WAIT][NEXT][...]
+Max HP: 70, Attack Power: 5,
+Defense Power: 0
+[PAUSE:0A][...]
+Just a reminder, Mario...
+[WAIT][NEXT][...]
+You must damage the real one.[WAIT][END]
+
+#string:1C:05F
+[STYLE:RIGHT][...]
+This is a Crystal Bit.
+[PAUSE:0A][...]
+Basically, Crystal Bits are
+just pieces of the Crystal King.
+[PAUSE:0A][...]
+You can drop 'em with ease.
+[WAIT][NEXT][...]
+Their Max HP is 1 and they're
+only dangerous when the
+Crystal King spews 'em out.
+[WAIT][NEXT][...]
+Their defense power is 0.
+[PAUSE:0A][...]
+These guys are pretty weak.
+[WAIT][NEXT][...]
+They'll keep coming, though,
+until you've finally beaten
+the Crystal King.[WAIT][END]
+
+#string:1C:060
+[STYLE:RIGHT][...]
+This is an Ember.
+[PAUSE:0A][...]
+Embers are fiery monsters
+forged from uncanny blue fire.
+[WAIT][NEXT][...]
+Max HP: 10, Attack Power: 4,
+Defense Power: 0
+[WAIT][NEXT][...]
+They may look frosty, but
+they're actually on fire, so
+fire attacks won't work.
+[WAIT][NEXT][...]
+They divide themselves when
+they're attacked.
+[PAUSE:0A][...]
+Keep attacking 'em, though.
+You'll get 'em eventually.
+[WAIT][NEXT][...]
+They'll probably fight back.
+[PAUSE:0A][...]
+Their attacks usually deal out
+3 damage points.
+[WAIT][NEXT][...]
+Water attacks will work well.
+[PAUSE:0A][...]
+Let's beat 'em before they
+get a chance to burn us.[WAIT][END]
+
+#string:1C:061
+[STYLE:RIGHT][...]
+This is a Dry Bones.
+[PAUSE:0A][...]
+Dry Bones are skeletal remains
+from Koopa Troopas.
+[WAIT][NEXT][...]
+Max HP: 8, Attack Power: 4,
+Defense Power: 2
+[WAIT][NEXT][...]
+Just when you think they're
+beat, these guys rise back up
+and attack again!
+[WAIT][NEXT][...]
+You're going to have to beat
+them all at once.
+[WAIT][NEXT][...]
+Or you could use fire attacks.
+If they become ashes, there's
+no way they'll recover.[WAIT][END]
+
+#string:1C:062
+[STYLE:RIGHT][...]
+It's a Bony Beetle.
+[PAUSE:0A][...]
+They're bony Buzzy Beetles.
+...Hence the name.
+[WAIT][NEXT][...]
+Max HP: 8, Attack Power: 3,
+Defense Power: 4
+[PAUSE:0A][...]
+It's tough to damage 'em.
+[WAIT][NEXT][...]
+When their spikes are out,
+their attack power is 5.
+[WAIT][NEXT][...]
+When they retract their spikes,
+take the opportunity to flip
+'em over. After that, beating
+'em will be a breeze.[WAIT][END]
+
+#string:1C:063
+[STYLE:RIGHT][...]
+This is a Magikoopa.
+[PAUSE:0A][...]
+Magikoopas are the elite
+magicians of the Koopa clan.
+[WAIT][NEXT][...]
+Max HP: 11, Attack Power: 6,
+Defense Power: 0
+[WAIT][NEXT][...]
+Tread carefully, Mario!
+Their magical attacks pack a
+serious punch!
+[WAIT][NEXT][...]
+They know many nasty spells.
+[WAIT][NEXT][...]
+We'd better beat them before
+they can do anything crazy.[WAIT][END]
+
+#string:1C:064
+[STYLE:RIGHT][...]
+This is a deceptive duplicate 
+of a Magikoopa.
+[PAUSE:0A][...]
+There's no use attacking 'em.
+[WAIT][NEXT][...]
+The real Magikoopa's power is:
+Max HP: 11, Attack Power: 6,
+Defense Power: 0[WAIT][END]
+
+#string:1C:065
+[STYLE:RIGHT][...]
+This is a Magikoopa.
+[PAUSE:0A][...]
+Magikoopas are the elite
+magicians of the Koopa clan.
+[WAIT][NEXT][...]
+Max HP: 11, Attack Power: 6,
+Defense Power: 0
+[WAIT][NEXT][...]
+Tread carefully, Mario!
+Their magical attacks pack a
+serious punch!
+[WAIT][NEXT][...]
+They know many nasty spells.
+[WAIT][NEXT][...]
+We'd better beat them before 
+they can do anything crazy.[WAIT][END]
+
+#string:1C:066
+[STYLE:RIGHT][...]
+This is a deceptive duplicate
+of a Magikoopa.
+[PAUSE:0A][...]
+There's no use attacking 'em.
+[WAIT][NEXT][...]
+The real Magikoopa's power is:
+Max HP: 11, Attack Power: 6,
+Defense Power: 0[WAIT][END]
+
+#string:1C:067
+[STYLE:RIGHT][...]
+This is a Koopatrol.
+They're elite Koopa soldiers. 
+[PAUSE:0A][...]
+These are the highest-ranked
+guards of Bowser's Castle.
+[WAIT][NEXT][...]
+Max HP: 8, Attack Power: 4,
+Defense Power: 3
+[WAIT][NEXT][...]
+In case you hadn't noticed,
+they're fitted with spikes.
+Don't jump on 'em.
+[WAIT][NEXT][...]
+When their HP drops low,
+they'll charge up power for
+one last-ditch attack.
+[WAIT][NEXT][...]
+The power of this desperate
+attack is 10.
+[WAIT][NEXT][...]
+They've also been known to
+call in reinforcements when
+they're in trouble.
+[WAIT][NEXT][...]
+Don't underestimate these
+nasty Koopas, Mario.[WAIT][END]
+
+#string:1C:068
+[STYLE:RIGHT][...]
+These are the Hammer Bros.
+[PAUSE:0A][...]
+You've seen these punks
+before, haven't you?
+[WAIT][NEXT][...]
+Max HP: 12, Attack Power: 5,
+Defense Power: 1
+[WAIT][NEXT][...]
+Be careful of that hammer!
+If it hits you, you'll get
+shrunk in a wink.
+[WAIT][NEXT][...]
+When the Hammer Bros. get
+desperate, they'll hurl a ton
+of hammers, so watch it.
+[WAIT][NEXT][...]
+These guys have been a pain for
+ages, so let's give 'em an 
+old-fashioned whopping. 
+[WAIT][NEXT][...]
+As always, they're not to be
+underestimated.[WAIT][END]
+
+#string:1C:069
+[STYLE:RIGHT][...]
+This is a Bombshell Bill.
+[WAIT][NEXT][...]
+Bombshell Bills have such
+beautiful gold casings!
+Of course, if you sit and
+admire 'em, you'll get hit.
+[WAIT][NEXT][...]
+Max HP: 3, Attack Power: 6,
+Defense Power: 0
+[WAIT][NEXT][...]
+Pay attention to their HP,
+because their explosions get
+bigger as their HP drops.
+[WAIT][NEXT][...]
+Let's take 'em out before
+they get near us![WAIT][END]
+
+#string:1C:06A
+[STYLE:RIGHT][...]
+This is a B. Bill Blaster.
+[PAUSE:0A][...]
+B. Bill Blasters shoot a
+constant stream of
+Bombshell Bills.
+[WAIT][NEXT][...]
+Max HP: 10, Defense Power: 4
+[PAUSE:0A][...]
+They won't attack you directly.
+[WAIT][NEXT][...]
+They're pretty resilient.
+[WAIT][NEXT][...]
+You have to keep attacking 'em,
+though, otherwise the air will
+be filled with Bombshell Bills.
+And nobody wants that.[WAIT][END]
+
+#string:1C:06B
+[STYLE:RIGHT][...]
+It's Jr. Troopa again! My man!
+[PAUSE:0A][...]
+The little guy still has some
+egg shell left on his body! Aww!
+[WAIT][NEXT][...]
+Max HP: 60, Attack Power: 8,
+Defense Power: 2
+[WAIT][NEXT][...]
+Whoa! He's been working out!
+[PAUSE:0A][...]
+He looks as though he may be
+able to change his shape, too.
+[WAIT][NEXT][...]
+You've got to love this guy's
+effort, Mario. To follow us all
+the way here? What dedication!
+[WAIT][NEXT][...]
+Come to think of it, how do
+you think he got here, anyway?[WAIT][END]
+
+#string:1C:06C
+[STYLE:RIGHT][...]
+It's the Evil King Bowser!
+[PAUSE:0A][...]
+Finally, after all this time!
+[WAIT][NEXT][...]
+Max HP: 50, Defense Power: 1
+[WAIT][NEXT][...]
+He has a huge arsenal of
+attacks, from blowing clouds
+of fire to jumping on us.
+[WAIT][NEXT][...]
+Fire Attack: 8,
+Stamp Attack/Nail Attack: 6
+[WAIT][NEXT][...]
+I'm sure he has other attacks
+that I don't know.
+[PAUSE:0A][...]
+Boy, does he look nasty!
+[WAIT][NEXT][...]
+He's strong enough as it is,
+but I'm sure he can use that
+Star Rod to increase his power
+until he's nearly invincible.
+[WAIT][NEXT][...]
+Princess Peach needs us!
+Let's take him, Mario![WAIT][END]
+
+#string:1C:06D
+[STYLE:RIGHT][...]
+It's the Evil King Bowser!
+[PAUSE:0A][...]
+Uh... I think he got bigger.
+That's not a good sign...
+[WAIT][NEXT][...]
+Max HP: 99, Defense Power: 2
+[WAIT][NEXT][...]
+He has a huge arsenal of
+attacks, from blowing clouds
+of fire to jumping on us.
+[WAIT][NEXT][...]
+Fire Attack: 10,
+Stamp Attack/Nail Attack: 8
+[WAIT][NEXT][...]
+I'm sure he has other attacks
+that I don't know.
+[WAIT][NEXT][...]
+Kammy Koopa's mysterious
+device has somehow beefed up
+his power even more.
+That's hardly fair!
+[WAIT][NEXT][...]
+You should use that Star Beam
+whenever he uses the Star Rod
+to increase his power.
+Oh, you already knew that?[WAIT][END]
+
+#string:1C:06E
+[STYLE:RIGHT][...]
+It's the Evil King Bowser!
+[PAUSE:0A][...]
+No more messing around!
+[WAIT][NEXT][...]
+Max HP: 99, Defense Power: 2
+[WAIT][NEXT][...]
+He has a huge arsenal of
+attacks, from blowing clouds
+of fire to jumping on us.
+[WAIT][NEXT][...]
+Fire Attack: 10,
+Stamp Attack/Nail Attack: 8
+[WAIT][NEXT][...]
+I'm sure he has other attacks
+that I don't know.
+[WAIT][NEXT][...]
+When he increases his power
+with the Star Rod, our attacks
+will be totally useless.
+[WAIT][NEXT][...]
+When that happens, you must
+use our ultimate weapon, the
+Peach Beam! It has the power
+of everyone's wishes!
+[WAIT][NEXT][...]
+This is our time, Mario!
+Let's take this chump!
+We're coming, Princess![WAIT][END]
+
+#string:1C:06F
+[STYLE:RIGHT][...]
+This is Kent C. Koopa.
+[PAUSE:0A][...]
+He seems pretty greedy for
+such a large Koopa.
+[WAIT][NEXT][...]
+Max HP: 70, Attack Power: 10,
+Defense Power: 6
+[WAIT][NEXT][...]
+He sometimes does a stamp
+attack with his shell.
+[PAUSE:0A][...]
+That attack has a power of 3.
+[WAIT][NEXT][...]
+His shell attack also damages
+party members (like me!), 
+so be sure to defend!
+[WAIT][NEXT][...]
+As with all Koopas, your
+chances will greatly improve
+if you can flip him over.
+His defense power will drop.
+[WAIT][NEXT][...]
+Watch it, though! He'll attack
+as soon as he's back on his feet.
+[WAIT][NEXT][...]
+And by the way, is he not 
+THE HUGEST KOOPA EVER!?!
+[PAUSE:0A][...]
+Somebody told me that he used
+to live in Koopa Village...[WAIT][END]
+
+#string:1C:070
+[STYLE:RIGHT][...]
+This is a Blooper.
+[PAUSE:0A][...]
+Bloopers lurk in the dank
+pools of Toad Town Tunnels.
+[WAIT][NEXT][...]
+Max HP: 30, Attack Power: 3,
+Defense Power: 0
+[WAIT][NEXT][...]
+They seem pretty unremarkable.
+[WAIT][NEXT][...]
+Although...
+[PAUSE:0A][...]
+You have to wonder how they
+float in the air like that...[WAIT][END]
+
+#string:1C:071
+[STYLE:RIGHT][...]
+This is an Electro Blooper.
+[PAUSE:0A][...]
+Electro Bloopers are
+electro-charged.
+[WAIT][NEXT][...]
+Max HP: 50, Attack Power: 4,
+Defense Power: 0
+[WAIT][NEXT][...]
+A bit of advice: When they're
+emitting electricity, it'd
+be a smart move to avoid
+contact with 'em.
+[WAIT][NEXT][...]
+If you can manage to damage
+'em while they're emitting
+electricity, they'll go back
+to normal.
+[WAIT][NEXT][...]
+Their attack power when they're
+emitting electricity is 6. 
+[PAUSE:0A][...]
+Let's try to be careful,
+what do you say?[WAIT][END]
+
+#string:1C:072
+[STYLE:RIGHT][...]
+This is a Super Blooper.
+[PAUSE:0A][...]
+Whoa! It's huge!
+[PAUSE:0A][...]
+Easily the biggest Blooper ever!
+[WAIT][NEXT][...]
+Max HP: 70, Attack Power: 5,
+Defense Power: 0
+[WAIT][NEXT][...]
+Trust me, its size doesn't lie.
+It's pretty powerful.
+[PAUSE:0A][...]
+When it gets mad, it turns red
+and its power goes way up.
+[WAIT][NEXT][...]
+And sometimes it spawns
+Blooper Babies.
+[PAUSE:0A][...]
+Buckle down, Mario!
+We're in for a fight![WAIT][END]
+
+#string:1C:073
+[STYLE:RIGHT][...]
+This is a Blooper Baby.
+[PAUSE:0A][...]
+Super Blooper spits 'em out
+and they come to drain you.
+[WAIT][NEXT][...]
+Max HP: 6, Attack Power: 2,
+Defense Power: 0
+[WAIT][NEXT][...]
+We need to beat 'em quickly so
+they can't drain us dry.
+[PAUSE:0A][...]
+They're so cute, though! [WAIT][END]
+
+#string:1C:074
+[STYLE:RIGHT][...]
+This is The Master.
+[PAUSE:0A][...]
+He owns the Dojo--
+and he's the strongest member.
+[WAIT][NEXT][...]
+Max HP: 50, Attack Power: 6,
+Defense Power: 0
+[WAIT][NEXT][...]
+If he's the best in the Dojo,
+he must be pretty tough![WAIT][END]
+
+#string:1C:075
+[STYLE:RIGHT][...]
+This is The Master.
+[PAUSE:0A][...]
+He owns the Dojo--
+and he's the strongest member.
+[WAIT][NEXT][...]
+Max HP: 75, Attack Power: 8,
+Defense Power: 0
+[WAIT][NEXT][...]
+He knows both normal and
+advanced methods of attack.
+[WAIT][NEXT][...]
+You'd better concentrate,
+Mario! This guy doesn't mess
+around at all![WAIT][END]
+
+#string:1C:076
+[STYLE:RIGHT][...]
+He is The Master.
+[PAUSE:0A][...]
+He owns the Dojo-- 
+and he's the strongest member.
+[WAIT][NEXT][...]
+Max HP: 99, Attack Power: 10,
+Defense Power: 1
+[WAIT][NEXT][...]
+He may well know a few moves
+I've never heard of...
+[WAIT][NEXT][...]
+We can't expect mercy from
+this guy, so let's take the
+fight to him.[WAIT][END]
+
+#string:1C:077
+[STYLE:RIGHT][...]
+This is Chan, of the Dojo.
+[PAUSE:0A][...]
+He's training under The Master
+and is happy to fight us.
+[WAIT][NEXT][...]
+Max HP: 15, Attack Power: 2,
+Defense Power: 2
+[WAIT][NEXT][...]
+Hammer attacks don't work well,
+but you can turn him over with
+Jump attacks. Once he's flipped
+over, he's easy.
+[WAIT][NEXT][...]
+No mercy, Mario![WAIT][END]
+
+#string:1C:078
+[STYLE:RIGHT][...]
+This is Lee, of the Dojo.
+[PAUSE:0A][...]
+He's training under The Master
+and is happy to fight us.
+[WAIT][NEXT][...]
+Max HP: 20, Attack Power: 5,
+Defense Power: 0
+[WAIT][NEXT][...]
+He has mastered the art of
+disguise, so don't let it
+faze you when he suddenly
+mirrors us.
+[WAIT][NEXT][...]
+Remember, he can't stay
+disguised forever.
+[WAIT][NEXT][...]
+Don't let his strange tactics
+throw you off guard, no matter
+how many times he transforms.[WAIT][END]
+
+#string:1C:079
+[STYLE:RIGHT][...]
+This is a Gloomba.
+[PAUSE:0A][...]
+Gloombas are nasty Goombas who
+live in the Toad Town Tunnels.
+[WAIT][NEXT][...]
+Max HP: 7, Attack Power: 2,
+Defense Power: 0
+[WAIT][NEXT][...]
+They're stronger than ordinary
+Goombas, but you can take 'em.
+[WAIT][END]
+
+#string:1C:07A
+[STYLE:RIGHT][...]
+This is a Paragloomba.
+[PAUSE:0A][...]
+Paragloombas are nasty winged
+Gloombas who make their home
+in the Toad Town Tunnels.
+[WAIT][NEXT][...]
+Max HP: 7, Attack Power: 2,
+Defense Power: 0
+[WAIT][NEXT][...]
+Just like Paragoombas, 
+Paragloombas lose their wings
+when attacked, then they fall 
+and become Gloombas.  [WAIT][END]
+
+#string:1C:07B
+[STYLE:RIGHT][...]
+This is a Spiked Gloomba.
+[PAUSE:0A][...]
+They're Spiked Goombas who live
+in the Toad Town Tunnels.
+[WAIT][NEXT][...]
+Max HP: 7, Attack Power: 3,
+Defense Power: 0
+[WAIT][NEXT][...]
+Be careful of the spiked hats
+they wear.
+[PAUSE:0A][...]
+It'll definitely hurt if you
+jump on 'em.[WAIT][END]
+
+#string:1C:07C
+[STYLE:RIGHT][...]
+This is a Dark Koopa.
+[WAIT][NEXT][...]
+Dark Koopas are Koopa Troopas
+who live in the Toad Town
+Tunnels. They're known for
+causing dizziness.
+[WAIT][NEXT][...]
+Max HP: 8, Attack Power: 3,
+Defense Power: 2
+[WAIT][NEXT][...]
+Be extra careful when you see
+'em grin, because that means
+they're getting ready to do
+their dizzy attack.
+[WAIT][NEXT][...]
+Their defense power is 0 
+when they're turned over, so
+you should use Jump attacks.[WAIT][END]
+
+#string:1C:07D
+[STYLE:RIGHT][...]
+This is a D. Paratroopa.
+[PAUSE:0A][...]
+D. Paratroopas are Para-
+troopas who live in the
+Toad Town Tunnels.
+[WAIT][NEXT][...]
+Max HP: 8, Attack Power: 3,
+Defense Power: 2
+[WAIT][NEXT][...]
+Hammer attacks won't work
+because they're airborne.
+[WAIT][NEXT][...]
+They'll lose their wings if
+you jump on 'em.
+[WAIT][NEXT][...]
+They'll become Dark Koopas
+when they fall, but be careful!
+They'll do a dizzy attack
+once they're grounded.[WAIT][END]
+
+#string:1C:07E
+[STYLE:RIGHT][...]
+This is a Red Magikoopa.
+[PAUSE:0A][...]
+He's one of the magicians in
+the Koopa clan.
+[PAUSE:0A][...]
+Snappy red robes, huh?
+[WAIT][NEXT][...]
+Max HP: 11, Attack Power: 3,
+Defense Power: 0
+[WAIT][NEXT][...]
+He can magically increase the
+attack power of others.
+[PAUSE:0A][...]
+Take care of him before he can
+pump up his companions![WAIT][END]
+
+#string:1C:07F
+[STYLE:RIGHT][...]
+This is a Red Magikoopa.
+[PAUSE:0A][...]
+He's one of the magicians in
+the Koopa clan.
+[PAUSE:0A][...]
+Snappy red robes, huh?
+[WAIT][NEXT][...]
+Max HP: 11, Attack Power: 3,
+Defense Power: 0
+[WAIT][NEXT][...]
+He can magically increase the
+attack power of others.
+[PAUSE:0A][...]
+Take care of him before he can
+pump up his companions![WAIT][END]
+
+#string:1C:080
+[STYLE:RIGHT][...]
+This is a Green Magikoopa.
+[PAUSE:0A][...]
+He's one of the magicians in
+the Koopa clan.
+[WAIT][NEXT][...]
+I have to admit, I like those
+green robes. Very cool!
+[WAIT][NEXT][...]
+Max HP: 11, Attack Power: 3,
+Defense Power: 0
+[WAIT][NEXT][...]
+He can magically increase the
+defense power of others.
+[PAUSE:0A][...]
+He looks pretty surly.[WAIT][END]
+
+#string:1C:081
+[STYLE:RIGHT][...]
+This is a Green Magikoopa.
+[PAUSE:0A][...]
+He's one of the magicians in
+the Koopa clan.
+[WAIT][NEXT][...]
+I have to admit, I like those
+green robes. Very cool!
+[WAIT][NEXT][...]
+Max HP: 11, Attack Power: 3,
+Defense Power: 0
+[WAIT][NEXT][...]
+He can magically increase the
+defense power of others.
+[PAUSE:0A][...]
+He looks pretty surly.[WAIT][END]
+
+#string:1C:082
+[STYLE:RIGHT][...]
+This is a Yellow Magikoopa.
+[PAUSE:0A][...]
+He's one of the magicians in
+the Koopa clan.
+[WAIT][NEXT][...]
+Yellow is the new black,
+didn't you know?
+[WAIT][NEXT][...]
+Max HP: 11, Attack Power: 3,
+Defense Power: 0
+[WAIT][NEXT][...]
+He can use magic to give his
+companions an electric charge.
+[WAIT][NEXT][...]
+While his cohorts are 
+electrified, don't attack
+them directly or you'll be in 
+for a shocking surprise.[WAIT][END]
+
+#string:1C:083
+[STYLE:RIGHT][...]
+This is a Yellow Magikoopa.
+[PAUSE:0A][...]
+He's one of the magicians in
+the Koopa clan.
+[WAIT][NEXT][...]
+Yellow is the new black,
+didn't you know?
+[WAIT][NEXT][...]
+Max HP: 11, Attack Power: 3,
+Defense Power: 0
+[WAIT][NEXT][...]
+He can use magic to give his
+companions an electric charge.
+[WAIT][NEXT][...]
+While his cohorts are 
+electrified, don't attack
+them directly or you'll be in
+for a shocking surprise.[WAIT][END]
+
+#string:1C:084
+[STYLE:RIGHT][...]
+This is a Gray Magikoopa.
+[PAUSE:0A][...]
+He's one of the magicians in
+the Koopa clan.
+[WAIT][NEXT][...]
+Those gray robes aren't very
+flashy, but they're kind of cool.
+[WAIT][NEXT][...]
+Max HP: 11, Attack Power: 3,
+Defense Power: 0
+[WAIT][NEXT][...]
+He can use magic to make his
+companions transparent.
+[WAIT][NEXT][...]
+We can't attack enemies
+that are transparent.
+[WAIT][NEXT][...]
+Let's try to beat 'em before
+that becomes an issue, what
+do you say?[WAIT][END]
+
+#string:1C:085
+[STYLE:RIGHT][...]
+This is a Gray Magikoopa.
+[PAUSE:0A][...]
+He's one of the magicians in
+the Koopa clan.
+[WAIT][NEXT][...]
+Those gray robes aren't very
+flashy, but they're kind of cool.
+[WAIT][NEXT][...]
+Max HP: 11, Attack Power: 3,
+Defense Power: 0
+[WAIT][NEXT][...]
+He can use magic to make his
+companions transparent.
+[WAIT][NEXT][...]
+We can't attack enemies
+that are transparent.
+[WAIT][NEXT][...]
+Let's try to beat 'em before
+that becomes an issue, what
+do you say?[WAIT][END]
+
+#string:1C:086
+[STYLE:RIGHT][...]
+This is a White Magikoopa.
+[PAUSE:0A][...]
+He's one of the magicians in
+the Koopa clan.
+[WAIT][NEXT][...]
+White robes, huh? How does
+he keep 'em clean?
+[WAIT][NEXT][...]
+Max HP: 11, Attack Power: 3,
+Defense Power: 0
+[WAIT][NEXT][...]
+He's a healer. When he 
+magically heals one companion
+it recovers 5 HP,
+[WAIT][NEXT][...]
+and when he heals all of his
+companions at once, they all
+recover 3 HP.
+[WAIT][NEXT][...]
+You'd better take care of this
+guy but fast.[WAIT][END]
+
+#string:1C:087
+[STYLE:RIGHT][...]
+This is a White Magikoopa.
+[PAUSE:0A][...]
+He's one of the magicians in
+the Koopa clan.
+[WAIT][NEXT][...]
+White robes, huh?
+How does he keep 'em clean?
+[WAIT][NEXT][...]
+Max HP: 11, Attack Power: 3,
+Defense Power: 0
+[WAIT][NEXT][...]
+He's a healer.
+When he magically heals
+one companion it recovers 5 HP,
+[WAIT][NEXT][...]
+and when he heals all of his
+companions at once, they all
+recover 3 HP. 
+[WAIT][NEXT][...]
+You'd better take care of this 
+guy but fast.[WAIT][END]
+
+#string:1C:088
+[STYLE:RIGHT][...]
+This is a Magikoopa.
+[PAUSE:0A][...]
+Magikoopas use magical rods.
+[WAIT][NEXT][...]
+Max HP: 8, Attack Power: 3,
+Defense Power: 0
+[WAIT][NEXT][...]
+Magic attacks are no joke,
+Mario. You'd better take these
+guys seriously.[WAIT][END]
+
+#string:1C:089
+[STYLE:RIGHT][...]
+This is a Magikoopa.
+[PAUSE:0A][...]
+Magikoopas use magical rods.
+[WAIT][NEXT][...]
+Max HP: 8, Attack Power: 3,
+Defense Power: 0
+[WAIT][NEXT][...]
+Magic attacks are no joke,
+Mario. You'd better take these
+guys seriously.[WAIT][END]
+
+#string:1C:08A
+[STYLE:RIGHT][...]
+This is Lee disguised as Watt.
+[PAUSE:0A][...]
+His Max HP is 20, so you should
+be serious even though he looks
+as adorable as Watt.
+[WAIT][NEXT][...]
+Lee has disguised himself as
+Watt perfectly, so his
+attack power is the same as
+Watt's usual power.
+[WAIT][NEXT][...]
+Remember, don't stomp on him!
+You'll get a massive electric
+charge if you do.[WAIT][END]
+
+#string:1C:08B
+[STYLE:RIGHT][...]
+This is Lee disguised as Kooper.
+[PAUSE:0A][...]
+His Max HP is 20.
+[WAIT][NEXT][...]
+Lee has disguised himself as
+Kooper perfectly, so his 
+attack power is the same as
+Kooper's usual power.
+[WAIT][NEXT][...]
+Just like Kooper, he attacks
+with his shell.
+[PAUSE:0A][...]
+If you flip him over, you'll beat
+him with ease.
+[WAIT][NEXT][...]
+Incidentally, Lee's red scarf
+and wristband look cooler
+than Kooper's.
+[WAIT][NEXT][...]
+...Don't tell Kooper I said
+that, though.[WAIT][END]
+
+#string:1C:08C
+[STYLE:RIGHT][...]
+It's Lee disguised as me.
+[PAUSE:0A][...]
+His Max HP is 20.
+[WAIT][NEXT][...]
+Do I really look like that?
+[PAUSE:0F][...]
+No way...
+[WAIT][NEXT][...]
+He'll use Headbonk and Tattle.
+[PAUSE:0A][...]
+He has the same skills as me.
+[WAIT][NEXT][...]
+Of course, I'm much better
+looking and more debonair.
+[PAUSE:0A][...]
+And I hope that I'm stronger![WAIT][END]
+
+#string:1C:08D
+[STYLE:RIGHT][...]
+This is Lee disguised as Sushie.
+[PAUSE:0A][...]
+His Max HP is 20.
+Sushie looks tough! Think she'd
+be mad if she heard that?
+[WAIT][NEXT][...]
+Lee has disguised himself as
+Sushie perfectly, so his 
+attack power is the same as
+Sushie's usual power.
+[WAIT][NEXT][...]
+I'm not too thrilled to have to
+fight Sushie. She's strong![WAIT][END]
+
+#string:1C:08E
+[STYLE:RIGHT][...]
+This is Lee disguised as
+Lakilester.
+[PAUSE:0A][...]
+His Max HP is 20.
+[WAIT][NEXT][...]
+If I remember our battle with
+the real Lakilester correctly,
+this one seems to be weaker.
+[WAIT][NEXT][...]
+Lee has disguised himself as
+Lakilester perfectly, so his
+attack power is the same as
+Lakilester's usual power.
+[WAIT][NEXT][...]
+Dodging that Spiny Flip is
+tough, so pay attention.[WAIT][END]
+
+#string:1C:08F
+[STYLE:RIGHT][...]
+This is Lee disguised as
+Parakarry.
+[PAUSE:0A][...]
+His Max HP is 20.
+[WAIT][NEXT][...]
+Lee has disguised himself as
+Parakarry perfectly, so his
+attack power is the same as
+Parakarry's usual power.
+[WAIT][NEXT][...]
+He's usually slow, but once
+he's in battle, he's a
+whirlwind of feet and feathers.
+[WAIT][NEXT][...]
+He's a sight to behold in
+the heat of battle.
+[WAIT][NEXT][...]
+To tell the truth, I think
+he's the most intimidating
+one on our team![WAIT][END]
+
+#string:1C:090
+[STYLE:RIGHT][...]
+This is Lee disguised as 
+Bombette.
+[PAUSE:0A][...]
+His Max HP is 20.
+[WAIT][NEXT][...]
+Lee has disguised himself as
+Bombette perfectly, so his 
+attack power is the same as
+Bombette's usual power.
+[WAIT][NEXT][...]
+Sure, he looks cute as Bombette,
+but he packs a punch![WAIT][END]
+
+#string:1C:091
+[STYLE:RIGHT][...]
+This is Lee disguised as Bow.
+[PAUSE:0A][...]
+His Max HP is 20.
+[WAIT][NEXT][...]
+Lee has disguised himself as
+Bow perfectly, so his
+attack power is the same as
+Bow's usual power.
+[WAIT][NEXT][...]
+That Smack attack is brutal!
+So cruel![WAIT][END]
+
+#string:1C:092
+[STYLE:RIGHT][...]
+It's Mario, silly!
+[PAUSE:0A][...]
+He's here to save Princess
+Peach, who was kidnapped by
+Bowser. Remember?
+[WAIT][NEXT][...]
+He fights until the bitter end,
+no matter what enemies attack.[WAIT][END]
+
+#string:1C:093
+[STYLE:RIGHT][...]
+This is the Start Switch
+for the Slot Machine.
+[PAUSE:0A][...]
+The Slot Machine will start
+moving when you jump on this.
+[WAIT][NEXT][...]
+Looks like fun...[WAIT][END]
+
+#string:1C:094
+[STYLE:RIGHT][...]
+This is the Stop Switch
+for the Slot Machine.
+[WAIT][NEXT][...]
+The Slot Machine will stop
+moving when you jump on this.
+[WAIT][NEXT][...]
+Coins will come out if the
+pictures are the same.
+[PAUSE:0A][...]
+I hope Shy Guys won't...
+[PAUSE:05][...]
+...I think...[WAIT][END]
+
+#string:1C:095
+[STYLE:RIGHT][...]
+This is a Whacka. That Bump on
+his head looks like a donut hole.
+[WAIT][NEXT][...]
+You probably shouldn't have hit
+him so much. He looks a little
+peeved.[WAIT][END]
+

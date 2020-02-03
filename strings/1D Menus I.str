@@ -1,0 +1,2219 @@
+#string:1D:000
+[STYLE:INSPECT][...]
+Hit this block to save your
+game progress.
+[WAIT][NEXT][...]
+When the game is over, your
+status will return to what it
+was the last time you saved,
+and you can continue to play.
+[WAIT][NEXT][...]
+When you find this block along 
+the way, remember to hit it
+to save![WAIT][END]
+
+#string:1D:001
+[STYLE:INSPECT][...]
+If you hit this block, your
+HP (Heart Points) will fully
+recover.[WAIT][END]
+
+#string:1D:002
+[STYLE:INSPECT][...]
+You got an item!
+[WAIT][NEXT][...]
+You'll use items in this game
+to attack enemies, to recover
+your HP (Heart Points),
+and to do a few other things.
+[WAIT][NEXT][...]
+Press {PushColor}{Color:13}[C-LEFT]{PopColor} to see what items
+Mario has now.[WAIT][END]
+
+#string:1D:003
+[STYLE:INSPECT][...]
+It's a glowing Star Piece!
+Wait and see what this is for.[WAIT][END]
+
+#string:1D:004
+[STYLE:INSPECT][...]
+Do you want to save?
+{Func_04}[END]
+
+#string:1D:005
+{InputOff}[PAUSE:0F]{InputOn}[NEXT][...]
+Save completed.[WAIT][END]
+
+#string:1D:006
+{DelayOff}[STYLE:POPUP][...]
+{Color:2F}You got
+{Color:28}Kooper's Shell{Color:2F}!
+{DelayOn}[WAIT][END]
+
+#string:1D:007
+Goombario[END]
+
+#string:1D:008
+Kooper[END]
+
+#string:1D:009
+Bombette[END]
+
+#string:1D:00A
+Parakarry[END]
+
+#string:1D:00B
+Goompa[END]
+
+#string:1D:00C
+Watt[END]
+
+#string:1D:00D
+Sushie[END]
+
+#string:1D:00E
+Lakilester[END]
+
+#string:1D:00F
+Bow[END]
+
+#string:1D:010
+Goombaria[END]
+
+#string:1D:011
+Twink[END]
+
+#string:1D:012
+Peach[END]
+
+#string:1D:013
+Mario[END]
+
+#string:1D:014
+Focus[END]
+
+#string:1D:015
+Refresh[END]
+
+#string:1D:016
+Lullaby[END]
+
+#string:1D:017
+Star Storm[END]
+
+#string:1D:018
+Chill Out[END]
+
+#string:1D:019
+Smooch[END]
+
+#string:1D:01A
+Time Out[END]
+
+#string:1D:01B
+Up & Away[END]
+
+#string:1D:01C
+Star Beam[END]
+
+#string:1D:01D
+Peach Beam[END]
+
+#string:1D:01E
+Focus[END]
+
+#string:1D:01F
+Dash[END]
+
+#string:1D:020
+Charge Star Energy.[END]
+
+#string:1D:021
+Recover HP & FP by 5. Also
+cures poisoning and Shrink.[END]
+
+#string:1D:022
+Lull enemies to sleep with
+a tender lullaby.
+[END]
+
+#string:1D:023
+Attack enemy with Star Storm. 
+Attack Power: 7[END]
+
+#string:1D:024
+If it works, will briefly lower
+enemy's attack power by 3.[END]
+
+#string:1D:025
+Recover HP by 20.[END]
+
+#string:1D:026
+If it works, will keep enemy  
+from moving for a short time.[END]
+
+#string:1D:027
+Turn enemies into stars and
+blow them away.[END]
+
+#string:1D:028
+It's believed to briefly stop
+Bowser's Star Rod power.[END]
+
+#string:1D:029
+Briefly stop Bowser's 
+Star Rod power.[END]
+
+#string:1D:02A
+Eldstar[END]
+
+#string:1D:02B
+Mamar[END]
+
+#string:1D:02C
+Skolar[END]
+
+#string:1D:02D
+Muskular[END]
+
+#string:1D:02E
+Misstar[END]
+
+#string:1D:02F
+Klevar[END]
+
+#string:1D:030
+Kalmar[END]
+
+#string:1D:031
+The elder of Star Haven,
+he's respected by all others.
+His power, Refresh,
+recovers HP & FP by 5.[END]
+
+#string:1D:032
+Happy and kind hearted,
+she looks after the others.
+Her power, Lullaby, lulls
+all enemies to sleep.[END]
+
+#string:1D:033
+Like most scholars,
+he's always studying.
+His power, Star Storm,
+strikes all enemies.[END]
+
+#string:1D:034
+This young Star Spirit is
+always full of energy.
+His Chill Out power lowers
+enemy's attack power. [END]
+
+#string:1D:035
+This young Star Spirit is
+pure hearted but strong.
+Her power, Smooch,
+recovers HP.
+[END]
+
+#string:1D:036
+Young and very clever,
+he's always reading books.
+His power, Time Out,
+keeps enemies from moving.[END]
+
+#string:1D:037
+Very warm hearted, he hates
+fights or arguments.
+His power, Up & Away,
+turns all enemies into stars.[END]
+
+#string:1D:038
+Hammer[END]
+
+#string:1D:039
+Jump[END]
+
+#string:1D:03A
+Star Spirits[END]
+
+#string:1D:03B
+Run Away[END]
+
+#string:1D:03C
+Do Nothing[END]
+
+#string:1D:03D
+Party Member[END]
+
+#string:1D:03E
+Change Member[END]
+
+#string:1D:03F
+Items[END]
+
+#string:1D:040
+Key Items[END]
+
+#string:1D:041
+Double Dip    /  [END]
+
+#string:1D:042
+Triple Dip    /  [END]
+
+#string:1D:043
+Strategies[END]
+
+#string:1D:044
+Defense[END]
+
+#string:1D:045
+Abilities[END]
+
+#string:1D:046
+Act Later[END]
+
+#string:1D:047
+End Training[END]
+
+#string:1D:048
+Focus[END]
+
+#string:1D:049
+Dash[END]
+
+#string:1D:04A
+{Func_29:32}Hammer[END]
+
+#string:1D:04B
+{Func_29:32}Jump[END]
+
+#string:1D:04C
+{Func_29:32}Star Spirits[END]
+
+#string:1D:04D
+{Func_29:32}Run Away[END]
+
+#string:1D:04E
+{Func_29:32}Do Nothing[END]
+
+#string:1D:04F
+{Func_29:32}Change Member[END]
+
+#string:1D:050
+{Func_29:32}Items[END]
+
+#string:1D:051
+{Func_29:32}Strategies[END]
+
+#string:1D:052
+{Func_29:32}Defense[END]
+
+#string:1D:053
+{Func_29:32}Abilities[END]
+
+#string:1D:054
+{Func_29:32}End Training[END]
+
+#string:1D:055
+{Func_29:32}Focus[END]
+
+#string:1D:056
+{Func_29:32}Act Later[END]
+
+#string:1D:057
+{Func_29:32}Dash[END]
+
+#string:1D:058
+{Color:2F}You got the
+{Color:28}{Var:00}{Color:2F}![END]
+
+#string:1D:059
+{Color:2F}You got the
+{Color:28}{Var:00}{Color:2F} Badge![END]
+
+#string:1D:05A
+{Color:2F}You got the
+{Color:28}{Var:00}{Color:2F}![END]
+
+#string:1D:05B
+{Color:2F}You got the
+{Color:28}{Var:00}{Color:2F} Badge![END]
+
+#string:1D:05C
+{Color:2F}You got the
+{Color:28}{Var:00}{Color:2F}![END]
+
+#string:1D:05D
+{Color:2F}You got 1 coin![END]
+
+#string:1D:05E
+{Color:2F}You got 3 {Color:28}Star Pieces{Color:2F}![END]
+
+#string:1D:05F
+{Color:2F}You threw away the
+{Color:28}{Var:00}{Color:2F}![END]
+
+#string:1D:060
+You can't carry any more items!
+Throw an item away to make room.[END]
+
+#string:1D:061
+Use which item?
+[END]
+
+#string:1D:062
+Use which item?[END]
+
+#string:1D:063
+Switch to which
+member?[END]
+
+#string:1D:064
+Throw away
+which one?[END]
+
+#string:1D:065
+Sell which one?[END]
+
+#string:1D:066
+Check which one?
+[END]
+
+#string:1D:067
+Claim which one?[END]
+
+#string:1D:068
+Don't Double Dip?[END]
+
+#string:1D:069
+Don't Triple Dip?[END]
+
+#string:1D:06A
+Select a member
+to upgrade![END]
+
+#string:1D:06B
+You already have
+that partner![END]
+
+#string:1D:06C
+Read which 
+page?[END]
+
+#string:1D:06D
+Read which 
+letter?[END]
+
+#string:1D:06E
+Rank[END]
+
+#string:1D:06F
+Read which
+letter?[END]
+
+#string:1D:070
+Trade for
+which one?[END]
+
+#string:1D:071
+The spell will increase
+your attack power![END]
+
+#string:1D:072
+The spell will decrease
+the damage you receive![END]
+
+#string:1D:073
+The spell will increase
+the Star Points you earn![END]
+
+#string:1D:074
+The spell will increase
+the number of coins you win![END]
+
+#string:1D:075
+The spell's power has run out.[END]
+
+#string:1D:076
+Hammer's attack power will
+increase by {Var:00}![END]
+
+#string:1D:077
+Hammer's attack power will
+increase by {Var:00} more![END]
+
+#string:1D:078
+Jump's attack power will
+increase by {Var:00}![END]
+
+#string:1D:079
+Jump's attack power will
+increase by {Var:00} more![END]
+
+#string:1D:07A
+You can't charge any more![END]
+
+#string:1D:07B
+The enemy attack missed you![END]
+
+#string:1D:07C
+You're injured--you can't move![END]
+
+#string:1D:07D
+Goombario's attack power will
+increase by 2![END]
+
+#string:1D:07E
+Goombario's attack power will
+increase by 2 more![END]
+
+#string:1D:07F
+Star Energy is slightly charged![END]
+
+#string:1D:080
+Star Energy is fully charged![END]
+
+#string:1D:081
+You can't charge any more![END]
+
+#string:1D:082
+Attack power will go up by {Var:00}![END]
+
+#string:1D:083
+Defense power will go up by {Var:00}![END]
+
+#string:1D:084
+{Var:00}[END]
+
+#string:1D:085
+{Var:00}[END]
+
+#string:1D:086
+The enemy's transparent![END]
+
+#string:1D:087
+He gets an electric charge![END]
+
+#string:1D:088
+Mario's dazed!
+He can't move right now!![END]
+
+#string:1D:089
+Mario's poisoned!
+His HP is going down!![END]
+
+#string:1D:08A
+Mario's frozen!
+He can't move right now!![END]
+
+#string:1D:08B
+Mario's fallen asleep!
+He can't move right now!![END]
+
+#string:1D:08C
+Mario's been shrunk! His attack
+power is half of normal!![END]
+
+#string:1D:08D
+Mario's paralyzed!
+He can't move right now!![END]
+
+#string:1D:08E
+Mario's electrically charged!
+He can electrify an enemy!![END]
+
+#string:1D:08F
+Mario's transparent!
+Attacks won't strike him!![END]
+
+#string:1D:090
+Your enemy's dazed and
+can't move![END]
+
+#string:1D:091
+Your enemy's poisoned![END]
+
+#string:1D:092
+Your enemy's frozen and
+can't move![END]
+
+#string:1D:093
+Your enemy has fallen asleep![END]
+
+#string:1D:094
+Your enemy's been shrunk! Its
+attack power is half of normal!![END]
+
+#string:1D:095
+Your enemy's paralyzed and
+can't move![END]
+
+#string:1D:096
+Your enemy's electrified![END]
+
+#string:1D:097
+Your enemy can't move now![END]
+
+#string:1D:098
+Mario will be protected by
+Water Block for a short time![END]
+
+#string:1D:099
+The Water Block's effect has 
+worn off![END]
+
+#string:1D:09A
+Chances of being attacked 
+will decrease![END]
+
+#string:1D:09B
+The effect of Cloud Nine has
+worn off![END]
+
+#string:1D:09C
+Your attack power will go up
+for a short time![END]
+
+#string:1D:09D
+Your attack power has
+returned to normal![END]
+
+#string:1D:09E
+Your enemy's attack power has
+gone down![END]
+
+#string:1D:09F
+You don't have enough FP![END]
+
+#string:1D:0A0
+You don't have enough Star
+Energy![END]
+
+#string:1D:0A1
+You'll change your party member![END]
+
+#string:1D:0A2
+You won't do anything during
+this turn![END]
+
+#string:1D:0A3
+You'll run away from the battle![END]
+
+#string:1D:0A4
+You'll use an item![END]
+
+#string:1D:0A5
+Max HP will go up by 5.
+Select this to increase HP.
+
+
+[END]
+
+#string:1D:0A6
+Max FP will go up by 5.
+Select this to use abilities often.[END]
+
+#string:1D:0A7
+Max BP will go up by 3.
+Select this to use lots of Badges.[END]
+
+#string:1D:0A8
+HP has reached maximum.
+You can't increase it anymore![END]
+
+#string:1D:0A9
+FP has reached maximum.
+You can't increase it anymore![END]
+
+#string:1D:0AA
+BP has reached maximum.
+You can't increase it anymore![END]
+
+#string:1D:0AB
+You can't increase it anymore![END]
+
+#string:1D:0AC
+{Color:00}{StartFX:Jitter}{StartFX:DropShadow}You made the First Strike!![END]
+
+#string:1D:0AD
+{Color:00}{StartFX:Jitter}{StartFX:DropShadow}You made the First Strike!![END]
+
+#string:1D:0AE
+{Color:00}{StartFX:Jitter}{StartFX:DropShadow}You're hit by the First Strike![END]
+
+#string:1D:0AF
+Press    right before landing![END]
+
+#string:1D:0B0
+Push    to the left and release
+it when    lights up![END]
+
+#string:1D:0B1
+Press    right before striking
+an enemy![END]
+
+#string:1D:0B2
+Press     repeatedly![END]
+
+#string:1D:0B3
+Push    to the left repeatedly![END]
+
+#string:1D:0B4
+Press    to the left and release
+it when aiming at    ![END]
+
+#string:1D:0B5
+Press           as shown![END]
+
+#string:1D:0B6
+(NOT USED ANY LONGER!)[END]
+
+#string:1D:0B7
+Press    as    lights up![END]
+
+#string:1D:0B8
+(NOT USED ANY LONGER!)[END]
+
+#string:1D:0B9
+Press       together repeatedly![END]
+
+#string:1D:0BA
+Hold then tap     to power up,
+but don't let it reach the edge.[END]
+
+#string:1D:0BB
+Hold    down and release
+when    lights up![END]
+
+#string:1D:0BC
+Move    with    and aim at    ![END]
+
+#string:1D:0BD
+Press    repeatedly to
+run away![END]
+
+#string:1D:0BE
+Press    repeatedly to
+reduce damage![END]
+
+#string:1D:0BF
+(NOT USED ANY LONGER!)[END]
+
+#string:1D:0C0
+There's no enemy to jump on.[END]
+
+#string:1D:0C1
+There's no enemy to hit with 
+the Hammer.[END]
+
+#string:1D:0C2
+You don't have an item
+you can use now![END]
+
+#string:1D:0C3
+You can't select it now![END]
+
+#string:1D:0C4
+Mario[END]
+
+#string:1D:0C5
+All Enemies[END]
+
+#string:1D:0C6
+You can't use a Hammer now!
+[END]
+
+#string:1D:0C7
+You can't jump now![END]
+
+#string:1D:0C8
+You can't use any items now!
+[END]
+
+#string:1D:0C9
+Since you've already used your
+turn, you can't switch!
+[END]
+
+#string:1D:0CA
+{Var:00} can't move![END]
+
+#string:1D:0CB
+You can't switch now.[END]
+
+#string:1D:0CC
+You can't run away![END]
+
+#string:1D:0CD
+Page {Var:00}[END]
+
+#string:1D:0CE
+Luigi's Diary[END]
+
+#string:1D:0CF
+From {Var:00}[END]
+
+#string:1D:0D0
+Letters for Mario[END]
+
+#string:1D:0D1
+Heart Points[END]
+
+#string:1D:0D2
+Flower Points[END]
+
+#string:1D:0D3
+Badge Points[END]
+
+#string:1D:0D4
+[STYLE:INSPECT][...]
+It's empty.[WAIT][END]
+
+#string:1D:0D5
+[STYLE:INSPECT][...]
+You already have as many
+items as you can carry.[WAIT][END]
+
+#string:1D:0D6
+Claim which one?[END]
+
+#string:1D:0D7
+Treasure Chest[END]
+
+#string:1D:0D8
+[STYLE:INSPECT][...]
+{DelayOff}It's locked! You can't open it.[WAIT][END]
+
+#string:1D:0D9
+[STYLE:INSPECT][...]
+{DelayOff}You can't open it![WAIT][END]
+
+#string:1D:0DA
+[STYLE:UPGRADE:28:23:F0:2A][...]
+This is a Super Block.
+[WAIT][NEXT][...]
+With this, you can upgrade 
+one of your party members.
+[WAIT][NEXT][...]
+The member you upgrade
+will gain attack power.
+[WAIT][NEXT][...]
+The party member will also
+master a new ability. 
+[WAIT][NEXT][...]
+Which party member do you
+want to upgrade?[WAIT][END]
+
+#string:1D:0DB
+[STYLE:UPGRADE:28:23:F0:2A][...]
+With this, you can upgrade 
+one of your party members.
+[WAIT][NEXT][...]
+Which party member do you
+want to upgrade?[WAIT][END]
+
+#string:1D:0DC
+[STYLE:UPGRADE:28:23:F0:2A][...]
+You have no member you can
+upgrade now.[WAIT][END]
+
+#string:1D:0DD
+[STYLE:UPGRADE:28:23:F0:2A][...]
+{Var:00} is upgraded to
+Super-rank![WAIT][END]
+
+#string:1D:0DE
+[STYLE:UPGRADE:28:23:F0:2A][...]
+{Var:00} is upgraded to
+Ultra-rank![WAIT][END]
+
+#string:1D:0DF
+[STYLE:UPGRADE:28:23:F0:2A][...]
+Do you want to upgrade this
+member?
+{Func_04}[END]
+
+#string:1D:0E0
+He'll master Charge.
+His attack power will go up.[END]
+
+#string:1D:0E1
+He'll master Multibonk and be
+able to Headbonk consecutively.
+[END]
+
+#string:1D:0E2
+He'll master Dizzy Shell
+to paralyze enemies.
+[END]
+
+#string:1D:0E3
+He'll master Fire Shell
+to attack with a flaming shell.
+[END]
+
+#string:1D:0E4
+She'll master Power Bomb
+to attack all on-ground enemies.[END]
+
+#string:1D:0E5
+She'll master Mega Bomb
+to attack all enemies.[END]
+
+#string:1D:0E6
+He'll master Air Lift to
+carry an enemy from battle.[END]
+
+#string:1D:0E7
+He'll master Air Raid
+to attack all enemies.[END]
+
+#string:1D:0E8
+She'll master Spook to 
+scare all enemies from battle.[END]
+
+#string:1D:0E9
+She'll master Fan Smack
+to attack with a fan.[END]
+
+#string:1D:0EA
+He'll master Turbo Charge to 
+increase Mario's attack power.[END]
+
+#string:1D:0EB
+He'll master Mega Shock
+to paralyze all enemies.[END]
+
+#string:1D:0EC
+She'll master Water Block to
+increase Mario's defense power.[END]
+
+#string:1D:0ED
+She'll master Tidal Wave
+to attack all enemies.[END]
+
+#string:1D:0EE
+He'll master Cloud Nine
+to avoid enemy attacks.[END]
+
+#string:1D:0EF
+He'll master Hurricane to blow
+all enemies out of the battle.
+[END]
+
+#string:1D:0F0
+That one's already
+Super-ranked.[END]
+
+#string:1D:0F1
+That one's already
+Ultra-ranked.
+[END]
+
+#string:1D:0F2
+Toad Town[END]
+
+#string:1D:0F3
+It's the largest town in the
+Mushroom Kingdom. 
+Princess Peach's Castle used to
+be just to the north of town.
+There are shops, a post office
+and other interesting sites.
+There's a station and a port
+to the south of town, too.[END]
+
+#string:1D:0F4
+It's the biggest town in the
+Mushroom Kingdom.
+Princess Peach's Castle is
+in the north of this town.[END]
+
+#string:1D:0F5
+Princess Peach's Castle[END]
+
+#string:1D:0F6
+Princess Peach's Castle used to
+be right here, on this very spot. 
+But then the evil King Bowser
+uprooted the castle--
+and kidnapped Princess Peach.
+ 
+Only a big hole is left here now.[END]
+
+#string:1D:0F7
+This castle is where our beloved
+Princess Peach lives.
+That evil King Bowser once stole
+the castle...
+But now it's back, and it's as
+beautiful as ever.[END]
+
+#string:1D:0F8
+Shooting Star Summit[END]
+
+#string:1D:0F9
+They say this summit is the
+closest place to Star Haven.
+At the base of the summit live
+Merlow and Merluvlee.
+They're brother and sister.[END]
+
+#string:1D:0FA
+They say this summit is the
+closest place to Star Haven.
+At the base of the summit live 
+Merlow and Merluvlee.
+They're brother and sister.[END]
+
+#string:1D:0FB
+Toad Town Tunnels[END]
+
+#string:1D:0FC
+The system of tunnels runs
+under Toad Town.
+There are many pipes inside--
+some of them are shortcuts.[END]
+
+#string:1D:0FD
+The system of tunnels runs
+under Toad Town.
+There are many pipes inside--
+some of them are shortcuts.[END]
+
+#string:1D:0FE
+Goomba Village[END]
+
+#string:1D:0FF
+Beaten by Bowser, Mario fell
+into the forest near here.
+Goombario's family lives here,
+and there's a Toad House, too.[END]
+
+#string:1D:100
+Goombario's family lives here 
+and there's a Toad House, too.
+The tree next to Goombario's 
+house bears Goomnuts. [END]
+
+#string:1D:101
+Goomba Road[END]
+
+#string:1D:102
+This road from Toad Town leads
+straight to Goomba Village.[END]
+
+#string:1D:103
+This road from Toad Town leads
+straight to Goomba Village.
+There's a fortress built by 
+the Goomba King on the way.[END]
+
+#string:1D:104
+Pleasant Path[END]
+
+#string:1D:105
+This path links Toad Town and
+Koopa Village. 
+Koopa Bros. Fortress is to the
+east.[END]
+
+#string:1D:106
+This path links Toad Town and
+Koopa Village. 
+Koopa Bros. Fortress is to the
+east.[END]
+
+#string:1D:107
+Koopa Village[END]
+
+#string:1D:108
+Many Koopas live in this village.
+ 
+Lately, Fuzzies have been
+playing tricks on them.[END]
+
+#string:1D:109
+Many Koopas live here, including
+Kolorado and Koopa Koot.
+Bob-ombs, refugees from Koopa
+Bros. Fortress, live here, too.[END]
+
+#string:1D:10A
+Koopa Bros. Fortress[END]
+
+#string:1D:10B
+This is the fortress where the 
+Koopa Bros. are holing up.[END]
+
+#string:1D:10C
+One of the Star Spirits was 
+held here by the Koopa Bros.
+This fortress was originally
+the home of the Bob-ombs.[END]
+
+#string:1D:10D
+Mt. Rugged[END]
+
+#string:1D:10E
+It's a very rugged, rocky
+mountain.
+Dry Dry Railroad's Mt. Rugged
+Station is here.
+Dry Dry Desert is on the other 
+side of Mt. Rugged.[END]
+
+#string:1D:10F
+It's a very rugged, rocky
+mountain.
+Dry Dry Railroad's Mt. Rugged
+Station is here.
+Dry Dry Desert is on the other 
+side of Mt. Rugged.[END]
+
+#string:1D:110
+Dry Dry Desert[END]
+
+#string:1D:111
+Like the name says, it's dry.
+Really dry.
+They say that the Dry Dry Ruins 
+are somewhere around here.[END]
+
+#string:1D:112
+Like the name says, it's dry.
+Dry Dry Ruins were found here.[END]
+
+#string:1D:113
+Dry Dry Outpost[END]
+
+#string:1D:114
+It's a small desert town that has
+many inhabitants for its size.
+You'll find a Toad House and a
+shop here.[END]
+
+#string:1D:115
+It's a small desert town that has
+many inhabitants for its size.
+You'll find a Toad House and a
+shop here.[END]
+
+#string:1D:116
+Dry Dry Ruins[END]
+
+#string:1D:117
+These ancient ruins appeared
+mysteriously in Dry Dry Desert.
+It seems that a Star Spirit is
+being held here by Bowser's men.[END]
+
+#string:1D:118
+The ancient ruins appeared
+mysteriously in Dry Dry Desert.
+A Star Spirit was once held
+here by Tutankoopa.[END]
+
+#string:1D:119
+Forever Forest[END]
+
+#string:1D:11A
+Sunshine barely reaches the
+floor of this dense forest.
+They say that Boo's Mansion is
+somewhere deep inside.[END]
+
+#string:1D:11B
+Sunshine barely reaches the
+floor of this dense forest.
+They say that Boo's Mansion is
+somewhere deep inside.[END]
+
+#string:1D:11C
+Boo's Mansion[END]
+
+#string:1D:11D
+It's a mansion. For Boos, of
+course. Watch out for tricks! 
+[END]
+
+#string:1D:11E
+Lots of Boos live here.
+There's a shop in the basement.[END]
+
+#string:1D:11F
+Gusty Gulch[END]
+
+#string:1D:120
+Boos like to hang around this
+deserted gulch.
+On the ridge is the castle of
+the Invincible Tubba Blubba.[END]
+
+#string:1D:121
+Boos like to hang around this
+deserted gulch.
+On the ridge is the castle of
+the Invincible Tubba Blubba.[END]
+
+#string:1D:122
+Tubba Blubba's Castle[END]
+
+#string:1D:123
+The Invincible Tubba Blubba lives
+in this castle.[END]
+
+#string:1D:124
+The Once-Invincible Tubba Blubba
+used to live in this castle.[END]
+
+#string:1D:125
+Windy Mill[END]
+
+#string:1D:126
+This huge windmill is located at
+the bottom of Gusty Gulch.
+Invincible Tubba Blubba's secret
+is supposed to be hidden here.[END]
+
+#string:1D:127
+It's a huge windmill located at
+the bottom of Gusty Gulch.
+Once-Invincible Tubba Blubba's
+heart was hidden deep inside.[END]
+
+#string:1D:128
+Shy Guy's Toy Box[END]
+
+#string:1D:129
+There are Shy Guys inside.
+It's their hideout and base.[END]
+
+#string:1D:12A
+Shy Guys are inside the box.
+It's their hideout and base.
+A Star Spirit was held here
+by Bowser's General Guy.[END]
+
+#string:1D:12B
+Jade Jungle[END]
+
+#string:1D:12C
+The jungle on Lavalava Island 
+is lush and green.
+All sorts of rare plants grow
+here.[END]
+
+#string:1D:12D
+Many kinds of rare plants grow
+in this lush jungle.
+Raphael the Raven lives at the 
+top of a big tree here.[END]
+
+#string:1D:12E
+Yoshi's Village[END]
+
+#string:1D:12F
+Yoshis and Ravens live in this
+village on Lavalava Island.
+A Toad House and a shop have
+been built here.[END]
+
+#string:1D:130
+Yoshis and Ravens live in this
+village on Lavalava Island.
+A Toad House and a shop have
+been built here.[END]
+
+#string:1D:131
+Mt. Lavalava[END]
+
+#string:1D:132
+This huge volcano rises from
+Lavalava Island.
+Kolorado claims there's a 
+treasure somewhere inside.[END]
+
+#string:1D:133
+This huge volcano rises from
+Lavalava Island.
+There was once a huge eruption,
+but it's calm now.
+A Star Spirit was held here
+by Lava Piranha.[END]
+
+#string:1D:134
+Flower Fields[END]
+
+#string:1D:135
+The Flower Gate is the only
+entrance to Flower Fields.
+Many kinds of flower bloom in
+this aromatic garden region.[END]
+
+#string:1D:136
+The Flower Gate is the only
+entrance to Flower Fields.
+A Star Spirit was once
+imprisoned here by Huff N. Puff.[END]
+
+#string:1D:137
+Cloudy Climb[END]
+
+#string:1D:138
+A strange cloud here blocks the
+sun from Flower Fields.[END]
+
+#string:1D:139
+A Star Spirit was once held near
+here by Huff N. Puff.[END]
+
+#string:1D:13A
+Shiver City[END]
+
+#string:1D:13B
+A path to Starborn Valley leads
+from this chilly penguin city.[END]
+
+#string:1D:13C
+This chilly penguin city has
+a Toad House and a shop.
+A path leads to Starborn Valley
+and Shiver Mountain from here.[END]
+
+#string:1D:13D
+Shiver Snowfield[END]
+
+#string:1D:13E
+This icy snowfield links Shiver
+City with Starborn Valley.[END]
+
+#string:1D:13F
+This icy snowfield links Shiver
+City with Starborn Valley.
+A path leads from the snowfield
+to Shiver Mountain.
+By going through the mountain,
+you can reach Crystal Palace.
+[END]
+
+#string:1D:140
+Starborn Valley[END]
+
+#string:1D:141
+Star Kids are born in this 
+sparkling valley.
+Frost T. and Ninjis take care
+of the newly born Star Kids.
+Merle's house and a Toad House 
+are here, too.[END]
+
+#string:1D:142
+Star Kids are born in this 
+sparkling valley.
+Frost T. and Ninjis take care
+of the newly born Star Kids.
+Merle's house and a Toad House 
+are here, too.[END]
+
+#string:1D:143
+Shiver Mountain[END]
+
+#string:1D:144
+A mountain path here links Shiver
+Snowfield with Crystal Palace.[END]
+
+#string:1D:145
+A mountain path here links Shiver
+Snowfield with Crystal Palace.[END]
+
+#string:1D:146
+Crystal Palace[END]
+
+#string:1D:147
+Once a special place to wish on
+stars, it's now deserted.[END]
+
+#string:1D:148
+This deserted palace was first
+built for wishing on stars.
+A Star Spirit was once held
+here by the Crystal King.[END]
+
+#string:1D:149
+Star Way[END]
+
+#string:1D:14A
+This starry path links Shooting
+Star Summit with Star Haven.[END]
+
+#string:1D:14B
+This starry path links Shooting
+Star Summit with Star Haven.[END]
+
+#string:1D:14C
+Star Haven[END]
+
+#string:1D:14D
+In the haven of the stars,
+wishes really do come true.
+The palace of the Star Spirits,
+the Star Sanctuary, is here.[END]
+
+#string:1D:14E
+In the haven of the stars,
+wishes really do come true.
+The palace of the Star Spirits,
+the Star Sanctuary, is here.[END]
+
+#string:1D:14F
+Bowser's Castle[END]
+
+#string:1D:150
+It's the castle of the wicked
+King Bowser, of course.
+To kidnap Princess Peach, he
+stole the whole castle.
+Now Princess Peach's Castle
+teeters atop Bowser's Castle.[END]
+
+#string:1D:151
+Bowser's Castle used to be
+right here! That evil Koopa
+stole Princess Peach's Castle
+and captured Princess Peach.[END]
+
+#string:1D:152
+Princess Peach's Castle[END]
+
+#string:1D:153
+Princess Peach's Castle now
+rests atop Bowser's Castle.
+Peach, the princess in peril,
+is being held inside.
+[END]
+
+#string:1D:154
+Princess Peach's Castle was
+once here atop Bowser's Castle.
+But now it's gone.[END]
+
+#string:1D:155
+Mario's House[END]
+
+#string:1D:156
+Mario and Luigi live here, but
+Luigi looks after the house.
+Here you can recover HP and FP
+or read letters sent to Mario.[END]
+
+#string:1D:157
+Mario and Luigi live here, but
+Luigi looks after the house.
+Here you can recover HP and FP
+or read letters sent to Mario.[END]
+
+#string:1D:158
+[STYLE:INSPECT][...]
+It's a Toy Box.
+[PAUSE:05][...]
+It looks like something's inside![WAIT][END]
+
+#string:1D:159
+[STYLE:INSPECT][...]
+It's a Chomp Statue.
+[PAUSE:05][...]
+Maybe you can put something
+inside it.[WAIT][END]
+
+#string:1D:15A
+[STYLE:INSPECT][...]
+It's a phonograph.
+[PAUSE:05][...]
+It would be nice if there
+were a record to play...
+[WAIT][END]
+
+#string:1D:15B
+[STYLE:INSPECT][...]
+It's a statue of
+Raphael the Raven!
+[PAUSE:05][...]
+Maybe you can put something
+inside it.[WAIT][END]
+
+#string:1D:15C
+[STYLE:INSPECT][...]
+It's a well.[WAIT][END]
+
+#string:1D:15D
+[STYLE:INSPECT][...]
+It's a snowman.
+[PAUSE:05][...]
+[WAIT][END]
+
+#string:1D:15E
+[STYLE:INSPECT][...]
+Here's a space where you 
+can put something.
+[PAUSE:05][...]
+[WAIT][END]
+
+#string:1D:15F
+[STYLE:INSPECT][...]
+Do you want to pick up the
+{Color:07}{Var:00}{Color:00}?
+{Func_04}[END]
+
+#string:1D:160
+[STYLE:INSPECT][...]
+You can't carry any more
+items![WAIT][END]
+
+#string:1D:161
+[STYLE:INSPECT][...]
+Here's a space where you 
+can put something.
+[PAUSE:05][...]
+[WAIT][END]
+
+#string:1D:162
+[STYLE:INSPECT][...]
+Do you want to take the
+{Color:07}{Var:00}{Color:00} out?
+{Func_04}[END]
+
+#string:1D:163
+[STYLE:INSPECT][...]
+It doesn't seem to open.[WAIT][END]
+
+#string:1D:164
+[STYLE:NARRATE][...]
+You found the Hammer!
+[PAUSE:0A][...]
+Mario can do the 
+Hammer attack now!
+[WAIT][NEXT][...]
+{StartAnim}{SetPrintPos:00:0A}{Image1:00}{EndAnim}{SetPrintPos:00:46}You can smash a
+{SetPrintPos:00:46}yellow block
+{SetPrintPos:00:46}with this Hammer.[WAIT][END]
+
+#string:1D:165
+{DelayOff}[STYLE:SIGN][...]
+{Func_29:FF}{Down:0F}Beware of Goombas!
+{DelayOn}[WAIT][END]
+
+#string:1D:166
+{DelayOff}[STYLE:SIGN][...]
+{Func_29:FF}{Down:06}Eat a Mushroom
+{Down:06}to regain your energy!
+
+{Down:06}When HP gets low,
+{Down:06}eat a Mushroom with {PushColor}{Color:13}[C-LEFT]{PopColor}
+
+{DelayOn}[WAIT]{Scroll:04}{DelayOn}[WAIT][END]
+
+#string:1D:167
+{DelayOff}[STYLE:SIGN][...]
+{Func_29:FF}{Down:06}Eat a Mushroom
+{Down:06}to regain your energy!
+{DelayOn}[WAIT][END]
+
+#string:1D:168
+{DelayOff}[STYLE:SIGN][...]
+{Func_29:FF}{Down:06}Goomba King's Fortress Ahead
+{Down:06}{Indent:69}[RIGHT]
+{DelayOn}[WAIT][END]
+
+#string:1D:169
+[STYLE:INSPECT][...]
+Danger!
+It's been sealed for your safety.[WAIT][END]
+
+#string:1D:16A
+[STYLE:INSPECT][...]
+It won't open.
+[PAUSE:0A][...]
+It must be locked from
+the inside.[WAIT][END]
+
+#string:1D:16B
+{DelayOff}[STYLE:SIGN][...]
+{Func_29:FF}{Down:0F}Private
+
+{DelayOn}[WAIT][END]
+
+#string:1D:16C
+{DelayOff}[STYLE:SIGN][...]
+{Func_29:FF}{Indent:08}{Down:06}[STAR]  Today's Menu  [STAR]
+{Indent:01}{Down:06}Sailor's Lunch Special
+{Down:04} 
+{Indent:08}[STAR] Mushroom Pasta [STAR]
+{Indent:08}[STAR]  Seafood Soup   [STAR]
+{Indent:08}[STAR]  Seafood Salad  [STAR]
+{DelayOn}[WAIT]{Scroll:04}{DelayOn}[WAIT][END]
+
+#string:1D:16D
+{DelayOff}[STYLE:SIGN][...]
+{Func_29:FF}{Indent:0F}{Down:06}Looking for something?
+{Down:06}Drop by Merluvlee's Place! [RIGHT]
+{DelayOn}[WAIT][END]
+
+#string:1D:16E
+{DelayOff}[STYLE:SIGN][...]
+{Func_29:FF}
+{Down:03}Shooting Star Summit [RIGHT]
+{DelayOn}[WAIT][END]
+
+#string:1D:16F
+{DelayOff}[STYLE:LAMPPOST:48][...]
+{Down:0A}{Color:1A}[LEFT]{Color:18}{Indent:7A}Peach's Castle
+{Down:03}{Color:18}Goomba Village {Color:1A}{Indent:78}[RIGHT]
+{DelayOn}[WAIT][END]
+
+#string:1D:170
+{DelayOff}[STYLE:LAMPPOST:50][...]
+{Up:02}{Indent:73}{Color:19}[UP] North
+{Up:01}{Color:1A}West {Color:18}{Indent:21}Peach's Castle     {Color:1A}East
+{Color:1A}[LEFT]{Color:18} Main Gate      Pleasant Path {Color:1A}[RIGHT]
+{Indent:46}{Color:18} Port/Station
+{Up:01}{Indent:73}{Color:19}[DOWN] South
+{DelayOn}[WAIT][END]
+
+#string:1D:171
+{DelayOff}[STYLE:LAMPPOST:50][...]
+{Up:02}{Indent:73}{Color:19}[UP] North
+{Down:01}{Color:1A}West {Color:18}{Indent:21}{Up:02}Peach's Castle     {Color:1A}{Down:01}East
+{Color:1A}[LEFT]{Color:18} Port           Forever Forest {Color:1A}[RIGHT]
+{Indent:32}{Color:18} Toad Town Station
+{Up:01}{Indent:73}{Color:19}[DOWN] South
+{DelayOn}[WAIT][END]
+
+#string:1D:172
+{DelayOff}[STYLE:LAMPPOST:48][...]
+{Color:19}{Down:08}{Indent:73}[UP]
+{Color:18}{Indent:23}Princess Peach's Castle
+{DelayOn}[WAIT][END]
+
+#string:1D:173
+{DelayOff}[STYLE:LAMPPOST:48][...]
+{Func_29:FF}{Down:03}
+{Color:1A}[LEFT] {Color:18}Port       Peach's Castle  {Color:1A}[RIGHT]
+{DelayOn}[WAIT][END]
+
+#string:1D:174
+{DelayOff}[STYLE:LAMPPOST:48][...]
+{Func_29:FF}{Down:03}
+Princess Peach's Castle {Color:1A}[RIGHT]
+{DelayOn}[WAIT][END]
+
+#string:1D:175
+{DelayOff}[STYLE:SIGN][...]
+{Down:06}Welcome to Toad Town's Famous
+{Down:06}Li'l Oink Farm.
+
+{Up:0C}
+Hit the bar overhead, pay 10
+coins, and wait for the egg.
+Hit it with the Hammer to 
+hatch the Li'l Oink.
+Try to find out what kind of
+Li'l Oink will be born!
+Have fun watching those 
+adorable Li'l Oinks!
+Be careful, though--if someone
+gets inside the fence, all
+the Li'l Oinks will run away.
+
+You can have a maximum of
+10 Li'l Oinks on the farm.
+
+
+When the 11th Li'l Oink enters,
+the 1st will leave.
+Now, try to see all of the
+different types of Li'l Oinks!
+{DelayOn}[WAIT]{Scroll:04}[WAIT]{Scroll:04}[WAIT]{Scroll:04}[WAIT]{Scroll:04}[WAIT]{Scroll:04}{DelayOn}[WAIT][END]
+
+#string:1D:176
+[STYLE:INSPECT][...]
+Jump here and hit the lever 
+for 20 coins.
+[WAIT][NEXT][...]
+Do you want to jump?
+{Func_04}[END]
+
+#string:1D:177
+[STYLE:INSPECT][...]
+{Down:06}The door is securely locked
+from the other side.[WAIT][END]
+
+#string:1D:178
+{DelayOff}[STYLE:SIGN][...]
+{SetPrintPos:00:02}[LEFT] Toad Town{SetPrintPos:00:46}{SetPrintY:0F}Koopa Bros. Fortress [RIGHT]{SetPrintPos:00:5A}{SetPrintY:1C}Koopa Village{SetPrintPos:00:78}{SetPrintY:26}[DOWN]
+{DelayOn}[WAIT][END]
+
+#string:1D:179
+{DelayOff}[STYLE:SIGN][...]
+{Func_29:FF}{Down:06}No entry allowed, Mario!
+{Down:04}    Yours truly, The Koopa Bros.
+{DelayOn}[WAIT][END]
+
+#string:1D:17A
+{DelayOff}[STYLE:SIGN][...]
+{Func_29:FF}{SetPrintPos:00:23}{Down:06}Welcome {Down:0A}{SetPrintPos:00:DC}[RIGHT]
+{Up:0A}{Down:06}Dry Dry Outpost
+{DelayOn}[WAIT][END]
+
+#string:1D:17B
+{DelayOff}[STYLE:SIGN][...]
+{Func_29:FF}{Down:03}
+Temporarily Closed
+{DelayOn}[WAIT][END]
+
+#string:1D:17C
+{DelayOff}[STYLE:SIGN][...]
+{Down:06}Stone Cactus in the desert...
+{Down:06}Twice south, once east you go.
+
+{Down:06}Give up to the twister,
+{Down:06}Where Blue Cacti grow...
+
+{Down:06}Upon the mesa, the power of
+{Down:06}the dervish you'll know...
+
+{DelayOn}[WAIT]{Scroll:04}[WAIT]{Scroll:04}{DelayOn}[WAIT][END]
+
+#string:1D:17D
+[STYLE:NARRATE][...]
+You got the Super Hammer!
+The attack power of 
+Mario's Hammer increases!
+[WAIT][NEXT][...]
+On top of that, you can now 
+destroy Stone Blocks![WAIT][END]
+
+#string:1D:17E
+{DelayOff}[STYLE:SIGN][...]
+{Func_29:FF}{Down:03}[LEFT] Forever Forest [RIGHT]
+{SetPrintPos:00:28}{Down:05}Toad Town
+{SetPrintPos:00:46}{SetPrintY:20}[DOWN]
+{DelayOn}[WAIT][END]
+
+#string:1D:17F
+{DelayOff}[STYLE:SIGN][...]
+{SetPrintPos:00:0F}{Down:03}If you have business at Boo's
+{SetPrintPos:00:0F}Mansion, come this way.
+{SetPrintPos:00:78}{SetPrintY:1E}[DOWN]
+{DelayOn}[WAIT][END]
+
+#string:1D:180
+[STYLE:NARRATE][...]
+You got the Super Boots!
+[PAUSE:05][...]
+The attack power of
+Mario's Jump increases!
+[WAIT][NEXT][...]
+And now you can do the
+Spin Jump by pressing {PushColor}{Color:10}[A]{PopColor}
+again while in the air![WAIT][END]
+
+#string:1D:181
+[STYLE:INSPECT][...]
+Tap {PushColor}{Color:10}[A]{PopColor} to play the record.
+You've gotta have rhythm!
+[PAUSE:0A][...]
+Don't press it too fast
+or too slow!
+[WAIT][NEXT][...]
+If you press {PushColor}{Color:11}[B]{PopColor} while it's 
+playing, the record will stop.[WAIT][END]
+
+#string:1D:182
+{DelayOff}[STYLE:SIGN][...]
+{Func_29:FF}
+{Down:03}No entry allowed.
+{DelayOn}[WAIT][END]
+
+#string:1D:183
+{DelayOff}[STYLE:SIGN][...]
+{Func_29:FF}
+{Down:03}Really! No entry allowed!
+{DelayOn}[WAIT][END]
+
+#string:1D:184
+{DelayOff}[STYLE:SIGN][...]
+{Func_29:FF}
+{Down:03}Absolutely! No entry allowed!!
+{DelayOn}[WAIT][END]
+
+#string:1D:185
+{DelayOff}[STYLE:SIGN][...]
+(NOT USED ANY LONGER!)
+{DelayOn}[WAIT][END]
+
+#string:1D:186
+[STYLE:NARRATE][...]
+You got the Ultra Hammer!
+[PAUSE:05][...]
+The attack power of
+Mario's Hammer increases!!
+[WAIT][NEXT][...]
+On top of that, you can
+now destroy Metal Blocks![WAIT][END]
+
+#string:1D:187
+[STYLE:NARRATE][...]
+You got the Ultra Boots!
+[PAUSE:05][...]
+The attack power of
+Mario's Jump increases!!
+[WAIT][NEXT][...]
+On top of that, you can now do
+a Tornado Jump by pressing {PushColor}{Color:10}[A]{PopColor}
+again while in the air![WAIT][END]
+
+#string:1D:188
+[STYLE:INSPECT][...]
+Are you ready to take off?
+{Func_04}[END]
+
+#string:1D:189
+[STYLE:NARRATE][...]
+{InputOff}Goombario joined your party!!
+{InputOn}[WAIT][NEXT][...]
+{Image7:00:00:55:61:01:FF:34}Press {PushColor}{Color:13}[C-DOWN]{PopColor} to have him tell you
+about people, places or things
+nearby.
+[WAIT][NEXT][...]
+When you're interested,
+just ask him!
+[WAIT][NEXT][...]
+Goombario is also helpful during
+battles!
+[WAIT][NEXT][...]
+He can attack with Headbonk or
+he can tell you about an enemy's
+features and HP using his
+Tattle ability![WAIT][END]
+
+#string:1D:18A
+[STYLE:NARRATE][...]
+{InputOff}Kooper joined your party!!
+{InputOn}[WAIT][NEXT][...]
+{Image7:00:00:55:61:01:FF:34}Press {PushColor}{Color:13}[C-DOWN]{PopColor} to make him throw 
+himself and reach an item or a 
+switch in the distance.
+[WAIT][NEXT][...]
+While in battle, he can attack
+an enemy on the ground with
+Shell Toss
+[WAIT][NEXT][...]
+or attack all enemies on the
+ground with Power Shell!
+[WAIT][NEXT][...]
+When you want to switch your
+partner, press {PushColor}{Color:13}[C-RIGHT]{PopColor} and select
+the member you want to use.[WAIT][END]
+
+#string:1D:18B
+[STYLE:NARRATE][...]
+{InputOff}Bombette joined your party!!
+{InputOn}[WAIT][NEXT][...]
+{Image7:00:00:55:61:01:FF:34}Press {PushColor}{Color:13}[C-DOWN]{PopColor} to make Bombette 
+walk for a short time and then
+explode!
+[WAIT][NEXT][...]
+She can destroy cracked walls
+or rocks and activate switches.
+[WAIT][NEXT][...]
+While in battle, she can attack
+an enemy on the ground with her
+Body Slam ability
+[WAIT][NEXT][...]
+or damage enemies on the ground
+with her Bomb attack![WAIT][END]
+
+#string:1D:18C
+[STYLE:NARRATE][...]
+{InputOff}Parakarry joined your party!!
+{InputOn}[WAIT][NEXT][...]
+{Image7:00:00:55:61:01:FF:34}Press {PushColor}{Color:13}[C-DOWN]{PopColor} to have him carry Mario
+and fly for a short time!
+[WAIT][NEXT][...]
+He can carry Mario over short
+gaps that he couldn't jump
+across by himself.
+[WAIT][NEXT][...]
+While in battle, he can attack
+with Sky Dive or smash into
+enemies using his Shell Shot
+ability![WAIT][END]
+
+#string:1D:18D
+[STYLE:NARRATE][...]
+{InputOff}Bow joined the party-- 
+like it or not!!
+{InputOn}[WAIT][NEXT][...]
+{Image7:00:00:55:61:01:FF:34}Press {PushColor}{Color:13}[C-DOWN]{PopColor} to have her make you
+both become transparent so
+no one will notice you!
+[WAIT][NEXT][...]
+While you're transparent,
+objects go right through you.
+[WAIT][NEXT][...]
+But if you move or press {PushColor}{Color:13}[C-DOWN]{PopColor}, you
+won't be transparent anymore.
+You'll return to normal.
+[WAIT][NEXT][...]
+While in battle, she can slap
+enemies silly with her
+Smack attack
+[WAIT][NEXT][...]
+or use Outta Sight to make you
+both become transparent so you
+can elude enemy attacks.[WAIT][END]
+
+#string:1D:18E
+[STYLE:NARRATE][...]
+{InputOff}Watt joined your party!!
+{InputOn}[WAIT][NEXT][...]
+{Image7:00:00:55:61:01:FF:34}Press {PushColor}{Color:13}[C-DOWN]{PopColor} to have her illuminate
+the area around you!
+[PAUSE:0A][...]
+With her light, you can see
+invisible blocks, too!
+[WAIT][NEXT][...]
+While in battle, she can shock
+enemies with Electro Dash or
+paralyze them with Power Shock![WAIT][END]
+
+#string:1D:18F
+[STYLE:NARRATE][...]
+{InputOff}Sushie joined your party!!
+{InputOn}[WAIT][NEXT][...]
+{Image7:00:00:55:61:01:FF:34}Press {PushColor}{Color:13}[C-DOWN]{PopColor} on platforms at the
+water's edge to ride her across
+the water.
+[WAIT][NEXT][...]
+If you press {PushColor}{Color:13}[C-DOWN]{PopColor} again while
+riding her, she'll dive deep
+for a short time.
+[WAIT][NEXT][...]
+While in battle, she can jump
+attack with Belly Flop or douse
+enemies with her Squirt ability![WAIT][END]
+
+#string:1D:190
+[STYLE:NARRATE][...]
+{InputOff}Lakilester joined your party!!
+{InputOn}[WAIT][NEXT][...]
+{Image7:00:00:55:61:01:FF:34}Press {PushColor}{Color:13}[C-DOWN]{PopColor} to ride Lakilester over
+spikes and lava.
+[WAIT][NEXT][...]
+While in battle, he can attack
+by throwing a Spiny Egg with
+his Spiny Flip ability
+[WAIT][NEXT][...]
+or attack all enemies by
+throwing many Spiny Eggs at
+once with Spiny Surge![WAIT][END]
+
+#string:1D:191
+[STYLE:NARRATE][...]
+[PAUSE:05][...]
+Mario can now use the Star
+Spirit's Power in battle![WAIT][END]
+
+#string:1D:192
+[STYLE:NARRATE][...]
+[PAUSE:05][...]
+Mario's Star Energy goes up
+to 2!
+[WAIT][NEXT][...]
+Mario can now use Lullaby,
+a new Star Spirit Power!
+[WAIT][NEXT][...]
+With Lullaby, you can make
+all enemies fall asleep![WAIT][END]
+
+#string:1D:193
+[STYLE:NARRATE][...]
+[PAUSE:05][...]
+Mario's Star Energy goes up
+to 3!
+[WAIT][NEXT][...]
+Mario can now use Star Storm,
+a new Star Spirit Power!
+[WAIT][NEXT][...]
+With Star Storm, you can
+attack all enemies![WAIT][END]
+
+#string:1D:194
+[STYLE:NARRATE][...]
+[PAUSE:05][...]
+Mario's Star Energy goes up
+to 4!
+[WAIT][NEXT][...]
+Mario can now use Chill Out, a
+new Star Spirit Power!
+[WAIT][NEXT][...]
+With Chill Out, you can lower the
+attack power of all enemies![WAIT][END]
+
+#string:1D:195
+[STYLE:NARRATE][...]
+[PAUSE:05][...]
+Mario's Star Energy goes up
+to 5!
+[WAIT][NEXT][...]
+Mario can now use Smooch,
+a new Star Spirit Power!
+[WAIT][NEXT][...]
+With Smooch, you can restore
+Mario's HP![WAIT][END]
+
+#string:1D:196
+[STYLE:NARRATE][...]
+[PAUSE:05][...]
+Mario's Star Energy goes up
+to 6!
+[WAIT][NEXT][...]
+Mario can now use Time Out,
+a new Star Spirit Power!
+[WAIT][NEXT][...]
+With Time Out, you can stop
+time--and stop all enemies
+in their tracks![WAIT][END]
+
+#string:1D:197
+[STYLE:NARRATE][...]
+[PAUSE:05][...]
+Mario's Star Energy goes up
+to 7!
+[WAIT][NEXT][...]
+Mario can now use Up & Away,
+a new Star Spirit Power!
+[WAIT][NEXT][...]
+With Up & Away, you can turn
+all enemies into stars![WAIT][END]
+
+#string:1D:198
+[STYLE:NARRATE][...]
+[PAUSE:05][...]
+Mario can now use Star Beam![WAIT][END]
+
+#string:1D:199
+[STYLE:NARRATE][...]
+[PAUSE:05][...]
+Star Beam has been upgraded!
+[PAUSE:0A][...]
+It's now Peach Beam!
+[WAIT][NEXT][...]
+Mario can now use Peach Beam![WAIT][END]
+
+#string:1D:19A
+[STYLE:RIGHT][...]
+Don't underestimate me, Mario!
+[WAIT][NEXT][...]
+I'll never be be scared away
+by such a cheap trick!
+No way! Never![WAIT][END]
+
+#string:1D:19B
+[STYLE:RIGHT][...]
+Hey, Mario!!
+[WAIT][NEXT][...]
+Don't even think of trying to 
+beat me with such a cheesy
+trick![WAIT][END]
+
+#string:1D:19C
+A Plea from the Stars[END]
+
+#string:1D:19D
+Storming Koopa Bros. Fortress[END]
+
+#string:1D:19E
+The Mystery of Dry Dry Ruins[END]
+
+#string:1D:19F
+The "Invincible" Tubba Blubba[END]
+
+#string:1D:1A0
+Trials in the Toy Box[END]
+
+#string:1D:1A1
+Hot Hot Times on Lavalava Island[END]
+
+#string:1D:1A2
+Dark Days in Flower Fields[END]
+
+#string:1D:1A3
+A Star Spirit on Ice[END]
+
+#string:1D:1A4
+A Star-Powered Showdown! [END]
+
+#string:1D:1A5
+[STYLE:EPILOGUE][...]
+{Color:0A}And so Mario and friends
+beat the Koopa Bros. at
+their fortress and rescued
+the first Star Spirit.
+[WAIT][NEXT][...]
+Still, six Star Spirits
+remain imprisoned, and
+they must save them as
+quickly as they can.
+[WAIT][NEXT][...]
+The future of the
+Mushroom Kingdom, Star
+Haven and, of course,
+Princess Peach...
+[WAIT][NEXT][...]
+lies in the hands of
+Mario...
+and his new friends.
+[WAIT][NEXT][...]
+Their adventure has just
+begun.[WAIT][END]
+
+#string:1D:1A6
+[STYLE:EPILOGUE][...]
+{Color:0A}Thus Mario and party
+unearthed the legendary
+Dry Dry Ruins deep within
+Dry Dry Desert.
+[WAIT][NEXT][...]
+They smashed Tutankoopa
+the Wizard and freed
+Mamar, the second of the
+wish-granting Star Spirits.
+[WAIT][NEXT][...]
+But the enemies awaiting
+Mario grow ever stronger...
+and the challenges 
+more difficult.
+[WAIT][NEXT][...]
+What's in store for
+Mario and friends...
+Where will their adventure
+take them next?[WAIT][END]
+
+#string:1D:1A7
+[STYLE:EPILOGUE][...]
+{Color:0A}After solving the secret of
+"Invincible" Tubba Blubba,
+Mario and party set free
+Star Spirit Skolar.
+[WAIT][NEXT][...]
+Now, with Tubba Blubba
+just a bad dream, the Boos
+are free to haunt to their
+hearts' content. 
+[WAIT][NEXT][...]
+Even the lonely wind
+echoing through Gusty
+Gulch seems to be
+celebrating the victory...
+[WAIT][NEXT][...]
+at least for now.
+[WAIT][NEXT][...]
+With newest party member,
+Bow, in tow, Mario and
+friends are ready to take
+on their next challenge.[WAIT][END]
+
+#string:1D:1A8
+[STYLE:EPILOGUE][...]
+{Color:0A}To save the fourth Star
+Spirit, Muskular, Mario
+and team disbanded the
+gang of Shy Guys toughs.
+[WAIT][NEXT][...]
+Slowly, it seems as if the
+life force is returning to
+the once bleak night sky...
+[WAIT][NEXT][...]
+But the stars won't
+truly shine until the
+Star Rod is wrested from
+Bowser's evil grasp.
+[WAIT][NEXT][...]
+Three Star Spirits
+still await rescue.
+Where in the world are
+they being held?[WAIT][END]
+
+#string:1D:1A9
+[STYLE:EPILOGUE][...]
+{Color:0A}Venturing deep into the
+steamimg Mt. Lavalava,
+Mario and friends plucked
+the Lava Piranha...
+[WAIT][NEXT][...]
+and rescued the fifth
+Star Spirit, Misstar,
+from a fiery fate.
+[WAIT][NEXT][...]
+But the "treasure"
+Kolorado is looking for
+is yet to be found.
+Wherever could it be?
+[WAIT][NEXT][...]
+What's that...?
+Something...strange...is
+going on around here...[WAIT][END]
+
+#string:1D:1AA
+[STYLE:EPILOGUE][...]
+{Color:0A}So it is that Mario and
+party defeat cruel cloud
+Huff N. Puff and set free
+the sixth Star Spirit.
+[WAIT][NEXT][...]
+The thick clouds that once
+cast dark shadows have
+gone, and Flower Fields is
+bathed in sunshine again.
+[WAIT][NEXT][...]
+A single Star Spirit waits
+to be rescued, waits to
+take its place in the
+Star Sanctuary.
+[WAIT][NEXT][...]
+Perhaps you will see
+Princess Peach soon...
+Perhaps...
+Just wait and see.
+[WAIT][NEXT][...]
+Kammy Koopa, who watches
+impatiently from Bowser's
+Castle, is waiting, too...
+[WAIT][NEXT][...]
+for you to try to save
+them...[WAIT][END]
+
+#string:1D:1AB
+[STYLE:EPILOGUE][...]
+{Color:0A}Mario has saved the last
+Star Spirit, Kalmar,
+from the Crystal Palace
+at the edge of the world.
+[WAIT][NEXT][...]
+Now, with the seven Star
+Spirits together, he has
+the power to challenge 
+Bowser...and the Star Rod.
+[WAIT][NEXT][...]
+At last, it is time for
+Mario's showdown with
+Evil King Bowser.
+[WAIT][NEXT][...]
+Can Mario rescue Princess
+Peach and recover the 
+Star Rod? Or will wishes 
+forever go ungranted?[WAIT][END]
+

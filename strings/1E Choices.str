@@ -1,0 +1,540 @@
+#string:1E:000
+[STYLE:CHOICE:3C:46:C8:3E][...]
+{DelayOff}{Cursor:00}{Option:00}Star Pieces    5 coins
+{Cursor:01}{Option:01}Badge          20 coins
+{Cursor:02}{Option:02}Super Block   30 coins
+{Option:FF}{DelayOn}{SetCancel:04}{EndChoice:03}[END]
+
+#string:1E:001
+[STYLE:CHOICE:73:5A:6E:2E][...]
+{DelayOff}{Cursor:00}{Option:00}Buy
+{Cursor:01}{Option:01}Don't buy
+{Option:FF}{DelayOn}{SetCancel:01}{EndChoice:02}[END]
+
+#string:1E:002
+[STYLE:CHOICE:73:5A:6E:2E][...]
+{DelayOff}{Cursor:00}{Option:00}Sell
+{Cursor:01}{Option:01}Don't sell
+{Option:FF}{DelayOn}{SetCancel:01}{EndChoice:02}[END]
+
+#string:1E:003
+[STYLE:CHOICE:69:3C:64:4C][...]
+{DelayOff}{Cursor:00}{Option:00}To buy
+{Cursor:01}{Option:01}To sell
+{Cursor:02}{Option:02}To check
+{Cursor:03}{Option:03}To claim
+{Option:FF}{DelayOn}{SetCancel:04}{EndChoice:04}[END]
+
+#string:1E:004
+[STYLE:CHOICE:78:5A:4B:2E][...]
+{DelayOff}{Cursor:00}{Option:00}Yes
+{Cursor:01}{Option:01}No
+{Option:FF}{DelayOn}{SetCancel:01}{EndChoice:02}[END]
+
+#string:1E:005
+[STYLE:CHOICE:78:5A:4B:2E][...]
+{DelayOff}{Cursor:00}{Option:00}Yes
+{Cursor:01}{Option:01}No
+{Option:FF}{DelayOn}{SetCancel:01}{EndChoice:02}[END]
+
+#string:1E:006
+[STYLE:CHOICE:5A:5A:96:2E][...]
+{DelayOff}{Cursor:00}{Option:00}Take a nap
+{Cursor:01}{Option:01}Not now
+{Option:FF}{DelayOn}{SetCancel:01}{EndChoice:02}[END]
+
+#string:1E:007
+[STYLE:CHOICE:69:5A:78:2E][...]
+{DelayOff}{Cursor:00}{Option:00}Sleep
+{Cursor:01}{Option:01}Don't sleep
+{Option:FF}{DelayOn}{SetCancel:01}{EndChoice:02}[END]
+
+#string:1E:008
+[STYLE:CHOICE:50:46:AA:3E][...]
+{DelayOff}{Cursor:00}{Option:00}Make with one
+{Cursor:01}{Option:01}Choose the second
+{Cursor:02}{Option:02}Stop
+{Option:FF}{DelayOn}{SetCancel:02}{EndChoice:03}[END]
+
+#string:1E:009
+[STYLE:CHOICE:6E:5A:73:2E][...]
+{DelayOff}{Cursor:00}{Option:00}Don't Cook
+{Cursor:01}{Option:01}Cook
+{Option:FF}{DelayOn}{SetCancel:01}{EndChoice:02}[END]
+
+#string:1E:00A
+[STYLE:CHOICE:6E:5A:73:2E][...]
+{DelayOff}{Cursor:00}{Option:00}Save
+{Cursor:01}{Option:01}Don't save
+{Option:FF}{DelayOn}{SetCancel:01}{EndChoice:02}[END]
+
+#string:1E:00B
+[STYLE:CHOICE:78:46:46:3E][...]
+{DelayOff}{Cursor:00}{Option:00}H P
+{Cursor:01}{Option:01}F P
+{Cursor:02}{Option:02}B P
+{Option:FF}{DelayOn}{SetCancel:03}{EndChoice:03}[END]
+
+#string:1E:00C
+[STYLE:CHOICE:78:5A:4B:2E][...]
+{DelayOff}{Cursor:00}{Option:00}Yes
+{Cursor:01}{Option:01}No
+{Option:FF}{DelayOn}{SetCancel:01}{EndChoice:02}[END]
+
+#string:1E:00D
+[STYLE:CHOICE:78:5A:4B:2E][...]
+{DelayOff}{Cursor:00}{Option:00}Yes
+{Cursor:01}{Option:01}No
+{Option:FF}{DelayOn}{SetCancel:01}{EndChoice:02}[END]
+
+#string:1E:00E
+[STYLE:CHOICE:78:5A:4B:2E][...]
+{DelayOff}{Cursor:00}{Option:00}Yes
+{Cursor:01}{Option:01}No
+{Option:FF}{DelayOn}{SetCancel:01}{EndChoice:02}[END]
+
+#string:1E:00F
+[STYLE:CHOICE:5A:50:82:2E][...]
+{DelayOff}{Cursor:00}{Option:00}Take
+{Cursor:01}{Option:01}Don't take
+{Option:FF}{DelayOn}{SetCancel:01}{EndChoice:02}[END]
+
+#string:1E:010
+[STYLE:CHOICE:78:5A:4B:2E][...]
+{DelayOff}{Cursor:00}{Option:00}Yes
+{Cursor:01}{Option:01}No
+{Option:FF}{DelayOn}{SetCancel:01}{EndChoice:02}[END]
+
+#string:1E:011
+[STYLE:CHOICE:78:5A:4B:2E][...]
+{DelayOff}{Cursor:00}{Option:00}Yes
+{Cursor:01}{Option:01}No
+{Option:FF}{DelayOn}{SetCancel:01}{EndChoice:02}[END]
+
+#string:1E:012
+[STYLE:CHOICE:69:46:6E:3E][...]
+{DelayOff}{Cursor:00}{Option:00}Go on
+{Cursor:01}{Option:01}Give up
+{Cursor:02}{Option:02}Forgotten
+{Option:FF}{DelayOn}{EndChoice:03}[END]
+
+#string:1E:013
+[STYLE:CHOICE:78:5A:4B:2E][...]
+{DelayOff}{Cursor:00}{Option:00}Yes
+{Cursor:01}{Option:01}No
+{Option:FF}{DelayOn}{SetCancel:01}{EndChoice:02}[END]
+
+#string:1E:014
+[STYLE:CHOICE:78:5A:4B:2E][...]
+{DelayOff}{Cursor:00}{Option:00}Yes
+{Cursor:01}{Option:01}No
+{Option:FF}{DelayOn}{SetCancel:01}{EndChoice:02}[END]
+
+#string:1E:015
+[STYLE:CHOICE:6E:5A:64:2E][...]
+{DelayOff}{Cursor:00}{Option:00}Go back
+{Cursor:01}{Option:01}Fight
+{Option:FF}{DelayOn}{EndChoice:02}[END]
+
+#string:1E:016
+[STYLE:CHOICE:5A:50:78:2E][...]
+{DelayOff}{Cursor:00}{Option:00}Try
+{Cursor:01}{Option:01}Only drop in
+{Option:FF}{DelayOn}{SetCancel:01}{EndChoice:02}[END]
+
+#string:1E:017
+[STYLE:CHOICE:5A:50:96:3C][...]
+{DelayOff}{Cursor:00}{Option:00}Mario
+{Cursor:01}{Option:01}Luigi
+{Cursor:02}{Option:02}Princess Peach
+{Option:FF}{DelayOn}{EndChoice:03}[END]
+
+#string:1E:018
+[STYLE:CHOICE:32:46:E6:3C][...]
+{DelayOff}{Cursor:00}{Option:00}Special Course    50 coins
+{Cursor:01}{Option:01}Ordinary Course  20 coins
+{Cursor:02}{Option:02}Petit Course        5 coins
+{Option:FF}{DelayOn}{SetCancel:03}{EndChoice:03}[END]
+
+#string:1E:019
+[STYLE:CHOICE:50:50:B4:2E][...]
+{DelayOff}{Cursor:00}{Option:00}Give something
+{Cursor:01}{Option:01}Don't give anything
+{Option:FF}{DelayOn}{SetCancel:01}{EndChoice:02}[END]
+
+#string:1E:01A
+[STYLE:CHOICE:69:50:69:2E][...]
+{DelayOff}{Cursor:00}{Option:00}Ask more
+{Cursor:01}{Option:01}Enough
+{Option:FF}{DelayOn}{SetCancel:01}{EndChoice:02}[END]
+
+#string:1E:01B
+[STYLE:CHOICE:3C:3C:C8:50][...]
+{DelayOff}{Cursor:00}{Option:00}Not necessary
+{Cursor:01}{Option:01}About Dry Dry Desert
+{Cursor:02}{Option:02}How to get to ruins
+{Cursor:03}{Option:03}Favorite food
+{Option:FF}{DelayOn}{EndChoice:04}[END]
+
+#string:1E:01C
+[STYLE:CHOICE:3C:3C:C8:5F][...]
+{DelayOff}{Cursor:00}{Option:00}Not necessary
+{Cursor:01}{Option:01}About Dry Dry Desert
+{Cursor:02}{Option:02}How to get to ruins
+{Cursor:03}{Option:03}Favorite food
+{Cursor:04}{Option:04}How to see Moustafa
+{Option:FF}{DelayOn}{EndChoice:05}[END]
+
+#string:1E:01D
+[STYLE:CHOICE:78:72:4B:2E][...]
+{DelayOff}{Cursor:00}{Option:00}Yes
+{Cursor:01}{Option:01}No
+{Option:FF}{DelayOn}{SetCancel:01}{EndChoice:02}[END]
+
+#string:1E:01E
+[STYLE:CHOICE:64:46:82:3E][...]
+{DelayOff}{Cursor:00}{Option:00}Fire Flower
+{Cursor:01}{Option:01}Volt Shroom
+{Cursor:02}{Option:02}No idea
+{Option:FF}{DelayOn}{SetCancel:02}{EndChoice:03}[END]
+
+#string:1E:01F
+[STYLE:CHOICE:46:46:BE:3E][...]
+{DelayOff}{Cursor:00}{Option:00}Talk
+{Cursor:01}{Option:01}Go back to Toad Town
+{Cursor:02}{Option:02}Stop
+{Option:FF}{DelayOn}{SetCancel:02}{EndChoice:03}[END]
+
+#string:1E:020
+[STYLE:CHOICE:5A:50:82:2E][...]
+{DelayOff}{Cursor:00}{Option:00}Forgive
+{Cursor:01}{Option:01}Don't forgive
+{Option:FF}{DelayOn}{SetCancel:01}{EndChoice:02}[END]
+
+#string:1E:021
+[STYLE:CHOICE:55:46:A0:4B][...]
+{DelayOff}{Cursor:00}{Option:00}For myself
+{Cursor:01}{Option:01}For world peace
+{Cursor:02}{Option:02}No reason
+{Cursor:03}{Option:03}Why Spike?
+{Option:FF}{DelayOn}{EndChoice:04}[END]
+
+#string:1E:022
+[STYLE:CHOICE:6E:5A:78:2E][...]
+{DelayOff}{Cursor:00}{Option:00}Read
+{Cursor:01}{Option:01}Only a little
+{Option:FF}{DelayOn}{SetCancel:01}{EndChoice:02}[END]
+
+#string:1E:023
+[STYLE:CHOICE:5A:5A:A0:2E][...]
+{DelayOff}{Cursor:00}{Option:00}Read
+{Cursor:01}{Option:01}Only a little more
+{Option:FF}{DelayOn}{SetCancel:01}{EndChoice:02}[END]
+
+#string:1E:024
+[STYLE:CHOICE:64:5A:73:2E][...]
+{DelayOff}{Cursor:00}{Option:00}Read
+{Cursor:01}{Option:01}Don't read
+{Option:FF}{DelayOn}{SetCancel:01}{EndChoice:02}[END]
+
+#string:1E:025
+[STYLE:CHOICE:64:5A:8C:2E][...]
+{DelayOff}{Cursor:00}{Option:00}Read
+{Cursor:01}{Option:01}Only for Mario
+{Option:FF}{DelayOn}{SetCancel:01}{EndChoice:02}[END]
+
+#string:1E:026
+[STYLE:CHOICE:6E:46:64:3E][...]
+{DelayOff}{Cursor:00}{Option:00}Goomba
+{Cursor:01}{Option:01}Clubba
+{Cursor:02}{Option:02}Mushroom
+{Option:FF}{DelayOn}{EndChoice:03}[END]
+
+#string:1E:027
+[STYLE:CHOICE:5F:46:87:3E][...]
+{DelayOff}{Cursor:00}{Option:00}Fuzzy
+{Cursor:01}{Option:01}Hammer Bros.
+{Cursor:02}{Option:02}Thunder Rage
+{Option:FF}{DelayOn}{EndChoice:03}[END]
+
+#string:1E:028
+[STYLE:CHOICE:5F:46:87:3E][...]
+{DelayOff}{Cursor:00}{Option:00}Pokey
+{Cursor:01}{Option:01}Koopatrol
+{Cursor:02}{Option:02}Super Soda
+{Option:FF}{DelayOn}{EndChoice:03}[END]
+
+#string:1E:029
+[STYLE:CHOICE:5F:46:82:3C][...]
+{DelayOff}{Cursor:00}{Option:00}Yes
+{Cursor:01}{Option:01}No
+{Cursor:02}{Option:02}Start Over
+{Option:FF}{DelayOn}{EndChoice:03}[END]
+
+#string:1E:02A
+[STYLE:CHOICE:5F:5A:82:2E][...]
+{DelayOff}{Cursor:00}{Option:00}Go on
+{Cursor:01}{Option:01}Start Over
+{Option:FF}{DelayOn}{SetCancel:01}{EndChoice:02}[END]
+
+#string:1E:02B
+[STYLE:CHOICE:78:5A:4B:2E][...]
+{DelayOff}{Cursor:00}{Option:00}Yes
+{Cursor:01}{Option:01}No
+{Option:FF}{DelayOn}{SetCancel:01}{EndChoice:02}[END]
+
+#string:1E:02C
+[STYLE:CHOICE:5F:46:82:3E][...]
+{DelayOff}{Cursor:00}{Option:00}Koopa Bros.
+{Cursor:01}{Option:01}Lava Piranha
+{Cursor:02}{Option:02}Goompa
+{Option:FF}{DelayOn}{EndChoice:03}[END]
+
+#string:1E:02D
+[STYLE:CHOICE:5F:46:82:3E][...]
+{DelayOff}{Cursor:00}{Option:00}Flower Fields
+{Cursor:01}{Option:01}Toad Town
+{Cursor:02}{Option:02}Goomba Village
+{Option:FF}{DelayOn}{EndChoice:03}[END]
+
+#string:1E:02E
+[STYLE:CHOICE:5F:46:82:3E][...]
+{DelayOff}{Cursor:00}{Option:00}Koopa Troopa
+{Cursor:01}{Option:01}Goomba
+{Cursor:02}{Option:02}Chomp
+{Option:FF}{DelayOn}{EndChoice:03}[END]
+
+#string:1E:02F
+[STYLE:CHOICE:50:46:A0:3E][...]
+{DelayOff}{Cursor:00}{Option:00}Pass Flower Gate
+{Cursor:01}{Option:01}Pray
+{Cursor:02}{Option:02}Cry
+{Option:FF}{DelayOn}{EndChoice:03}[END]
+
+#string:1E:030
+[STYLE:CHOICE:50:46:A0:3E][...]
+{DelayOff}{Cursor:00}{Option:00}Kammy Koopa
+{Cursor:01}{Option:01}Mario
+{Cursor:02}{Option:02}Princess Peach
+{Option:FF}{DelayOn}{EndChoice:03}[END]
+
+#string:1E:031
+[STYLE:CHOICE:6E:46:64:3E][...]
+{DelayOff}{Cursor:00}{Option:00}Flower
+{Cursor:01}{Option:01}Goomba
+{Cursor:02}{Option:02}? Block
+{Option:FF}{DelayOn}{EndChoice:03}[END]
+
+#string:1E:032
+[STYLE:CHOICE:5F:46:82:3E][...]
+{DelayOff}{Cursor:00}{Option:00}Koopa Bros.
+{Cursor:01}{Option:01}Bowser
+{Cursor:02}{Option:02}Mario
+{Option:FF}{DelayOn}{EndChoice:03}[END]
+
+#string:1E:033
+[STYLE:CHOICE:5F:46:82:3E][...]
+{DelayOff}{Cursor:00}{Option:00}Raven
+{Cursor:01}{Option:01}Boo
+{Cursor:02}{Option:02}Tubba Blubba
+{Option:FF}{DelayOn}{EndChoice:03}[END]
+
+#string:1E:034
+[STYLE:CHOICE:46:46:B4:3E][...]
+{DelayOff}{Cursor:00}{Option:00}The Flower Garden
+{Cursor:01}{Option:01}Koopa Village
+{Cursor:02}{Option:02}Windy Mill
+{Option:FF}{DelayOn}{EndChoice:03}[END]
+
+#string:1E:035
+[STYLE:CHOICE:46:46:B9:3E][...]
+{DelayOff}{Cursor:00}{Option:00}On Bowser's Castle
+{Cursor:01}{Option:01}In the Ground Water
+{Cursor:02}{Option:02}Farthest Shiver City
+{Option:FF}{DelayOn}{EndChoice:03}[END]
+
+#string:1E:036
+[STYLE:CHOICE:64:5A:73:2E][...]
+{DelayOff}{Cursor:00}{Option:00}Saw
+{Cursor:01}{Option:01}Didn't see
+{Option:FF}{DelayOn}{SetCancel:01}{EndChoice:02}[END]
+
+#string:1E:037
+[STYLE:CHOICE:5A:5A:8C:2E][...]
+{DelayOff}{Cursor:00}{Option:00}{Color:21}Pink Station
+{Cursor:01}{Option:01}{Color:0A}Don't get on
+{Option:FF}{DelayOn}{SetCancel:01}{EndChoice:02}[END]
+
+#string:1E:038
+[STYLE:CHOICE:5A:46:8C:3E][...]
+{DelayOff}{Cursor:00}{Option:00}{Color:21}Pink Station
+{Cursor:01}{Option:01}{Color:25}Green Station
+{Cursor:02}{Option:02}{Color:0A}Don't get on
+{Option:FF}{DelayOn}{SetCancel:02}{EndChoice:03}[END]
+
+#string:1E:039
+[STYLE:CHOICE:5A:3C:8C:4B][...]
+{DelayOff}{Cursor:00}{Option:00}{Color:21}Pink Station
+{Cursor:01}{Option:01}{Color:25}Green Station
+{Cursor:02}{Option:02}{Color:20}Red Station
+{Cursor:03}{Option:03}{Color:0A}Don't get on
+{Option:FF}{DelayOn}{SetCancel:03}{EndChoice:04}[END]
+
+#string:1E:03A
+[STYLE:CHOICE:5A:3C:8C:4B][...]
+{DelayOff}{Cursor:00}{Option:00}{Color:20}Red Station
+{Cursor:01}{Option:01}{Color:25}Green Station
+{Cursor:02}{Option:02}{Color:21}Pink Station
+{Cursor:03}{Option:03}{Color:0A}Don't get on
+{Option:FF}{DelayOn}{SetCancel:03}{EndChoice:04}[END]
+
+#string:1E:03B
+[STYLE:CHOICE:5A:5A:8C:2E][...]
+{DelayOff}{Cursor:00}{Option:00}{Color:25}Green Station
+{Cursor:01}{Option:01}{Color:0A}Don't get on
+{Option:FF}{DelayOn}{SetCancel:01}{EndChoice:02}[END]
+
+#string:1E:03C
+[STYLE:CHOICE:5A:3C:8C:4B][...]
+{DelayOff}{Cursor:00}{Option:00}{Color:25}Green Station
+{Cursor:01}{Option:01}{Color:20}Red Station
+{Cursor:02}{Option:02}{Color:23}Blue Station
+{Cursor:03}{Option:03}{Color:0A}Don't get on
+{Option:FF}{DelayOn}{SetCancel:03}{EndChoice:04}[END]
+
+#string:1E:03D
+[STYLE:CHOICE:5A:5A:8C:2E][...]
+{DelayOff}{Cursor:00}{Option:00}{Color:23}Blue Station
+{Cursor:01}{Option:01}{Color:0A}Don't get on
+{Option:FF}{DelayOn}{SetCancel:01}{EndChoice:02}[END]
+
+#string:1E:03E
+[STYLE:CHOICE:5A:3C:8C:4B][...]
+{DelayOff}{Cursor:00}{Option:00}{Color:23}Blue Station
+{Cursor:01}{Option:01}{Color:20}Red Station
+{Cursor:02}{Option:02}{Color:25}Green Station
+{Cursor:03}{Option:03}{Color:0A}Don't get on
+{Option:FF}{SetCancel:03}{DelayOn}{EndChoice:04}[END]
+
+#string:1E:03F
+[STYLE:CHOICE:5A:3C:8C:4B][...]
+{DelayOff}{Cursor:00}{Option:00}{Color:20}Red Station
+{Cursor:01}{Option:01}{Color:23}Blue Station
+{Cursor:02}{Option:02}{Color:21}Pink Station
+{Cursor:03}{Option:03}{Color:0A}Don't get on
+{Option:FF}{DelayOn}{SetCancel:03}{EndChoice:04}[END]
+
+#string:1E:040
+[STYLE:CHOICE:5A:46:8C:3E][...]
+{DelayOff}{Cursor:00}{Option:00}{Color:21}Pink Station
+{Cursor:01}{Option:01}{Color:23}Blue Station
+{Cursor:02}{Option:02}{Color:0A}Don't get on
+{Option:FF}{DelayOn}{SetCancel:02}{EndChoice:03}[END]
+
+#string:1E:041
+[STYLE:CHOICE:5A:3C:8C:4B][...]
+{DelayOff}{Cursor:00}{Option:00}{Color:21}Pink Station
+{Cursor:01}{Option:01}{Color:23}Blue Station
+{Cursor:02}{Option:02}{Color:20}Red Station
+{Cursor:03}{Option:03}{Color:0A}Don't get on
+{Option:FF}{DelayOn}{SetCancel:03}{EndChoice:04}[END]
+
+#string:1E:042
+[STYLE:CHOICE:5A:3C:8C:4B][...]
+{DelayOff}{Cursor:00}{Option:00}{Color:23}Blue Station
+{Cursor:01}{Option:01}{Color:21}Pink Station
+{Cursor:02}{Option:02}{Color:25}Green Station
+{Cursor:03}{Option:03}{Color:0A}Don't get on
+{Option:FF}{DelayOn}{SetCancel:03}{EndChoice:04}[END]
+
+#string:1E:043
+[STYLE:CHOICE:5A:3C:8C:4B][...]
+{DelayOff}{Cursor:00}{Option:00}{Color:25}Green Station
+{Cursor:01}{Option:01}{Color:21}Pink Station
+{Cursor:02}{Option:02}{Color:23}Blue Station
+{Cursor:03}{Option:03}{Color:0A}Don't get on
+{Option:FF}{DelayOn}{SetCancel:03}{EndChoice:04}[END]
+
+#string:1E:044
+[STYLE:CHOICE:5F:5A:82:2E][...]
+{DelayOff}{Cursor:00}{Option:00}Don't fight
+{Cursor:01}{Option:01}Fight
+{Option:FF}{DelayOn}{SetCancel:00}{EndChoice:02}[END]
+
+#string:1E:045
+[STYLE:CHOICE:64:46:6E:3C][...]
+{DelayOff}{Cursor:00}{Option:00}Pay
+{Cursor:01}{Option:01}Don't pay
+{Cursor:02}{Option:02}Fight
+{Option:FF}{DelayOn}{SetCancel:01}{EndChoice:03}[END]
+
+#string:1E:046
+[STYLE:CHOICE:78:46:46:3E][...]
+{DelayOff}{Cursor:00}{Option:00}3
+{Cursor:01}{Option:01}4
+{Cursor:02}{Option:02}5
+{Option:FF}{DelayOn}{EndChoice:03}[END]
+
+#string:1E:047
+[STYLE:CHOICE:5A:46:91:3E][...]
+{DelayOff}{Cursor:00}{Option:00}Red Shy Guys
+{Cursor:01}{Option:01}Blue Shy Guys
+{Cursor:02}{Option:02}Green Shy Guys
+{Option:FF}{DelayOn}{EndChoice:03}[END]
+
+#string:1E:048
+[STYLE:CHOICE:5A:46:8C:3E][...]
+{DelayOff}{Cursor:00}{Option:00}Blue Shy Guys
+{Cursor:01}{Option:01}Red Shy Guys
+{Cursor:02}{Option:02}Bob-ombs
+{Option:FF}{DelayOn}{EndChoice:03}[END]
+
+#string:1E:049
+[STYLE:CHOICE:78:46:46:3E][...]
+{DelayOff}{Cursor:00}{Option:00}2
+{Cursor:01}{Option:01}3
+{Cursor:02}{Option:02}4
+{Option:FF}{DelayOn}{EndChoice:03}[END]
+
+#string:1E:04A
+[STYLE:CHOICE:78:46:46:3E][...]
+{DelayOff}{Cursor:00}{Option:00}4
+{Cursor:01}{Option:01}5
+{Cursor:02}{Option:02}6
+{Option:FF}{DelayOn}{EndChoice:03}[END]
+
+#string:1E:04B
+[STYLE:CHOICE:5A:46:8C:3E][...]
+{DelayOff}{Cursor:00}{Option:00}Red Shy Guys
+{Cursor:01}{Option:01}Koopa Troopas
+{Cursor:02}{Option:02}Bob-ombs
+{Option:FF}{DelayOn}{EndChoice:03}[END]
+
+#string:1E:04C
+[STYLE:CHOICE:64:46:64:3E][...]
+{DelayOff}{Cursor:00}{Option:00}Green
+{Cursor:01}{Option:01}Purple
+{Cursor:02}{Option:02}Red
+{Option:FF}{DelayOn}{EndChoice:03}[END]
+
+#string:1E:04D
+[STYLE:CHOICE:3C:5A:CD:3E][...]
+{DelayOff}{Cursor:00}{Option:00}Save and continue
+{Cursor:01}{Option:01}Save and quit
+{Cursor:02}{Option:02}Continue without saving
+{Option:FF}{DelayOn}{EndChoice:03}[END]
+
+#string:1E:04E
+[STYLE:CHOICE:5A:46:96:4B][...]
+{DelayOff}{Cursor:00}{Option:00}5-Block Option
+{Cursor:01}{Option:01}7-Block Option
+{Cursor:02}{Option:02}9-Block Option
+{Cursor:03}{Option:03}Don't play
+{Option:FF}{DelayOn}{SetCancel:03}{EndChoice:04}[END]
+
+#string:1E:04F
+[STYLE:CHOICE:5F:5A:78:2E][...]
+{DelayOff}{Cursor:00}{Option:00}Play
+{Cursor:01}{Option:01}Don't play
+{Option:FF}{DelayOn}{SetCancel:01}{EndChoice:02}[END]
+

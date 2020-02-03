@@ -1,0 +1,1300 @@
+#string:15:000
+[NEXT][...]
+{StartFX:Jitter}Well then, young fella! I don't
+usually ask for favors, but...
+[WAIT][NEXT][...]
+perhaps just one little one?
+Could you borrow the book 
+"Koopa Legends" from Kolorado?
+[WAIT][NEXT][...]
+I'm certain if you were to ask 
+Kolorado's wife, she'd lend it.
+[WAIT][NEXT][...]
+If it isn't a trouble, please
+go there as soon as possible.
+[PAUSE:0A][...]
+You promise, young fella?[WAIT][END]
+
+#string:15:001
+[STYLE:RIGHT][...]
+{StartFX:Jitter}Great galloping Goombas!
+[PAUSE:0A][...]
+You're a lifesaver, Mario!
+[WAIT][NEXT][...]
+This is just what I needed!
+Hee hee hee hee...
+[PAUSE:0F][...]
+[WAIT][NEXT][...]
+To show my gratitude, I'd like
+to make a gift of this.
+[WAIT]{Func_04}[END]
+
+#string:15:002
+[STYLE:RIGHT][...]
+{StartFX:Jitter}{StartFX:Shrinking}For Peach's sake!!
+{EndFX:Shrinking}[PAUSE:0A]You're a miracle worker, Mario!
+[PAUSE:0A][...]
+Stupendous! Exceptional!
+[WAIT][NEXT][...]
+This is exactly what I wanted!
+Hee hee hee hee...
+[PAUSE:0F][...]
+[WAIT][NEXT][...]
+You're a stand-up guy for doing
+an old Koopa a favor.
+[WAIT][NEXT][...]
+This time, I'll give you this
+special gift as thanks.
+[PAUSE:14][...]
+Don't tell anybody, though.
+I've got a reputation to keep.
+[WAIT]{Func_04}[END]
+
+#string:15:003
+[NEXT][...]
+{StartFX:Jitter}Well then, young fella! I don't
+usually ask for favors, but...
+[WAIT][NEXT][...]
+lately I've been sleeping poorly.
+I'd love a Sleepy Sheep to help
+me catch a little shut-eye.
+[WAIT][NEXT][...]
+There should be a shop in 
+Toad Town that sells 'em.
+[WAIT][NEXT][...]
+If it isn't a bother, hurry up
+and get one, all right?
+[PAUSE:0A][...]
+You promise, young fella?[WAIT][END]
+
+#string:15:004
+[STYLE:RIGHT][...]
+{StartFX:Jitter}My stars!
+[PAUSE:0A][...]
+You're a veritable hero, Mario!
+[WAIT][NEXT][...]
+Finally, some peace and quiet!
+Sweet dreams, here I come!
+[PAUSE:0A][...]
+Hee hee hee hee...
+[WAIT][NEXT][...]
+Take this as a small thank-you.
+[WAIT]{Func_04}[END]
+
+#string:15:005
+[STYLE:RIGHT][...]
+{StartFX:Jitter}{StartFX:Shrinking}Super Duper Blooper!
+{EndFX:Shrinking}[PAUSE:0A]You're one of a kind, Mario!
+[PAUSE:0A][...]
+Stupendous!
+[WAIT][NEXT][...]
+Now I needn't fear my pillow!
+I hope my dreams are good...
+[PAUSE:0A][...]
+Hee hee hee hee...
+[WAIT][NEXT][...]
+You're a stand-up guy for doing
+an old Koopa so many favors.
+[WAIT][NEXT][...]
+This time, I'll give you this
+special gift as thanks.
+[PAUSE:14][...]
+Don't tell anybody, though.
+I've got a reputation to keep.
+[WAIT]{Func_04}[END]
+
+#string:15:006
+[NEXT][...]
+{StartFX:Jitter}Well then, young fella! I don't
+usually ask for favors, but...
+[WAIT][NEXT][...]
+I don't suppose you could go
+to Goomba Village and find 
+Goompa, the grandfather?
+[WAIT][NEXT][...]
+He still has a Tape I lent him
+a while back. Could you get it
+for me? I really want it.
+[WAIT][NEXT][...]
+If you say "The Tape", he'll
+know what you're talking about.
+[WAIT][NEXT][...]
+Try to keep this whole thing
+under wraps, would you?
+[PAUSE:0A][...]
+You promise, young fella?[WAIT][END]
+
+#string:15:007
+[STYLE:RIGHT][...]
+{StartFX:Jitter}Suffering Shy Guys!
+[PAUSE:0A][...]
+Mario, you're a real gent!
+[WAIT][NEXT][...]
+Did Goompa complain? Hee hee...
+[PAUSE:0A][...]
+Take this as a gesture of my
+eternal gratitude.
+[WAIT]{Func_04}[END]
+
+#string:15:008
+[STYLE:RIGHT][...]
+{StartFX:Jitter}{StartFX:Shrinking}Mother of Monty Mole!
+{EndFX:Shrinking}[PAUSE:0A]How do you do it, Mario?
+[PAUSE:0A][...]
+Marvelous! Glorious!
+[WAIT][NEXT][...]
+Did Goompa complain at all?
+[PAUSE:0A][...]
+[WAIT][NEXT][...]
+You're a stand-up guy for doing
+an old Koopa so many favors.
+[WAIT][NEXT][...]
+This time, I'll give you this
+special gift as thanks.
+[PAUSE:14][...]
+Don't tell anybody, though.
+I've got a reputation to keep.
+[WAIT]{Func_04}[END]
+
+#string:15:009
+[NEXT][...]
+{StartFX:Jitter}Well then, young fella! I don't
+usually ask for favors, but...
+[WAIT][NEXT][...]
+I've got a hankering for some
+Koopa Tea. It's the very best!
+[PAUSE:0A][...]
+Fetch a bit for me, would you?
+[WAIT][NEXT][...]
+Koopa Tea can be made only with
+a fresh Koopa Leaf, which you
+can find in the village. Brewing
+it requires a special technique.
+[WAIT][NEXT][...]
+Only a culinary master can make
+this tea the proper way so that
+it bursts with flavor.  
+[WAIT][NEXT][...]
+You know... I think young Miss
+Tayce T. of Toad Town is quite
+a tea brewmaster.
+[WAIT][NEXT][...]
+What do you say you run along
+and bring some back piping hot?
+[PAUSE:0A][...]
+I have your word, young fella?[WAIT][END]
+
+#string:15:00A
+[STYLE:RIGHT][...]
+{StartFX:Jitter}Great Goomba!
+[PAUSE:0A][...]
+You rock my shell, Mario!
+[WAIT][NEXT][...]
+Mmmmmmm! Oh, mercy! So very
+succulent! You know, this tea is
+equally tasty cold as it is
+piping hot.
+[WAIT][NEXT][...]
+Take this as thanks.
+[WAIT]{Func_04}[END]
+
+#string:15:00B
+[STYLE:RIGHT][...]
+{StartFX:Jitter}{StartFX:Shrinking}Great growling Gulpits!
+{EndFX:Shrinking}[PAUSE:0A]You defy comparison, Mario!
+[PAUSE:0A][...]
+Wondrous! Excellent!
+[WAIT][NEXT][...]
+Mmmm! This hits the spot!
+You know, this tea is just as
+delicious iced as it is hot.
+[WAIT][NEXT][...]
+You're a stand-up guy for doing
+an old Koopa so many favors.
+[WAIT][NEXT][...]
+This time, I'll give you this
+special gift as thanks.
+[PAUSE:14][...]
+Don't tell anybody, though.
+I've got a reputation to keep.
+[WAIT]{Func_04}[END]
+
+#string:15:00C
+[NEXT][...]
+{StartFX:Jitter}Well then, young fella! I don't
+usually ask for favors, but...
+[WAIT][NEXT][...]
+I have a secret wish to
+get the great Luigi's autograph.
+He's your brother, right?
+[WAIT][NEXT][...]
+That young fella is truly super!
+[PAUSE:14][...]
+Have you seen him jump? They
+should call him "Air Luigi"!
+[WAIT][NEXT][...]
+If you could somehow get his
+autograph, I'd be really happy.
+[PAUSE:0A][...]
+Could you help, young fella?[WAIT][END]
+
+#string:15:00D
+[STYLE:RIGHT][...]
+{StartFX:Jitter}Hoppin' Hammer Brothers!
+[PAUSE:0A][...]
+You're a wizard, Mario!
+[WAIT][NEXT][...]
+Wa ha ha ha...!
+[PAUSE:0A][...]
+I have so many unique treasures
+now! What a lucky Koopa I am!
+[WAIT][NEXT][...]
+Here! Take this and know that 
+I'm very grateful.
+[WAIT]{Func_04}[END]
+
+#string:15:00E
+[STYLE:RIGHT][...]
+{StartFX:Jitter}{StartFX:Shrinking}By Tutankoopa's beard!
+{EndFX:Shrinking}[PAUSE:0A]You always come through, Mario!
+[PAUSE:0A][...]
+Supreme! Spectacular!
+[WAIT][NEXT][...]
+Wa ha ha ha...!
+[PAUSE:0A][...]
+I have so many treasures to 
+fondly remember now!
+[WAIT][NEXT][...]
+You're a stand-up guy for doing
+an old Koopa so many favors.
+[WAIT][NEXT][...]
+This time, I'll give you this
+special gift as thanks.
+[PAUSE:14][...]
+Don't tell anybody, though.
+I've got a reputation to keep.
+[WAIT]{Func_04}[END]
+
+#string:15:00F
+[NEXT][...]
+{StartFX:Jitter}Well then, young fella! I don't
+usually ask for favors, but...
+[WAIT][NEXT][...]
+the other day, I went shopping
+at Koopa's Shop in the village,
+[WAIT][NEXT][...]
+but on the way home, I must've
+dropped my wallet on the road.
+[PAUSE:0A][...]
+Look for it, would you?
+[WAIT][NEXT][...]
+My memory is kind of sketchy,
+but I think I remember talking 
+to that guy who listens to the
+radio in front of his house.
+[WAIT][NEXT][...]
+I'm sure my wallet was with me
+then, but after I got home I
+realized it was gone.
+[WAIT][NEXT][...]
+I'm hyperventilating.
+I must find that wallet!
+[PAUSE:0A][...]
+Promise me you'll help?[WAIT][END]
+
+#string:15:010
+[STYLE:RIGHT][...]
+{StartFX:Jitter}Oh, thank Star Haven!
+[PAUSE:0A][...]
+You've saved me again, Mario!
+[WAIT][NEXT][...]
+You seem to have a nose for
+finding things.
+[WAIT][NEXT][...]
+Take this as thanks.
+[WAIT]{Func_04}[END]
+
+#string:15:011
+[STYLE:RIGHT][...]
+{StartFX:Jitter}{StartFX:Shrinking}Oh, thank the Star Spirits!
+{EndFX:Shrinking}[PAUSE:0A]You're the bee's knees, Mario!
+[PAUSE:0A][...]
+Wonderful! Just great!
+[WAIT][NEXT][...]
+You seem to have a nose for
+finding things.
+[WAIT][NEXT][...]
+You're a stand-up guy for doing
+an old Koopa so many favors.
+[WAIT][NEXT][...]
+This time, I'll give you this
+special gift as thanks.
+[PAUSE:14][...]
+Don't tell anybody, though.
+I've got a reputation to keep.
+[WAIT]{Func_04}[END]
+
+#string:15:012
+[NEXT][...]
+{StartFX:Jitter}Well then, young fella! I don't
+usually ask for favors, but...
+[WAIT][NEXT][...]
+If you find the time, I really
+do have a craving for a 
+Tasty Tonic. Most shops sell it.
+[WAIT][NEXT][...]
+It's my all-time favorite drink.
+[PAUSE:0A][...]
+It really clears out the old
+beak, yes indeed.
+[WAIT][NEXT][...]
+Fetch me a cold one, would you?
+I'm parched over here!
+[PAUSE:0A][...]
+I have your word, young fella?[WAIT][END]
+
+#string:15:013
+[STYLE:RIGHT][...]
+{StartFX:Jitter}Pouring Piranhas!
+[PAUSE:0A][...]
+You're like a psychic, Mario!
+[WAIT][NEXT][...]
+This is exactly what I wanted!
+[WAIT][NEXT][...]
+As a gesture of my gratitude 
+and generosity, take this.
+[WAIT]{Func_04}[END]
+
+#string:15:014
+[STYLE:RIGHT][...]
+{StartFX:Jitter}{StartFX:Shrinking}Thundering Tuff Puffs!
+{EndFX:Shrinking}[PAUSE:0A]You are truly tops, Mario!
+[PAUSE:0A][...]
+Cool! Isn't that what kids say?
+[WAIT][NEXT][...]
+This'll really hit the spot!
+[WAIT][NEXT][...]
+You're a stand-up guy for doing
+an old Koopa so many favors.
+[WAIT][NEXT][...]
+This time, I'll give you this
+special gift as thanks.
+[PAUSE:14][...]
+Don't tell anybody, though.
+I've got a reputation to keep.
+[WAIT]{Func_04}[END]
+
+#string:15:015
+[NEXT][...]
+{StartFX:Jitter}Well then, young fella! I don't
+usually ask for favors, but...
+[WAIT][NEXT][...]
+I've heard through the grapevine
+that there's a beautiful fortune
+teller living on Shooting Star
+Summit.
+[WAIT][NEXT][...]
+so... [PAUSE:05]if you would
+[WAIT][NEXT][...]
+I want you to hike up there
+and ask her for an autograph.
+I'm too shy...
+[WAIT][NEXT][...]
+Run along for me, now.
+I can barely wait!
+[PAUSE:0A][...]
+You promise to hurry?[WAIT][END]
+
+#string:15:016
+[STYLE:RIGHT][...]
+{StartFX:Jitter}Leaping Lava Buds!
+[PAUSE:0A][...]
+How do you do it, Mario!?
+[WAIT][NEXT][...]
+Ohhh... Oh my...
+[PAUSE:0A][...]
+What beautiful handwriting...[HEART]
+[WAIT][NEXT][...]
+What must she be like?
+[PAUSE:0A][...]
+Uh... I mean... I sure like
+this autograph!
+[WAIT][NEXT][...]
+Here, take this as a token
+of my thanks.
+[WAIT]{Func_04}[END]
+
+#string:15:017
+[STYLE:RIGHT][...]
+{StartFX:Jitter}{StartFX:Shrinking}Jumping Jungle Fuzzies!
+{EndFX:Shrinking}[PAUSE:0A]You're peerless, Mario!
+[PAUSE:0A][...]
+My word! Good gracious!
+[WAIT][NEXT][...]
+Ohhh... Oh my...
+[PAUSE:0A][...]
+What beautiful handwriting...[HEART]
+[WAIT][NEXT][...]
+Be still, my heart...
+[PAUSE:0A][...]
+Uh... That is... This will be
+the heart of my collection! 
+[WAIT][NEXT][...]
+You're a stand-up guy for doing
+an old Koopa so many favors.
+[WAIT][NEXT][...]
+This time, I'll give you this
+special gift as thanks.
+[PAUSE:14][...]
+Don't tell anybody, though.
+I've got a reputation to keep.
+[WAIT]{Func_04}[END]
+
+#string:15:018
+[NEXT][...]
+{StartFX:Jitter}Well then, young fella! I don't
+usually ask for favors, but...
+[WAIT][NEXT][...]
+I'm not quite as mobile as I was
+in my salad days, and as a
+result I feel like I'm losing
+touch with the outside world.
+[WAIT][NEXT][...]
+A newspaper would be the best
+way for me to catch up, no?
+[WAIT][NEXT][...]
+Would you mind reading the Toad
+Town News for me?
+[PAUSE:0A][...]
+[WAIT][NEXT][...]
+You could tell me the news then.
+My eyes aren't so good, see?
+[WAIT][NEXT][...]
+Don't spare the juicy gossip,
+either! I'm all ears!
+[WAIT][NEXT][...]
+Hurry up if you can.
+I'm losing touch here!
+[PAUSE:0A][...]
+Promise me you will?[WAIT][END]
+
+#string:15:019
+[STYLE:RIGHT][...]
+{StartFX:Jitter}Creeping Crazy Dayzees!
+[PAUSE:0A][...]
+You're pure class, Mario!
+[WAIT][NEXT][...]
+Ah...so that's what's going on
+in the world.
+[WAIT][NEXT][...]
+I'm not sure I believe all those
+wild tales, but I suppose if you
+say so...
+[WAIT][NEXT][...]
+It's nice to catch up on the
+current lingo. I've had a hard 
+time understanding youngsters
+lately. Now I'm "hip."
+[WAIT][NEXT][...]
+Why don't you take this for
+helping me?
+[WAIT]{Func_04}[END]
+
+#string:15:01A
+[STYLE:RIGHT][...]
+{StartFX:Jitter}{StartFX:Shrinking}Bustling Buzzy Beetles!
+{EndFX:Shrinking}[PAUSE:0A]How do you do it, Mario?!
+[PAUSE:0A][...]
+Glory be!
+[WAIT][NEXT][...]
+I see...so that's what's going 
+on these days.
+[WAIT][NEXT][...]
+It seems pretty dubious to me,
+but the world is a crazy
+place. Don't I know it!
+[WAIT][NEXT][...]
+It's nice to catch up on the 
+times. I've barely been able
+to understand what youngsters 
+are talking about. Now I'm "hip."
+[WAIT][NEXT][...]
+You're a stand-up guy for doing
+an old Koopa so many favors.
+[WAIT][NEXT][...]
+This time, I'll give you this
+special gift as thanks.
+[PAUSE:14][...]
+Don't tell anybody, though.
+I've got a reputation to keep.
+[WAIT]{Func_04}[END]
+
+#string:15:01B
+[NEXT][...]
+{StartFX:Jitter}Well then, young fella! I don't
+usually ask for favors, but...
+[WAIT][NEXT][...]
+I've been ailing a bit lately.
+[PAUSE:0A][...]
+I'd like to get a Life Shroom,
+[PAUSE:0A][...]
+you know, to have on hand just
+in case of an emergency.
+[WAIT][NEXT][...]
+I must have one! I must!
+[PAUSE:0A][...]
+Please, please find one for me!
+[PAUSE:0A][...]
+You should be able to find one
+at select shops.
+[WAIT][NEXT][...]
+Please hurry--I'm not feeling
+well at all.
+[PAUSE:0A][...]
+You promise to return?[WAIT][END]
+
+#string:15:01C
+[STYLE:RIGHT][...]
+{StartFX:Jitter}Oh, by the musty Shroom!
+[PAUSE:0A][...]
+You're a peach, Mario!
+[WAIT][NEXT][...]
+I feel ten times better,
+[PAUSE:0A][...]
+and twenty years younger!
+[PAUSE:0A][...]
+Maybe I'll go jog! After my nap.
+[WAIT][NEXT][...]
+Here, take this as thanks.
+[WAIT]{Func_04}[END]
+
+#string:15:01D
+[STYLE:RIGHT][...]
+{StartFX:Jitter}{StartFX:Shrinking}Yodeling Yoshis!
+{EndFX:Shrinking}[PAUSE:0A]You're my savior, Mario!
+[PAUSE:0A][...]
+Prime! Delectable!
+[WAIT][NEXT][...]
+I feel like a million coins!
+[PAUSE:0A][...]
+I'm filled with vim and vigor!
+[PAUSE:0A][...]
+And now, I believe I'll nap.
+[WAIT][NEXT][...]
+You're a stand-up guy for doing
+an old Koopa so many favors.
+[WAIT][NEXT][...]
+This time, I'll give you this
+special gift as thanks.
+[PAUSE:14][...]
+Don't tell anybody, though.
+I've got a reputation to keep.
+[WAIT]{Func_04}[END]
+
+#string:15:01E
+[NEXT][...]
+{StartFX:Jitter}Well then, young fella! I don't
+usually ask for favors, but...
+[WAIT][NEXT][...]
+I do have this sudden craving 
+for one of Tayce T.'s 
+scrumptious Nutty Cakes.
+[WAIT][NEXT][...]
+The secret ingredient is the
+Goomnut, which grows on certain
+trees.
+[WAIT][NEXT][...]
+If memory serves (which it
+doesn't always) you can find 
+them near someone's house...
+[WAIT][NEXT][...]
+I don't know if that helps, 
+but you still have to find one
+so Tayce T. can bake the cake.
+[WAIT][NEXT][...]
+I'm getting pretty famished,
+actually. Would you hurry up?
+[PAUSE:0A][...]
+Promise?[WAIT][END]
+
+#string:15:01F
+[STYLE:RIGHT][...]
+{StartFX:Jitter}Bouncing  Bob-ombs!
+[PAUSE:0A][...]
+I owe you big time, Mario!
+[WAIT][NEXT][...]
+Oh... Oh, this is heavenly!
+[PAUSE:0A][...]
+I'm nutty for this cake!
+[WAIT][NEXT][...]
+Here's a reward for you.
+[WAIT]{Func_04}[END]
+
+#string:15:020
+[STYLE:RIGHT][...]
+{StartFX:Jitter}{StartFX:Shrinking}Spinning Spike Tops!
+{EndFX:Shrinking}[PAUSE:0A]You're an angel, Mario!
+[PAUSE:0A][...]
+Right on! Oh yeah!
+[WAIT][NEXT][...]
+Oh... Oh, this is too good!
+[PAUSE:0A][...]
+I'm nutty for this cake!
+[WAIT][NEXT][...]
+You're a stand-up guy for doing
+an old Koopa so many favors.
+[WAIT][NEXT][...]
+This time, I'll give you this
+special gift as thanks.
+[PAUSE:14][...]
+Don't tell anybody, though.
+I've got a reputation to keep.
+[WAIT]{Func_04}[END]
+
+#string:15:021
+[NEXT][...]
+{StartFX:Jitter}Well then, young fella! I don't
+usually ask for favors, but...
+[WAIT][NEXT][...]
+I must tell you, there's quite
+a racket coming from next door.
+It's far too loud! Say, you
+and Kooper are friends, no?
+[PAUSE:0A][...]
+[WAIT][NEXT][...]
+Well, it's his house and he should
+keep his guests from raising a
+ruckus. I can't sleep with all
+the noise!
+[WAIT][NEXT][...]
+Can you go over there and
+complain for me? Just tell them
+to put a lid on it.
+[WAIT][NEXT][...]
+Go as soon as you can--
+I'm at the end of my rope.
+Tell me when they quiet down.
+[PAUSE:0A][...]
+I have your word?[WAIT][END]
+
+#string:15:022
+[STYLE:RIGHT][...]
+{StartFX:Jitter}Shrieking Swoopulas!
+[PAUSE:0A][...]
+Nothing fazes you, Mario!
+[WAIT][NEXT][...]
+Ahh, sweet silence! I hope you
+gave those hooligans what-for.
+[WAIT][NEXT][...]
+Now I can get some precious 
+sleep and dream in peace. 
+[PAUSE:0A][...]
+Hee hee hee hee...
+[WAIT][NEXT][...]
+I'm so grateful.
+Why don't you take this from me?
+[WAIT]{Func_04}[END]
+
+#string:15:023
+[STYLE:RIGHT][...]
+{StartFX:Jitter}{StartFX:Shrinking}Galavanting Groove Guys!
+{EndFX:Shrinking}[PAUSE:0A]You're the man, Mario!
+[PAUSE:0A][...]
+Amazing! Stunning!
+[WAIT][NEXT][...]
+Finally, some peace and quiet!
+Did those punks make a fuss?
+[WAIT][NEXT][...]
+Now I can finally go back to 
+sweet dreamland.
+[PAUSE:0A][...]
+Hee hee hee hee...
+[WAIT][NEXT][...]
+You're a stand-up guy for doing
+an old Koopa so many favors.
+[WAIT][NEXT][...]
+This time, I'll give you this
+special gift as thanks.
+[PAUSE:14][...]
+Don't tell anybody, though.
+I've got a reputation to keep.
+[WAIT]{Func_04}[END]
+
+#string:15:024
+[NEXT][...]
+{StartFX:Jitter}I've been hearing people talk
+recently. Apparently I'm not
+so popular. People are actually
+saying I'm cheap! The nerve!
+[WAIT][NEXT][...]
+A long time ago, I used to
+be like you.........and....
+[PAUSE:14][...]
+[NEXT][...]
+...........................
+..............and then.....
+...., you know,.........but
+[PAUSE:0F][...]
+[NEXT][...]
+can you believe............
+........... so I said......
+................ and then..
+[PAUSE:0A][...]
+[NEXT][...]
+........, you know, .......
+completely unfair..........
+[PAUSE:0A][...]
+[NEXT][...]
+.................and .....
+so very rude..............
+......despite my..........
+[PAUSE:0A][...]
+[NEXT][...]
+..and finally.............
+Hey, are you listening to me?
+[PAUSE:14][...]
+[WAIT][NEXT][...]
+Well, the upshot is I don't
+really need any help. Except...
+[WAIT][NEXT][...]
+You know all those Boos living 
+in Boo Mansion? Well, one of 
+them has an old photo of mine.
+[WAIT][NEXT][...]
+So... Well...
+[PAUSE:0F][...]
+I'd like you to ask them if
+they'd give it back.
+[WAIT][NEXT][...]
+And if you don't mind, could
+you hurry up about it?
+[PAUSE:0A][...]
+You promise you'll go?[WAIT][END]
+
+#string:15:025
+[STYLE:RIGHT][...]
+{StartFX:Jitter}Great Clomping Clubbas!
+[PAUSE:0A][...]
+I'm in awe of you, Mario!
+[WAIT][NEXT][...]
+Oh, the days of my youth!
+Just look at me there, so 
+young and vibrant! I was quite
+the ladies Koopa, you know.
+[PAUSE:14][...]
+[NEXT][...]
+There was................
+..this utterly gorgeous..
+...lovely................
+........the passion......
+[PAUSE:0F][...]
+[NEXT][...]
+.........................
+maddening................
+.........as fast as I....
+..and I never looked back.
+[WAIT][NEXT][...]
+Anyway, enough of that. Take
+this as a token of my thanks.
+[WAIT]{Func_04}[END]
+
+#string:15:026
+[STYLE:RIGHT][...]
+{StartFX:Jitter}{StartFX:Shrinking}Prickly Pokey pack!
+{EndFX:Shrinking}[PAUSE:0A]You're unstoppable, Mario!
+[PAUSE:0A][...]
+Oh, yes! Yes indeed!
+[WAIT][NEXT][...]
+Oh, the days of my youth!
+Just look at me there, so 
+young and vibrant! I was quite
+the ladies Koopa, you know.
+[PAUSE:14][...]
+[NEXT][...]
+There was................
+..this utterly gorgeous..
+...lovely................
+........the passion......
+[PAUSE:0F][...]
+[NEXT][...]
+.........................
+maddening................
+.........as fast as I....
+..and I never looked back.
+[WAIT][NEXT][...]
+You're a stand-up guy for doing
+an old Koopa so many favors.
+[WAIT][NEXT][...]
+This time, I'll give you this
+special gift as thanks.
+[PAUSE:14][...]
+Don't tell anybody, though.
+I've got a reputation to keep.
+[WAIT]{Func_04}[END]
+
+#string:15:027
+[NEXT][...]
+{StartFX:Jitter}Well then, young fella! I don't
+usually ask for favors, but...
+[WAIT][NEXT][...]
+I really haven't had a tasty
+meal in a Goomba's age.
+[PAUSE:0A][...]
+Miss Tayce T.'s Koopasta would
+really hit the spot right now.
+[WAIT][NEXT][...]
+Could you head to Toad Town
+and have her whip up a batch?
+[PAUSE:0A][...]
+Did you hear my belly grumble?
+[WAIT][NEXT][...]
+I'm ravenous! Please hurry up!
+[PAUSE:0A][...]
+Please don't let me starve![WAIT][END]
+
+#string:15:028
+[STYLE:RIGHT][...]
+{StartFX:Jitter}Plummeting Paragoombas!
+[PAUSE:0A][...]
+You're a man of action, Mario!
+[WAIT][NEXT][...]
+This looks simply delicious!
+[PAUSE:0F][...]
+[WAIT][NEXT][...]
+I swear, nobody should cook
+this dish besides Tayce T.
+She's perfected the recipe!
+[WAIT][NEXT][...]
+Here's a little token of my
+gratitude.
+[WAIT]{Func_04}[END]
+
+#string:15:029
+[STYLE:RIGHT][...]
+{StartFX:Jitter}{StartFX:Shrinking}Dastardly Duplighosts!
+{EndFX:Shrinking}[PAUSE:0A]What's your secret, Mario?!
+[PAUSE:0A][...]
+Oh my! Unbelievable!
+[WAIT][NEXT][...]
+It looks good enough to eat!
+[PAUSE:0F][...]
+[WAIT][NEXT][...]
+It should be forbidden for
+anyone besides Tayce T. to 
+cook this. It's perfect!
+[WAIT][NEXT][...]
+You're a stand-up guy for doing
+an old Koopa so many favors.
+[WAIT][NEXT][...]
+This time, I'll give you this
+special gift as thanks.
+[PAUSE:14][...]
+Don't tell anybody, though.
+I've got a reputation to keep.
+[WAIT]{Func_04}[END]
+
+#string:15:02A
+[NEXT][...]
+{StartFX:Jitter}Well then, young fella! I don't
+usually ask for favors, but...
+[WAIT][NEXT][...]
+I seem to have misplaced my 
+glasses, which is vexing.
+[PAUSE:0A][...]
+I suppose I must have dropped
+them somewhere.
+[WAIT][NEXT][...]
+I haven't gone beyond the 
+borders of Koopa Village,
+[PAUSE:0A][...]
+so, logic suggests that they're
+somewhere in the village.
+[WAIT][NEXT][...]
+Could you drop what you're 
+doing and find them?
+[PAUSE:0A][...]
+I have your word, young fella?[WAIT][END]
+
+#string:15:02B
+[STYLE:RIGHT][...]
+{StartFX:Jitter}Hopping Hurt Plant!
+[PAUSE:0A][...]
+You're a master sleuth, Mario!
+[WAIT][NEXT][...]
+My eyesight's really gone downhill
+these last years...
+Now I can once again read books
+without any trouble.
+[WAIT][NEXT][...]
+Technology's great, isn't it?
+[WAIT][NEXT][...]
+Here. I'll give you this to show
+my gratitude.
+[WAIT]{Func_04}[END]
+
+#string:15:02C
+[STYLE:RIGHT][...]
+{StartFX:Jitter}{StartFX:Shrinking}By the biting Bzzap!
+{EndFX:Shrinking}[PAUSE:0A]I'm stunned, Mario!
+[PAUSE:0A][...]
+Awe-inspiring! Smashing!
+[WAIT][NEXT][...]
+My eyesight's really gone downhill
+these last years...
+Now I can once again read books
+without any trouble.
+[WAIT][NEXT][...]
+Technology's great, isn't it?
+[WAIT][NEXT][...]
+You're a stand-up guy for doing
+an old Koopa so many favors.
+[WAIT][NEXT][...]
+This time, I'll give you this
+special gift as thanks.
+[PAUSE:14][...]
+Don't tell anybody, though.
+I've got a reputation to keep.
+[WAIT]{Func_04}[END]
+
+#string:15:02D
+[NEXT][...]
+{StartFX:Jitter}Well then, young fella! I don't
+usually ask for favors, but...
+[WAIT][NEXT][...]
+I've really been dragging my 
+shell recently. I need a tart
+pick-me-up.
+[WAIT][NEXT][...]
+Let's see... Oh, I know! A fresh
+Lime should do the trick.
+[PAUSE:0A][...]
+Can you go find one?
+[WAIT][NEXT][...]
+Hurry up, if you could. I feel
+as slow as a tortoise.
+[PAUSE:0A][...]
+Do you promise?[WAIT][END]
+
+#string:15:02E
+[STYLE:RIGHT][...]
+{StartFX:Jitter}By Whacka's Bump!
+[PAUSE:0A][...]
+You can't be mortal, Mario!
+[WAIT][NEXT][...]
+{StartFX:Wavy}Mmmmm.... Yow!
+{EndFX:Wavy}[PAUSE:0A]What a sour Lime!
+[PAUSE:0A][...]
+That'll put a spring in my step!
+[WAIT][NEXT][...]
+Here, take this as a token
+of my thanks.
+[WAIT]{Func_04}[END]
+
+#string:15:02F
+[STYLE:RIGHT][...]
+{StartFX:Jitter}{StartFX:Shrinking}By Spiny's spikes!
+{EndFX:Shrinking}[PAUSE:0A]Are you for real, Mario?
+[PAUSE:0A][...]
+Mind-blowing! Crazy!
+[WAIT][NEXT][...]
+{StartFX:Wavy}Mmmmm... Yow!
+{EndFX:Wavy}[PAUSE:0A]What a sour lime!
+[PAUSE:0A][...]
+That'll put a spring in my step.
+[WAIT][NEXT][...]
+You're a stand-up guy for doing
+an old Koopa so many favors.
+[WAIT][NEXT][...]
+This time, I'll give you this
+special gift as thanks.
+[PAUSE:14][...]
+Don't tell anybody, though.
+I've got a reputation to keep.
+[WAIT]{Func_04}[END]
+
+#string:15:030
+[NEXT][...]
+{StartFX:Jitter}Well then, young fella! I don't
+usually ask for favors, but...
+[WAIT][NEXT][...]
+I recently heard about a snack
+called a Kooky Cookie. It's
+supposedly delicious.
+[WAIT][NEXT][...]
+I must confess that I have a 
+sweet tooth. So...do you think
+you could track one down?
+[WAIT][NEXT][...]
+One of the ingredients is a 
+Koopa Leaf but I have no idea
+what the other one is.
+[WAIT][NEXT][...]
+Hurry up, if you can.
+I need sweets, posthaste!
+[PAUSE:0A][...]
+Do I have your word, young man?[WAIT][END]
+
+#string:15:031
+[STYLE:RIGHT][...]
+{StartFX:Jitter}Lines o' Albino Dinos!
+[PAUSE:0A][...]
+You're world class, Mario!
+[WAIT][NEXT][...]
+So this is the cookie everyone
+raves about. It does look good!
+[PAUSE:0A][...]
+I think I'll save it for later.
+[WAIT][NEXT][...]
+I'll give you this gift to show
+my gratitude.
+[WAIT]{Func_04}[END]
+
+#string:15:032
+[STYLE:RIGHT][...]
+{StartFX:Jitter}{StartFX:Shrinking}Twisted Tumble Thwomps!
+{EndFX:Shrinking}[PAUSE:0A]You are unreal, Mario!
+[PAUSE:0A][...]
+Tremendous! Radical!
+[WAIT][NEXT][...]
+So this is the cookie everyone
+raves about. It does look good!
+[PAUSE:0A][...]
+I think I'll save it for later.
+[WAIT][NEXT][...]
+You're a stand-up guy for doing
+an old Koopa so many favors.
+[WAIT][NEXT][...]
+This time, I'll give you this
+special gift as thanks.
+[PAUSE:14][...]
+Don't tell anybody, though.
+I've got a reputation to keep.
+[WAIT]{Func_04}[END]
+
+#string:15:033
+[NEXT][...]
+{StartFX:Jitter}Well then, young fella! I don't
+usually ask for favors, but...
+[WAIT][NEXT][...]
+There is one thing. I have an
+old Boo friend who lives in
+Gusty Gulch. Can you go and get
+a package from him?
+[WAIT][NEXT][...]
+You may have a little trouble
+finding him, since the Boos 
+there look pretty similar.
+I'm sure you can do it, though.
+[WAIT][NEXT][...]
+A long time ago, when Goompa, 
+Bootler, and I were traveling, 
+we met the Boo and became
+fast friends.
+[WAIT][NEXT][...]
+He recently sent me a letter 
+saying that there is a package
+there addressed to me.
+[WAIT][NEXT][...]
+What are you waiting for?
+Go on and get it!
+[PAUSE:0A][...]
+I mean... Please?[WAIT][END]
+
+#string:15:034
+[STYLE:RIGHT][...]
+{StartFX:Jitter}Livid Lava Piranhas!
+[PAUSE:0A][...]
+You rule, Mario!
+[WAIT][NEXT][...]
+Ah yes!
+[PAUSE:0A][...]
+This is that package
+I requested!
+[WAIT][NEXT][...]
+Ever since my Boo friend sent
+me that letter I've been dying
+to know what's inside.
+[WAIT][NEXT][...]
+Well, I'll find out right now!
+...After you leave.
+[WAIT][NEXT][...]
+Here, take this as thanks.
+[WAIT]{Func_04}[END]
+
+#string:15:035
+[STYLE:RIGHT][...]
+{StartFX:Jitter}{StartFX:Shrinking}Great gobs of Goomnuts!
+{EndFX:Shrinking}[PAUSE:0A]You're a real champ, Mario!
+[PAUSE:0A][...]
+Simply brilliant!
+[WAIT][NEXT][...]
+Ah yes!
+[PAUSE:0A][...]
+This is that package
+I requested!
+[PAUSE:0A][...]
+Ever since my Boo friend sent
+me that letter I've been dying
+to know what's inside.
+[WAIT][NEXT][...]
+Well, I'll find out right now!
+...After you leave.
+[WAIT][NEXT][...]
+You're a stand-up guy for doing
+an old Koopa so many favors.
+[WAIT][NEXT][...]
+This time, I'll give you this
+special gift as thanks.
+[PAUSE:14][...]
+Don't tell anybody, though.
+I've got a reputation to keep.
+[WAIT]{Func_04}[END]
+
+#string:15:036
+[NEXT][...]
+{StartFX:Jitter}Well then, young fella! I don't
+usually ask for favors, but...
+[WAIT][NEXT][...]
+People keep talking about
+something called a Coconut.
+[WAIT][NEXT][...]
+They say they're delicious.
+I just have to try one!
+[WAIT][NEXT][...]
+Go right away, if you can.
+[PAUSE:0A][...]
+Promise to hurry back?[WAIT][END]
+
+#string:15:037
+[STYLE:RIGHT][...]
+{StartFX:Jitter}Great crawling Clefts!
+[PAUSE:0A][...]
+You're larger than life, Mario!
+[WAIT][NEXT][...]
+Mmmmm...
+[PAUSE:0F][...]
+How do you crack this thing?
+[PAUSE:0A][...]
+Ah well. I guess I'll try it later.
+[WAIT][NEXT][...]
+I'll give you this to show
+my gratitude.
+[WAIT]{Func_04}[END]
+
+#string:15:038
+[STYLE:RIGHT][...]
+{StartFX:Jitter}{StartFX:Shrinking}Stampeding Stone Chomps!
+{EndFX:Shrinking}[PAUSE:0A]You're super, Mario!
+[PAUSE:0A][...]
+Masterful! Top notch!
+[WAIT][NEXT][...]
+Mmmmm...
+[PAUSE:0F][...]
+How do you crack this thing?
+[PAUSE:0A][...]
+Ah well. I guess I'll try it later.
+[WAIT][NEXT][...]
+You're a stand-up guy for doing
+an old Koopa so many favors.
+[WAIT][NEXT][...]
+This time, I'll give you this
+special gift as thanks.
+[PAUSE:14][...]
+Don't tell anybody, though.
+I've got a reputation to keep.
+[WAIT]{Func_04}[END]
+
+#string:15:039
+[NEXT][...]
+{StartFX:Jitter}Well then, young fella! I don't
+usually ask for favors, but...
+[WAIT][NEXT][...]
+I wouldn't mind getting one of
+those Red Jars that they say
+were made in Dry Dry Desert's
+ancient desert kingdom.
+[WAIT][NEXT][...]
+According to popular opinion,
+you can get one if you buy 
+things in a certain order at 
+the shop in Dry Dry Outpost.
+[WAIT][NEXT][...]
+First you buy a Dusty Hammer,
+then you go ahead and get a 
+Dried Pasta, then...er...you
+get another Dusty Hammer
+[WAIT][NEXT][...]
+and then... [PAUSE:0A]Let me see...
+[PAUSE:0A][...]
+Hang on... I've forgotten the
+other thing...
+[WAIT][NEXT][...]
+...
+[PAUSE:14][...]
+Aaaaa! [PAUSE:0A]Well, you'll have to 
+figure out the rest.
+[WAIT][NEXT][...]
+But do hurry. I really want one.
+[PAUSE:0A][...]
+Do I have your word?[WAIT][END]
+
+#string:15:03A
+[STYLE:RIGHT][...]
+{StartFX:Jitter}Levitating Lakitus!
+[PAUSE:0A][...]
+You're tops in my book, Mario!
+[WAIT][NEXT][...]
+Eew...it's a little filthy, though.
+[PAUSE:0F][...]
+I suppose I'll add it to my
+collection anyway.
+[WAIT][NEXT][...]
+Here, take this as a token of
+my eternal thanks.
+[WAIT]{Func_04}[END]
+
+#string:15:03B
+[STYLE:RIGHT][...]
+{StartFX:Jitter}{StartFX:Shrinking}Swooping Sky Guys!
+{EndFX:Shrinking}[PAUSE:0A]You're a true workhorse, Mario!
+[PAUSE:0A][...]
+Incredible! Outstanding!
+[WAIT][NEXT][...]
+Eew...it's a little filthy, though.
+[PAUSE:0F][...]
+I suppose I'll add it to my
+collection anyway.
+[WAIT][NEXT][...]
+You're a stand-up guy for doing
+an old Koopa so many favors.
+[WAIT][NEXT][...]
+This time, I'll give you this
+special gift as thanks.
+[PAUSE:14][...]
+Don't tell anybody, though.
+I've got a reputation to keep.
+[WAIT]{Func_04}[END]
+
+#string:15:03C
+[STYLE:RIGHT][...]
+{StartFX:Jitter}My dear Mario!
+[PAUSE:0A][...]
+You've done me so many favors 
+and never complained. Please 
+know I'll always be grateful.
+[WAIT][NEXT][...]
+{StartFX:Shrinking}I do have one last request, 
+though, and it's the toughest.
+[WAIT][NEXT][...]
+Defeat the Evil King, Bowser!
+Defeat him at all costs!
+{EndFX:Shrinking}[WAIT][NEXT][...]
+As long as he rules, the village
+children will never feel truly
+safe.
+[WAIT][NEXT][...]
+Even a selfish old Koopa like
+me wants the village to prosper.
+[PAUSE:0A][...]
+Please, Mario! You can do it![WAIT][END]
+

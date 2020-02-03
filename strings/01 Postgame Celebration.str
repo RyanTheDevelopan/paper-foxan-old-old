@@ -1,0 +1,1228 @@
+#string:01:000
+[STYLE:RIGHT][...]
+{SpeechSound:02}Oh, Mario! Thank you!
+[WAIT][NEXT][...]
+You did it! You brought back our
+precious Star Rod! I thank you
+from the bottom of my heart.
+[WAIT][NEXT][...]
+We will use it to bring peace
+back to this world. [WAIT][END]
+
+#string:01:001
+[STYLE:RIGHT][...]
+{SpeechSound:02}Now we'll be able to grant
+everyone's wishes again![HEART]
+[WAIT][NEXT][...]
+All of this is thanks to you,
+Mario![HEART][WAIT][END]
+
+#string:01:002
+[STYLE:RIGHT][...]
+{SpeechSound:02}When you look at the night sky,
+you'll know that the glittering
+stars are praising you for your
+courage.  
+[WAIT][NEXT][...]
+Look upon their bright light and
+remember our thanks![WAIT][END]
+
+#string:01:003
+[STYLE:RIGHT][...]
+{SpeechSound:02}You really took it to Bowser,
+Mario! Really socked it to him!
+[PAUSE:0A][...]
+What impressive strength!
+[WAIT][NEXT][...]
+I knew you could do it![WAIT][END]
+
+#string:01:004
+[STYLE:RIGHT][...]
+{SpeechSound:02}Mario...
+[PAUSE:0F][...]
+Don't think we don't know how
+hard you worked for all of us.  
+[WAIT][NEXT][...]
+It must have been difficult.
+[PAUSE:0A][...]
+We won't forget your efforts.[WAIT][END]
+
+#string:01:005
+[STYLE:RIGHT][...]
+{SpeechSound:02}I hope Bowser learned something
+from all this. Maybe he'll behave
+himself now...
+[WAIT][NEXT][...]
+Although I'd say the chances of
+that are pretty slim.
+[PAUSE:0F][...]
+Tsk tsk... Ah well...[WAIT][END]
+
+#string:01:006
+[STYLE:RIGHT][...]
+{SpeechSound:02}No words can express completely
+how thankful we are for all that
+you've done.
+[WAIT][NEXT][...]
+Hope has returned, both to Star
+Haven and to all of the Mushroom
+Kingdom.
+[PAUSE:05][...]
+We're in your debt, Mario.[WAIT][END]
+
+#string:01:007
+[STYLE:RIGHT][...]
+{SpeechSound:02}And Twink, may I say...
+[PAUSE:0A][...]
+you really rose to the occasion!
+[WAIT][NEXT][...]
+You've proven yourself to be a
+grown-up Star![WAIT][END]
+
+#string:01:008
+[STYLE:RIGHT][...]
+{SpeechSound:02}Tee hee hee... Aw, go on...[WAIT][END]
+
+#string:01:009
+[STYLE:RIGHT][...]
+{SpeechSound:02}Well...
+[PAUSE:0A][...]
+I think it's time we returned to
+Star Haven.
+[WAIT][NEXT][...]
+All of the stars are waiting for
+us there, no doubt.
+[WAIT][NEXT][...]
+It's time to say good-bye for
+now, Mario!
+[PAUSE:0A][...]
+May the stars forever shine
+brightly upon you![WAIT][END]
+
+#string:01:00A
+[STYLE:RIGHT][...]
+{SpeechSound:02}Mario,
+[PAUSE:0A][...]
+I'd like to thank you, too.
+[WAIT][NEXT][...]
+And Princess Peach...
+[PAUSE:0A][...]
+It was an honor to help you in
+your time of need.
+[WAIT][NEXT][...]
+I hope...maybe...to see you again
+sometime...
+[WAIT][NEXT][...]
+For now I'm going to become a
+respectable Star and make
+people's wishes come true![WAIT][END]
+
+#string:01:00B
+[STYLE:RIGHT][...]
+Thank you so much for helping me,
+Twink.
+[PAUSE:0A][...]
+You've always been a stellar
+friend to me![WAIT][END]
+
+#string:01:00C
+[STYLE:RIGHT][...]
+{SpeechSound:02}Princess Peach[PAUSE:05].[PAUSE:05].[PAUSE:05].
+[PAUSE:0A][...]
+[WAIT][NEXT][...]
+[PAUSE:05][...]
+I...[PAUSE:0A] I...
+[PAUSE:0A][...]
+[WAIT]{Func_04}[NEXT][...]
+[PAUSE:0A][...]
+Well, no, never mind!
+[PAUSE:05][...]
+I have to go, too!
+[WAIT][NEXT][...]
+Thank you very much, Mario.
+[PAUSE:0A][...]
+I'll always remember you, 
+Princess Peach!
+[WAIT][NEXT][...]
+Good-bye...![WAIT][END]
+
+#string:01:00D
+[STYLE:RIGHT][...]
+... Ohhh. So that's it, huh?
+[PAUSE:0A][...]
+That's how you took the Star
+Rod back from Bowser. 
+[WAIT][NEXT][...]
+It seems like another wild
+adventure's in the books, bro.
+[WAIT][NEXT][...]
+The castle's back in its normal
+place and everyone's returned
+home safely...
+[WAIT][NEXT][...]
+You came through in the end,
+just like you always do!
+[WAIT][NEXT][...]
+... I know you've been back for
+days now, but I'll bet you still
+kind of feel like you're on an
+adventure. Don't you?[WAIT][END]
+
+#string:01:00E
+[STYLE:RIGHT][...]
+That reminds me... The pals who
+traveled with you...
+[PAUSE:0A][...]
+I wonder what they're up to
+now...[WAIT][END]
+
+#string:01:00F
+[STYLE:RIGHT][...]
+{Down:08}{Size:20:20}Goombario![WAIT][END]
+
+#string:01:010
+[STYLE:RIGHT][...]
+Hey Parakarry, [PAUSE:0A]what's up?
+[WAIT][NEXT][...]
+I thought you were back at work
+delivering letters.  [WAIT][END]
+
+#string:01:011
+[STYLE:RIGHT][...]
+Ha ha ha! [PAUSE:03]I sure am!
+[PAUSE:0A][...]
+This isn't a social call!
+[WAIT][NEXT][...]
+I dropped by to bring a letter
+to you, Goombario!
+[PAUSE:0A][...]
+It's from Princess Peach.[WAIT][END]
+
+#string:01:012
+[STYLE:RIGHT][...]
+Huh? [PAUSE:05]From Princess Peach!?
+[PAUSE:0A][...]
+Whoa!
+[PAUSE:0A][...]
+What's she writing to me for?[WAIT][END]
+
+#string:01:013
+[STYLE:RIGHT][...]
+Read it and find out! I've got
+to deliver more letters![WAIT][END]
+
+#string:01:014
+[STYLE:RIGHT][...]
+Thanks, Parakarry! See ya!
+[PAUSE:0A][...]
+Keep working hard, buddy!
+Take care![WAIT][END]
+
+#string:01:015
+[STYLE:RIGHT][...]
+Hey, Goombario!
+[PAUSE:0A][...]
+What did Princess Peach write in
+her letter? Lemme see![WAIT][END]
+
+#string:01:016
+[STYLE:RIGHT][...]
+Hang on, Goombaria.[PAUSE:03].[PAUSE:05].
+[PAUSE:0A][...]
+[WAIT][NEXT][...]
+{StartFX:Shrinking}Jeepers!
+[PAUSE:05][...]
+This is an invitation to a party!
+At the castle!
+{EndFX:Shrinking}[WAIT][NEXT][...]
+It says the princess is having
+a party and I'm invited to go
+have fun!
+[PAUSE:0A][...]
+Whoa! Whoa! WHOOAAAAA![WAIT][END]
+
+#string:01:017
+[STYLE:RIGHT][...]
+Now then, gentlemen...
+[PAUSE:0A][...]
+It's time to scale the frosty
+heights to the Crystal Palace!
+[WAIT][NEXT][...]
+Kooper, old boy,
+[PAUSE:0A][...]
+you're in charge of guiding us.
+[WAIT][NEXT][...]
+Your prior experience is terribly
+important to the success of our
+expedition![WAIT][END]
+
+#string:01:018
+[STYLE:RIGHT][...]
+Yeah! Leave it to me!
+[PAUSE:0A][...]
+I know the place front to back![WAIT][END]
+
+#string:01:019
+[STYLE:RIGHT][...]
+{Down:08}{Size:20:20}Kooper![WAIT][END]
+
+#string:01:01A
+[STYLE:RIGHT][...]
+Huh?
+[PAUSE:0A][...]
+Parakarry?
+[PAUSE:0A][...]
+What brings you here?[WAIT][END]
+
+#string:01:01B
+[STYLE:RIGHT][...]
+Phew! ...I finally made it.
+[WAIT][NEXT][...]
+I have a letter for you from
+Princess Peach.[WAIT][END]
+
+#string:01:01C
+[STYLE:RIGHT][...]
+Oh! Oh, wow!
+[PAUSE:0A][...]
+This is an invitation to a huge
+party at Princess Peach's
+Castle!
+[WAIT][NEXT][...]
+It's directly from the princess
+herself! It's got her signature
+on it and everything! Cool!
+[WAIT][NEXT][...]
+Oh, there's no way I can miss a
+bash this big! [PAUSE:0A]But...
+[WAIT][NEXT][...]
+...but I can't just turn my back
+on this expedition after I
+promised Prof. Kolorado...
+[WAIT][NEXT][...]
+I should stay here and...[WAIT][END]
+
+#string:01:01D
+[STYLE:RIGHT][...]
+Oh, poppycock! Balderdash!
+Don't be daft, dear boy!
+[WAIT][NEXT][...]
+Turning down such an invitation
+would be terribly impolite.
+This is a golden opportunity!
+[WAIT][NEXT][...]
+Go to the party this instant!
+Don't spare me another thought!
+[WAIT][NEXT][...]
+It would ruin the party if the
+hero of Koopa Village...
+[PAUSE:0A][...]
+nay, the hero of the Mushroom
+Kingdom wasn't even there![WAIT][END]
+
+#string:01:01E
+[STYLE:RIGHT][...]
+Huh...
+[PAUSE:05][...]
+I knew you'd say that, Prof.
+Kolorado!
+[PAUSE:0A][...]
+You're so kind and generous!
+[WAIT][NEXT][...]
+I'll do it! I hope you guys will be
+all right without me!
+[PAUSE:0A][...]
+I'm gonna party![WAIT][END]
+
+#string:01:01F
+[STYLE:RIGHT][...]
+Oh, [PAUSE:0A]Kolorado, I have a message
+for you as well...,
+[WAIT][NEXT][...]
+{StartFX:Shrinking}Don't bother coming back home,
+you wandering buffoon!!!
+[PAUSE:0A][...]
+What a no-good husband!
+{EndFX:Shrinking}[WAIT][NEXT][...]
+...That...
+[PAUSE:0A][...]
+was a message from your wife.
+[WAIT][NEXT][...]
+Kolorado... You set out on this
+expedition without telling your
+wife again, didn't you?
+[WAIT][NEXT][...]
+Boy, she was sooo furious.[WAIT][END]
+
+#string:01:020
+[STYLE:RIGHT][...]
+{StartFX:Jitter}{StartFX:Shrinking}Oh good gracious...
+{EndFX:Shrinking}{EndFX:Jitter}[WAIT][NEXT][...]
+Pa puh puh puh...
+[PAUSE:05][...]
+Parakarry!
+[PAUSE:0A][...]
+Why in the world didn't you tell
+me this first!
+[WAIT][NEXT][...]
+This is a crisis, old boy!
+[PAUSE:0A][...]
+I must away back home with all
+due speed! [WAIT][END]
+
+#string:01:021
+[STYLE:RIGHT][...]
+Huh?
+[PAUSE:0A][...]
+Did you hear something outside?
+I think I did.
+[PAUSE:0A][...]
+I'll go take a quick look.[WAIT][END]
+
+#string:01:022
+[STYLE:RIGHT][...]
+Hey, bro, guess what?
+[PAUSE:0A][...]
+Parakarry stopped by to drop
+off a party invitation from
+Princess Peach.
+[WAIT][NEXT][...]
+He said that he's also invited to
+the party, so he took off and
+said he'd see us at the castle
+when we arrived.
+[WAIT][NEXT][...]
+Now, [PAUSE:05]we'd better go, too![WAIT][END]
+
+#string:01:023
+[STYLE:RIGHT][...]
+OK... [PAUSE:05]Listen, Mario.
+[PAUSE:0A][...]
+I'm just gonna run ahead.
+[PAUSE:0A][...]
+There's something important
+that I have to do. 
+[WAIT][NEXT][...]
+What is it?
+Sorry, bro... It's [PAUSE:0A]top [PAUSE:03]se[PAUSE:03]cret![WAIT][END]
+
+#string:01:024
+[STYLE:RIGHT][...]
+The kids went ahead with their
+dear old Goompa.
+[WAIT][NEXT][...]
+Goombaria's jumping for joy!
+[PAUSE:0A][...]
+Dear, dear... [PAUSE:05]Ha ha ha!
+[PAUSE:0A][...]
+Kids are bundles of energy,
+aren't they?[WAIT][END]
+
+#string:01:025
+[STYLE:RIGHT][...]
+Oh, hello, Mario!
+[PAUSE:0A][...]
+I've never been to a party at a
+castle before! I'm petrified!
+[WAIT][NEXT][...]
+It's really... Oh, dear!
+[PAUSE:05][...]
+I'm so nervous! Do I look OK?[WAIT][END]
+
+#string:01:026
+[STYLE:RIGHT][...]
+I just arrived at Toad Town.
+[PAUSE:0A][...]
+What a long walk! I've been
+taking a little rest.
+[WAIT][NEXT][...]
+Goompa must be feeling spry!
+[PAUSE:0A][...]
+He went ahead with the
+grandkids already![WAIT][END]
+
+#string:01:027
+[STYLE:RIGHT][...]
+{StartFX:Shrinking}Kaaaawiiiiiizzz!!
+{EndFX:Shrinking}[PAUSE:05]It's your old pal, Chuck Quizmo!
+[WAIT][NEXT][...]
+How'd you like to take part in
+the quiz game?
+[WAIT][NEXT][...]
+Nah... Just kidding!
+[PAUSE:05][...]
+Let's just enjoy the party!![WAIT][END]
+
+#string:01:028
+[STYLE:RIGHT][...]
+Oh! Mario, isn't it?
+[PAUSE:0A][...]
+{StartFX:Shrinking}{StartFX:Wavy}Cough hack cough...
+{EndFX:Shrinking}{EndFX:Wavy}[WAIT][NEXT][...]
+You did a brilliant job of
+defeating Bowser.
+[WAIT][NEXT][...]
+The whole town is celebrating
+your masterful battle...
+[PAUSE:1E][...]
+{StartFX:Shrinking}But even glad news shouldn't be
+cause for missing training!
+{EndFX:Shrinking}[WAIT][NEXT][...]
+Lee and Chan want to take a
+day off from their training to
+go to the party...
+[PAUSE:1E][...]
+{StartFX:Shrinking}Truly[PAUSE:05] an outrageous notion!!
+{EndFX:Shrinking}[WAIT][NEXT][...]
+...But [PAUSE:0A]still...
+[PAUSE:0A][...]
+Perhaps I'm being a bit harsh.
+Well, a LITTLE fun can't hurt...
+[PAUSE:0A][...]
+{StartFX:Jitter}{StartFX:Shrinking}cough[PAUSE:05] cough[PAUSE:05] cough...[WAIT][END]
+
+#string:01:029
+[STYLE:RIGHT][...]
+Let's go to the party!
+[WAIT][NEXT][...]
+I've heard there'll be a parade!
+[PAUSE:0A][...]
+Let's find a good spot to see
+the princess from![WAIT][END]
+
+#string:01:02A
+[STYLE:RIGHT][...]
+Yes, today we shall forget
+about training and celebrate!
+[WAIT][NEXT][...]
+{Down:08}{Size:20:20}{StartFX:Shrinking}Yahoo!!![WAIT][END]
+
+#string:01:02B
+[STYLE:RIGHT][...]
+Oh! Sorry, Mario!
+[PAUSE:0A][...]
+The shop's closed today.
+[PAUSE:0A][...]
+Nobody would buy anything on
+a day like today anyway.
+[WAIT][NEXT][...]
+The shopkeepers want to hang
+out and enjoy the festival, too,
+you know![WAIT][END]
+
+#string:01:02C
+[STYLE:RIGHT][...]
+I love it when Toad Town is full
+of party-goers!
+[WAIT][NEXT][...]
+I'm going to talk to as many of
+them as I can![WAIT][END]
+
+#string:01:02D
+[STYLE:RIGHT][...]
+Mario, where are you going?
+[PAUSE:0A][...]
+I'm sure that Princess Peach is
+waiting for you in the castle![WAIT][END]
+
+#string:01:02E
+[STYLE:RIGHT][...]
+The castle has come back!
+[PAUSE:0A][...]
+Everything's back to normal,
+thanks to you, Mario!
+[WAIT][NEXT][...]
+Look at this place! Toad Town
+is hopping 'cause so many people
+are here to celebrate![WAIT][END]
+
+#string:01:02F
+[STYLE:RIGHT][...]
+{StartFX:Shrinking}Big news, everyone, huge news!
+[PAUSE:0A][...]
+Mario, who defeated the vile
+Bowser, has just arrived!
+{EndFX:Shrinking}[WAIT][NEXT][...]
+{StartFX:Shrinking}Yeah! Yeah![PAUSE:05] Yeah![PAUSE:05] Yeah!!
+[PAUSE:0A][...]
+Let's hear it for Mario!
+{EndFX:Shrinking}[WAIT][END]
+
+#string:01:030
+[STYLE:RIGHT][...]
+Peach's Castle has come back
+at last, and peace has been 
+restored to Toad Town.
+[WAIT][NEXT][...]
+Now we can spend our days
+together without fear![HEART][WAIT][END]
+
+#string:01:031
+[STYLE:RIGHT][...]
+Oh, I'm so happy![HEART]
+[PAUSE:0A][...]
+But I work at the castle...
+so I must return there.
+[WAIT][NEXT][...]
+Such is the sweet sadness of
+love, my darling![HEART][WAIT][END]
+
+#string:01:032
+[STYLE:RIGHT][...]
+Oh! I am just SO relieved that
+Princess Peach and everybody
+else came back safe and sound!
+Really!
+[WAIT][NEXT][...]
+Oh, and those three young maids
+who work at the castle...the ones
+who went traveling? Well, they're
+totally back, too![WAIT][END]
+
+#string:01:033
+[STYLE:RIGHT][...]
+Yeah, I heard that, too!
+[WAIT][NEXT][...]
+They had to go right back to
+work this morning. They've been
+working all day setting up for
+the party![WAIT][END]
+
+#string:01:034
+[STYLE:RIGHT][...]
+It's really great that things
+worked out OK for everybody!
+[WAIT][NEXT][...]
+And those three maids brought
+back lots of souvenirs for me
+to look at, so I, Felissa T., am
+so happy!![WAIT][END]
+
+#string:01:035
+[STYLE:RIGHT][...]
+I wish we Toads could have done
+more than just wish for you.
+[WAIT][NEXT][...]
+But we followed your progress
+the whole time. Your efforts
+really gave us hope.
+[WAIT][NEXT][...]
+All of Toad Town thanks you!
+[PAUSE:0A][...]
+It must have been grueling...[WAIT][END]
+
+#string:01:036
+[STYLE:RIGHT][...]
+Well, back to work, I guess...
+[PAUSE:0A][...]
+I'm not all that excited to get
+back to the grind, but it is
+somehow a relief. 
+[WAIT][NEXT][...]
+After all, having a routine is
+probably for the best.
+[PAUSE:0F][...]
+At least for me it is...[WAIT][END]
+
+#string:01:037
+[STYLE:RIGHT][...]
+I'm so happy that Princess
+Peach's Castle is back, but...
+[WAIT][NEXT][...]
+my darling must return to work.
+[PAUSE:0A][...]
+It's going to be lonely here...[WAIT][END]
+
+#string:01:038
+[STYLE:RIGHT][...]
+Hey, Dad!
+You have to go back to work
+starting tomorrow? 
+[WAIT][NEXT][...]
+Aw, lame! Now we won't be able
+to play together every day!
+[PAUSE:0A][...]
+What a bummer...[WAIT][END]
+
+#string:01:039
+[STYLE:RIGHT][...]
+Next time something happens to
+Princess Peach, I'm gonna be
+the one to protect her!
+[WAIT][NEXT][...]
+I'm gonna be a guard in the
+castle and I'm gonna punch the
+bad guys in the nose and I'm
+gonna tell them to GET OUT!
+[WAIT][NEXT][...]
+I'm gonna do it all by myself!![WAIT][END]
+
+#string:01:03A
+[STYLE:RIGHT][...]
+Oh! Hey, Mario!
+[PAUSE:0A][...]
+Taking your time on the way to
+the party, huh?
+[WAIT][NEXT][...]
+Don't dally too long! It's going
+to be quite an exciting day!
+[PAUSE:0A][...]
+I can hardly wait!![WAIT][END]
+
+#string:01:03B
+[STYLE:RIGHT][...]
+
+{Down:06}{Indent:6E}[HEART][WAIT][END]
+
+#string:01:03C
+[STYLE:RIGHT][...]
+Greetings, old boy!
+[PAUSE:0A][...]
+Here for the festivities at the
+castle, eh?
+[WAIT][NEXT][...]
+I can't say I'm terribly excited
+about it, myself.
+[PAUSE:0A][...]
+My heart yearns to go to the
+Crystal Palace! Yearns, I say!
+[WAIT][NEXT][...]
+So many mysteries await me and
+my dizzying intellect...
+[WAIT][NEXT][...]
+Oh, the pain of it all...
+[PAUSE:0A][...]
+You understand my yearning,
+don't you, old boy?[WAIT][END]
+
+#string:01:03D
+[STYLE:RIGHT][...]
+I swear, Kolorado, you are the
+living end!
+[PAUSE:0A][...]
+You're always darting here and
+there instead of settling down...
+[WAIT][NEXT][...]
+Mario, would you believe I had
+to send Parakarry to get him?
+[WAIT][NEXT][...]
+I'm at the end of my rope!
+Please talk some sense into him![WAIT][END]
+
+#string:01:03E
+[STYLE:RIGHT][...]
+{StartFX:Jitter}Who's that? Is it Mario?
+[PAUSE:0A][...]
+Why, it's me,[PAUSE:0A] Koopa Koot.
+[WAIT][NEXT][...]
+{StartFX:Jitter}By the way, where's the castle?
+[WAIT][NEXT][...]
+I haven't been there for a while,
+and I'm having the darnedest
+time even finding the front
+door![WAIT][END]
+
+#string:01:03F
+{DelayOff}[STYLE:SIGN][...]
+
+{Down:06}{Indent:0A}Merlon isn't here now! Go away!
+{DelayOn}[WAIT][END]
+
+#string:01:040
+[STYLE:RIGHT][...]
+Hey, bud,
+[PAUSE:0A][...]
+long time no see!
+[WAIT][NEXT][...]
+I made some serious dough here
+selling Badges, so I'm gonna
+clear out and head for a
+different town.
+[WAIT][NEXT][...]
+I'm kinda itching to get on the
+road right now, but...
+[PAUSE:0A][...]
+This festival is a big deal...
+[WAIT][NEXT][...]
+and my kid really wants to check
+it out. So I guess we'll stay for
+a while longer.[WAIT][END]
+
+#string:01:041
+[STYLE:RIGHT][...]
+It's a festival! Yeah!!
+A festival!
+[PAUSE:0A][...]
+What fun!! Wheeeee!![WAIT][END]
+
+#string:01:042
+[STYLE:RIGHT][...]
+I'm making a bouquet for
+Princess Peach.
+[WAIT][NEXT][...]
+It seems as though extra-
+beautiful flowers have bloomed
+just for this special day.[WAIT][END]
+
+#string:01:043
+[STYLE:RIGHT][...]
+Yes, hello. I'm awfully sorry, but
+the post office will be closed
+for the festivities.
+[WAIT][NEXT][...]
+Oh, is that you, Mario?
+[PAUSE:0A][...]
+I haven't thanked you for looking
+out for Parakarry.
+[WAIT][NEXT][...]
+What I don't understand...
+[PAUSE:05][...]
+is how such an addle-brained
+character could make himself
+useful on your adventure...[WAIT][END]
+
+#string:01:044
+[STYLE:RIGHT][...]
+Good afternoon, Mario.
+[PAUSE:0A][...]
+Toad House is closed today.
+[WAIT][NEXT][...]
+We deserve a day off to
+celebrate, [PAUSE:0F]don't we?[WAIT][END]
+
+#string:01:045
+[STYLE:RIGHT][...]
+On behalf of all of Flower Fields,
+I came here to say thank you.
+[WAIT][NEXT][...]
+This is all thanks to you, Mario.
+[PAUSE:0A][...]
+Thank you, Mario!
+Thank you so very much![WAIT][END]
+
+#string:01:046
+[STYLE:RIGHT][...]
+{StartFX:Shrinking}You made it, Mario!
+[PAUSE:0A][...]
+You're truly our hero!!
+{EndFX:Shrinking}[WAIT][END]
+
+#string:01:047
+[STYLE:RIGHT][...]
+I hope you got your rest, Mario.
+There's no time to sleep today!
+[PAUSE:0A][...]
+After all, it's a celebration.
+[WAIT][NEXT][...]
+It's time to party into the wee
+hours of the morning with all of
+our friends! Yeeeeeah![WAIT][END]
+
+#string:01:048
+[STYLE:RIGHT][...]
+Mario, where are you going?
+[PAUSE:0A][...]
+Princess Peach is waiting for you
+up at the castle.[WAIT][END]
+
+#string:01:049
+[STYLE:RIGHT][...]
+Princess Peach has returned.
+[WAIT][NEXT][...]
+Oh[PAUSE:05] I'm so happy,...
+[PAUSE:0A][...]
+I feared she was lost forever![WAIT][END]
+
+#string:01:04A
+[STYLE:RIGHT][...]
+Bowser'll be better behaved now,
+won't he, Mario?
+[WAIT][NEXT][...]
+I hope so, because I'd just lose
+it if something terrible happened
+again.[WAIT][END]
+
+#string:01:04B
+[STYLE:RIGHT][...]
+Mario, where are you going?
+[PAUSE:0A][...]
+I'm sure the princess is waiting
+for you up at the castle.[WAIT][END]
+
+#string:01:04C
+[STYLE:RIGHT][...]
+I've been watching Minh T.'s
+flower garden, you know.
+[PAUSE:0A][...]
+Everyday, it gets more and more
+happy and beautiful.
+[WAIT][NEXT][...]
+And now that the castle's back,
+Minh T. looks happy as well.
+[WAIT][NEXT][...]
+Just looking at Minh T. makes
+me feel so...happy![WAIT][END]
+
+#string:01:04D
+[STYLE:RIGHT][...]
+Princess Peach has come back
+safely. Oh joy.
+[PAUSE:0A][...]
+I'm so happy. I'm ecstatic.[WAIT][END]
+
+#string:01:04E
+[STYLE:RIGHT][...]
+{StartFX:Shrinking}Bombette!! Oh, Bombette!
+[PAUSE:0F][...]
+Where have you been, Bombette?
+{EndFX:Shrinking}[WAIT][NEXT][...]
+I followed you, but in vain!!
+What a coldhearted, cruel girl
+you are...
+[WAIT][NEXT][...]
+You left me behind...!
+How could you!?[WAIT][END]
+
+#string:01:04F
+[STYLE:RIGHT][...]
+Well, Mario, I hear you defeated
+Bowser at last.
+[WAIT][NEXT][...]
+It must have been quite an
+adventure for you.
+[PAUSE:0A][...]
+Sounds tiring to me...[WAIT][END]
+
+#string:01:050
+[STYLE:RIGHT][...]
+Oh, Mario!?
+[PAUSE:0A][...]
+Wow! Hello!
+[PAUSE:0A][...]
+I'm so pleased to meet you!
+[WAIT][NEXT][...]
+Now when I get back to Dry Dry
+Outpost I can brag to my
+friends that I met you![WAIT][END]
+
+#string:01:051
+[STYLE:RIGHT][...]
+I've never seen a house with a
+spinning roof before.
+[WAIT][NEXT][...]
+Wow....
+[PAUSE:0A][...]
+This Toad Town is a really
+amazing place, huh?[WAIT][END]
+
+#string:01:052
+[STYLE:RIGHT][...]
+Tra la la la[NOTE]
+[PAUSE:0A][...]
+Mi mi mi miiiii[NOTE]
+[WAIT][NEXT][...]
+Oh, I'm so very nervous! What
+if I don't sing well for the
+princess?[WAIT][END]
+
+#string:01:053
+[STYLE:RIGHT][...]
+Hey! Pop Diva's nerves are shot.
+Stage fright is what she's got.
+[PAUSE:0A][...]
+Will she sing well or not?
+[WAIT][NEXT][...]
+Why the worry? Why the frown?
+Everyone's happy! Party down![WAIT][END]
+
+#string:01:054
+[STYLE:RIGHT][...]
+Oh, I'm feeling goooood![NOTE]
+[WAIT][NEXT][...]
+I never realized that this Toad
+Town was such a hip, happening
+place! 
+[WAIT][NEXT][...]
+Sing! [PAUSE:0F]Dance!! [PAUSE:0F]Party!!!
+[PAUSE:0F][...]
+Life is so beautiful![NOTE][WAIT][END]
+
+#string:01:055
+[STYLE:RIGHT][...]
+Oh! [PAUSE:05]It's Mario.
+[PAUSE:0F][...]
+I thank you again for everything
+you did for our village.
+[WAIT][NEXT][...]
+Hmmm?
+[PAUSE:05][...]
+You wonder how I got here?
+[WAIT][NEXT][...]
+I befriended a strange whale.
+It ferried me over here.
+[WAIT][NEXT][...]
+Next time, I'd like to bring the
+whole village with me![WAIT][END]
+
+#string:01:056
+[STYLE:RIGHT][...]
+It looks like today's party'll be
+even better than the last one!
+[PAUSE:0A][...]
+Lots of singing and dancing
+instead of an earthquake...[WAIT][END]
+
+#string:01:057
+[STYLE:RIGHT][...]
+Oh, Mario!
+[PAUSE:0A][...]
+How are you? Still dangerous?
+[PAUSE:0A][...]
+Ho ho ho ho ho...aaaanyway.[WAIT][END]
+
+#string:01:058
+[STYLE:RIGHT][...]
+If it isn't the nice guy!
+[PAUSE:0A][...]
+You made it after all, yes?
+[WAIT][NEXT][...]
+I, Moustafa, knew all along that
+you would defeat the evil Bowser.
+Yes, I did.
+[WAIT][NEXT][...]
+But you know what?
+[PAUSE:0A][...]
+You are an even greater hero
+than I imagined.[WAIT][END]
+
+#string:01:059
+[STYLE:RIGHT][...]
+Oh, Mario!
+[PAUSE:0A][...]
+Our wishes were granted! The
+castle has come back and things
+are as they were before!
+[WAIT][NEXT][...]
+I'm so glad that the princess
+and all the other people who got
+kidnapped are safe!
+What a miracle!
+[WAIT][NEXT][...]
+You know, this is all thanks to
+you, Mario.
+[WAIT][NEXT][...]
+How can we ever thank you...
+[PAUSE:0A][...]
+We're all in your debt.[WAIT][END]
+
+#string:01:05A
+[STYLE:RIGHT][...]
+Wel... Wel... Welco...
+[PAUSE:05][...]
+Welcome to Peach's Castle!
+[WAIT][NEXT][...]
+To... to... to...
+[PAUSE:05][...]
+Today we have many special
+guests, so I'm very nervous...
+My heart's pounding...
+[WAIT][NEXT][...]
+{StartFX:Shrinking}Thump [PAUSE:03]thump [PAUSE:03]thump [PAUSE:03]thump{EndFX:Shrinking}[PAUSE:03]...[WAIT][END]
+
+#string:01:05B
+[STYLE:RIGHT][...]
+Welcome, Mario.
+[WAIT][NEXT][...]
+Thank you for waiting,
+everybody!
+[PAUSE:0A][...]
+Please proceed to the castle.[WAIT][END]
+
+#string:01:05C
+[STYLE:RIGHT][...]
+Where are you going, Mario?
+[PAUSE:0A][...]
+Princess Peach awaits you in the
+castle.[WAIT][END]
+
+#string:01:05D
+[STYLE:RIGHT][...]
+I came here so I could see Lady
+Bow dressed up in all her finery.
+[WAIT][NEXT][...]
+I know Princess Peach is
+beautiful, but...
+[PAUSE:0A][...]
+{StartFX:Shrinking}Lady Bow is even prettier!
+{EndFX:Shrinking}[WAIT][END]
+
+#string:01:05E
+[STYLE:RIGHT][...]
+Hi! [PAUSE:0A]I've come here as an
+attendant to Mr. Moustafa.
+[WAIT][NEXT][...]
+The rumors of your great
+accomplishments have spread
+even to Dry Dry Outpost.
+[WAIT][NEXT][...]
+You're truly amazing.
+[PAUSE:0A][...]
+Well done![WAIT][END]
+
+#string:01:05F
+[STYLE:RIGHT][...]
+After this splendid party, we're
+going to have a wedding ceremony
+at Gusty Gulch.
+[WAIT][NEXT][...]
+It's going to be the most
+Boo-tiful wedding ever! We'll
+scare everybody![WAIT][END]
+
+#string:01:060
+[STYLE:RIGHT][...]
+Wow...[PAUSE:0A] everything on this shore is
+so new to me.
+[WAIT][NEXT][...]
+I wish the other guys could've
+come along, as well.[WAIT][END]
+
+#string:01:061
+[STYLE:RIGHT][...]
+{StartFX:Shrinking}Oh, it's Mario!
+{EndFX:Shrinking}[PAUSE:0A]Hello again!
+[WAIT][NEXT][...]
+You've gotta come back to visit
+Lavalava Island again!
+[PAUSE:0A][...]
+Everybody's been wanting to see
+you, Mario!
+[WAIT][NEXT][...]
+I guess maybe everybody on
+Lavalava Island oughtta come
+over here, huh?
+[WAIT][NEXT][...]
+There's a lot of crazy stuff
+around here! We could sure have
+some fun exploring![WAIT][END]
+
+#string:01:062
+[STYLE:RIGHT][...]
+I've heard all about...
+[PAUSE:0A][...]
+the story of your adventure!
+[WAIT][NEXT][...]
+It's a spectacular story full of
+romance, courage and thrills!
+[WAIT][NEXT][...]
+Herringway said he definitely
+wants to write your story.
+[WAIT][NEXT][...]
+He even came up with a title...
+[PAUSE:0A][...]
+What was it again? Let's see[PAUSE:03].[PAUSE:04].[PAUSE:05].
+Well[PAUSE:03].[PAUSE:04].[PAUSE:05].
+[PAUSE:0A][...]
+[WAIT][NEXT][...]
+{StartFX:Shrinking}"Paper Mario"!!
+{EndFX:Shrinking}[PAUSE:0A]What do you think!!??[WAIT][END]
+
+#string:01:063
+[STYLE:RIGHT][...]
+Being locked in that prison cell
+just seems like a bad dream to
+me now.
+[WAIT][NEXT][...]
+Everything worked out fine!
+[PAUSE:0A][...]
+It's so great!!
+[PAUSE:0A][...]
+Thank you, Mario!
+[WAIT][NEXT][...]
+Now all I want to do is sit down
+[PAUSE:0A][...]
+and eat shaved ice treats all
+day and all night...
+{StartFX:Shrinking}until I'm completely stuffed!!
+{EndFX:Shrinking}[PAUSE:0A][WAIT][END]
+
+#string:01:064
+[STYLE:RIGHT][...]
+Mario,
+[PAUSE:0A][...]
+welcome to the castle.
+[WAIT][NEXT][...]
+Princess Peach should be here 
+very shortly.[WAIT][END]
+
+#string:01:065
+[STYLE:RIGHT][...]
+And now... Princess Peach![WAIT][END]
+
+#string:01:066
+[STYLE:RIGHT][...]
+Greetings to all of you!
+[PAUSE:0A][...]
+I'm so glad everyone could be
+here on this special day.[WAIT][END]
+
+#string:01:067
+[STYLE:RIGHT][...]
+The Star Rod stolen by Bowser
+has been returned to its
+rightful place in Star Haven.
+[WAIT][NEXT][...]
+Peace has once again returned
+to the Mushroom Kingdom.[WAIT][END]
+
+#string:01:068
+[STYLE:RIGHT][...]
+Above us, the stars shine with
+more beauty and power than
+ever before. It seems that
+they're sending us their thanks.[WAIT][END]
+
+#string:01:069
+[STYLE:RIGHT][...]
+Mario...[WAIT][END]
+
+#string:01:06A
+[STYLE:RIGHT][...]
+Goombario, [PAUSE:0F]Kooper,
+[PAUSE:0F][...]
+Bombette, [PAUSE:0F]Parakarry,...[WAIT][END]
+
+#string:01:06B
+[STYLE:RIGHT][...]
+Bow, [PAUSE:0F]Watt,
+[PAUSE:0F][...]
+Sushie, [PAUSE:0F]Lakilester,[WAIT][END]
+
+#string:01:06C
+[STYLE:RIGHT][...]
+and everybody across the lands
+of the Mushroom Kingdom,
+[PAUSE:14][...]
+we've regained peace because of
+all your efforts.[WAIT][END]
+
+#string:01:06D
+[STYLE:RIGHT][...]
+Thank you very much, indeed.
+[PAUSE:14][...]
+I appreciate it from the bottom
+of my heart.
+[WAIT][NEXT][...]
+I hope that the Mushroom Kingdom
+will enjoy peace and prosperity
+for a long time to come.
+Perhaps forever!
+[WAIT][NEXT][...]
+This is my heartfelt wish.[WAIT][END]
+
+#string:01:06E
+[STYLE:RIGHT][...]
+So, [PAUSE:0A]let's celebrate!
+[WAIT][NEXT][...]
+Enjoy the festivities, everyone![WAIT][END]
+

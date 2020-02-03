@@ -1,0 +1,2800 @@
+#string:0E:000
+[STYLE:RIGHT][...]
+Pardon me, sir... Would you
+happen to be Mario?
+[PAUSE:0A][...]
+How do you do, sir?
+[WAIT][NEXT][...]
+My master wishes to see you.
+[WAIT][NEXT][...]
+If you would, please call on us
+at the mansion on the far side
+of Forever Forest.
+[WAIT][NEXT][...]
+My master would also like me to
+add that she has in her
+possession important news
+regarding the Star Spirits.[WAIT][END]
+
+#string:0E:001
+[STYLE:RIGHT][...]
+Please make haste!
+[PAUSE:05][...]
+We shall await your arrival with
+a warm welcome.[WAIT][END]
+
+#string:0E:002
+[STYLE:RIGHT][...]
+{StartFX:Jitter}{StartFX:Shrinking}And if you don't come...we'll GET
+YOU!! BOOO!
+[PAUSE:64][...]
+[END]
+
+#string:0E:003
+[STYLE:RIGHT][...]
+Hmm...
+[PAUSE:0F][...]
+What do you think you're doing?[WAIT][END]
+
+#string:0E:004
+[STYLE:RIGHT][...]
+This is Forever Forest...
+[PAUSE:05][...]
+The path ahead of here is
+extremely dangerous.
+[WAIT][NEXT][...]
+Didn't you know that? You'd
+better go back.[WAIT][END]
+
+#string:0E:005
+[STYLE:RIGHT][...]
+This is Forever Forest...
+[PAUSE:05][...]
+The path ahead of here is
+extremely dangerous.
+[WAIT][NEXT][...]
+Didn't you know that? You'd
+better go back.[WAIT][END]
+
+#string:0E:006
+[STYLE:RIGHT][...]
+I'm called Oaklie.
+[PAUSE:0A][...]
+This forest is my home.
+[WAIT][NEXT][...]
+I try to keep unprepared people
+from wandering into the forest
+and getting lost.
+[WAIT][NEXT][...]
+The path ahead of here is
+extremely dangerous.
+[PAUSE:05][...]
+Didn't you know that? You'd
+better go back.[WAIT][END]
+
+#string:0E:007
+[STYLE:RIGHT][...]
+Um-kay. [PAUSE:05]So that's your story.
+[PAUSE:0A][...]
+You're invited to {Color:20}Boo's Mansion{Color:0A}.
+[WAIT][NEXT][...]
+You may pass, then.[WAIT][END]
+
+#string:0E:008
+[STYLE:RIGHT][...]
+Listen carefully...
+[WAIT][NEXT][...]
+If you want to get through this
+forest, you have to pay really
+close attention to your
+surroundings.
+[WAIT][NEXT][...]
+If you choose the wrong paths,
+you'll end up back at the forest
+edge before you know it.
+[WAIT][NEXT][...]
+The areas around the correct
+paths will always look slightly
+different from the others.
+[PAUSE:0A][...]
+Watch carefully for clues.
+[WAIT][NEXT][...]
+For example, in this area, take a
+good look at the inner trees as
+you walk around.
+[WAIT][NEXT][...]
+In one of them, you'll spot
+strange, glowing eyes.
+[PAUSE:0A][...]
+The exit near that tree is the
+path you want to take.
+[WAIT][NEXT][...]
+These clues will be different in
+other parts of the forest.
+[PAUSE:0A][...]
+Watch the inner forest very,
+very carefully as you go.[WAIT][END]
+
+#string:0E:009
+[STYLE:RIGHT][...]
+Listen carefully...
+[PAUSE:0A][...]
+If you want to get through this
+forest, you have to pick all the
+right paths.
+[WAIT][NEXT][...]
+If you choose the wrong paths,
+you'll end up back at the forest
+edge before you know it.
+[WAIT][NEXT][...]
+You can find your way as long as
+you keep your wits about you
+and study the forest.
+[WAIT][NEXT][...]
+But remember that the right way
+is not always in front of you.
+[PAUSE:0A][...]
+On occasion, you must remember
+to look back, as well.[WAIT][END]
+
+#string:0E:00A
+[STYLE:RIGHT][...]
+Listen carefully...
+[PAUSE:0A][...]
+If you want to get through this
+forest, you have to pick all the
+right paths.
+[WAIT][NEXT][...]
+If you choose the wrong paths,
+you'll end up back at the forest
+edge before you know it.
+[WAIT][NEXT][...]
+You can find your way as long as
+you keep your wits about you
+and study the forest.
+[WAIT][NEXT][...]
+But remember that the right way
+is not always in front of you.
+[PAUSE:0A][...]
+On occasion, you must remember
+to look back, as well.[WAIT][END]
+
+#string:0E:00B
+[STYLE:RIGHT][...]
+You probably think that this
+forest is unpleasant, but
+[PAUSE:05][...]
+it's always been home to me, and
+I think it's just perfect.
+[WAIT][NEXT][...]
+The forest teems with life and
+tells many secrets.
+[WAIT][NEXT][...]
+Even as many Stars cry out in
+the distance...
+[WAIT][NEXT][...]
+...my friends cry out deep within
+this forest.[WAIT][END]
+
+#string:0E:00C
+[STYLE:RIGHT][...]
+You probably think that this
+forest is unpleasant, but
+[PAUSE:05][...]
+it's always been home to me, and
+I think it's just perfect.
+[WAIT][NEXT][...]
+The forest teems with life and
+tells of many secrets.
+[WAIT][NEXT][...]
+Even as many Stars cry out in
+the distance...
+[WAIT][NEXT][...]
+...my friends cry out deep within
+this forest.[WAIT][END]
+
+#string:0E:00D
+[STYLE:RIGHT][...]
+I feel as though I can hear the
+Stars crying even now.[WAIT][END]
+
+#string:0E:00E
+[STYLE:RIGHT][...]
+I feel as though I can hear the
+Stars crying even now.[WAIT][END]
+
+#string:0E:00F
+[STYLE:RIGHT][...]
+Heey! Hello there!
+[WAIT][NEXT][...]
+I'm a Bub-ulb from the land
+called Flower Fields.
+[WAIT][NEXT][...]
+...A flower seed?
+[WAIT][NEXT][...]
+[PAUSE:0A][...]
+Heh heh hm hmmf...
+[PAUSE:14][...]
+Should I give it to you...?
+[PAUSE:0A][...]
+Or shouldn't I?
+[PAUSE:0A][...]
+[WAIT][NEXT][...]
+Welllll....
+[PAUSE:0A][...]
+I suppose I'll give it to you.
+[PAUSE:0A][...]
+Here you go.[WAIT][END]
+
+#string:0E:010
+[STYLE:RIGHT][...]
+Please plant it somewhere nice
+and take extra good care of it.
+[WAIT][NEXT][...]
+If you plant it somewhere bad
+and I find out about it, I might
+place a curse on you...
+[PAUSE:0A][...]
+Heh heh ho hm hm hmmf...[WAIT][END]
+
+#string:0E:011
+[STYLE:RIGHT][...]
+If you lose your way here in
+Forever Forest, it means you're
+not looking carefully enough.
+[WAIT][NEXT][...]
+I know... It's often confusing.
+[PAUSE:0A][...]
+It's not an easy task.
+[WAIT][NEXT][...]
+It takes guts to look really
+closely at this scary scenery.[WAIT][END]
+
+#string:0E:012
+[STYLE:RIGHT][...]
+If you lose your way here in
+Forever Forest, it means you're
+not looking carefully enough.
+[WAIT][NEXT][...]
+I know... It's often confusing.
+[PAUSE:0A][...]
+It's not an easy task.
+[WAIT][NEXT][...]
+It takes guts to look really
+closely at this scary scenery.[WAIT][END]
+
+#string:0E:013
+[STYLE:RIGHT][...]
+I miss my beautiful hometown,
+[PAUSE:0A][...]
+Flower Fields.
+[WAIT][NEXT][...]
+Oh! That warm sunshine spilling
+from the clear blue sky...
+[PAUSE:0A][...]
+the sweet smell of wind...
+[WAIT][NEXT][...]
+But...my place is here now...
+[PAUSE:0A][...]
+This is my home now.[WAIT][END]
+
+#string:0E:014
+[STYLE:RIGHT][...]
+I miss my beautiful hometown,
+[PAUSE:0A][...]
+Flower Fields.
+[WAIT][NEXT][...]
+Oh! That warm sunshine spilling
+from the clear blue sky...
+[PAUSE:0A][...]
+the sweet smell of wind...
+[WAIT][NEXT][...]
+But...my place is here now...
+[PAUSE:0A][...]
+This is my home now.[WAIT][END]
+
+#string:0E:015
+[STYLE:RIGHT][...]
+Hey, when you listen really
+carefully, can you hear the
+voices of the Stars above us?
+[WAIT][NEXT][...]
+I think I do...and I think they
+can hear us, as well.
+[WAIT][NEXT][...]
+They listen for all the wishes of
+folks down here.
+[WAIT][NEXT][...]
+I hope the Star Spirits make it
+back to Star Haven before it's
+too late.
+[WAIT][NEXT][...]
+This world won't be right again
+until they're back where they
+belong.[WAIT][END]
+
+#string:0E:016
+[STYLE:RIGHT][...]
+Hey, when you listen really
+carefully, can you hear the
+voices of the Stars above us?
+[WAIT][NEXT][...]
+I think I do...and I think they
+can hear us as well.
+[WAIT][NEXT][...]
+They listen for all the wishes of
+folks down here.
+[WAIT][NEXT][...]
+I hope the Star Spirits make it
+back to Star Haven before it's
+too late.
+[WAIT][NEXT][...]
+This world won't be right again
+until they're back where they
+belong.[WAIT][END]
+
+#string:0E:017
+[STYLE:RIGHT][...]
+{Volume:32}{StartFX:Shrinking}Nooooo! Waaahh!
+[PAUSE:0A][...]
+Bugs! Get 'em off me!
+[WAIT][NEXT][...]
+I'm lost in a freaky forest!
+[PAUSE:14][...]
+S-s-so s-scared...[WAIT][END]
+
+#string:0E:018
+[STYLE:RIGHT][...]
+Eeeek![WAIT][END]
+
+#string:0E:019
+[STYLE:RIGHT][...]
+Oh, Mario!
+[PAUSE:0A][...]
+Oh, thank... [PAUSE:05]...I mean, ah HA!
+[WAIT][NEXT][...]
+Boy, are you unlucky to run into
+me again![WAIT][END]
+
+#string:0E:01A
+[STYLE:RIGHT][...]
+Why, it's Jr. Troopa!
+[PAUSE:0A][...]
+Have you been crying? Did you
+get lost in there?[WAIT][END]
+
+#string:0E:01B
+[STYLE:RIGHT][...]
+Hey, Mario.
+[PAUSE:0A][...]
+It looks like this kid is lost.[WAIT][END]
+
+#string:0E:01C
+[STYLE:RIGHT][...]
+This little boy is filthy! What
+happened to him?
+[PAUSE:0A][...]
+Is he a lost child or something?[WAIT][END]
+
+#string:0E:01D
+[STYLE:RIGHT][...]
+Oh dear. This poor child looks
+very upset.
+[PAUSE:0A][...]
+Was he lost in the forest?[WAIT][END]
+
+#string:0E:01E
+[STYLE:RIGHT][...]
+Who is this kid?
+[PAUSE:05][...]
+What a dirty little urchin...
+[WAIT][NEXT][...]
+He must be lost...[WAIT][END]
+
+#string:0E:01F
+[STYLE:RIGHT][...]
+Hey! Shut up! Shut uuuuup!
+[PAUSE:0A][...]
+I'm not a lost child!
+[PAUSE:0A][...]
+[WAIT][NEXT][...]
+{StartFX:Shrinking}I'm your worst nightmare!
+[PAUSE:0A][...]
+Here comes the pain![WAIT][END]
+
+#string:0E:020
+[STYLE:RIGHT][...]
+Don't think I'm as vulnerable as
+I was before.
+[WAIT][NEXT][...]
+Check this out!
+[PAUSE:0A][...]
+{Size:20:20}{StartFX:Shrinking}More power!![WAIT][END]
+
+#string:0E:021
+[STYLE:RIGHT][...]
+{StartFX:Shrinking}Ha ha! Yeah, that's right!
+[PAUSE:0A][...]
+Let's see how you like the new,
+improved Jr. Koopa![WAIT][END]
+
+#string:0E:022
+[STYLE:RIGHT][...]
+{StartFX:Shrinking}Nooooo!
+[PAUSE:0A][...]
+Darn it! Darn it!! Darn iiiiiit!!![WAIT][END]
+
+#string:0E:023
+[STYLE:RIGHT][...]
+Oh!
+[PAUSE:0A][...]
+I made it out of the forest!
+[PAUSE:0A][...]
+I could kiss this ground!
+[WAIT][NEXT][...]
+{Down:0A}{Size:20:20}Yaaaaahoo![WAIT][END]
+
+#string:0E:024
+[STYLE:RIGHT][...]
+Hey, we made it, Mario!
+[PAUSE:0A][...]
+We got out of the forest!
+[WAIT][NEXT][...]
+It's about time... Say, don't you
+think that's the mansion the old
+Boo was talking about?[WAIT][END]
+
+#string:0E:025
+[STYLE:RIGHT][...]
+Phew! Well, it looks like we finally
+made it out of that spooky
+forest.
+[WAIT][NEXT][...]
+Heyyy... Mario...
+[PAUSE:0A][...]
+What do you bet that's the
+mansion that the old Boo was
+talking about before?[WAIT][END]
+
+#string:0E:026
+[STYLE:RIGHT][...]
+Oh, finally! 
+I couldn't stand being in that
+spooky forest another minute!
+[WAIT][NEXT][...]
+Hm? Mario!
+[PAUSE:0A][...]
+I'm positive that's the mansion
+the creepy old ghost was telling
+us about...[WAIT][END]
+
+#string:0E:027
+[STYLE:RIGHT][...]
+Ugh... I'm certainly glad we're
+out of that forest.
+[PAUSE:0A][...]
+Talk about creepy...
+[WAIT][NEXT][...]
+What's this? Mario, I have a
+feeling that this is the mansion
+we're looking for.[WAIT][END]
+
+#string:0E:028
+[STYLE:RIGHT][...]
+Welcome, sirs and madam!
+[PAUSE:0A][...]
+I'm pleased you made it through
+Forever Forest.
+[WAIT][NEXT][...]
+My master awaits you in the room
+highest up in this lovely mansion.[WAIT][END]
+
+#string:0E:029
+[STYLE:RIGHT][...]
+Please go to the third floor.
+[WAIT][NEXT][...]
+There you will hear all the news
+of the Star Spirits...[WAIT][END]
+
+#string:0E:02A
+[STYLE:RIGHT][...]
+I'll see you there...[WAIT][END]
+
+#string:0E:02B
+[STYLE:RIGHT][...]
+{StartFX:Faded:D9}Hi! Did I startle you?
+[PAUSE:0A][...]
+You want to go up to the third
+floor, don't you?
+[WAIT][NEXT][...]
+Well, I'm afraid you'll have to go
+find whatever's missing from this
+frame.
+[WAIT][NEXT][...]
+If you manage to find it, I'll let
+you go upstairs.
+[PAUSE:05][...]
+Mmwaah ha ha ha!
+[WAIT][NEXT][...]
+Bow is such a harsh Boo, testing
+her guests like this...[WAIT][END]
+
+#string:0E:02C
+[STYLE:RIGHT][...]
+{StartFX:Faded:D9}Search the mansion for what's
+missing from this frame.
+[WAIT][NEXT][...]
+If you find it, I'll let you up to
+the third floor.[WAIT][END]
+
+#string:0E:02D
+[STYLE:RIGHT][...]
+{StartFX:Faded:D9}Phew... Ah, that feels better!
+[PAUSE:0A][...]
+It's nice to be back inside my
+frame after so long!
+[WAIT][NEXT][...]
+All right, then.
+[PAUSE:0A][...]
+I'll help you go to the third
+floor, OK?
+[WAIT][NEXT][...]
+Jump toward the drawing and I'll
+take care of the rest.[WAIT][END]
+
+#string:0E:02E
+[STYLE:RIGHT][...]
+{StartFX:Faded:D9}Phew... Ah, that feels better!
+[PAUSE:0A][...]
+It's nice to be back inside my
+frame after so long!
+[WAIT][NEXT][...]
+[PAUSE:0A][...]
+But I didn't even tell you to go
+find the drawing! You solved the
+riddle on your own!
+[WAIT][NEXT][...]
+Are you just lucky or what?
+[PAUSE:05][...]
+Mweh heh heh...
+[PAUSE:0A][...]
+Maybe it's just a coincidence...
+[WAIT][NEXT][...]
+In any case, you've managed to
+stumble on the secret way to the
+upper floor.
+[WAIT][NEXT][...]
+Jump toward the drawing and I'll
+take care of the rest.
+[PAUSE:0A][...]
+You've earned your way up to
+the third floor.[WAIT][END]
+
+#string:0E:02F
+[STYLE:RIGHT][...]
+{StartFX:Faded:D9}Say hello to Bow for me.[WAIT][END]
+
+#string:0E:030
+[STYLE:RIGHT][...]
+{StartFX:Wavy}Marioooooo... You have come...
+{EndFX:Wavy}[WAIT][NEXT][...]
+If you want this record, you
+must guess who holds it.[WAIT][END]
+
+#string:0E:031
+[STYLE:RIGHT][...]
+The Lady Bow will be very angry
+if we let him get it too easily,
+fellow Boos!
+[WAIT][NEXT][...]
+Do your best, like we practiced![WAIT][END]
+
+#string:0E:032
+[STYLE:RIGHT][...]
+{StartFX:Wavy}Hey, hey, Boos and Boos! Who's
+got it? Choose, choose![WAIT][END]
+
+#string:0E:033
+[STYLE:RIGHT][...]
+Noooo! Boo hoo!
+[WAIT][NEXT][...]
+You...[PAUSE:05]You guessed right. Go on,
+take this.
+[WAIT][NEXT][...]
+Oh Boo...
+[PAUSE:05][...]
+Lady Bow's really going to flip
+out on us...[WAIT][END]
+
+#string:0E:034
+[STYLE:RIGHT][...]
+{StartFX:Wavy}Hee hee hee hee...
+{EndFX:Wavy}Wrong!
+[WAIT][NEXT][...]
+This is so much fun...
+[PAUSE:0A][...]
+Keep it up, Boos, or Lady Bow
+will make us sorry![WAIT][END]
+
+#string:0E:035
+[STYLE:RIGHT][...]
+{StartFX:Wavy}I am so bored!! Boo-ored!
+{EndFX:Wavy}[WAIT][NEXT][...]
+I know the Lady Bow ordered me
+to stay here...
+[PAUSE:05][...]
+...but for how long?[WAIT][END]
+
+#string:0E:036
+[STYLE:RIGHT][...]
+{StartFX:Wavy}I am so bored!! Boo-ored!
+{EndFX:Wavy}[WAIT][NEXT][...]
+I know the Lady Bow ordered me
+to stay here...
+[PAUSE:05][...]
+...but for how long?[WAIT][END]
+
+#string:0E:037
+[STYLE:RIGHT][...]
+Oh yeah, such rhythm!
+[PAUSE:05][...]
+What a groove! Par-tay![WAIT][END]
+
+#string:0E:038
+[STYLE:RIGHT][...]
+Oh Boo!
+[PAUSE:0A][...]
+Is that...the end?
+[PAUSE:0F][...]
+I was just starting to bust out
+my best dance moves.[WAIT][END]
+
+#string:0E:039
+[STYLE:RIGHT][...]
+Oh! [PAUSE:05]Noooo...
+[WAIT][NEXT][...]
+Lady Bow gave me one job...to
+guard that treasure chest.
+[PAUSE:05][...]
+She is gonna punish me so bad if
+she finds out about this!
+[WAIT]{Func_04}[NEXT][...]
+Oh...well... I may still be OK. Heh
+heh heh heh...
+[WAIT][NEXT][...]
+It's not like you can get
+anywhere without knowing how to
+use that Weight.[WAIT][END]
+
+#string:0E:03A
+[STYLE:RIGHT][...]
+{StartFX:Wavy}Marioooo... Welcooooome...
+{EndFX:Wavy}[WAIT][NEXT][...]
+If you want these Boots, you
+must guess who holds them.[WAIT][END]
+
+#string:0E:03B
+[STYLE:RIGHT][...]
+The Lady Bow will be very angry
+if we let him get them too easily,
+fellow Boos!
+[WAIT][NEXT][...]
+Do your best, like we practiced![WAIT][END]
+
+#string:0E:03C
+[STYLE:RIGHT][...]
+{StartFX:Wavy}Hey, hey, Boos and Boos! Who's
+got 'em? Choose, choose![WAIT][END]
+
+#string:0E:03D
+[STYLE:RIGHT][...]
+Noooo! Boo hoo!
+[WAIT][NEXT][...]
+You...[PAUSE:05]You guessed right. Go on,
+take them.
+[WAIT][NEXT][...]
+Oh Boo...
+[PAUSE:05][...]
+Lady Bow's really going to flip
+out on us...[WAIT][END]
+
+#string:0E:03E
+[STYLE:RIGHT][...]
+{StartFX:Wavy}Hee hee hee hee...
+{EndFX:Wavy}Wrong!
+[WAIT][NEXT][...]
+This is so much fun...
+[PAUSE:0A][...]
+Keep it up, Boos, or Lady Bow
+will make us sorry![WAIT][END]
+
+#string:0E:03F
+[STYLE:RIGHT][...]
+There's a hidden floor panel
+very near here.
+[PAUSE:0A][...]
+A Star Piece is underneath the
+floor panel.
+[WAIT][NEXT][...]
+Press {PushColor}{Color:10}[A]{PopColor} while jumping.
+[PAUSE:0A][...]
+Boo-st of luck! Can you find it?[WAIT][END]
+
+#string:0E:040
+[STYLE:RIGHT][...]
+There are hidden panels on the
+ground all over Mushroom World,
+so keep an eye out for them.[WAIT][END]
+
+#string:0E:041
+[STYLE:RIGHT][...]
+There are hidden panels on the
+ground all over Mushroom World,
+so keep an eye out for them.[WAIT][END]
+
+#string:0E:042
+[STYLE:RIGHT][...]
+{Down:0A}{StartFX:Wavy}{Size:20:20}Gwah hee haha!
+{SizeReset}{EndFX:Wavy}[WAIT]
+{Scroll:04}{Down:01}You've finally arrived!
+[PAUSE:0A][...]
+You took your sweet time, huh?
+
+[WAIT][NEXT][...]
+I was testing you to see if you
+live up to your reputation.
+[PAUSE:03][...]
+How were the tests? Tough?
+[WAIT][END]
+
+#string:0E:043
+[STYLE:RIGHT][...]
+My name is Bow.
+[PAUSE:0F][...]
+I'm glad to finally meet you.[WAIT][END]
+
+#string:0E:044
+[STYLE:RIGHT][...]
+I'm Bootler, the butler.
+[WAIT][NEXT][...]
+I'm Lady Bow's humble servant.[WAIT][END]
+
+#string:0E:045
+[STYLE:RIGHT][...]
+The reason I asked you here is
+that I need a favor.
+[WAIT][NEXT][...]
+Bootler,
+[PAUSE:0A][...]
+give him the rundown.[WAIT][END]
+
+#string:0E:046
+[STYLE:RIGHT][...]
+Of course, [PAUSE:0A]my lady.[WAIT][END]
+
+#string:0E:047
+[STYLE:RIGHT][...]
+Mario,
+[PAUSE:0A][...]
+do you know the area near here
+called Gusty Gulch?
+[WAIT][NEXT][...]
+A hill rises at the top of the
+gulch, and upon it sits the
+castle of Tubba Blubba.
+[WAIT][NEXT][...]
+He's a monster...and he eats...
+[PAUSE:0A][...]
+{StartFX:Shrinking}...us! Ghosts!![WAIT][END]
+
+#string:0E:048
+[STYLE:RIGHT][...]
+Boos are his favorite food. Many
+friends have been eaten!
+[WAIT][NEXT][...]
+We've tried attacking the evil
+fiend to save our friends,
+[WAIT][NEXT][...]
+but Tubba Blubba is far too
+strong for us Boos to slow him
+down even slightly.
+[WAIT][NEXT][...]
+He seems invincible.
+[PAUSE:0A][...]
+That's why he's known as the
+Invincible Tubba Blubba.[WAIT][END]
+
+#string:0E:049
+[STYLE:RIGHT][...]
+There is hope, however.
+[WAIT][NEXT][...]
+If the rumors are true, then
+Tubba Blubba has a secret that
+he closely guards.
+[WAIT][NEXT][...]
+And that secret is...
+[PAUSE:0A][...]
+probably something that relates
+to his weak point.[WAIT][END]
+
+#string:0E:04A
+[STYLE:RIGHT][...]
+So, Mario,
+[WAIT][NEXT][...]
+I want you to find out his secret
+and defeat him.
+[WAIT][NEXT][...]
+You'll do it, won't you?[WAIT][END]
+
+#string:0E:04B
+[STYLE:RIGHT][...]
+Of course, you'll get a reward
+for doing us this service.
+[WAIT][NEXT][...]
+If you beat Tubba Blubba up, I'll
+let you have this.[WAIT][END]
+
+#string:0E:04C
+[STYLE:RIGHT][...]
+{SpeechSound:02}Mmmmm... Mario. I'm sorry we
+must meet in such a dire
+situation.
+[WAIT][NEXT][...]
+My name is Skolar.
+[PAUSE:0F][...]
+I escaped from Tubba Blubba's
+Castle, but... 
+[WAIT][NEXT][...]
+I was in quite a weakened state
+when I made it outside.
+[PAUSE:0A][...]
+As a result, I couldn't go back
+to the sky at first.
+[WAIT][NEXT][...]
+I tried to head for Shooting
+Star Summit to make the leap to
+Star Haven, but I became lost in
+the forest.
+[WAIT][NEXT][...]
+While hunting for a way out, I
+was captured by Boos.
+[PAUSE:0A][...]
+And now here I am...
+[WAIT][NEXT][...]
+I don't know what to say...[WAIT][END]
+
+#string:0E:04D
+[STYLE:RIGHT][...]
+What do you think, Mario?
+[PAUSE:0A][...]
+Not such a bad deal, is it?
+[WAIT][NEXT][...]
+You would have had to fight
+Tubba Blubba to save this Star
+Spirit anyway, right?
+[WAIT][NEXT][...]
+This way, you help us Boos, too.
+[WAIT][NEXT][...]
+Besides, I'm going with you. I'll
+help you like no one else can.[WAIT][END]
+
+#string:0E:04E
+[STYLE:RIGHT][...]
+...My lady?
+[PAUSE:0A][...]
+What did you say just now?
+[WAIT][NEXT][...]
+You? At Tubba Blubba's Castle?
+Quite out of the question!
+[WAIT][NEXT][...]
+I simply cannot allow you to put
+yourself in such danger![WAIT][END]
+
+#string:0E:04F
+[STYLE:RIGHT][...]
+Still your tongue, Bootler!
+[PAUSE:0A][...]
+I've seen too much suffering
+caused by Tubba Blubba!
+[WAIT][NEXT][...]
+I wish to see him punished with
+my own two eyes.
+[WAIT][NEXT][...]
+Besides, Mario will need me.
+There's no way he can reach the
+castle without my powers![WAIT][END]
+
+#string:0E:050
+[STYLE:RIGHT][...]
+Oh...alas... Then, Lady, I,
+Bootler, will accompany you.
+[WAIT][NEXT][...]
+It is my sworn duty to see that
+no harm befalls you. The
+ancestors demand it!
+[WAIT][NEXT][...]
+I will be at your side always.[WAIT][END]
+
+#string:0E:051
+[STYLE:RIGHT][...]
+{StartFX:Shrinking}You stop that nonsense!
+{EndFX:Shrinking}[WAIT][NEXT][...]
+I'm not a child anymore!
+[PAUSE:0A][...]
+I'll be fine by myself!
+[WAIT][NEXT][...]
+You wait here for my return.[WAIT][END]
+
+#string:0E:052
+[STYLE:RIGHT][...]
+La... [PAUSE:0A]Lady...
+[WAIT][NEXT][...]
+Sigh[PAUSE:01].[PAUSE:03].[PAUSE:05].[WAIT][END]
+
+#string:0E:053
+[STYLE:RIGHT][...]
+Is this all right, Mario?
+[WAIT][NEXT][...]
+I'll join up with you until we oust
+Tubba Blubba.[WAIT][END]
+
+#string:0E:054
+[STYLE:RIGHT][...]
+OK, then!
+[PAUSE:0A][...]
+Tubba Blubba's going down!
+[WAIT][NEXT][...]
+{Down:0A}{StartFX:Wavy}{Size:20:20}Gwaah ha haaa!
+{SizeReset}{EndFX:Wavy}[WAIT][END]
+
+#string:0E:055
+[STYLE:RIGHT][...]
+Good... Good luck.
+[PAUSE:05][...]
+Please take care of our lady...[WAIT][END]
+
+#string:0E:056
+[STYLE:RIGHT][...]
+Good sir,
+[PAUSE:05][...]
+please take care of our lady.[WAIT][END]
+
+#string:0E:057
+[STYLE:RIGHT][...]
+Lady Bow,
+[PAUSE:0F][...]
+please come back to us as soon
+as possible.[WAIT][END]
+
+#string:0E:058
+[STYLE:RIGHT][...]
+Hush up, Bootler!
+[PAUSE:0A][...]
+You be quiet and take care of
+the mansion while I'm gone![WAIT][END]
+
+#string:0E:059
+[STYLE:RIGHT][...]
+Sigh...sigh......[WAIT][END]
+
+#string:0E:05A
+[STYLE:RIGHT][...]
+Dear sir...
+[PAUSE:05][...]
+Lady Bow is very, very, very
+important to us Boos.
+[WAIT][NEXT][...]
+Please don't let her get in any
+dangerous situations.[WAIT][END]
+
+#string:0E:05B
+[STYLE:RIGHT][...]
+If harm befalls our lady,
+[PAUSE:0A][...]
+the Boo ancestors will be horribly
+displeased.
+[WAIT][NEXT][...]
+I shudder to ask this, but I
+must beg you to protect her
+whenever danger arises![WAIT][END]
+
+#string:0E:05C
+[STYLE:RIGHT][...]
+Lady Bow told me not to sell any
+items to Mario. You're him.[WAIT][END]
+
+#string:0E:05D
+[STYLE:RIGHT][...]
+Igor of Boo's Shop, correct?
+[WAIT][NEXT][...]
+The name's Parakarry. I deliver
+letters.
+[WAIT][NEXT][...]
+I believe I have one for you.
+[PAUSE:0A][...]
+Hang on a moment.[WAIT][END]
+
+#string:0E:05E
+[STYLE:RIGHT][...]
+Uh...no!
+[PAUSE:0A][...]
+I seem to have lost it!
+[PAUSE:0A][...]
+...I'm terribly sorry.[WAIT][END]
+
+#string:0E:05F
+[STYLE:RIGHT][...]
+Another letter, duly delivered.
+A postman's job is never done.[WAIT][END]
+
+#string:0E:060
+[STYLE:RIGHT][...]
+A letter?
+[PAUSE:0A][...]
+Oh, right, an order list.
+[WAIT][NEXT][...]
+Weird. This order's from
+[PAUSE:05][...]
+...Gusty Gulch.
+[PAUSE:0A][...]
+That's right around the corner!
+Can't they just come here?
+[WAIT][NEXT][...]
+Oh, well. My motto is, "From Boo
+to you with a smile."
+[WAIT][NEXT][...]
+Take this for your trouble.[WAIT][END]
+
+#string:0E:061
+[STYLE:RIGHT][...]
+This mansion has been passed
+down through the years by Lady
+Bow's ancestors.
+[WAIT][NEXT][...]
+It's so comfortable... So nice
+and gloomy...
+[PAUSE:0A][...]
+The dirt on the walls... The
+splintered floorboards...
+[WAIT][NEXT][...]
+It's really one of a kind.[WAIT][END]
+
+#string:0E:062
+[STYLE:RIGHT][...]
+You beat Tubba Blubba!
+[PAUSE:0A][...]
+I had nightmares about him.
+[WAIT][NEXT][...]
+But wasn't he invincible?
+How'd you manage to beat him?[WAIT][END]
+
+#string:0E:063
+[STYLE:RIGHT][...]
+{StartFX:Shrinking}Mario,
+{EndFX:Shrinking}please take care of Lady Bow!
+[WAIT][NEXT][...]
+She brings the darkness to our
+lives![WAIT][END]
+
+#string:0E:064
+[STYLE:RIGHT][...]
+Our lady is joining Mario to
+defeat Tubba Blubba...
+[WAIT][NEXT][...]
+Such courage... Such brave
+beauty...
+[WAIT][NEXT][...]
+You will need help to beat Tubba
+Blubba, so please use the shop
+beneath the mansion.[WAIT][END]
+
+#string:0E:065
+[STYLE:RIGHT][...]
+Lady Bow is the very definition
+of grace, beauty and dignity!
+[WAIT][NEXT][...]
+No other Boo could fill her shoes
+as master of the mansion. If she
+wore shoes, that is.
+[WAIT][NEXT][...]
+When I behold the lady, 
+[PAUSE:03][...]
+my heart goes {StartFX:Growing}pit-a-pat!{EndFX:Growing}[HEART][WAIT][END]
+
+#string:0E:066
+[STYLE:RIGHT][...]
+While Lady Bow is absent, it's
+our duty as Boos to keep
+scaring people.
+[WAIT][NEXT][...]
+How would it look if the Boo
+mansion stopped being spooky?[WAIT][END]
+
+#string:0E:067
+[STYLE:RIGHT][...]
+You're Franky, correct?
+[WAIT][NEXT][...]
+The name's Parakarry. I deliver
+letters.
+[WAIT][NEXT][...]
+I believe I have one for you.
+[PAUSE:0A][...]
+Hang on a moment.[WAIT][END]
+
+#string:0E:068
+[STYLE:RIGHT][...]
+Uh...no! Confound it!
+[PAUSE:0A][...]
+I seem to have lost it!
+[PAUSE:0A][...]
+...I'm terribly sorry.[WAIT][END]
+
+#string:0E:069
+[STYLE:RIGHT][...]
+Another letter, duly delivered.
+A postman's job is never done.[WAIT][END]
+
+#string:0E:06A
+[STYLE:RIGHT][...]
+Oh, thank you!
+[WAIT][NEXT][...]
+... Oh, great, it's finally in!
+This is from a guy I know who
+deals in useful items from all
+over the world.
+[WAIT][NEXT][...]
+He has a great eye for items.
+[PAUSE:05][...]
+He just got something in that
+I've wanted for a long time.
+[PAUSE:0A][...]
+Oh, it's the coolest thing!
+[WAIT][NEXT][...]
+Oh, wow, I almost forgot! Could
+you deliver this for me?
+[PAUSE:0A][...]
+Sorry if it's a bother...
+[WAIT][NEXT][...]
+There's a Toad child in Toad
+Town named Dane T. Please
+deliver it to him.
+[WAIT][NEXT][...]
+He always seems to be playing by
+the station with his pals. He
+must like trains.
+[WAIT][NEXT][...]
+Thanks a Boo![WAIT][END]
+
+#string:0E:06B
+[STYLE:RIGHT][...]
+Hey, what can I Boo for you?
+[PAUSE:0A][...]
+An errand for Koopa Koot, huh?
+[PAUSE:05][...]
+Too bad for you.
+[WAIT][NEXT][...]
+Koopa Koot's been known to use
+people, you know.
+[WAIT][NEXT][...]
+His motto is, "If it moves, use
+it until it drops."
+[WAIT][NEXT][...]
+He got in a couple fights over his
+personality way back when.
+After one really bad one, he
+started traveling a lot.
+[WAIT][NEXT][...]
+This is a photo of us from when
+he passed through these parts.
+[WAIT][NEXT][...]
+Take this and say hello to Koopa
+Koot for me...[WAIT][END]
+
+#string:0E:06C
+[STYLE:RIGHT][...]
+Go ahead, open it.[WAIT][END]
+
+#string:0E:06D
+[STYLE:RIGHT][...]
+So, Mario,
+[PAUSE:05][...]
+we're on our way.
+[PAUSE:05][...]
+Are you scared?[WAIT][END]
+
+#string:0E:06E
+[STYLE:RIGHT][...]
+Oh! Lady Bow!
+[PAUSE:0A][...]
+What a surprise, seeing you!
+[WAIT][NEXT][...]
+You know, Your Ladyship, you
+really shouldn't come around
+here. It's dangerous.
+[WAIT][NEXT][...]
+Tubba Blubba could come here at
+any time![WAIT][END]
+
+#string:0E:06F
+[STYLE:RIGHT][...]
+I know! I came here to teach
+that Tubba Blubba a lesson!
+[WAIT][NEXT][...]
+Bring him on!
+[PAUSE:0A][...]
+When was the last time he came
+through here?[WAIT][END]
+
+#string:0E:070
+[STYLE:RIGHT][...]
+Why, just yesterday, Lady. It
+was horrible...
+[WAIT][NEXT][...]
+He...ugh...
+[PAUSE:05][...]
+This time, he...ate Herbert. Oh,
+it was gruesome!
+[WAIT][NEXT][...]
+Poor Herbert!
+[PAUSE:0A][...]
+He was so dark and depressing!
+What a terrific Boo![WAIT][END]
+
+#string:0E:071
+[STYLE:RIGHT][...]
+Oh, no! Not Herbert!
+[PAUSE:0A][...]
+Ooh, Tubba Blubba... He must be
+stopped...
+[WAIT][NEXT][...]
+Listen, everyone! Don't fear!
+We're on our way to defeat this
+Tubba Blubba once and for all!
+[WAIT][NEXT][...]
+That monster has eaten his last
+Boo-meal![WAIT][END]
+
+#string:0E:072
+[STYLE:RIGHT][...]
+{StartFX:Shrinking}Oh! Lady!
+{EndFX:Shrinking}[PAUSE:0A]Your bravery is inspiring!
+[WAIT][NEXT][...]
+But you know he's called the
+Invincible Tubba Blubba...
+[PAUSE:0A][...]
+Please be careful, OK?[WAIT][END]
+
+#string:0E:073
+[STYLE:RIGHT][...]
+When you come across Tubba
+Blubba, don't fight!
+[PAUSE:0A][...]
+He's invincible!
+[WAIT][NEXT][...]
+Although somebody who claims
+to have no weaknesses must have
+at least one.
+[WAIT][NEXT][...]
+If you could find it somehow...[WAIT][END]
+
+#string:0E:074
+[STYLE:RIGHT][...]
+When you come across Tubba
+Blubba, don't fight!
+[PAUSE:0A][...]
+He's invincible!
+[WAIT][NEXT][...]
+Although somebody who claims
+to have no weaknesses must have
+at least one.
+[WAIT][NEXT][...]
+If you could find it somehow...[WAIT][END]
+
+#string:0E:075
+[STYLE:RIGHT][...]
+Windy Mill?
+[PAUSE:05][...]
+It's just over there.[WAIT][END]
+
+#string:0E:076
+[STYLE:RIGHT][...]
+What! You're kidding!
+[PAUSE:05][...]
+You defeated Tubba Blubba!?
+[PAUSE:0A][...]
+Oh, what a great day for Boos!
+I knew you'd do it, Lady Bow!
+[WAIT][NEXT][...]
+Finally, we can exist safely.
+[PAUSE:0A][...]
+We owe you a great debt.
+[WAIT][NEXT][...]
+[PAUSE:0A][...]
+...Oh, and I guess you folks
+helped the lady a little bit.
+[PAUSE:0A][...]
+Good work, too.[WAIT][END]
+
+#string:0E:077
+[STYLE:RIGHT][...]
+I heard from one of the Boos
+eaten by Tubba Blubba that his 
+belly was literally packed full of
+ghosts for a while.
+[WAIT][NEXT][...]
+He never felt full, though. Of
+course not. We're ghosts![WAIT][END]
+
+#string:0E:078
+[STYLE:RIGHT][...]
+Hi, Mario. You're looking good, as
+usual.
+[WAIT][NEXT][...]
+You'd need to be paler if you
+want to be a proper ghost.
+[WAIT][NEXT][...]
+Take my face, for example. It
+takes a lot of work, but look how
+pale I am!
+[WAIT]{Func_04}[NEXT][...]
+Whuh...?
+You've seen paler?
+[PAUSE:0A][...]
+Really...?[WAIT][END]
+
+#string:0E:079
+[STYLE:RIGHT][...]
+Psst! Buddy!
+[PAUSE:05][...]
+Did you know you can walk slowly
+and stealthily by moving the
+Control Stick a little bit?
+[WAIT][NEXT][...]
+You can use this technique to
+walk quietly and avoid waking
+sleeping people.[WAIT][END]
+
+#string:0E:07A
+[STYLE:RIGHT][...]
+Psst! Buddy!
+[PAUSE:05][...]
+Did you know you can walk slowly
+and stealthily by moving the
+Control Stick a little bit?
+[WAIT][NEXT][...]
+You can use this technique to
+walk quietly and avoid waking
+sleeping people.[WAIT][END]
+
+#string:0E:07B
+[STYLE:RIGHT][...]
+Tubba Blubba is coming!?
+[PAUSE:0A][...]
+Oh no! [PAUSE:05]Quick, hide! Aaagh![WAIT][END]
+
+#string:0E:07C
+[STYLE:RIGHT][...]
+That naughty Boo that Tubba
+Blubba ate came back!
+[WAIT][NEXT][...]
+It was so lonely around here
+without him...
+[PAUSE:0A][...]
+It really made me realize the
+importance of friends.[WAIT][END]
+
+#string:0E:07D
+[STYLE:RIGHT][...]
+That naughty Boo that Tubba
+Blubba ate came back!
+[WAIT][NEXT][...]
+He was always a troublemaker,
+but it was weird with him gone.
+[WAIT][NEXT][...]
+But now, everything's back to
+normal again...
+[PAUSE:0A][...]
+Thanks for saving him![WAIT][END]
+
+#string:0E:07E
+[STYLE:RIGHT][...]
+Has my naughty friend played
+any spooky tricks on you yet?
+[WAIT][NEXT][...]
+It'd be a shame if you came all
+the way out to Gusty Gulch and
+didn't get messed with...[WAIT][END]
+
+#string:0E:07F
+[STYLE:RIGHT][...]
+Oh, hello.
+[PAUSE:05][...]
+You're running an errand for old
+Koopa Koot, are you?
+[WAIT][NEXT][...]
+.[PAUSE:03].[PAUSE:03].[PAUSE:03]Uh-oh... [PAUSE:05]Now where did I...?
+{Func_04}[WAIT][NEXT][...]
+I wasn't really ready for this...
+[PAUSE:05][...]
+Where'd I leave that thing?
+[PAUSE:08][...]
+I'd better go look for it.
+[WAIT][NEXT][...]
+Um... Do you think you can wait
+for just a second?
+[WAIT][NEXT][...]
+I should find it soon enough, so
+why don't you kill some time by
+wandering around here? [WAIT][END]
+
+#string:0E:080
+[STYLE:RIGHT][...]
+Can you wait a little while
+longer? I'm still looking...[WAIT][END]
+
+#string:0E:081
+[STYLE:RIGHT][...]
+Thank [PAUSE:03]you [PAUSE:03]for [PAUSE:03]waiting![PAUSE:03][HEART]
+[PAUSE:05][...]
+I finally found it. I can't believe
+it took me so long to track it
+down!
+[WAIT][NEXT][...]
+Anyway, please give my regards
+to Koopa Koot, OK?
+[PAUSE:0A][...]
+And take care![WAIT][END]
+
+#string:0E:082
+[STYLE:RIGHT][...]
+You've gotta watch out when you
+fight Hyper Goombas.
+[WAIT][NEXT][...]
+They charge up their attack
+power and then unleash it.
+[WAIT][NEXT][...]
+The best thing to do when they
+get charged up is to get Outta
+Sight with Lady Bow![WAIT][END]
+
+#string:0E:083
+[STYLE:RIGHT][...]
+You've gotta watch out when you
+fight Hyper Goombas.
+[WAIT][NEXT][...]
+They charge up their attack
+power and then unleash it.
+[WAIT][NEXT][...]
+The best thing to do when they
+get charged up is to get Outta
+Sight with Lady Bow![WAIT][END]
+
+#string:0E:084
+[STYLE:RIGHT][...]
+You what!? You discovered Tubba
+Blubba's secret? And now he's
+chasing you!?
+[WAIT][NEXT][...]
+Oh no... Oh... I've gotta hide
+somewhere![WAIT][END]
+
+#string:0E:085
+[STYLE:RIGHT][...]
+Now that Tubba Blubba has
+stopped eating everyone, the
+forest is peaceful again.
+[WAIT][NEXT][...]
+Now we can return to our days
+of scaring everyone who enters
+the forest and playing delightful
+pranks!
+[WAIT][NEXT][...]
+Pardon me?
+[PAUSE:0A][...]
+No pranks?
+[PAUSE:0A][...]
+... I'm not promising anything.[WAIT][END]
+
+#string:0E:086
+[STYLE:RIGHT][...]
+Oh. [PAUSE:05]Mario, how's Lady Bow doing?
+[WAIT][NEXT][...]
+She's a fine, upstanding Boo and
+is very delicate, so you be sure
+to take care of her.[WAIT][END]
+
+#string:0E:087
+[STYLE:RIGHT][...]
+Excuse me, Mario?
+[WAIT]{Func_04}[NEXT][...]
+{StartFX:Shrinking}{StartFX:Wavy}Bleeeahhhhh!!![WAIT][END]
+
+#string:0E:088
+[STYLE:RIGHT][...]
+Oooh! Excellent!
+[PAUSE:0A][...]
+What technique! What perfect
+delivery!
+[WAIT][NEXT][...]
+There's always something new I
+can learn from that guy. What a
+Boo master!
+[WAIT][NEXT][...]
+I've got to work on my scaring
+skills, too![WAIT][END]
+
+#string:0E:089
+[STYLE:RIGHT][...]
+Hey, Mario,
+[PAUSE:0A][...]
+have you saved all of the Star
+Spirits yet?
+[WAIT][NEXT][...]
+I wonder why I care... I don't
+even know if Star Spirits listen
+to the wishes of ghosts.
+[WAIT][NEXT][...]
+I sure hope they do...[WAIT][END]
+
+#string:0E:08A
+[STYLE:RIGHT][...]
+Pardon me, Mario?
+[WAIT]{Func_04}[NEXT][...]
+{StartFX:Shrinking}{StartFX:Wavy}Broooaargh!!![WAIT][END]
+
+#string:0E:08B
+[STYLE:RIGHT][...]
+Oh yeah! Another score!
+[PAUSE:0A][...]
+Boy, nobody scares people like
+that Boo! Wow!
+[WAIT][NEXT][...]
+Such a flawless appearance! It
+takes my breath away.
+[WAIT][NEXT][...]
+... Actually, if we're splitting
+hairs, I'm a ghost so I don't
+actually breathe.[WAIT][END]
+
+#string:0E:08C
+[STYLE:RIGHT][...]
+I had a friend who escaped from
+Tubba Blubba's Castle the other
+day, and he said...
+[WAIT][NEXT][...]
+"The key to solving the secret is
+inside the innermost room. Pay
+attention to both the heart and
+body, and don't..."
+[WAIT][NEXT][...]
+Then, just as he was finishing,
+Tubba Blubba ate him.
+[WAIT][NEXT][...]
+I wonder what the rest of his
+message was...[WAIT][END]
+
+#string:0E:08D
+[STYLE:RIGHT][...]
+I had a friend who escaped from
+Tubba Blubba's Castle the other
+day, and he said...
+[WAIT][NEXT][...]
+"The key to solving the secret is
+inside the innermost room. Pay
+attention to both the heart and
+body, and don't..."
+[WAIT][NEXT][...]
+Then, just as he was finishing,
+Tubba Blubba ate him.
+[WAIT][NEXT][...]
+I wonder what the rest of his
+message was...[WAIT][END]
+
+#string:0E:08E
+[STYLE:RIGHT][...]
+What? Whaaaaat? Tubba Blubba's
+behind you?
+[PAUSE:0A][...]
+Noooo! I don't wanna be eaten![WAIT][END]
+
+#string:0E:08F
+[STYLE:RIGHT][...]
+Peace has finally returned to
+our hill.
+[PAUSE:0A][...]
+Tubba Blubba's not going to eat
+anybody anymore.[WAIT][END]
+
+#string:0E:090
+[STYLE:RIGHT][...]
+My friend came back!
+[PAUSE:0A][...]
+I couldn't be happier!
+[WAIT][NEXT][...]
+Now it's time to get back to
+scaring people senseless.
+[PAUSE:0A][...]
+I can't wait...[WAIT][END]
+
+#string:0E:091
+[STYLE:RIGHT][...]
+Now then...
+[PAUSE:0F][...]
+What to do, what to do? Who
+should I scare?
+[WAIT][NEXT][...]
+I want to hear people shriek and
+watch them run away yelling!
+[PAUSE:0A][...]
+That's what makes Boos happy.
+[WAIT][NEXT][...]
+So, if you could, when a Boo
+scares you, try to be as
+terrified as possible, OK?[WAIT][END]
+
+#string:0E:092
+[STYLE:RIGHT][...]
+Oh. Hello. Boo, I guess.
+[PAUSE:0A][...]
+Poor effort. Sorry. I had a
+weird dream last night...
+[PAUSE:0A][...]
+This dream voice said...
+[WAIT][NEXT][...]
+"Sometimes you must turn and
+run away. You must run and run
+until you reach the tower with
+the spinning vanes."
+[WAIT][NEXT][...]
+Something like that, anyway.
+[PAUSE:0A][...]
+What could it mean?[WAIT][END]
+
+#string:0E:093
+[STYLE:RIGHT][...]
+Oh. Hello. Boo, I guess.
+[PAUSE:0A][...]
+Poor effort. Sorry. I had a
+weird dream last night...
+[PAUSE:0A][...]
+This dream voice said...
+[WAIT][NEXT][...]
+"Sometimes you must turn and
+run away. You must run and run
+until you reach the tower with
+the spinning vanes."
+[WAIT][NEXT][...]
+Something like that, anyway.
+[PAUSE:0A][...]
+What could it mean?[WAIT][END]
+
+#string:0E:094
+[STYLE:RIGHT][...]
+{StartFX:Shrinking}Stanleeeeeeeey!!!
+[PAUSE:0A][...]
+He ate Stanley! I can't believe I
+just saw Stanley get eaten!
+{EndFX:Shrinking}[WAIT][NEXT][...]
+Oh, I'm gonna be sick...
+[PAUSE:05][...]
+Oh, cruel destiny! [WAIT][END]
+
+#string:0E:095
+[STYLE:RIGHT][...]
+Huh?
+[PAUSE:0A][...]
+Some Boos just went to help you.
+What happened to them?[WAIT][END]
+
+#string:0E:096
+[STYLE:RIGHT][...]
+All my friends who got eaten by
+Tubba Blubba are back!
+[WAIT][NEXT][...]
+They've been telling me all these
+crazy stories about being inside
+Tubba Blubba's stomach...
+[WAIT][NEXT][...]
+What it was like to go rolling
+down the throat into the belly...
+Talk about a wild ride! And talk
+about disgusting![WAIT][END]
+
+#string:0E:097
+[STYLE:RIGHT][...]
+Tubba Blubba ate up my dear,
+lovely Victoria...but now she's
+come back safely!
+[WAIT][NEXT][...]
+Victoria... So coy...
+[PAUSE:0A][...]
+She's never even given me the
+time of day...[WAIT][END]
+
+#string:0E:098
+[STYLE:RIGHT][...]
+Oh...sweet Victoria...
+[PAUSE:0A][...]
+Please give me a sign!
+[WAIT][NEXT][...]
+You're the object of my fondest
+nightmares![WAIT][END]
+
+#string:0E:099
+[STYLE:RIGHT][...]
+My friend escaped from Tubba
+Blubba's Castle.
+[WAIT][NEXT][...]
+He claims that Tubba Blubba
+hides something incredibly
+important right next to his bed.
+[WAIT][NEXT][...]
+I wonder what it could be.[WAIT][END]
+
+#string:0E:09A
+[STYLE:RIGHT][...]
+Tubba Blubba sometimes travels
+down to the foot of the hill.
+[WAIT][NEXT][...]
+I'm sure he's doing something
+secretive down there, but...
+[PAUSE:05][...]
+...what could it be?[WAIT][END]
+
+#string:0E:09B
+[STYLE:RIGHT][...]
+Buhh... Uhhh...
+[PAUSE:0A][...]
+Tubbba Bbblubbaa...ate...[WAIT][END]
+
+#string:0E:09C
+[STYLE:RIGHT][...]
+Buh? [PAUSE:05]Whuh? [PAUSE:05]What?
+[PAUSE:0A][...]
+Tubba Blubba's coming?[WAIT][END]
+
+#string:0E:09D
+[STYLE:RIGHT][...]
+I swear, when I first saw my
+friends who had been eaten by
+Tubba Blubba return...
+[WAIT][NEXT][...]
+I was totally shocked. I felt like
+I was seeing ghosts.
+[WAIT][NEXT][...]
+I'm just glad that everyone's
+safe and sound again.[WAIT][END]
+
+#string:0E:09E
+[STYLE:RIGHT][...]
+Boos are saying that Tubba
+Blubba took off.
+[PAUSE:0A][...]
+Phew! This area will once again
+be a ghost paradise.
+[WAIT][NEXT][...]
+Not only that... Tubba Blubba
+returned all the ghosts he'd
+eaten!
+[WAIT][NEXT][...]
+And here we thought they were
+gone for good.[WAIT][END]
+
+#string:0E:09F
+[STYLE:RIGHT][...]
+Everyone is so crazy about the
+lovely Victoria.
+[WAIT][NEXT][...]
+But the way I hear it, she's
+already got somebody specific in
+mind.
+[WAIT][NEXT][...]
+Sigh... Love is so painful.
+[PAUSE:0A][...]
+Not all wishes can be granted,
+I suppose. How sad...[WAIT][END]
+
+#string:0E:0A0
+[STYLE:RIGHT][...]
+Hello there!
+[PAUSE:0A][...]
+You're going up to beat Tubba
+Blubba, right?
+[WAIT][NEXT][...]
+Yeah! Get revenge! He'll never
+eat another ghost! Never!
+[WAIT][NEXT][...]
+Especially not...
+[PAUSE:0A][...]
+[END]
+
+#string:0E:0A1
+[STYLE:RIGHT][...]
+Oh... Oh no!
+[PAUSE:0A][...]
+Tubba Blubba's coming!
+[PAUSE:0A][...]
+Everybody, hide!!
+[WAIT][NEXT][...]
+Lady Bow!
+[PAUSE:0A][...]
+You have to hide Mario![WAIT][END]
+
+#string:0E:0A2
+[STYLE:RIGHT][...]
+You! Switch with me![WAIT][END]
+
+#string:0E:0A3
+[STYLE:RIGHT][...]
+Mario! [PAUSE:05]We have to hide!
+[PAUSE:0A][...]
+Use my power! Immediately!
+[PAUSE:0A][...]
+Press {PushColor}{Color:13}[C-DOWN]{PopColor}!
+{Func_04}[END]
+
+#string:0E:0A4
+[STYLE:RIGHT][...]
+Everything's cool, Lady!
+[PAUSE:0A][...]
+He can't see you!
+[PAUSE:0A][...]
+Nope, there's no way Tubba
+Blubba can see you right now![WAIT][END]
+
+#string:0E:0A5
+[STYLE:RIGHT][...]
+Er...[WAIT][END]
+
+#string:0E:0A6
+[STYLE:RIGHT][...]
+Mmmm...looks yummy!
+[PAUSE:0A][...]
+I needed a snack![WAIT][END]
+
+#string:0E:0A7
+[STYLE:RIGHT][...]
+Urp...
+[PAUSE:0A][...]
+A little tangy, but good.[WAIT][END]
+
+#string:0E:0A8
+[STYLE:RIGHT][...]
+{StartFX:Shrinking}Oh!! [PAUSE:05]Stanley!!
+{EndFX:Shrinking}[WAIT][NEXT][...]
+Oh, the horror of it all...[WAIT][END]
+
+#string:0E:0A9
+[STYLE:RIGHT][...]
+I never thought I'd be back in
+dear old Gusty Gulch again.
+[WAIT][NEXT][...]
+I swear, when Tubba Blubba ate
+me, I thought that was the end
+for this Boo.
+[WAIT][NEXT][...]
+But now it looks like everything
+might work out.
+[PAUSE:0A][...]
+And now I've got a great story
+to tell youngsters.[WAIT][END]
+
+#string:0E:0AA
+[STYLE:RIGHT][...]
+My dear Victoria has also come
+back safe and sound.
+[WAIT][NEXT][...]
+I was desperate when she was
+first eaten by Tubba Blubba,
+that's for sure.
+[WAIT][NEXT][...]
+Now I'm by her side again...
+[PAUSE:0A][...]
+What? You can't see her?
+[PAUSE:0A][...]
+Ha ha ha... Of course not! She's
+a ghost, Mario!
+[WAIT]{Func_04}[END]
+
+#string:0E:0AB
+[NEXT][...]
+I finally made up my mind.
+[PAUSE:0A][...]
+I'm going to confess my feelings
+for the lovely Victoria.
+[WAIT][NEXT][...]
+But how to tell her...
+[WAIT]{Func_04}[END]
+
+#string:0E:0AC
+[NEXT][...]
+First, I figured I'd express my
+feelings by giving her a present
+like, you know... 
+[WAIT][NEXT][...]
+"Here's a Fire Flower to show
+how hot the flame of my passion
+burns."
+[PAUSE:0A][...]
+or... 
+[WAIT][NEXT][...]
+"Are you shocked to know of my
+love? Here's a Volt Shroom."
+[PAUSE:0A][...]
+or...
+[WAIT][NEXT][...]
+... Gaaah!!
+[PAUSE:0A][...]
+I can't decide!
+[PAUSE:0A][...]
+Which line do you think would work
+better?
+{Func_04}[END]
+
+#string:0E:0AD
+[NEXT][...]
+Oh...OK. Thanks. I'll do it.[WAIT][END]
+
+#string:0E:0AE
+[STYLE:RIGHT][...]
+Oh...OK. Thanks. I'll do it.[WAIT][END]
+
+#string:0E:0AF
+[NEXT][...]
+Oh
+[PAUSE:0A][...]
+. [PAUSE:05]. [PAUSE:05]. [PAUSE:05]Thanks for nothing...[WAIT][END]
+
+#string:0E:0B0
+[STYLE:RIGHT][...]
+Victoria loves me back!
+[WAIT][NEXT][...]
+We're going to get married when
+Lady Bow returns here!
+[WAIT][NEXT][...]
+So...hurry up and come back as
+soon as possible, OK? Seriously!
+Soon![WAIT][END]
+
+#string:0E:0B1
+[STYLE:RIGHT][...]
+Since Tubba Blubba left, this hill
+seems so quiet.
+[WAIT][NEXT][...]
+It's almost like a... ghost town
+or something.
+[WAIT][NEXT][...]
+Chilling and desolate...
+[PAUSE:0A][...]
+Heh heh...[HEART][WAIT][END]
+
+#string:0E:0B2
+[STYLE:RIGHT][...]
+I'm a ghost named Herbert.
+[PAUSE:0A][...]
+Isn't that a great name?
+[PAUSE:0A][...]
+My grandmother named me.
+[WAIT][NEXT][...]
+My ancestors lived in that
+castle for many generations.
+They were great ghosts.
+[WAIT][NEXT][...]
+I wanna be that great. I wanna
+be so scary that no one will ever
+forget me.[WAIT][END]
+
+#string:0E:0B3
+[STYLE:RIGHT][...]
+You know, Tubba Blubba lived in
+that castle for a while and was
+perfectly nice. It was a great
+place for ghosts, too.
+[WAIT][NEXT][...]
+So dim and dark... But then one
+day he turned invincible and
+started acting crazy.
+[WAIT][NEXT][...]
+He started eating all the Boos in
+the castle! It was insane!
+[WAIT][NEXT][...]
+We had no choice but to flee or
+be eaten...[WAIT][END]
+
+#string:0E:0B4
+[STYLE:RIGHT][...]
+You know, Tubba Blubba lived in
+that castle for a while and was
+perfectly nice. It was a great
+place for ghosts, too.
+[WAIT][NEXT][...]
+So dim and dark... But then one
+day he turned invincible and
+started acting crazy.
+[WAIT][NEXT][...]
+He started eating all the Boos in
+the castle! It was insane!
+[WAIT][NEXT][...]
+We had no choice but to flee or
+be eaten...[WAIT][END]
+
+#string:0E:0B5
+[STYLE:RIGHT][...]
+{StartFX:Shrinking}Stanley! No!
+{EndFX:Shrinking}Ah... Why you, too?[WAIT][END]
+
+#string:0E:0B6
+[STYLE:RIGHT][...]
+Windy Mill?
+[PAUSE:0A][...]
+Just keep heading down along
+the gulch.
+[WAIT][NEXT][...]
+You'll see it before you reach
+the Boo mansion.[WAIT][END]
+
+#string:0E:0B7
+[STYLE:RIGHT][...]
+Until yesterday, it was just a
+dream to have all the Boos living
+together happily.
+[WAIT][NEXT][...]
+But it's not a dream now, is it!
+[PAUSE:0A][...]
+Thanks to Lady Bow![WAIT][END]
+
+#string:0E:0B8
+[STYLE:RIGHT][...]
+I'm really happy that all the
+ghosts are back, but...
+[WAIT][NEXT][...]
+with so many of us around,
+people might get used to us and
+not get scared anymore.
+[WAIT][NEXT][...]
+That would be a tragedy, huh?
+Maybe we'd better find a quiet
+place with fewer ghosts so we're
+not so conspicuous.[WAIT][END]
+
+#string:0E:0B9
+[STYLE:RIGHT][...]
+It seems like fewer and fewer
+people are getting lost and
+coming around here recently.
+[WAIT][NEXT][...]
+I haven't even tried my new way
+of terrifying people yet. I've
+been practicing for ages.
+[WAIT][NEXT][...]
+Maybe I should start wishing to
+the Stars for people to lose
+their way more often. Then we'll
+be in business.[WAIT][END]
+
+#string:0E:0BA
+[STYLE:RIGHT][...]
+Hi! [PAUSE:05]You again!
+[WAIT][NEXT][...]
+Once Tubba Blubba's secret got
+out, I became just an ordinary
+key.[WAIT][END]
+
+#string:0E:0BB
+[STYLE:RIGHT][...]
+Chilly out, isn't it?
+[PAUSE:0A][...]
+Cold...and empty... Brrr![WAIT][END]
+
+#string:0E:0BC
+[STYLE:RIGHT][...]
+You know what I need? A new
+secret to guard.
+[WAIT][NEXT][...]
+Except this time, I want to
+guard some happy secret, like a
+present or something.
+[WAIT][NEXT][...]
+Wouldn't that be the best?
+Guarding a gift...
+[PAUSE:0A][...]
+That's my new wish.[WAIT][END]
+
+#string:0E:0BD
+[STYLE:RIGHT][...]
+You know what I need? A new
+secret to guard.
+[WAIT][NEXT][...]
+Except this time, I want to
+guard some happy secret, like a
+present or something.
+[WAIT][NEXT][...]
+Wouldn't that be the best?
+Guarding a gift...
+[PAUSE:0A][...]
+That's my new wish.[WAIT][END]
+
+#string:0E:0BE
+[STYLE:RIGHT][...]
+You know what I need? A new
+secret to guard.
+[WAIT][NEXT][...]
+Except this time, I want to
+guard some happy secret, like a
+present or something.
+[WAIT][NEXT][...]
+Wouldn't that be the best?
+Guarding a gift...
+[PAUSE:0A][...]
+That's my new wish.[WAIT][END]
+
+#string:0E:0BF
+[STYLE:RIGHT][...]
+Who are you?[WAIT][END]
+
+#string:0E:0C0
+[STYLE:RIGHT][...]
+{StartFX:Shrinking}What!?
+[PAUSE:0A][...]
+Mario!?
+{EndFX:Shrinking}[WAIT][NEXT][...]
+Did someone...
+[PAUSE:05][...]
+...tell you that I'm the secret
+strength of Tubba Blubba!?[WAIT][END]
+
+#string:0E:0C1
+[STYLE:RIGHT][...]
+Someone spilled the beans that
+the Tubba Blubba in the castle is
+just a shell and...
+[WAIT][NEXT][...]
+...I'm controlling it from here!?[WAIT][END]
+
+#string:0E:0C2
+[STYLE:RIGHT][...]
+[PAUSE:0A][...]
+You can't trust anybody!
+[WAIT][NEXT][...]
+I can't let you out of here
+knowing the secret of my
+"invincible" body!
+[WAIT][NEXT][...]
+Sorry, but here we go![WAIT][END]
+
+#string:0E:0C3
+[STYLE:RIGHT][...]
+Hey, you! Lady ghost!
+[PAUSE:0A][...]
+You look quite tasty.
+[WAIT][NEXT][...]
+Stick around after the battle.
+Fighting makes me hungry.[WAIT][END]
+
+#string:0E:0C4
+[STYLE:RIGHT][...]
+Blech! You wish!
+[PAUSE:0A][...]
+You don't have a chance, you
+ghost-gobbling freak!
+[WAIT][NEXT][...]
+Mario!
+[PAUSE:0A][...]
+Now I'm really mad! Let's beat
+this thing up!
+[WAIT][NEXT][...]
+{Func_04}{Down:0A}{StartFX:Wavy}{Size:20:20}Gwaah ha ha ha!
+{SizeReset}{EndFX:Wavy}[WAIT][END]
+
+#string:0E:0C5
+[STYLE:RIGHT][...]
+Heh heh heh heh...
+[PAUSE:0A][...]
+I'm gonna do this great attack.
+It's impossible to avoid.
+[WAIT][NEXT][...]
+I just have to prepare a bit, so
+hang on for a second.[WAIT][END]
+
+#string:0E:0C6
+[STYLE:RIGHT][...]
+Owwwweeee!
+[PAUSE:0A][...]
+Oh, I'm hurting!
+[WAIT][NEXT][...]
+I have to get out of here![WAIT][END]
+
+#string:0E:0C7
+[STYLE:RIGHT][...]
+It's time to reunite![WAIT][END]
+
+#string:0E:0C8
+[STYLE:RIGHT][...]
+{StartFX:Wavy}Oh yeah! Now I'm feeling good!
+[PAUSE:0A][...]
+With my heart and body united,
+there's no way to beat me![WAIT][END]
+
+#string:0E:0C9
+[STYLE:RIGHT][...]
+{Down:06}{StartFX:Wavy}{Size:20:20}Eeeeoooow!![WAIT][END]
+
+#string:0E:0CA
+[STYLE:RIGHT][...]
+{StartFX:Wavy}Oh... Oh... Nooo!
+[PAUSE:0A][...]
+[WAIT][NEXT][...]
+With my heart and body united,
+I'm not invincible anymore...
+[WAIT][NEXT][...]
+Now I'm back to "not invincible"
+Tubba Blubba... That's so lame.[WAIT][END]
+
+#string:0E:0CB
+[STYLE:RIGHT][...]
+{StartFX:Wavy}I give uuuup!
+[PAUSE:0A][...]
+Look, I'll give back all the ghosts
+I ate! Forgive me![WAIT][END]
+
+#string:0E:0CC
+[STYLE:RIGHT][...]
+{StartFX:Wavy}I'm actually a really sensitive
+guy trapped in a huge body.
+[WAIT][NEXT][...]
+I don't wanna be invincible
+anymore if it means I have to
+fight guys like you![WAIT][END]
+
+#string:0E:0CD
+[STYLE:RIGHT][...]
+{Down:0A}{StartFX:Wavy}{Size:20:20}Gwaaa ha ha ha.
+{SizeReset}{EndFX:Wavy}[WAIT]
+{Scroll:04}{Up:04}Serves you right!
+[PAUSE:0A][...]
+And everyone who got eaten has
+returned safely! Hooray!
+[WAIT][NEXT][...]
+...But I guess I'd better tell 
+everyone not to scare old Tubba
+Blubba anymore.
+[WAIT][NEXT][...]
+We used to love scaring Tubba
+Blubba night and day because
+[PAUSE:0A][...]
+he was such a coward.
+[WAIT][NEXT][...]
+Oh well. We're not sorry for it!
+[PAUSE:0A][...]
+Scaring folks is what ghosts do,
+so Boo on him... Ha![WAIT][END]
+
+#string:0E:0CE
+[STYLE:RIGHT][...]
+Besides, [PAUSE:05]that was a pretty
+invigorating experience.
+[PAUSE:0A][...]
+I've never felt so full of
+excitement before![HEART]
+[WAIT][NEXT][...]
+And... [PAUSE:0A]Ahem... It was also a good
+learning experience.
+[WAIT][NEXT][...]
+I think I'd better experience
+some more of the outside world.
+[WAIT][NEXT][...]
+So[PAUSE:02].[PAUSE:04].[PAUSE:06]. 
+[PAUSE:0A][...]
+I think I'll accompany you a
+little longer.
+[WAIT][NEXT][...]
+Is that OK, Mario?
+[PAUSE:0A][...]
+Of course it's OK, right?
+{Func_04}[END]
+
+#string:0E:0CF
+[NEXT][...]
+Done.
+[PAUSE:0A][...]
+[WAIT][NEXT][...]
+You're so lucky to be able to
+travel with me.
+[WAIT][NEXT][...]
+{Down:0A}{StartFX:Wavy}{Size:20:20}Gweaah heh ha!
+{SizeReset}{EndFX:Wavy}[WAIT][END]
+
+#string:0E:0D0
+[NEXT][...]
+You don't have to be polite.
+[PAUSE:0A][...]
+[WAIT][NEXT][...]
+You won't have to worry about
+anything anymore as long as I'm
+with you.
+[WAIT][NEXT][...]
+{Down:0A}{StartFX:Wavy}{Size:20:20}Gweaah heh ha!
+{SizeReset}{EndFX:Wavy}[WAIT][END]
+
+#string:0E:0D1
+[STYLE:RIGHT][...]
+Here you go, Mario. I'm giving you
+back the Star Spirit, as I
+promised.
+[WAIT][NEXT][...]
+Bootler! Snap to it! Come over
+here![WAIT][END]
+
+#string:0E:0D2
+[STYLE:RIGHT][...]
+Here, Mario. He's free now.[WAIT][END]
+
+#string:0E:0D3
+[STYLE:RIGHT][...]
+{SpeechSound:02}Hello again, Mario.
+[PAUSE:0A][...]
+I knew you could do it.
+[PAUSE:0F][...]
+I don't know how to thank you.
+[WAIT][NEXT][...]
+I knew it was the right decision
+to ask you to help us.
+[PAUSE:0F][...]
+You're a great man.
+[WAIT][NEXT][...]
+Now that I'm free, I can help
+you.
+[WAIT][NEXT][...]
+Ha!![WAIT][END]
+
+#string:0E:0D4
+[STYLE:RIGHT][...]
+{SpeechSound:02}... Mario.
+[PAUSE:0A][...]
+I have one bit of bad news.
+[WAIT][NEXT][...]
+Unfortunately, Bowser's life
+force seems to be getting
+stronger all the time.
+[WAIT][NEXT][...]
+Most likely it's the Star Rod
+that's giving him more power.
+[WAIT][NEXT][...]
+We're not even sure if he's
+noticing it or not, but there's no
+question that it's making him
+stronger than before.
+[WAIT][NEXT][...]
+We will have to be much more
+careful in the coming trials.[WAIT][END]
+
+#string:0E:0D5
+[STYLE:RIGHT][...]
+{SpeechSound:02}Ah... [PAUSE:0A]I'm sorry to leave, but I
+must go back to Star Haven.
+[PAUSE:0A][...]
+The other Star Spirits are
+waiting for me there.
+[WAIT][NEXT][...]
+Oh...and if you could... Please
+keep it a secret that I got lost
+in Forever Forest.
+[WAIT][NEXT][...]
+Thanks, Mario. Bye![WAIT][END]
+
+#string:0E:0D6
+[STYLE:RIGHT][...]
+Mario[PAUSE:03].[PAUSE:03].[PAUSE:03].[PAUSE:05]If they catch you,
+they'll carry you out of the
+castle.
+[WAIT][NEXT][...]
+Don't you think you can hide from
+them by using one of our party
+member's abilities?[WAIT][END]
+
+#string:0E:0D7
+[STYLE:RIGHT][...]
+Can't we do something so these
+things don't chuck us out of the
+castle?
+[WAIT][NEXT][...]
+Doesn't anyone in our party have
+an ability that'll help us avoid
+them?[WAIT][END]
+
+#string:0E:0D8
+[STYLE:RIGHT][...]
+Mario, [PAUSE:05]they'll throw us out of the
+castle if they catch us.
+[WAIT][NEXT][...]
+Can we use a party member's
+ability so we don't get caught?[WAIT][END]
+
+#string:0E:0D9
+[STYLE:RIGHT][...]
+This is not good. We'll be thrown
+out of the castle when they
+catch us.
+[WAIT][NEXT][...]
+Can't we get around these
+creatures by using the ability of
+one of our party members?[WAIT][END]
+
+#string:0E:0DA
+[STYLE:RIGHT][...]
+These things will try to catch us
+and throw us out.
+[WAIT][NEXT][...]
+Use my ability to turn invisible
+and we'll fool them.[WAIT][END]
+
+#string:0E:0DB
+[STYLE:RIGHT][...]
+At last, we've arrived at Tubba
+Blubba's Castle!
+[PAUSE:0A][...]
+Are you ready, everyone?
+[WAIT][NEXT][...]
+Be brave! We must do all we can
+to help the Lady Bow![WAIT][END]
+
+#string:0E:0DC
+[STYLE:RIGHT][...]
+But...what can we do?[WAIT][END]
+
+#string:0E:0DD
+[STYLE:RIGHT][...]
+This is no time to lose our nerve,
+fellow Boos!
+[WAIT][NEXT][...]
+Our dear lady is fighting
+against Tubba Blubba himself! We
+mustn't hesitate![WAIT][END]
+
+#string:0E:0DE
+[STYLE:RIGHT][...]
+{StartFX:Shrinking}{StartFX:Jitter}{StartFX:Wavy}Come back here!![WAIT][END]
+
+#string:0E:0DF
+[STYLE:RIGHT][...]
+{StartFX:Jitter}{StartFX:Shrinking}Wha... Wha... [PAUSE:05]What's that noise?
+[PAUSE:0A][...]
+[WAIT][NEXT][...]
+Tubba Blubba's chasing you?!
+And he's right on the other side
+of the door?! Gulp![WAIT][END]
+
+#string:0E:0E0
+[STYLE:RIGHT][...]
+What!?
+[PAUSE:0A][...]
+You might be able to find out
+Tubba Blubba's weak point?
+[PAUSE:0A][...]
+[WAIT][NEXT][...]
+Oh, of course! The windmill at
+the foot of the hill...[WAIT][END]
+
+#string:0E:0E1
+[STYLE:RIGHT][...]
+You must hurry! Run as fast as
+you can to the Windy Mill!
+[WAIT][NEXT][...]
+We'll hold Tubba Blubba here![WAIT][END]
+
+#string:0E:0E2
+[STYLE:RIGHT][...]
+No! 
+[PAUSE:0A][...]
+You'll all be eaten when he comes
+through that door![WAIT][END]
+
+#string:0E:0E3
+[STYLE:RIGHT][...]
+Are you nuts!
+[PAUSE:0A][...]
+That Tubba Blubba will make a
+meal out of you guys![WAIT][END]
+
+#string:0E:0E4
+[STYLE:RIGHT][...]
+No, no! That's crazy!
+[PAUSE:0A][...]
+If he gets through, he'll eat all
+of you![WAIT][END]
+
+#string:0E:0E5
+[STYLE:RIGHT][...]
+I can't agree to that!
+[PAUSE:0A][...]
+You're all in grave peril of being
+eaten! You must run with the
+rest of us![WAIT][END]
+
+#string:0E:0E6
+[STYLE:RIGHT][...]
+It's too dangerous!
+[PAUSE:0A][...]
+He's a madman! He'll eat every
+last one of you![WAIT][END]
+
+#string:0E:0E7
+[STYLE:RIGHT][...]
+{StartFX:Shrinking}{StartFX:Wavy}Grruuuurg!!
+[PAUSE:0A][...]
+Why won't this door open?![WAIT][END]
+
+#string:0E:0E8
+[STYLE:RIGHT][...]
+I...don't know how long...we can...
+keep holding this.
+[WAIT][NEXT][...]
+Don't worry about us! Go, for
+all our sakes!
+[PAUSE:0A][...]
+Don't look back![WAIT][END]
+
+#string:0E:0E9
+[STYLE:RIGHT][...]
+We can't hold it much longer!
+Hurry to the Windy Mill![WAIT][END]
+
+#string:0E:0EA
+[STYLE:RIGHT][...]
+Mario! C'mon! We have to go to
+the Windy Mill![WAIT][END]
+
+#string:0E:0EB
+[STYLE:RIGHT][...]
+Mario, we have to!
+[PAUSE:0A][...]
+Let's go as fast as we can![WAIT][END]
+
+#string:0E:0EC
+[STYLE:RIGHT][...]
+We have no choice, Mario!
+[PAUSE:0A][...]
+Our only hope is to find Tubba
+Blubba's weak point![WAIT][END]
+
+#string:0E:0ED
+[STYLE:RIGHT][...]
+Make haste to the Windy Mill!
+[PAUSE:0A][...]
+We can't let their brave efforts
+be in vain![WAIT][END]
+
+#string:0E:0EE
+[STYLE:RIGHT][...]
+Oh... Let's go, Mario!
+[PAUSE:0A][...]
+We're going to the Windy Mill!![WAIT][END]
+
+#string:0E:0EF
+[STYLE:RIGHT][...]
+{StartFX:Shrinking}{StartFX:Wavy}I smell delicious ghosts!
+[PAUSE:0A][...]
+Open the doooooooor!![WAIT][END]
+
+#string:0E:0F0
+[STYLE:RIGHT][...]
+Oh... You're Mario!
+[PAUSE:0A][...]
+Nice place, huh?
+[WAIT][NEXT][...]
+As a matter of fact, I came to
+this castle with my friends to
+try to find Tubba Blubba's weak
+point.
+[WAIT][NEXT][...]
+We managed to find out that
+there's something important
+hidden in Tubba Blubba's room on
+the highest floor.
+[WAIT][NEXT][...]
+But once I got separated from
+my friends, I just had to hide.
+[WAIT][NEXT][...]
+...But you could go.
+[PAUSE:0A][...]
+First, you need to get to the
+uppermost floor, then keep going
+until you find his room.
+[WAIT][NEXT][...]
+If you happen to run into Tubba
+Blubba, don't, I repeat, DON'T
+fight with him.
+[WAIT][NEXT][...]
+He's invincible! Really!
+[PAUSE:0A][...]
+Until you find out his secret
+weakness you'd better just run
+away. You got that?[WAIT][END]
+
+#string:0E:0F1
+[STYLE:RIGHT][...]
+Here's what my friends and I
+managed to find out...
+[WAIT][NEXT][...]
+Supposedly there's something
+really important hidden in Tubba
+Blubba's room on the highest
+floor of the castle.
+[WAIT][NEXT][...]
+It's so precious to him that he
+never lets anybody else even
+touch it.
+[WAIT][NEXT][...]
+...See? [PAUSE:05]Really suspicious, isn't
+it?
+[WAIT][NEXT][...]
+First, you need to get to the
+uppermost floor, then keep going
+until you find his room.
+[WAIT][NEXT][...]
+If you happen to run into Tubba
+Blubba, don't, I repeat, DON'T
+fight with him.
+[WAIT][NEXT][...]
+He's invincible! Really!
+[PAUSE:0A][...]
+Until you find out his secret
+weakness, run away.[WAIT][END]
+
+#string:0E:0F2
+[STYLE:RIGHT][...]
+Uh...huh? How long was I asleep?
+[PAUSE:0A][...]
+Where is everyone?
+[WAIT][NEXT][...]
+[PAUSE:0F][...]
+.......[PAUSE:0F]Oh [PAUSE:0F]well.[WAIT][END]
+
+#string:0E:0F3
+[STYLE:RIGHT][...]
+{StartFX:Wavy}Mmm! What's this?
+[PAUSE:0A][...]
+Sniff, sniff...
+[WAIT][NEXT][...]
+I smell something very fishy...[WAIT][END]
+
+#string:0E:0F4
+[STYLE:RIGHT][...]
+Hmmm, I might be in trouble.
+[WAIT][NEXT][...]
+That Star Spirit ran away...
+[PAUSE:0F][...]
+And now I think someone
+suspicious is in the castle...
+[WAIT][NEXT][...]
+I sure don't want to make King
+Bowser mad. He's scary.
+[WAIT][NEXT][...]
+He did make me invincible, but
+if I screw up, he might change me
+back to normal.[WAIT][END]
+
+#string:0E:0F5
+[STYLE:RIGHT][...]
+{StartFX:Wavy}... Time for some beauty rest![WAIT][END]
+
+#string:0E:0F6
+[STYLE:RIGHT][...]
+Hi there!
+[PAUSE:0A][...]
+I'm Yakkey...
+[WAIT][NEXT][...]
+...a faithful and chatty follower
+of Master Tubba Blubba!
+[PAUSE:0A][...]
+My very important job is to
+guard his valuables![WAIT][END]
+
+#string:0E:0F7
+[STYLE:RIGHT][...]
+But...?
+[PAUSE:14][...]
+You don't look like Master Tubba
+Blubba at all!
+[WAIT][NEXT][...]
+.[PAUSE:05].[PAUSE:05].[PAUSE:05]That means
+[WAIT][NEXT][...]
+you've come here to steal me, the
+magical key that unlocks the
+door to {Color:20}Windy Mill {Color:0A}at the foot of
+Gusty Gulch?
+[WAIT][NEXT][...]
+And furthermore, your goal is to
+find out if there's a secret
+inside that Windy Mill?
+{Func_04}[END]
+
+#string:0E:0F8
+[NEXT][...]
+... You're a very honest person,
+aren't you?
+[WAIT][NEXT][...]
+.[PAUSE:05].[PAUSE:05].[PAUSE:05].[PAUSE:05].[PAUSE:05]. 
+[PAUSE:05][...]
+[WAIT][END]
+
+#string:0E:0F9
+[NEXT][...]
+... You're a terrible liar.
+[WAIT][NEXT][...]
+.[PAUSE:05].[PAUSE:05].[PAUSE:05].[PAUSE:05].[PAUSE:05]. 
+[PAUSE:05][...]
+[WAIT][END]
+
+#string:0E:0FA
+[STYLE:RIGHT][...]
+{StartFX:Shrinking}{StartFX:Jitter}Heeeeeeelp!
+[PAUSE:0A][...]
+Master Tubba Blubbaaaa!!
+[PAUSE:0A][...]
+A thieeeeeeef!!!
+[PAUSE:64][...]
+[END]
+
+#string:0E:0FB
+[STYLE:RIGHT][...]
+{StartFX:Wavy}Grrrgh? Hmmmph?
+[PAUSE:0A][...]
+What's all the noise?
+[PAUSE:0A][...]
+Five more minutes, Mom...[WAIT][END]
+
+#string:0E:0FC
+[STYLE:RIGHT][...]
+Tubba Blubba's waking up! Let's
+get outta here![WAIT][END]
+
+#string:0E:0FD
+[STYLE:RIGHT][...]
+Uh-oh. We're in trouble! Tubba
+Blubba woke up! Let's go![WAIT][END]
+
+#string:0E:0FE
+[STYLE:RIGHT][...]
+Tubba Blubba's up! Let's get
+away![WAIT][END]
+
+#string:0E:0FF
+[STYLE:RIGHT][...]
+{StartFX:Jitter}Marioooo! Aackk! Tubba Blubba
+woke up! We'll never make it if
+we stay here! Run! Run![WAIT][END]
+
+#string:0E:100
+[STYLE:RIGHT][...]
+Oh no, he's awake!
+[PAUSE:0A][...]
+We have to run![WAIT][END]
+
+#string:0E:101
+[STYLE:RIGHT][...]
+{StartFX:Wavy}Hey, you! Thief! Stop![WAIT][END]
+
+#string:0E:102
+[STYLE:RIGHT][...]
+{StartFX:Wavy}Bahh ha ha ha ha!
+[PAUSE:0A][...]
+Caught you, thief!
+{EndFX:Wavy}[WAIT][NEXT][...]
+It's not nice to sneak around in
+someone's room!
+[WAIT][NEXT][...]
+{Func_04}{StartFX:Shrinking}You must be punished!!
+[WAIT][NEXT][...]
+Now you'll see how terrifying  
+Invincible Tubba Blubba is![WAIT][END]
+
+#string:0E:103
+[STYLE:RIGHT][...]
+{StartFX:Wavy}Bah ha ha ha ha!
+{EndFX:Wavy}[PAUSE:0A]That wimpy little attack [PAUSE:05]doesn't
+[PAUSE:03][...]
+hurt me at all!!
+[WAIT][NEXT][...]
+{Func_04}Now it's my turn!![WAIT][END]
+

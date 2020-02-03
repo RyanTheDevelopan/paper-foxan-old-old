@@ -1,0 +1,3452 @@
+#string:10:000
+[STYLE:RIGHT][...]
+If you want me to take you back
+to Toad Town, just ask.[WAIT][END]
+
+#string:10:001
+[STYLE:RIGHT][...]
+Yes, well. [PAUSE:0A]Finally made it, eh?
+[PAUSE:0A][...]
+So this is Lavalava Island...
+[PAUSE:0A][...]
+Smashing![WAIT][END]
+
+#string:10:002
+[STYLE:RIGHT][...]
+Gracious! [PAUSE:0A]Behold, Mario!
+[PAUSE:0A][...]
+There! Off in the distance!
+The top of Mt. Lavalava!
+[WAIT][NEXT][...]
+Triumphant! [PAUSE:05]We must hurry!
+[PAUSE:0A][...]
+Make haste![WAIT][END]
+
+#string:10:003
+[STYLE:RIGHT][...]
+Do you want to go back to Toad
+Town?
+{Func_04}[END]
+
+#string:10:004
+[NEXT][...]
+Back to the sea!
+[PAUSE:0A][...]
+Splooooooosh!![WAIT][END]
+
+#string:10:005
+[NEXT][...]
+If you want me to take you back
+to Toad Town, just ask.[WAIT][END]
+
+#string:10:006
+[STYLE:RIGHT][...]
+Well, well. Mario, old boy!
+[PAUSE:0A][...]
+Certainly took your time, eh?
+[PAUSE:0A][...]
+Let's head back together, hm?[WAIT][END]
+
+#string:10:007
+[STYLE:RIGHT][...]
+What a heady adventure!
+[PAUSE:0A][...]
+Adieu, Lavalava Island!
+[PAUSE:0A][...]
+Perchance someday I shall
+return to your shores![WAIT][END]
+
+#string:10:008
+[STYLE:RIGHT][...]
+{StartFX:Shrinking}{StartFX:Jitter}Wooooooooooooooooooooooh!![WAIT][END]
+
+#string:10:009
+[STYLE:RIGHT][...]
+Wheeze wheeze wheeze...
+[WAIT][NEXT][...]
+Yes! I...cough...did it!
+[PAUSE:0A][...]
+I swam...all the way![WAIT][END]
+
+#string:10:00A
+[STYLE:RIGHT][...]
+All right, Mario!
+[PAUSE:0A][...]
+Now I'm going to give you a
+beating you'll never...[WAIT][END]
+
+#string:10:00B
+[STYLE:RIGHT][...]
+What!? Wait!
+[PAUSE:0A][...]
+Where are you going!
+[PAUSE:0A][...]
+Wait! Mario, wait up!!
+[WAIT][NEXT][...]
+Come back here, you chicken![WAIT][END]
+
+#string:10:00C
+[STYLE:RIGHT][...]
+{StartFX:Shrinking}{StartFX:Jitter}Shooooooooooooooooooooot!!
+[PAUSE:0F][...]
+[END]
+
+#string:10:00D
+[STYLE:RIGHT][...]
+{StartFX:Shrinking}{StartFX:Jitter}{Size:20:20}Yaaaaaaargh!
+{SizeReset}[PAUSE:0A]Help, I say! Heeeeeelp![WAIT][END]
+
+#string:10:00E
+[STYLE:RIGHT][...]
+Ow! Mario!
+[PAUSE:0A][...]
+You're supposed to attack the
+other guy, old bean!
+[WAIT][NEXT][...]
+Do you have issues with me?
+A bit of jealousy, perhaps?[WAIT][END]
+
+#string:10:00F
+[STYLE:RIGHT][...]
+Phew... You saved me!
+[PAUSE:0A][...]
+Many thanks, old chum.
+[WAIT][NEXT][...]
+Well, enough of that!
+[PAUSE:05][...]
+Let's pull ourselves together
+and press on, what say?[WAIT][END]
+
+#string:10:010
+[STYLE:RIGHT][...]
+{StartFX:Shrinking}Yaaah! Get off! Aaaaaah!![WAIT][END]
+
+#string:10:011
+[STYLE:RIGHT][...]
+Dear me! I barely got away...
+[PAUSE:0A][...]
+[WAIT][NEXT][...]
+[PAUSE:0A][...]
+That was rather rude, Mario!
+[PAUSE:05][...]
+Leaving me like that! Hmph!
+[PAUSE:0A][...]
+[WAIT][NEXT][...]
+[PAUSE:0A][...]
+Well, we can't all be heroes...
+[PAUSE:05][...]
+Let's press on, hm?[WAIT][END]
+
+#string:10:012
+[STYLE:RIGHT][...]
+I swear, all of these natives are
+so panicky that we can't get
+any information!
+[WAIT][NEXT][...]
+I guess someone had better solve
+their problem so we can quiz
+them, eh, old boy?[WAIT][END]
+
+#string:10:013
+[STYLE:RIGHT][...]
+Mario, old man,
+[PAUSE:0A][...]
+the Village Leader was just
+looking for you.
+[WAIT][NEXT][...]
+I'd say he wants to thank you.
+[PAUSE:0A][...]
+Better hurry, hm?
+[WAIT][NEXT][...]
+He might just tell you where the
+treasure is if he's feeling
+thankful enough![WAIT][END]
+
+#string:10:014
+[STYLE:RIGHT][...]
+Well, well...finally.
+[PAUSE:0A][...]
+Everyone's calmed a bit.
+[WAIT][NEXT][...]
+Now we can get some good
+information about treasure from
+these locals.
+[WAIT][NEXT][...]
+Well... Where to start...[WAIT][END]
+
+#string:10:015
+[STYLE:RIGHT][...]
+We simply must go search for
+that treasure at the volcano.[WAIT][END]
+
+#string:10:016
+[STYLE:RIGHT][...]
+I must get my hands on the
+volcano's treasure!
+[WAIT][NEXT][...]
+My keen intuition senses that
+there must be a way!
+[WAIT][NEXT][...]
+Hmmm...
+[PAUSE:0A][...]
+I suppose there's a slim chance
+it was blown clear in the
+eruption...
+[WAIT][NEXT][...]
+I'd best check around the village
+for some clues.[WAIT][END]
+
+#string:10:017
+[STYLE:RIGHT][...]
+Hm?
+[WAIT][NEXT][...]
+You know, dear boy, I couldn't
+help but notice you holding
+something resembling treasure.[WAIT][END]
+
+#string:10:018
+[STYLE:RIGHT][...]
+Mario! Good heavens!
+[PAUSE:0A][...]
+It's the treasure!
+[PAUSE:14][...]
+How on earth did you...
+[WAIT][NEXT][...]
+[PAUSE:0A][...]
+...well, I suppose that's of no
+consequence right now. You're
+giving it to me?[WAIT][END]
+
+#string:10:019
+[STYLE:RIGHT][...]
+You...you are giving it to me?!
+[PAUSE:0A][...]
+Oh, glory! Marvelous!!
+[WAIT][NEXT][...]
+Dear man, you are quite simply
+the cat's meow!
+[WAIT][NEXT][...]
+Cheers![WAIT][END]
+
+#string:10:01A
+[STYLE:RIGHT][...]
+Yes, hm! I suppose...
+[PAUSE:0A][...]
+It's only proper that I give this
+to you as thanks.[WAIT][END]
+
+#string:10:01B
+[STYLE:RIGHT][...]
+A Bub-ulb gave it to me while
+I was off exploring.
+[WAIT][NEXT][...]
+I'm sure it's quite a valuable
+seed, but I'm not interested in
+it at all.[WAIT][END]
+
+#string:10:01C
+[STYLE:RIGHT][...]
+Now that I've got the treasure,
+I proclaim this adventure to be
+a complete success!
+[WAIT][NEXT][...]
+What a stupendous expedition!
+[PAUSE:0A][...]
+It will be forever recorded in
+the history of archaeology!
+[WAIT][NEXT][...]
+Well, old boy, let's away!
+[PAUSE:0A][...]
+Back to Toad Town with us![WAIT][END]
+
+#string:10:01D
+[STYLE:RIGHT][...]
+You're Kolorado, correct?
+[WAIT][NEXT][...]
+The name's Parakarry. I deliver
+letters.
+[WAIT][NEXT][...]
+I believe I have one for you.
+[PAUSE:0A][...]
+Hang on a moment.[WAIT][END]
+
+#string:10:01E
+[STYLE:RIGHT][...]
+Oh...no! Confound it!
+[PAUSE:0A][...]
+I seem to have lost it!
+[PAUSE:0A][...]
+...I'm terribly sorry.[WAIT][END]
+
+#string:10:01F
+[STYLE:RIGHT][...]
+Another letter, duly delivered.
+A postman's job is never done.[WAIT][END]
+
+#string:10:020
+[STYLE:RIGHT][...]
+Oh, good show!
+[PAUSE:0F][...]
+It's a letter from my wife.
+[WAIT][NEXT][...]
+Thank you ever so, old chap.
+[PAUSE:0F][...]
+This is just what I needed to
+give me the strength to go on.
+[WAIT][NEXT][...]
+[PAUSE:0A][...]
+...I know!
+[PAUSE:0A][...]
+I'll pass this along as a spot of
+thanks.
+[WAIT][NEXT][...]
+I came across it while I was
+wandering about the jungle
+researching things.[WAIT][END]
+
+#string:10:021
+[STYLE:RIGHT][...]
+Welcome to you, Mario.
+[PAUSE:0A][...]
+I am the Village Leader of 
+Yoshi's Village.
+[WAIT][NEXT][...]
+[PAUSE:0A][...]
+...Ah, you come seeking help.
+[PAUSE:0A][...]
+You wish to go to Mt. Lavalava,
+do you?
+[WAIT][NEXT][...]
+Mmmm...
+[PAUSE:0A][...]
+The entrance to the volcano is
+in the jungle, but it's very
+difficult to get to it.
+[WAIT][NEXT][...]
+The volcano has awakened, as
+well. I think it may be too
+dangerous for you to go there.[WAIT][END]
+
+#string:10:022
+[STYLE:RIGHT][...]
+The entrance to the volcano is
+in the jungle, but it's very
+difficult to get to it.
+[WAIT][NEXT][...]
+The volcano has awakened, as
+well. I think it may be too
+dangerous for you to go there.[WAIT][END]
+
+#string:10:023
+[STYLE:RIGHT][...]
+Mario, I must thank you.
+[WAIT][NEXT][...]
+You have saved the children of
+the village. I feel that no
+expression of our gratitude
+could be enough.
+[WAIT][NEXT][...]
+You truly are a hero.
+[PAUSE:0A][...]
+We deeply appreciate your valor.
+[WAIT][NEXT][...]
+At least I can do this...
+[PAUSE:0A][...]
+You still wish to go to Mt.
+Lavalava, don't you?
+[WAIT][NEXT][...]
+I have remembered a good way to
+reach the volcano.
+[WAIT][NEXT][...]
+Please come this way.[WAIT][END]
+
+#string:10:024
+[STYLE:RIGHT][...]
+Mario, I must thank you.
+[WAIT][NEXT][...]
+You have saved the children of
+the village. I feel that no
+expression of our gratitude
+could be enough.
+[WAIT][NEXT][...]
+You truly are a hero.
+[PAUSE:0A][...]
+We deeply appreciate your valor.
+[WAIT][NEXT][...]
+I have heard from your
+companion, Kolorado, that you
+wish to go to Mt. Lavalava.
+[WAIT][NEXT][...]
+Since you have blessed our
+village with your kindness, I will
+show you the best way to reach
+the volcano.
+[WAIT][NEXT][...]
+Please come this way.[WAIT][END]
+
+#string:10:025
+[STYLE:RIGHT][...]
+Huh[PAUSE:03].[PAUSE:03].[PAUSE:03].? [PAUSE:03]I thought it was[PAUSE:03].[PAUSE:03].[PAUSE:03].
+[PAUSE:08][...]
+somewhere around here...[WAIT][END]
+
+#string:10:026
+[STYLE:RIGHT][...]
+Oh, yes. I found it. Here it is.
+[PAUSE:0A][...]
+Take it, please.[WAIT][END]
+
+#string:10:027
+[STYLE:RIGHT][...]
+Whenever events beyond our
+control occur on this island, we
+ask the help of Raphael the
+Raven, the island's master.
+[WAIT][NEXT][...]
+If anyone can help you reach the
+volcano, it's definitely Raphael
+the Raven. He lives in the depths
+of this island.
+[WAIT][NEXT][...]
+If you place that Jade Raven
+into the statue of Raphael, the
+way into the depths of the
+jungle will appear.
+[WAIT][NEXT][...]
+I haven't been to see Raphael
+since I was but a young Yoshi.
+[WAIT][NEXT][...]
+I remember that it was
+incredibly difficult to find him
+because the jungle's trees and
+shrubs covered the way.
+[WAIT][NEXT][...]
+I'm sure you'll find the path.
+[PAUSE:0F][...]
+May all your wishes come true.[WAIT][END]
+
+#string:10:028
+[STYLE:RIGHT][...]
+Wait just one minute...
+[PAUSE:0A][...]
+You must have one heck of a
+story behind you, Mario.
+[WAIT][NEXT][...]
+Why in the world would you want
+to go to Mt. Lavalava?
+[WAIT]{Func_04}[END]
+
+#string:10:029
+[STYLE:RIGHT][...]
+Wait just one minute...
+[WAIT]{Func_04}[END]
+
+#string:10:02A
+[NEXT][...]
+Why in the world would you want
+to go to Mt. Lavalava?
+[WAIT][NEXT][...]
+I'm sorry, but I can't just keep
+my mouth shut when I hear
+someone talking crazy.
+[WAIT]{Func_04}[END]
+
+#string:10:02B
+[NEXT][...]
+It's VERY hot and VERY 
+dangerous in the volcano!
+[WAIT][NEXT][...]
+If you aren't extremely careful
+AND lucky, you'll be roasted to
+a golden brown.
+[WAIT][NEXT][...]
+But you don't care. You guys are
+going there anyway!
+[PAUSE:05][...]
+I do NOT approve of this![WAIT][END]
+
+#string:10:02C
+[STYLE:RIGHT][...]
+Uh-huh... Oh... Oh!
+[WAIT][NEXT][...]
+You're going to the volcano
+because you want to save the
+princess from some bad guys?
+[WAIT][NEXT][...]
+What...a touching story!
+[PAUSE:0A][...]
+Romantic stories like that...
+just touch a soft spot in this
+heart of mine.
+[PAUSE:0A][...]
+[WAIT][NEXT][...]
+[PAUSE:0A][...]
+That does it! I can't let you go
+alone! I, Sushie, will be by your
+side until the end!
+[WAIT][NEXT][...]
+You needn't worry, Mario! I love
+taking care of others!
+[WAIT][NEXT][...]
+If you plan on getting through
+this jungle, you need me anyway.
+[WAIT][NEXT][...]
+Come, Mario! [PAUSE:0A]That volcano isn't
+getting any cooler! [WAIT][END]
+
+#string:10:02D
+[STYLE:RIGHT][...]
+If you put that Jade Raven into
+the statue of Raphael, the way
+into the depths of the jungle
+will appear.
+[WAIT][NEXT][...]
+Since trees and bushes have
+grown over the path, you might
+get lost.
+[WAIT][NEXT][...]
+If you do, just be sure to scout
+the area carefully.
+[PAUSE:0A][...]
+You might have to do something
+unexpected to find your way.[WAIT][END]
+
+#string:10:02E
+[STYLE:RIGHT][...]
+So, Raphael the Raven granted
+you an audience, did he?
+[PAUSE:0A][...]
+I'm not surprised, Mario.
+[WAIT][NEXT][...]
+You saved the children... 
+You are one of the honored
+members of this island now.
+[WAIT][NEXT][...]
+The great Raphael probably
+thought so, too.[WAIT][END]
+
+#string:10:02F
+[STYLE:RIGHT][...]
+Please don't tell Kolorado about
+Raphael the Raven or the way to
+the volcano.
+[WAIT][NEXT][...]
+That Koopa's a bit loopy. I
+shudder to think what he'd do.
+[PAUSE:0A][...]
+I must say I worry he'd harm
+himself inside the volcano.[WAIT][END]
+
+#string:10:030
+[STYLE:RIGHT][...]
+I see you are finally going to
+brave the volcano.
+[PAUSE:0A][...]
+Please be careful, Mario...
+[WAIT][NEXT][...]
+If you don't watch your step,
+you'll get burned.[WAIT][END]
+
+#string:10:031
+[STYLE:RIGHT][...]
+The volcano is dangerous.
+[PAUSE:0A][...]
+Don't push yourself too hard.
+[WAIT][NEXT][...]
+If you start getting weak, come
+relax at the village.
+[WAIT][NEXT][...]
+After all, Lavalava Island is
+just the spot for relaxation.[WAIT][END]
+
+#string:10:032
+[STYLE:RIGHT][...]
+Mt. Lavalava just started
+erupting, Mario!
+[WAIT][NEXT][...]
+It's my belief that the volcano
+got angry because Bowser's men
+were fiddling about inside.
+[WAIT][NEXT][...]
+I'm glad you made it out![WAIT][END]
+
+#string:10:033
+[STYLE:RIGHT][...]
+Mt. Lavalava is becoming less
+active every day.
+[PAUSE:0A][...]
+We don't have to worry about
+lava-proofing the village.[WAIT][END]
+
+#string:10:034
+[STYLE:RIGHT][...]
+The Village Leader is my friend.
+[PAUSE:0A][...]
+I mean, hello! How are you?
+{Func_04}[WAIT][NEXT][...]
+But anyway, ever since he was
+a child, the Village Leader has
+had a very strong sense of
+personal responsibility.
+[WAIT][NEXT][...]
+When I heard he was going to be
+the Village Leader, I wasn't
+surprised at all.[WAIT][END]
+
+#string:10:035
+[STYLE:RIGHT][...]
+The Village Leader used to get
+into all sorts of mischief when
+he was younger. He used to give
+his parents fits!
+[WAIT][NEXT][...]
+The jungle wasn't as dangerous
+back then as it is now.
+[WAIT][NEXT][...]
+He used to climb trees, throw
+rocks, tease Ravens...
+[PAUSE:0F][...]
+You name some mischief, and I
+guarantee you he did it.
+[WAIT][NEXT][...]
+...Heh heh.
+[PAUSE:0A][...]
+Maybe you'd better not tell him
+I told you all that stuff.[WAIT][END]
+
+#string:10:036
+[STYLE:RIGHT][...]
+Aah! No! Oh, no!
+[PAUSE:0A][...]
+The village...there's...big trouble
+at the village!
+[WAIT][NEXT][...]
+Please, ask the Village Leader
+about what's happened.
+[PAUSE:0A][...]
+I don't dare talk about it![WAIT][END]
+
+#string:10:037
+[STYLE:RIGHT][...]
+Oh, Mario! Please!
+[PAUSE:0A][...]
+Find those poor children!
+[WAIT][NEXT][...]
+The Yoshi Kids from this village
+are like grandchildren to me.
+[PAUSE:0A][...]
+Oh, those poor babies...[WAIT][END]
+
+#string:10:038
+[STYLE:RIGHT][...]
+I don't know how to thank you
+for saving the children!
+[PAUSE:0A][...]
+You've done a great thing.
+[WAIT][NEXT][...]
+The Village Leader said there's
+something he wants to give you,
+you know.
+[WAIT][NEXT][...]
+He's waiting for you over there.[WAIT][END]
+
+#string:10:039
+[STYLE:RIGHT][...]
+Hello, Mario.
+[PAUSE:0A][...]
+We owe you a deep debt for
+saving our sweet children.
+[WAIT][NEXT][...]
+Please think of this village as if
+it were your home.
+[PAUSE:0A][...]
+We will always welcome you.[WAIT][END]
+
+#string:10:03A
+[STYLE:RIGHT][...]
+You went into Mt. Lavalava?
+How brave you are, Mario!
+[WAIT][NEXT][...]
+The Village Leader and I went up
+to the volcano a long time ago,
+but I never thought about going
+inside![WAIT][END]
+
+#string:10:03B
+[STYLE:RIGHT][...]
+It's really rare for Mt.
+Lavalava to erupt.
+[PAUSE:0A][...]
+It really caught me off guard.
+[WAIT][NEXT][...]
+It once erupted when the Village
+Leader and I were kids.
+[WAIT][NEXT][...]
+I was surprised then, too. I
+thought that the sky and earth
+were trading places.
+[WAIT][NEXT][...]
+...Hey. Don't tell anyone, but
+[PAUSE:0A][...]
+the Village Leader couldn't even
+move because he was paralyzed
+with terror. Ha ha![WAIT][END]
+
+#string:10:03C
+[STYLE:RIGHT][...]
+Hi, Mario! What an unexpected
+pleasure!
+[WAIT][NEXT][...]
+How's your adventure going?
+[PAUSE:0A][...]
+I hope you'll have time to relax
+while you're on the island.[WAIT][END]
+
+#string:10:03D
+[STYLE:RIGHT][...]
+Hi! Hello. Howdy!
+[PAUSE:0A][...]
+This is Yoshi's Village.
+[WAIT][NEXT][...]
+Mt. Lavalava, you say?
+[WAIT][NEXT][...]
+Well, the volcano is just to the
+east of our village, but there's
+no way to reach it.
+[WAIT][NEXT][...]
+Besides, the Village Leader said
+it's best not to get too close
+because it looks like it might
+erupt any day.[WAIT][END]
+
+#string:10:03E
+[STYLE:RIGHT][...]
+Oh, no! Someone help!
+[PAUSE:0A][...]
+Emergency! Eeeemergency!
+[PAUSE:0A][...]
+The kids are gone!
+[WAIT][NEXT][...]
+I looked along the shore, but
+there was no trace of them!
+[WAIT][NEXT][...]
+Oh, where could they be...?
+[PAUSE:0A][...]
+What if they're in trouble in the
+jungle somewhere?[WAIT][END]
+
+#string:10:03F
+[STYLE:RIGHT][...]
+Oh, no! Someone help!
+[PAUSE:0A][...]
+Emergency! Eeeemergency!
+[PAUSE:0A][...]
+The kids are gone!
+[WAIT][NEXT][...]
+I looked along the shore, but
+there was no trace of them!
+[WAIT][NEXT][...]
+Oh, where could they be...?
+[PAUSE:0A][...]
+What if they're in trouble in the
+jungle somewhere?[WAIT][END]
+
+#string:10:040
+[STYLE:RIGHT][...]
+Wandering around in the jungle 
+without any adults...
+[WAIT][NEXT][...]
+I wonder where my poor son
+could be...
+[WAIT][NEXT][...]
+I'm worried sick about him.
+Where would he hide?
+[WAIT][NEXT][...]
+Mario, please find my son![WAIT][END]
+
+#string:10:041
+[STYLE:RIGHT][...]
+My son is back!
+[PAUSE:0A][...]
+Oh, I'm so relieved.
+[PAUSE:0A][...]
+I was really starting to worry.
+[WAIT][NEXT][...]
+Please, Mario, find the other
+lost children, OK?[WAIT][END]
+
+#string:10:042
+[STYLE:RIGHT][...]
+Thanks to you, the kids are all
+back, safe and sound.
+[PAUSE:0A][...]
+Oh, thank you so much!
+[WAIT][NEXT][...]
+Our Village Leader said he wants
+to thank you personally.
+[PAUSE:0A][...]
+Go see him, please![WAIT][END]
+
+#string:10:043
+[STYLE:RIGHT][...]
+I'm glad the kids are back 
+safely, but...
+[WAIT][NEXT][...]
+they're causing mischief again.
+Children can be so troublesome![WAIT][END]
+
+#string:10:044
+[STYLE:RIGHT][...]
+That eruption was terrible! 
+It went... KA-WHOOMP!!
+[PAUSE:0A][...]
+I've never seen anything like
+that before, that's for sure!
+[WAIT][NEXT][...]
+I don't think the lava will come
+near the village, 
+[PAUSE:0A][...]
+but it's still kind of unnerving.[WAIT][END]
+
+#string:10:045
+[STYLE:RIGHT][...]
+Every time we adults turn our
+backs for a second, the kids
+start getting into trouble.
+[WAIT][NEXT][...]
+Do you think I should wish to the
+Stars that they become well-
+behaved, model children?
+[WAIT][NEXT][...]
+Somehow I think that wish is
+beyond the power of the Star
+Spirits...[WAIT][END]
+
+#string:10:046
+[STYLE:RIGHT][...]
+Hey there, Mario.
+[PAUSE:0A][...]
+Have you met the Ravens yet?
+They live at the top of the
+biggest tree in the village.
+[WAIT][NEXT][...]
+There are lots of them, but they
+never come down.
+[PAUSE:0A][...]
+They speak a different language
+from ours, too.
+[WAIT][NEXT][...]
+Pretty mysterious, huh?
+[WAIT][NEXT][...]
+Everyone says they're the
+disciples of the master of this
+island, Raphael the Raven,
+but... [PAUSE:0A]Do you really think so?[WAIT][END]
+
+#string:10:047
+[STYLE:RIGHT][...]
+Oh, man! What're we gonna do?
+The kids have disappeared!
+[PAUSE:0A][...]
+Aw, what should we do?
+We've gotta do something!
+[WAIT][NEXT][...]
+OK, calm down... Get ahold of
+yourself... We should consult
+the Village Leader...
+[WAIT][NEXT][...]
+...Yes, the Leader'll know...[WAIT][END]
+
+#string:10:048
+[STYLE:RIGHT][...]
+Oh, man! What're we gonna do?
+The kids have disappeared!
+[PAUSE:0A][...]
+Aw, what should we do?
+We've gotta do something!
+[WAIT][NEXT][...]
+OK, calm down... Get ahold of
+yourself... We should consult
+the Village Leader...
+[WAIT][NEXT][...]
+...Yes, the Leader'll know...[WAIT][END]
+
+#string:10:049
+[STYLE:RIGHT][...]
+Playing hide-and-seek? 
+[PAUSE:0A][...]
+He should know better than to
+play that in the jungle!
+[WAIT][NEXT][...]
+He could be stranded on some
+remote little islet right now,
+crying his head off.
+[WAIT][NEXT][...]
+Oh, how terrible... I'm so
+worried...[WAIT][END]
+
+#string:10:04A
+[STYLE:RIGHT][...]
+Thank you for finding my son!
+[PAUSE:0A][...]
+Please, if you could, find the
+other boys as well.
+[WAIT][NEXT][...]
+Oh, that little monster...
+[PAUSE:0A][...]
+I thought he'd been unusually
+quiet recently. Just look what
+he was planning!
+[WAIT][NEXT][...]
+I'm going to give him a scolding
+he'll never forget![WAIT][END]
+
+#string:10:04B
+[STYLE:RIGHT][...]
+Those boys promised they'd
+never go into the jungle alone...
+[WAIT][NEXT][...]
+Little troublemakers...
+[PAUSE:0A][...]
+This could have turned into a
+serious situation if you hadn't
+found them, Mario.
+[WAIT][NEXT][...]
+You wouldn't believe the scolding
+I gave them. They ought to
+behave themselves for a while.
+[PAUSE:0A][...]
+At least I hope they do.[WAIT][END]
+
+#string:10:04C
+[STYLE:RIGHT][...]
+Those boys promised they'd
+never go into the jungle alone...
+[WAIT][NEXT][...]
+Little troublemakers...
+[PAUSE:0A][...]
+This could have turned into a
+serious situation if you hadn't
+found them, Mario.
+[WAIT][NEXT][...]
+You wouldn't believe the scolding
+I gave them. They ought to
+behave themselves for a while.
+[PAUSE:0A][...]
+At least I hope they do.[WAIT][END]
+
+#string:10:04D
+[STYLE:RIGHT][...]
+I remember there was this huge
+sound like KER-FWAANG!... and
+then the earth shook...
+[WAIT][NEXT][...]
+I never really believed that
+Mt. Lavalava would erupt.
+[WAIT][NEXT][...]
+I guess I should've listened
+when the Village Leader said it
+looked like it would erupt.
+I hope it never does again![WAIT][END]
+
+#string:10:04E
+[STYLE:RIGHT][...]
+Oh, Mario!
+[PAUSE:0A][...]
+Is something bad happening?
+[WAIT][NEXT][...]
+I feel like you only show up
+where there's danger.
+[PAUSE:0A][...]
+Ha ha...maybe not always.
+[WAIT][NEXT][...]
+Good luck on your adventures.[WAIT][END]
+
+#string:10:04F
+[STYLE:RIGHT][...]
+Well, well... [PAUSE:05]Hello!
+[PAUSE:0A][...]
+If it isn't Mario!
+[PAUSE:0A][...]
+Welcome to Lavalava Island!
+[WAIT][NEXT][...]
+This island's almost entirely
+covered by a thick jungle.
+[PAUSE:0A][...]
+Still, how can you beat living
+in this tropical climate?[WAIT][END]
+
+#string:10:050
+[STYLE:RIGHT][...]
+Oh! We have a huge problem!
+The children have disappeared!
+[WAIT][NEXT][...]
+Well! What should I...?
+Hmm...oh...what'll...no...
+Village Leader...should...
+[WAIT][NEXT][...]
+Auuugh! I can't explain![WAIT][END]
+
+#string:10:051
+[STYLE:RIGHT][...]
+Oh! We have a huge problem!
+The children have disappeared!
+[WAIT][NEXT][...]
+Well! What should I...?
+Hmm...oh...what'll...no...
+Village Leader...should...
+[WAIT][NEXT][...]
+Auuugh! I can't explain![WAIT][END]
+
+#string:10:052
+[STYLE:RIGHT][...]
+Where on earth could my son be!
+[PAUSE:0A][...]
+Oh, if we don't find him soon,
+he might be in grave danger...
+[WAIT][NEXT][...]
+No... I know my son. Probably
+sleeping in some tree somewhere.
+[WAIT][NEXT][...]
+Mario, please find my son next![WAIT][END]
+
+#string:10:053
+[STYLE:RIGHT][...]
+Aw, Mario! Thank you!
+[PAUSE:0A][...]
+I can't tell you how relieved I
+felt when I saw my son's face.
+[WAIT][NEXT][...]
+...I shouldn't say that so loud.
+[PAUSE:0A][...]
+There are still kids out there,
+lost in the jungle.
+[WAIT][NEXT][...]
+Please, you have to find them!
+[PAUSE:0A][...]
+I hope they aren't somewhere
+scary, alone and afraid...[WAIT][END]
+
+#string:10:054
+[STYLE:RIGHT][...]
+I'm so glad the kids are safely
+back from that dangerous
+jungle...
+[WAIT][NEXT][...]
+We owe you, Mario!
+[WAIT][NEXT][...]
+The kids seemed like they got
+scared by the experience, but
+[PAUSE:05][...]
+they still didn't learn anything.
+[WAIT][NEXT][...]
+Sigh...[WAIT][END]
+
+#string:10:055
+[STYLE:RIGHT][...]
+The kids looked shaken up when
+they first got back from the
+jungle, but they're OK now.
+[WAIT][NEXT][...]
+They didn't learn their lesson.
+Those little scamps.
+[WAIT][NEXT][...]
+Still... I can't be angry at them.
+I'm so happy they're safe.
+[PAUSE:0A][...]
+It's all thanks to you.[WAIT][END]
+
+#string:10:056
+[STYLE:RIGHT][...]
+I was taking a nap and all of
+a sudden I heard a KAABOOOOM,
+and the earth started shaking
+like it was gonna split open!
+[WAIT][NEXT][...]
+I never believed any of the
+eruption rumors,
+[WAIT][NEXT][...]
+so I thought the entire island
+was moving somewhere.
+[PAUSE:0A][...]
+That was no fun at all.[WAIT][END]
+
+#string:10:057
+[STYLE:RIGHT][...]
+Hello again!
+[PAUSE:0A][...]
+Just couldn't stay away from
+scenic Lavalava Island, huh?
+[WAIT][NEXT][...]
+The kids will be really happy.
+[PAUSE:0A][...]
+Why don't you say hi to them?[WAIT][END]
+
+#string:10:058
+[STYLE:RIGHT][...]
+Oh, it's so rare to have visitors
+these days.
+[PAUSE:0A][...]
+I'd love to stop and chat, but
+I have my fins full.
+[WAIT][NEXT][...]
+I'm watching these boys, who are
+very, VERY naughty, so they
+don't do anything dangerous.
+[WAIT][NEXT][...]
+I can't prove it yet, but I bet
+they're planning something...
+[WAIT][NEXT][...]
+Well, if they think they can fool
+Sushie, they'd better think
+again![WAIT][END]
+
+#string:10:059
+[STYLE:RIGHT][...]
+I'm watching these boys, who are
+very, VERY naughty, so they
+don't do anything dangerous.
+[WAIT][NEXT][...]
+I can't prove it yet, but I bet
+they're planning something...
+[WAIT][NEXT][...]
+Well, if they think they can fool
+Sushie, they'd better think
+again![WAIT][END]
+
+#string:10:05A
+[STYLE:RIGHT][...]
+Oh, welcome!
+[PAUSE:0A][...]
+We don't get visitors to this
+island very often.
+[WAIT][NEXT][...]
+You should know that the jungle
+beyond here is dangerous.
+[PAUSE:0A][...]
+Our kids are forbidden to go in.
+[WAIT][NEXT][...]
+Oh, and by the way, I just saw
+a Koopa guy who calls himself
+an archaeologist running in the 
+opposite direction...
+[WAIT][NEXT][...]
+He was saying something about
+finding a way to the volcano.
+[PAUSE:0A][...]
+Now there's a guy who's heading
+for danger...[WAIT][END]
+
+#string:10:05B
+[STYLE:RIGHT][...]
+It's terrible! Just terrible!
+[PAUSE:0A][...]
+The kids are all gone!
+[WAIT][NEXT][...]
+We told them a thousand times
+never go into the jungle!
+[WAIT][NEXT][...]
+Sushie went after them! She's a
+Cheep Cheep who always takes
+care of the kids.
+[WAIT][NEXT][...]
+How could this have happened!
+[PAUSE:0A][...]
+There must be a reason!
+[WAIT][NEXT][...]
+Mario, please! Please help!
+[PAUSE:0A][...]
+Look for the kids![WAIT][END]
+
+#string:10:05C
+[STYLE:RIGHT][...]
+It's terrible! Just terrible!
+[PAUSE:0A][...]
+The kids are all gone!
+[WAIT][NEXT][...]
+We told them a thousand times
+never go into the jungle!
+[WAIT][NEXT][...]
+Sushie went after them! She's a
+Cheep Cheep who always takes
+care of the kids.
+[WAIT][NEXT][...]
+How could this have happened!
+[PAUSE:0A][...]
+There must be a reason!
+[WAIT][NEXT][...]
+Mario, please! Please help!
+[PAUSE:0A][...]
+Look for the kids![WAIT][END]
+
+#string:10:05D
+[STYLE:RIGHT][...]
+Ohhhhh...
+[PAUSE:0A][...]
+Where could my kid have gone!?
+[WAIT][NEXT][...]
+I hope he wasn't playing on any
+spinning flowers.
+[WAIT][NEXT][...]
+When you spin on those flowers,
+you'll fly up into the air. Who
+knows where you'll come down![WAIT][END]
+
+#string:10:05E
+[STYLE:RIGHT][...]
+Thank you for finding my son!
+[WAIT][NEXT][...]
+He's a bad boy for making
+everybody worry so. Very bad!
+[WAIT][NEXT][...]
+I'm still worried about the other
+boys, too...
+[WAIT][NEXT][...]
+There are so many dangers in
+the jungle...so many creatures
+with evil hearts...[WAIT][END]
+
+#string:10:05F
+[STYLE:RIGHT][...]
+Everyone has finally calmed down
+since you found the kids.
+[WAIT][NEXT][...]
+Thank you, thank you!
+[PAUSE:0A][...]
+Children are treasured by
+everyone in the village.
+[WAIT][NEXT][...]
+That reminds me... The Village
+Leader wishes to thank you.
+[PAUSE:0A][...]
+You should go over to see him.[WAIT][END]
+
+#string:10:060
+[STYLE:RIGHT][...]
+Everyone has finally calmed down
+since you found the kids.
+[WAIT][NEXT][...]
+Thank you, thank you!
+[PAUSE:0A][...]
+Children are treasured by
+everyone in the village.[WAIT][END]
+
+#string:10:061
+[STYLE:RIGHT][...]
+Oh, Mario, you're OK!
+[PAUSE:0A][...]
+After that huge eruption, we
+wondered if you made it out.
+[WAIT][NEXT][...]
+The Village Leader claims that
+Bowser's men heated up the
+volcano too much so it blew.
+[WAIT][NEXT][...]
+I could do without such scary
+natural disasters, thank you.[WAIT][END]
+
+#string:10:062
+[STYLE:RIGHT][...]
+Hi, Mario!
+[PAUSE:05][...]
+Welcome back!
+[WAIT][NEXT][...]
+How are things on the mainland?
+[PAUSE:0A][...]
+Our children love to hear stories
+from afar...and I guess I kind
+of do, too.[WAIT][END]
+
+#string:10:063
+[STYLE:RIGHT][...]
+How are you, Mario?
+[PAUSE:0A][...]
+Hey, have you talked with the 
+Cheep Cheep over there yet?
+[WAIT][NEXT][...]
+She's famous around here for
+being a great baby-sitter. Her
+name is Sushie.
+[WAIT][NEXT][...]
+She watches over the kids.
+[PAUSE:05][...]
+What would we do without her?
+[WAIT][NEXT][...]
+Sometimes the kids complain
+about her, but kids are kids.
+[WAIT][NEXT][...]
+By the way, an archaeologist 
+named Kolorado or something 
+went into the jungle alone.
+[WAIT][NEXT][...]
+He said he was making for
+Mt. Lavalava, but the path ends
+halfway there. I wonder how far
+he got...[WAIT][END]
+
+#string:10:064
+[STYLE:RIGHT][...]
+The kids are gone!
+[PAUSE:0A][...]
+The only place they could have
+gone is...gulp!...the jungle!
+[WAIT][NEXT][...]
+I had a feeling they were up to
+something lately,
+[WAIT][NEXT][...]
+but I thought it was just
+mischief! I didn't think they'd
+go into such a dangerous area!
+[WAIT][NEXT][...]
+What do we do?!
+[PAUSE:0A][...]
+How will we find them?![WAIT][END]
+
+#string:10:065
+[STYLE:RIGHT][...]
+The kids are gone!
+[PAUSE:0A][...]
+The only place they could have
+gone is...gulp!...the jungle!
+[WAIT][NEXT][...]
+I had a feeling they were up to
+something lately,
+[WAIT][NEXT][...]
+but I thought it was just
+mischief! I didn't think they'd
+go into such a dangerous area!
+[WAIT][NEXT][...]
+What do we do!?
+[PAUSE:0A][...]
+How will we find them?![WAIT][END]
+
+#string:10:066
+[STYLE:RIGHT][...]
+Where? Where are those kids?!
+[PAUSE:0A][...]
+Where could my son be?!
+[WAIT][NEXT][...]
+How deep into the jungle could
+a little kid get?
+[WAIT][NEXT][...]
+Oh, what if some nasty creature
+attacks him and...
+[PAUSE:14][...]
+Oh, I can't even think about it!
+I'm so worried![WAIT][END]
+
+#string:10:067
+[STYLE:RIGHT][...]
+Thanks for saving my son!
+[WAIT][NEXT][...]
+Really! Thanks so much!
+[PAUSE:0A][...]
+I don't want to imagine what 
+might have happened if he'd 
+stayed out there longer...
+[WAIT][NEXT][...]
+Oh, but other kids ARE still out
+there! The poor dears.
+[PAUSE:0A][...]
+Please find them, Mario.[WAIT][END]
+
+#string:10:068
+[STYLE:RIGHT][...]
+The kids are all back!
+[PAUSE:0A][...]
+I was heartbroken thinking of
+how scared and lonely they must
+have been,
+[WAIT][NEXT][...]
+but as soon as they got back,
+they just said they were hungry.
+Pfff! Kids! How typical.
+[WAIT][NEXT][...]
+I suppose it's natural for
+children to be energetic, but
+they need to be safe, too.
+[WAIT][NEXT][...]
+They never learn... Oh, by the
+way, our Village Leader wants
+to thank you.
+[PAUSE:0A][...]
+You'd better go see him.[WAIT][END]
+
+#string:10:069
+[STYLE:RIGHT][...]
+The kids are all back!
+[PAUSE:0A][...]
+I was heartbroken thinking of
+how scared and lonely they must
+have been,
+[WAIT][NEXT][...]
+but as soon as they got back,
+they just said they were hungry.
+Pfff! Kids! How typical.
+[WAIT][NEXT][...]
+I suppose it's natural for
+children to be energetic, but
+they need to be safe, too.[WAIT][END]
+
+#string:10:06A
+[STYLE:RIGHT][...]
+The eruption of Mt. Lavalava
+really threw me for a loop.
+[PAUSE:0A][...]
+I think I lost my appetite.[WAIT][END]
+
+#string:10:06B
+[STYLE:RIGHT][...]
+Hello again, Mario.
+[PAUSE:0A][...]
+Great to see you!
+[WAIT][NEXT][...]
+Eat anything tasty lately?
+[PAUSE:0A][...]
+Everyone seems jolly when they
+have something good to eat.[WAIT][END]
+
+#string:10:06C
+[STYLE:RIGHT][...]
+{StartFX:Shrinking}Mmm...? {EndFX:Shrinking}Sniff sniff...
+[WAIT][NEXT][...]
+Something smells...really good...
+[PAUSE:0F][...]
+Is that delicious smell coming
+from something you're carrying?
+[WAIT][NEXT][...]
+Whatever it is, I want to try it!
+[PAUSE:05][...]
+C'mon, what is it?[WAIT][END]
+
+#string:10:06D
+[STYLE:RIGHT][...]
+{StartFX:Shrinking}Ooh, thank you![HEART]
+{EndFX:Shrinking}It looks so good...
+[WAIT][NEXT][...]
+Oh yeah...
+[PAUSE:05][...]
+Here, why don't you take this
+as a thank-you from me.
+[WAIT][NEXT][...]
+It grows in a place that only
+I know about.
+[PAUSE:0A][...]
+Trust me--it's good![WAIT][END]
+
+#string:10:06E
+[STYLE:RIGHT][...]
+{StartFX:Shrinking}What? No!?
+{EndFX:Shrinking}Oh, lame...
+[WAIT][NEXT][...]
+Listen to my stomach growl! If
+you change your mind, bring me
+something tasty.
+[PAUSE:05][...]
+Something I've never eaten...
+[WAIT][NEXT][...]
+My belly and I are waiting![HEART][WAIT][END]
+
+#string:10:06F
+[STYLE:RIGHT][...]
+We're the Fearsome 5 of Yoshi's
+Village! Yeah!
+[PAUSE:05][...]
+We play hide-and-seek together.
+[WAIT][NEXT][...]
+We can't leave the village,
+though, so it's sorta boring.
+[PAUSE:0A][...]
+I wanna play somewhere bigger
+and more exciting!
+[WAIT][NEXT][...]
+And I wanna see the jungle!
+[WAIT][NEXT][...]
+It's dangerous, y'know!
+[PAUSE:0A][...]
+Now that'd be exciting![WAIT][END]
+
+#string:10:070
+[STYLE:RIGHT][...]
+Hey, thanks for finding me!
+[PAUSE:0A][...]
+This jungle's full of danger.
+[WAIT][NEXT][...]
+I mean, the village is boring.
+Compared to the village, the
+jungle's really exciting.
+[WAIT][NEXT][...]
+It was scary, yeah, but fun.
+[WAIT][NEXT][...]
+I guess I have to be a good boy
+for a while now.
+[PAUSE:0A][...]
+You'd better find the other guys
+soon before they get lost.[WAIT][END]
+
+#string:10:071
+[STYLE:RIGHT][...]
+The Fearsome 5 are baaaaack!
+[PAUSE:0A][...]
+We got scolded, so we'll be
+good...for now. Heh heh...
+[WAIT][NEXT][...]
+But we'll be back doing exciting
+things again soon! Yeah!
+[WAIT][NEXT][...]
+Hey, Mario, what're you doing
+now, huh? Something fun?
+[PAUSE:0A][...]
+What? You're gonna go inside the
+volcano?
+[WAIT][NEXT][...]
+Oh boy, that sounds awesome!
+[PAUSE:0A][...]
+I wish I could go, too.[WAIT][END]
+
+#string:10:072
+[STYLE:RIGHT][...]
+{StartFX:Shrinking}Kwwaaaaaa-yaaaaah!
+{EndFX:Shrinking}Ra[PAUSE:05]di[PAUSE:05]cal!
+[WAIT][NEXT][...]
+Eruptions are awesome!
+[PAUSE:0A][...]
+I was so scared and excited
+that I couldn't sit still!
+[WAIT][NEXT][...]
+Hey, Mario! Were you inside the
+volcano when it blew up? Huh?
+Were you?
+[WAIT][NEXT][...]
+Wooooowee!
+[PAUSE:0A][...]
+What was it like? Huh?
+[WAIT][NEXT][...]
+What? You're in a hurry?
+[PAUSE:0A][...]
+Oh, man. What a bummer.
+[WAIT][NEXT][...]
+You've gotta promise me you'll
+come back here someday![WAIT][END]
+
+#string:10:073
+[STYLE:RIGHT][...]
+Yes! Mario is back!
+[WAIT][NEXT][...]
+We've been waiting for you.
+[PAUSE:0A][...]
+Tell us your story now!
+[WAIT][NEXT][...]
+What exciting adventure are you
+on right now? Huh?
+[PAUSE:05][...]
+Tell us, [PAUSE:03]tell us, [PAUSE:03]tell us now![WAIT][END]
+
+#string:10:074
+[STYLE:RIGHT][...]
+Oh, [PAUSE:08]it's Mario!
+[PAUSE:0A][...]
+Hey, Mario.
+[PAUSE:14][...]
+Are you looking for adventure?
+[WAIT][NEXT][...]
+If you want, we'll go with you.
+[WAIT][NEXT][...]
+You won't have to worry at all.
+The Fearsome 5's got your back!
+[PAUSE:05][...]
+Let's go to the jungle!
+[WAIT][NEXT][...]
+We're not scared! We just can't
+ever go 'cause that meddlesome
+ol' Cheep Cheep stops us.[WAIT][END]
+
+#string:10:075
+[STYLE:RIGHT][...]
+We just wanted to go somewhere
+exciting where there were no
+grown-ups and where we could do
+whatever we wanted. See?
+[WAIT][NEXT][...]
+I mean, so we went into the
+jungle and all, but
+[PAUSE:0A][...]
+it was scary, and there were
+bad guys, and I got tired...
+[WAIT][NEXT][...]
+I'll be good...for now.
+[WAIT][NEXT][...]
+I'm sorry if people worried.
+[PAUSE:0A][...]
+I'm glad you found me.[WAIT][END]
+
+#string:10:076
+[STYLE:RIGHT][...]
+The Fearsome 5 are baaaack!
+[PAUSE:0A][...]
+When all of us are together, we
+fear nothing and nobody!
+[WAIT][NEXT][...]
+Sure, the jungle was scary, but
+did we have fun? Oh, yeah!
+[WAIT][NEXT][...]
+I think it's time for another
+adventure of the Fearsome 5![WAIT][END]
+
+#string:10:077
+[STYLE:RIGHT][...]
+{StartFX:Shrinking}{StartFX:Wavy}Hoooooo Waaaaaah!!!
+{EndFX:Wavy}{EndFX:Shrinking}[PAUSE:05]All [PAUSE:03]right! [PAUSE:04]Grrrrrrreat!!!
+[WAIT][NEXT][...]
+Did you see that fire blow out
+of the mountain?
+[PAUSE:05][...]
+{StartFX:Shrinking}Da[PAUSE:03]zzzzzzzzzzzzzzzzzling!!
+[WAIT][NEXT][...]
+Something else flew out, too.
+[WAIT][NEXT][...]
+Looks like checking it out is a
+job for the Fearsome 5!
+[WAIT][NEXT][...]
+But... I guess we can't.
+[WAIT][NEXT][...]
+Until I get bigger, I guess I'll
+just listen to the stories of
+your adventures.
+[WAIT][NEXT][...]
+So that means you have to come
+visit us all the time and tell us
+stories, Mario![WAIT][END]
+
+#string:10:078
+[STYLE:RIGHT][...]
+Whoopee! Yippee!! Hooray!!!
+[PAUSE:05][...]
+You came back, Mario!
+[PAUSE:0A][...]
+You came to hang with the 5!
+[WAIT][NEXT][...]
+Tell us all about your
+adventures over the sea!
+[WAIT][NEXT][...]
+If you do, we'll tell you all the
+tricks we played while you were
+away. Hee hee...[WAIT][END]
+
+#string:10:079
+[STYLE:RIGHT][...]
+A Red Yoshi Kid...
+[PAUSE:0A][...]
+Ah, you must be the one.
+[WAIT][NEXT][...]
+The name's Parakarry. I deliver
+letters.
+[WAIT][NEXT][...]
+I believe I have one for you.
+[PAUSE:0A][...]
+Hang on a moment.[WAIT][END]
+
+#string:10:07A
+[STYLE:RIGHT][...]
+Oh...no! Confound it!
+[PAUSE:0A][...]
+I seem to have lost it!
+[PAUSE:0A][...]
+...I'm terribly sorry.[WAIT][END]
+
+#string:10:07B
+[STYLE:RIGHT][...]
+Another letter, duly delivered.
+A postman's job is never done.[WAIT][END]
+
+#string:10:07C
+[STYLE:RIGHT][...]
+Thanks. I wonder what it is.
+[PAUSE:14][...]
+Oh, my pal made up a new game!
+[PAUSE:0A][...]
+I've gotta play this later!
+[WAIT][NEXT][...]
+He also wants me to come over
+to his town and play with him
+sometime.
+[PAUSE:0A][...]
+But how can I get there?
+[PAUSE:14][...]
+[WAIT][NEXT][...]
+...Oh well.
+[PAUSE:0A][...]
+Maybe someday I'll be able to
+cross the sea and hang out.
+[WAIT][NEXT][...]
+It's really funny, 'cause I was
+just writing him a letter about
+a game I made up!
+[WAIT][NEXT][...]
+Mr. Parakarry, will you help?
+[PAUSE:0A][...]
+Here. Deliver my letter to the
+Toad Kid who asked you to send
+this one to me.
+[WAIT][NEXT][...]
+Could you? Thanks!![WAIT][END]
+
+#string:10:07D
+[STYLE:RIGHT][...]
+We're the Fearsome 5 of Yoshi's
+Village. We're all best friends,
+y'know.
+[WAIT][NEXT][...]
+We're together when we play and
+when we get in trouble. We're
+always together!
+[WAIT][NEXT][...]
+Of course, now we won't be.
+We're playing hide-and-seek,
+and I'm "it." I hate being "it."
+[WAIT][NEXT][...]
+Hmmmph...[WAIT][END]
+
+#string:10:07E
+[STYLE:RIGHT][...]
+That jungle was dangerous, huh?
+And scary, too, right?
+[WAIT][NEXT][...]
+People told us not to go, but it
+made us want to even more.
+[WAIT][NEXT][...]
+Now I won't go anymore.
+[PAUSE:0A][...]
+I'm really sorry for making
+everyone worry so much.
+[WAIT][NEXT][...]
+And now some of the guys are
+still out there! Sniffle...
+[PAUSE:0A][...]
+I wish they'd...sniff...come back
+soon...
+[WAIT][NEXT][...]
+I just wanna play hide-and-seek
+together again![WAIT][END]
+
+#string:10:07F
+[STYLE:RIGHT][...]
+The Fearsome 5 are baaaaaack!
+[PAUSE:0A][...]
+Back from the depths of the wild
+jungle!
+[WAIT][NEXT][...]
+There was danger! Intrigue!
+Yoshi-eating beasts!
+[PAUSE:0A][...]
+I was a little scared! 
+[PAUSE:0A][...]
+But I wanna go there again!
+[WAIT][NEXT][...]
+Tee hee...
+[PAUSE:0A][...]
+Oh, no. [PAUSE:0A]Just kidding.
+[WAIT][NEXT][...]
+Hey, Mario, are you really going
+to the volcano now?
+[PAUSE:0A][...]
+It's really hot. And dangerous.
+[WAIT][NEXT][...]
+Grown-ups always tell us not to
+go to dangerous places, but
+[PAUSE:0A][...]
+you're allowed to go?
+[WAIT][NEXT][...]
+That's not fair!
+[PAUSE:0A][...]
+Kids get no respect![WAIT][END]
+
+#string:10:080
+[STYLE:RIGHT][...]
+Did ya see that eruption?
+[WAIT][NEXT][...]
+The other 4 were surprised, but
+I wasn't. Not too much, anyway.
+[WAIT][NEXT][...]
+I'm different from the others.
+A little braver, you know.
+[WAIT][NEXT][...]
+So, are you leaving now?
+[PAUSE:0A][...]
+Uh-huh...
+[PAUSE:0A][...]
+You could drop by every now and
+then if you wanted.
+[WAIT][NEXT][...]
+I mean, I don't care, but the
+other 4 might miss you![WAIT][END]
+
+#string:10:081
+[STYLE:RIGHT][...]
+Hey! It's Mario!
+[PAUSE:0A][...]
+Are you back for another
+exciting adventure?
+[WAIT][NEXT][...]
+I didn't miss you, but the other
+4 really did.
+[WAIT][NEXT][...]
+If you want, you can hang with
+me for a while. You know, just
+chill. I won't even talk to you or
+anything.
+[WAIT][NEXT][...]
+Tee hee...
+[PAUSE:0A][...]
+You could even tell me about your
+adventures if you want.[WAIT][END]
+
+#string:10:082
+[STYLE:RIGHT][...]
+We're the Fearsome 5!
+[PAUSE:0A][...]
+When we arrive, [PAUSE:03]it's live at 5! 
+We always stick together!
+[PAUSE:03][...]
+Even when we're being bad...
+[WAIT][NEXT][...]
+Speaking of which, today's the
+day we put our secret plan into
+action. It's so cool!
+[WAIT][NEXT][...]
+Only we 5 know the plan, and
+that's the way it has to be.
+[PAUSE:0A][...]
+Sorry, can't tell you...
+[WAIT][NEXT][...]
+Oh, man, I'm so excited!
+[PAUSE:0A][...]
+I hope I can find a lot of tasty
+fruit in the jungle...[WAIT][END]
+
+#string:10:083
+[STYLE:RIGHT][...]
+Thank you for coming out to look
+for us.
+[PAUSE:0A][...]
+I was starting to get a little
+worried out there.
+[WAIT][NEXT][...]
+Hey, but some of the guys still
+aren't back yet!
+[PAUSE:0A][...]
+You've gotta find them soon!
+[WAIT][NEXT][...]
+It wasn't our fault! We were
+playing hide-and-seek in the
+jungle and just got lost!
+[WAIT][NEXT][...]
+I mean, there were tons of cool
+things in the jungle, but a lot
+of them were scary![WAIT][END]
+
+#string:10:084
+[STYLE:RIGHT][...]
+The Fearsome 5 are baaaack!
+[WAIT][NEXT][...]
+Boy, there was a lot of tasty
+food growing in the jungle!
+[PAUSE:0A][...]
+That adventure was both
+thrilling and filling! Ha!
+[WAIT][NEXT][...]
+Everyone gives me flack for
+eating all the time, but what
+else is there to do here?
+[WAIT][NEXT][...]
+If you go on an adventure,
+you've gotta take snacks.
+[PAUSE:0A][...]
+Even grown-ups know that.[WAIT][END]
+
+#string:10:085
+[STYLE:RIGHT][...]
+Wow! What a huge explosion!
+[PAUSE:0A][...]
+It went Kaaaa-BLOOOOIE!
+[WAIT][NEXT][...]
+I swear I saw something fly out
+of there into the jungle.
+[WAIT][NEXT][...]
+Maybe... I wonder if it was
+something delicious.
+[WAIT][NEXT][...]
+I told the grown-ups that they
+ought to go check it out, but
+they just scolded me.
+[WAIT][NEXT][...]
+You know, kids have a hard time.
+[WAIT][NEXT][...]
+I'm gonna be a grown-up soon,
+and I'm gonna be nice to kids.
+And I'm gonna have adventures.
+[WAIT][NEXT][...]
+Come back sometime, Mario![WAIT][END]
+
+#string:10:086
+[STYLE:RIGHT][...]
+Mario!
+[PAUSE:0A][...]
+How's your adventure?
+[PAUSE:0A][...]
+Eat any good stuff so far?
+[WAIT][NEXT][...]
+I wanna hear your stories.
+[PAUSE:0A][...]
+Hey, hey! Come on! I wanna hear
+some stories![WAIT][END]
+
+#string:10:087
+[STYLE:RIGHT][...]
+Oh, it's Mario!
+[PAUSE:0A][...]
+You're on an adventure or
+something, right?
+[WAIT][NEXT][...]
+Wow, cool! 
+[WAIT][NEXT][...]
+Who's that with you? Is that
+your partner?
+[WAIT][NEXT][...]
+Man, I wish I could be...
+[PAUSE:0A][...]
+That'd be a dream come true.
+[WAIT][NEXT][...]
+The grown-ups won't let us out
+of the village because they say
+it's too dangerous.
+[WAIT][NEXT][...]
+That meddling old Cheep Cheep is
+always watching us, and she
+won't let us enter the jungle.
+[WAIT][NEXT][...]
+Heh heh. We'll see about that. 
+Us guys? The Fearsome 5? We
+aren't afraid of anything.[WAIT][END]
+
+#string:10:088
+[STYLE:RIGHT][...]
+I got scolded really bad...
+[PAUSE:0A][...]
+Everyone was really worried
+about me.
+[WAIT][NEXT][...]
+I came back all right, so what's
+the big deal?
+[WAIT][NEXT][...]
+I had to promise I wouldn't do
+anything dangerous again.
+[PAUSE:0A][...]
+Hmph. Hey, but thanks for coming
+and finding me.[WAIT][END]
+
+#string:10:089
+[STYLE:RIGHT][...]
+The Fearsome 5 are baaaaack!
+[WAIT][NEXT][...]
+There's nothing to be afraid of
+when all of us are together.
+[PAUSE:0A][...]
+We aren't scared of the jungle.
+[WAIT][NEXT][...]
+We aren't scared of anything!
+5 friends 4-ever!
+[PAUSE:0A][...]
+Even after we're grown-ups,
+we'll still be friends![WAIT][END]
+
+#string:10:08A
+[STYLE:RIGHT][...]
+Mario! Mario!
+Oh, it was totally cool! 
+[PAUSE:05][...]
+What a crazy eruption!
+[PAUSE:05][...]
+Dy[PAUSE:03]na[PAUSE:03]mite!!
+[WAIT][NEXT][...]
+Does it get any cooler than the
+volcano on Lavalava Island?
+I don't think so!
+[WAIT][NEXT][...]
+What IS beyond this island?
+[PAUSE:0A][...]
+Anything cool? I wanna go see!
+[WAIT][NEXT][...]
+Mario! C'mon!
+[PAUSE:0A][...]
+Come back to the island and tell
+us about your travels![WAIT][END]
+
+#string:10:08B
+[STYLE:RIGHT][...]
+Yippee! Hooray! Welcome back!
+[PAUSE:0A][...]
+What adventures have you been
+on so far?!
+[WAIT][NEXT][...]
+Tell us, tell us!![WAIT][END]
+
+#string:10:08C
+[STYLE:RIGHT][...]
+Caw.[WAIT][END]
+
+#string:10:08D
+[STYLE:RIGHT][...]
+Caaaw![WAIT][END]
+
+#string:10:08E
+[STYLE:RIGHT][...]
+Caw?
+[WAIT][NEXT][...]
+Are you the Mario that Master
+Raphael the Raven was telling us
+about?[WAIT][END]
+
+#string:10:08F
+[STYLE:RIGHT][...]
+Caw?[WAIT][END]
+
+#string:10:090
+[STYLE:RIGHT][...]
+Oracle of the Stars...
+[PAUSE:0A][...]
+Mario comes to this island...
+[WAIT][NEXT][...]
+Mario is fated to meet Master 
+Raphael the Raven...
+[PAUSE:0A][...]
+Caaaaw...[WAIT][END]
+
+#string:10:091
+[STYLE:RIGHT][...]
+Caw. Cawcaaaw![WAIT][END]
+
+#string:10:092
+[STYLE:RIGHT][...]
+Cawcawcaaaw?[WAIT][END]
+
+#string:10:093
+[STYLE:RIGHT][...]
+Cawcawcaw.[WAIT][END]
+
+#string:10:094
+[STYLE:RIGHT][...]
+The Toad House's slogan is...
+"Refresh Your Body and Soul!"
+[WAIT][NEXT][...]
+Would you like to take a nap?
+{Func_04}[END]
+
+#string:10:095
+[STYLE:RIGHT][...]
+...Really?
+[PAUSE:0A][...]
+Mario, you look just fine.
+[PAUSE:0A][...]
+Do you still want to take a nap?
+{Func_04}[END]
+
+#string:10:096
+[NEXT][...]
+Please come again, OK?[WAIT][END]
+
+#string:10:097
+[NEXT][...]
+Have a pleasant rest.[WAIT][END]
+
+#string:10:098
+[STYLE:RIGHT][...]
+Did you get some rest?
+[WAIT][NEXT][...]
+Good luck on your adventure![WAIT][END]
+
+#string:10:099
+[STYLE:RIGHT][...]
+Oh, such ill fortune!
+[PAUSE:0A][...]
+The children are missing!
+[WAIT][NEXT][...]
+They seem to have secretly
+slipped off to the jungle.
+[WAIT][NEXT][...]
+They don't know its dangers!
+[PAUSE:0A][...]
+We must get them back here to
+safety!
+[PAUSE:0A][...]
+[WAIT][NEXT][...]
+Mario,
+[PAUSE:0A][...]
+could I ask you to look for these
+lost children?
+[WAIT][NEXT][...]
+As you can see, the Yoshis of
+my village are panicking. They
+aren't thinking straight.
+[WAIT][NEXT][...]
+I'll try to calm them down.
+[PAUSE:05][...]
+You just find those kids![WAIT][END]
+
+#string:10:09A
+[STYLE:RIGHT][...]
+Mario, I can't tell you how
+dangerous the jungle is.
+[WAIT][NEXT][...]
+It's even dangerous for us adult
+Yoshis if we aren't extremely
+careful.
+[WAIT][NEXT][...]
+To imagine the boys in such a
+place... Brrr...
+[PAUSE:0A][...]
+...Please, you must find them.[WAIT][END]
+
+#string:10:09B
+[STYLE:RIGHT][...]
+You've found them!
+[WAIT][NEXT][...]
+{StartFX:Shrinking}Oh, happiness! Oh, joy!
+{EndFX:Shrinking}[WAIT][NEXT][...]
+But...there are still boys stuck
+out there in the jungle.
+Please find them!
+[WAIT][NEXT][...]
+Five children in all disappeared
+into the jungle.
+[PAUSE:0A][...]
+Save all of them, please![WAIT][END]
+
+#string:10:09C
+[STYLE:RIGHT][...]
+Three of the boys are back!
+[PAUSE:0A][...]
+T[PAUSE:03]errrrific!!
+[WAIT][NEXT][...]
+I'm so glad they're safe.
+[WAIT][NEXT][...]
+But two are still missing. 
+Please find them!
+[WAIT][NEXT][...]
+Everyone is starting to calm
+down now that you're helping.[WAIT][END]
+
+#string:10:09D
+[STYLE:RIGHT][...]
+Mario! Just one more remains!
+[PAUSE:0A][...]
+Please find him right away!
+[WAIT][NEXT][...]
+You seem to be an expert at
+finding lost children, Mario!
+[PAUSE:0A][...]
+We're counting on you![WAIT][END]
+
+#string:10:09E
+[STYLE:RIGHT][...]
+{StartFX:Shrinking}{StartFX:Jitter}Get back here this instant!!
+You little ingrates![WAIT][END]
+
+#string:10:09F
+[STYLE:RIGHT][...]
+Hey, you! Down there!
+[PAUSE:0A][...]
+Look up here if you hear me![WAIT][END]
+
+#string:10:0A0
+[STYLE:RIGHT][...]
+This is so embarrassing... I'm
+stuck in this tree.
+[PAUSE:0A][...]
+Can you help me out somehow?[WAIT][END]
+
+#string:10:0A1
+[STYLE:RIGHT][...]
+Come on, now! Try harder!![WAIT][END]
+
+#string:10:0A2
+[STYLE:RIGHT][...]
+Well! I never!
+[PAUSE:0A][...]
+You're going to turn your back
+on someone in need?!
+[PAUSE:0A][...]
+You hard-hearted man![WAIT][END]
+
+#string:10:0A3
+[STYLE:RIGHT][...]
+Hey, wait!
+[PAUSE:0A][...]
+You almost had it! You just have
+to hit the tree a bit more.
+[PAUSE:0A][...]
+Don't quit now![WAIT][END]
+
+#string:10:0A4
+[STYLE:RIGHT][...]
+Oh, phew...I'm saved.
+[PAUSE:0A][...]
+I feel like one big ache.
+[WAIT][NEXT][...]
+Thanks for getting me out of
+that tree. I think I'll be OK now.
+[WAIT][NEXT][...]
+Oh! Oh...those little...
+[PAUSE:0A][...]
+I was chasing those naughty
+little Yoshi boys, and I fell into
+their trap.
+[WAIT][NEXT][...]
+Don't they know how dangerous it
+is to go into the jungle?
+[PAUSE:0A][...]
+I have to find them before they
+get in too deep! 
+[WAIT][NEXT][...]
+As for you, you'd better get
+back to the village, too. It's
+dangerous out here.
+[WAIT][NEXT][...]
+Why on earth did you come into
+the jungle, anyway?[WAIT][END]
+
+#string:10:0A5
+[STYLE:RIGHT][...]
+Well! So!
+[PAUSE:0A][...]
+You're looking for those little
+rascals, as well.
+[WAIT][NEXT][...]
+Then, [PAUSE:0A]I don't see why we don't
+just look for them together.
+[WAIT][NEXT][...]
+They really don't understand the
+dangers of the jungle, so we
+have to find them soon...[WAIT][END]
+
+#string:10:0A6
+[STYLE:RIGHT][...]
+Oh, my! How impolite!
+[PAUSE:0A][...]
+I haven't even asked your name.
+[PAUSE:0A][...]
+What is it, pray tell?[WAIT][END]
+
+#string:10:0A7
+[STYLE:RIGHT][...]
+Mario, huh?
+[WAIT][NEXT][...]
+Hmmm. Well, I've never heard of
+you before.
+[PAUSE:0A][...]
+You must be from far away or
+something.
+[WAIT][NEXT][...]
+Enjoy lovely Lavalava Island!
+...That's what I'd usually say, 
+to a visitor, anyway, 
+[WAIT][NEXT][...]
+but first, could you help me find
+these boys?[WAIT][END]
+
+#string:10:0A8
+[STYLE:RIGHT][...]
+Yo, what's up?
+[PAUSE:0A][...]
+Thanks for waking me up.
+[WAIT][NEXT][...]
+This island's so nice, isn't it?
+[PAUSE:0A][...]
+It's the perfect place for
+napping. Perfect temperature.
+[WAIT][NEXT][...]
+I'm a Bub-ulb.
+[PAUSE:0A][...]
+My job is to fill this world with
+flowers. Nice, huh?
+[WAIT][NEXT][...]
+I want you to take this seed.
+[WAIT][NEXT][...]
+...Or rather, that's what I want
+to say to you.
+[PAUSE:0A][...]
+Unfortunately, the seed isn't 
+quite ready yet.
+[WAIT][NEXT][...]
+Don't worry, though. It'll be
+ready anytime now.
+[PAUSE:0A][...]
+Waiting in such a warm, comfy
+place can't be all bad, right?
+[WAIT][NEXT][...]
+Come grab the seed later.
+[PAUSE:0A][...]
+I'm pretty generous, so I'll be
+here giving stuff to people.[WAIT][END]
+
+#string:10:0A9
+[STYLE:RIGHT][...]
+Did you come for the seed?
+[PAUSE:0A][...]
+Sorry, but it's not ready yet.
+[WAIT][NEXT][...]
+Don't be in such a hurry.
+[PAUSE:0A][...]
+Time flies when you chase it.
+[WAIT][NEXT][...]
+Come back after a while. And try
+to relax, OK?[WAIT][END]
+
+#string:10:0AA
+[STYLE:RIGHT][...]
+Oh, hello. How are you doing?
+[PAUSE:0A][...]
+What? [PAUSE:05]You want that seed?
+[WAIT][NEXT][...]
+Aw, I completely forgot you!
+[PAUSE:0A][...]
+I just gave it to a guy named
+Kolorado or something.
+[WAIT][NEXT][...]
+Sorry about that.
+[PAUSE:0A][...]
+I'm so generous that I just have
+to give something to everyone.[WAIT][END]
+
+#string:10:0AB
+[STYLE:RIGHT][...]
+Hey, there's my seed!
+[PAUSE:0A][...]
+So you were able to track it
+down after all?
+[PAUSE:0A][...]
+Oh, that's cool.
+[WAIT][NEXT][...]
+When I thought about it later, I
+had a feeling it would've been
+better to give that seed to you.[WAIT][END]
+
+#string:10:0AC
+[STYLE:RIGHT][...]
+Yo, what's up?
+[PAUSE:0A][...]
+I can't get over how perfect the
+temperature is around here.
+[WAIT][NEXT][...]
+We have to thank the sun that 
+it's so warm. Thanks, bud!
+[PAUSE:0A][...]
+So luxurious...[WAIT][END]
+
+#string:10:0AD
+[STYLE:RIGHT][...]
+Waaaah! It's dark! I'm scared![WAIT][END]
+
+#string:10:0AE
+[STYLE:RIGHT][...]
+There was this flower that spun
+around and I thought it was way
+cool so I got on it.
+[WAIT][NEXT][...]
+And then I spun around and
+around and then I was up in the
+air and flying and then I ended
+up here!
+[WAIT][NEXT][...]
+I didn't know how I got here.
+It was so dark...and scary...
+and I couldn't find a way out.
+[WAIT][NEXT][...]
+Thanks for coming to get me out
+of here!
+{Func_04}[WAIT][NEXT][...]
+I can see how to get out now, so
+I'm going straight home![WAIT][END]
+
+#string:10:0AF
+[STYLE:RIGHT][...]
+{StartFX:Wavy}Buh-buh-boooo huh-hoooo![WAIT][END]
+
+#string:10:0B0
+[STYLE:RIGHT][...]
+Aiigh! That was so scary!
+[WAIT][NEXT][...]
+We were playing hide-and-seek
+and there was this weird plant
+and it trapped me here!
+{Func_04}[WAIT][NEXT][...]
+Sushie, you were right! This
+jungle's really dangerous!
+[PAUSE:0A][...]
+I'm sorry I disobeyed you.
+[WAIT][NEXT][...]
+Thanks for coming to get me.
+[PAUSE:0A][...]
+I'm going home now.[WAIT][END]
+
+#string:10:0B1
+[STYLE:RIGHT][...]
+Aiigh! That was so scary!
+[WAIT][NEXT][...]
+We were playing hide-and-seek
+and there was this weird plant
+and it trapped me here!
+{Func_04}[WAIT][NEXT][...]
+Sushie was right... We should've
+just stayed inside the village to
+play hide-and-seek.
+[PAUSE:0A][...]
+We should've obeyed her.
+[WAIT][NEXT][...]
+Thanks for coming to get me.
+[PAUSE:0A][...]
+I'm going home now.[WAIT][END]
+
+#string:10:0B2
+[STYLE:RIGHT][...]
+Wuh-huh-waaaaaaa!
+[PAUSE:05][...]
+Sniff sniff...
+[WAIT][NEXT][...]
+We were playing hide-and-seek.
+[PAUSE:0A][...]
+I had to be "it," but I couldn't
+find anyone at all.
+[WAIT][NEXT][...]
+I was wandering around, and
+then I got lost.
+[PAUSE:0A][...]
+You were right, Sushie. The
+jungle's really scary.
+{Func_04}[WAIT][NEXT][...]
+Thanks for coming all the way
+out here to look for me.
+[PAUSE:0A][...]
+I'll be a good boy from now on
+and listen to you...
+[WAIT][NEXT][...]
+Mario, will you be "it" for
+hide-and-seek instead of me?
+[PAUSE:0A][...]
+I'm going home now![WAIT][END]
+
+#string:10:0B3
+[STYLE:RIGHT][...]
+Wuh-huh-waaaaaaa!
+[PAUSE:05][...]
+Sniff sniff...
+[WAIT][NEXT][...]
+We were playing hide-and-seek.
+[PAUSE:0A][...]
+I had to be "it," but I couldn't
+find anyone at all.
+[WAIT][NEXT][...]
+I was wandering around, and 
+then I got lost.
+[PAUSE:0A][...]
+This jungle is way too scary for
+kids like us, I think.
+[WAIT][NEXT][...]
+Maybe we should have listened to
+Sushie's advice...
+[WAIT]{Func_04}[NEXT][...]
+Mario, will you be "it" for
+hide-and-seek instead of me?
+[PAUSE:0A][...]
+I'm going home now.[WAIT][END]
+
+#string:10:0B4
+[STYLE:RIGHT][...]
+{StartFX:Shrinking}{StartFX:Jitter}Yeeeeeeeek!
+[PAUSE:0A][...]
+Somebody, help me!![WAIT][END]
+
+#string:10:0B5
+[STYLE:RIGHT][...]
+{StartFX:Jitter}I'm so scared...
+[PAUSE:05][...]
+I wanna go home![WAIT][END]
+
+#string:10:0B6
+[STYLE:RIGHT][...]
+Whuh-waaa! Are they all gone?
+[WAIT][NEXT][...]
+I'm sorry for disobeying you and
+going into the jungle...
+[WAIT][NEXT][...]
+I'll be a good boy now.
+[PAUSE:05][...]
+When you say stuff, Sushie, I'll
+listen. I swear.
+{Func_04}[WAIT][NEXT][...]
+Thanks for saving me.
+[PAUSE:0A][...]
+I'm going straight home now![WAIT][END]
+
+#string:10:0B7
+[STYLE:RIGHT][...]
+Whuh-waaa! Are they all gone?
+[PAUSE:0A][...]
+I thought those things were
+going to eat me right up!
+{Func_04}[WAIT][NEXT][...]
+Thanks for saving me, Mario!
+[PAUSE:0A][...]
+I'll do what you grown-ups tell
+me to do from now on.
+[WAIT][NEXT][...]
+I don't even wanna do bad things
+anymore.
+[PAUSE:05][...]
+I just wanna be a good boy.
+[WAIT][NEXT][...]
+I'm going home now. Bye![WAIT][END]
+
+#string:10:0B8
+[STYLE:RIGHT][...]
+{StartFX:Wavy}Zzzzzzz............[WAIT][END]
+
+#string:10:0B9
+[STYLE:RIGHT][...]
+Ugh... [PAUSE:0A]Morning.
+[PAUSE:0F][...]
+{Func_04}[WAIT][NEXT][...]
+Hey, it's Mario. [PAUSE:05]What's the
+matter with you?
+[PAUSE:05][...]
+You were looking for me?
+[PAUSE:0A][...]
+Oh? Sushie, too?
+[WAIT][NEXT][...]
+We were playing hide-and-seek,
+and I got real sleepy.
+[PAUSE:05][...]
+I figured I'd take a nap here.
+[WAIT][NEXT][...]
+There's nothing to worry about.
+[PAUSE:0A][...]
+The jungle's not so bad.
+[WAIT][NEXT][...]
+I am starting to get a little
+bit lonely, though, so maybe
+I ought to head back home.
+[PAUSE:0A][...]
+Bye now![WAIT][END]
+
+#string:10:0BA
+[STYLE:RIGHT][...]
+Ugh... [PAUSE:0A]Morning.
+[PAUSE:0F][...]
+{Func_04}[WAIT][NEXT][...]
+Hey, it's Mario. [PAUSE:05]What's the 
+matter with you?
+[PAUSE:05][...]
+You were looking for me?
+[WAIT][NEXT][...]
+We were playing hide-and-seek,
+and I got real sleepy.
+[PAUSE:05][...]
+I figured I'd take a nap here.
+[WAIT][NEXT][...]
+There's nothing to worry about.
+[PAUSE:0A][...]
+The jungle's not so bad.
+[WAIT][NEXT][...]
+I am starting to get a little
+bit lonely, though, so maybe
+I ought to head back home.
+[PAUSE:0A][...]
+Bye now![WAIT][END]
+
+#string:10:0BB
+[STYLE:RIGHT][...]
+{Down:08}{StartFX:Jitter}{Size:20:20}Grraahahahoho!
+{SizeReset}[WAIT][END]
+
+#string:10:0BC
+[STYLE:RIGHT][...]
+{Down:08}{Size:20:20}{StartFX:Shrinking}{StartFX:Jitter}Yaaaaaaargh!!
+{SizeReset}{Up:02}
+[WAIT]{Scroll:04}Yeeeeek!
+[PAUSE:0A][...]
+H---E---L---P... HELP!![WAIT][END]
+
+#string:10:0BD
+[STYLE:RIGHT][...]
+Ow! Get ahold of yourself!
+[PAUSE:0A][...]
+What do you say you attack the
+enemies instead of me, hm?[WAIT][END]
+
+#string:10:0BE
+[STYLE:RIGHT][...]
+Oh, this time you came through.
+[WAIT][NEXT][...]
+Awfully good of you, old chap!
+[WAIT][NEXT][...]
+Now, [PAUSE:0A]I feel that our destination,
+the volcano, is quite near.
+[PAUSE:0A][...]
+Let's press on while our spirits
+are high, eh?[WAIT][END]
+
+#string:10:0BF
+[STYLE:RIGHT][...]
+Phew... [PAUSE:0A]You saved me once more.
+[WAIT][NEXT][...]
+You're top notch, Mario!
+[WAIT][NEXT][...]
+Now, [PAUSE:0A]I feel that our destination,
+the volcano, is quite near.
+[PAUSE:0A][...]
+Let's press on while our spirits
+are high, eh?[WAIT][END]
+
+#string:10:0C0
+[STYLE:RIGHT][...]
+{StartFX:Shrinking}Yow! Off me, you brute! Aargh![WAIT][END]
+
+#string:10:0C1
+[STYLE:RIGHT][...]
+That was frightful...
+[PAUSE:0A][...]
+[WAIT][NEXT][...]
+[PAUSE:0A][...]
+Have you no manners, Mario?!
+[PAUSE:05][...]
+Going on without me!! You boor!
+[WAIT][NEXT][...]
+[PAUSE:0A][...]
+...Well, not everyone is noble.
+[PAUSE:0A][...]
+It would seem that our goal, the
+volcano, is quite near.
+[WAIT][NEXT][...]
+Let's press on, hm?[WAIT][END]
+
+#string:10:0C2
+[STYLE:RIGHT][...]
+Ah! Mario...
+[WAIT][NEXT][...]
+Have a look at this![WAIT][END]
+
+#string:10:0C3
+[STYLE:RIGHT][...]
+Looks like the entrance to the
+volcano, eh, old boy?
+[WAIT][NEXT][...]
+Somewhere in that volcano are
+the treasures I'm looking for!
+I know it! The secrets of an
+ancient civilization!
+[WAIT][NEXT][...]
+[PAUSE:0A][...]
+And yet...
+[PAUSE:0A][...]
+I can't find a way in...
+[PAUSE:0A][...]
+Bit of a sticky wicket, hm?[WAIT][END]
+
+#string:10:0C4
+[STYLE:RIGHT][...]
+But I shall not give up!
+[PAUSE:0A][...]
+A good explorer never stops
+gathering information.
+[WAIT][NEXT][...]
+Let's go back to the village to
+look for clues.
+[WAIT][NEXT][...]
+There must be a way in there.
+There simply must!
+[PAUSE:05][...]
+Come now![WAIT][END]
+
+#string:10:0C5
+[STYLE:RIGHT][...]
+{Down:08}{Size:20:20}{StartFX:Shrinking}{StartFX:Jitter}Ugh... [PAUSE:05]Geaargh!!
+{SizeReset}{Up:02}
+[WAIT]{Scroll:04}S--T--O--P! STOP IT!![WAIT][END]
+
+#string:10:0C6
+[STYLE:RIGHT][...]
+...Oh ho ho ho!
+[PAUSE:0A][...]
+Did you think I was beset by
+enemies again, old boy? 
+[PAUSE:0A][...]
+Just a bit of a joke!
+[WAIT][NEXT][...]
+Explorers must have a sense of
+humor, don't you know.
+[WAIT][NEXT][...]
+At any rate...
+[PAUSE:0A][...]
+Let's move on, hm?[WAIT][END]
+
+#string:10:0C7
+[STYLE:RIGHT][...]
+Aye aye, all right.
+[PAUSE:0A][...]
+Is everyone ready?[WAIT][END]
+
+#string:10:0C8
+[STYLE:RIGHT][...]
+Now, Ravens!
+[PAUSE:0A][...]
+Get to work!![WAIT][END]
+
+#string:10:0C9
+[STYLE:RIGHT][...]
+Caw caaaw.[WAIT][END]
+
+#string:10:0CA
+[STYLE:RIGHT][...]
+This won't take long.[WAIT][END]
+
+#string:10:0CB
+[STYLE:RIGHT][...]
+Hmm!?
+[PAUSE:0A][...]
+What in blazes...?[WAIT][END]
+
+#string:10:0CC
+[STYLE:RIGHT][...]
+Caw caw caaaw![WAIT][END]
+
+#string:10:0CD
+[STYLE:RIGHT][...]
+Finished!
+[PAUSE:05][...]
+Caw![WAIT][END]
+
+#string:10:0CE
+[STYLE:RIGHT][...]
+Roger that!
+[PAUSE:0A][...]
+You can reach the volcano now.[WAIT][END]
+
+#string:10:0CF
+[STYLE:RIGHT][...]
+Ooh! Top notch, really!!
+[PAUSE:0A][...]
+It would appear we can enter
+the volcano, dear boy!
+[WAIT][NEXT][...]
+What luck, eh, Mario?
+[PAUSE:05][...]
+I shan't delay another moment!
+[WAIT][NEXT][...]
+The ancient treasures are 
+calling me! Onward![WAIT][END]
+
+#string:10:0D0
+[STYLE:RIGHT][...]
+That Koopa! What a maverick!
+Charging into the volcano...
+He's bold, I'll give him that!
+[PAUSE:0A][...]
+[WAIT][NEXT][...]
+Bold and certifiably nuts...
+But enough about that! I want
+to give you that important item
+I was talking about.
+[WAIT][NEXT][...]
+Here, take it.[WAIT][END]
+
+#string:10:0D1
+[STYLE:RIGHT][...]
+That's an Ultra Stone. I found
+it a long time ago in the depths
+of this jungle.
+[WAIT][NEXT][...]
+Now that you have this stone,
+when you find a Super Block,
+[WAIT][NEXT][...]
+you can upgrade one of your
+party members from Super Rank
+to Ultra Rank.
+[WAIT][NEXT][...]
+Strengthening the members of
+your party will be the key to
+your success. Trust me.
+[WAIT][NEXT][...]
+[PAUSE:05][...]
+That's what a Star Spirit told
+me in a dream.
+[WAIT][NEXT][...]
+Use it and prosper!
+[PAUSE:0A][...]
+I've got to go now.
+[PAUSE:0A][...]
+Over and out.[WAIT][END]
+
+#string:10:0D2
+[STYLE:RIGHT][...]
+Caw cawcaw caaaw...[WAIT][END]
+
+#string:10:0D3
+[STYLE:RIGHT][...]
+Caw cawcaw.[WAIT][END]
+
+#string:10:0D4
+[STYLE:RIGHT][...]
+Oh, woe is me...
+[PAUSE:05][...]
+My beautiful treasure...[WAIT][END]
+
+#string:10:0D5
+[STYLE:RIGHT][...]
+{SpeechSound:02}Listen to you!
+[WAIT][NEXT][...]
+No treasure in the world is more
+valuable than life! Be thankful
+you escaped!
+[WAIT]{Func_04}[NEXT][...]
+To think! This island was put in
+terrible peril because of the
+meddling of Bowser's men.
+[WAIT][NEXT][...]
+I think it will work out OK. The
+eruption will subside, and Lava-
+lava Island will be just the same
+as it used to be.[WAIT][END]
+
+#string:10:0D6
+[STYLE:RIGHT][...]
+But... Sigh...[WAIT][END]
+
+#string:10:0D7
+[STYLE:RIGHT][...]
+{SpeechSound:02}Dear Mario!
+[PAUSE:0A][...]
+You have saved five of us Star
+Spirits now!
+[WAIT][NEXT][...]
+Just a few more to go!
+[WAIT][NEXT][...]
+My name is Misstar.
+[PAUSE:0F][...]
+Let me grant you Power that will
+help you along![WAIT][END]
+
+#string:10:0D8
+[STYLE:RIGHT][...]
+{SpeechSound:02}I have to go back to Star Haven
+for now, but [PAUSE:05]if you need me,
+please call on me at any time.
+[WAIT][NEXT][...]
+I will be watching you and
+wishing for your success.
+[PAUSE:05][...]
+I know you'll see the princess
+soon enough, Mario. Have faith.
+[WAIT][NEXT][...]
+Thank you again for saving me.
+[PAUSE:0A][...]
+See you soon![WAIT][END]
+
+#string:10:0D9
+[STYLE:RIGHT][...]
+Oh... I was so close...
+The treasure...right there...
+[WAIT][NEXT][...]
+And then to get saved and
+yelled at by some sort of
+blooming great starfish...[WAIT][END]
+
+#string:10:0DA
+[STYLE:RIGHT][...]
+Oh!
+[WAIT][NEXT][...]
+Welcome!
+[WAIT][NEXT][...]
+Sorry I'm so surprised, but I
+can't even remember the last
+time someone came up here.
+It's sure been a while.
+[WAIT][NEXT][...]
+What? Oh yes! Affirmative!
+[PAUSE:0A][...]
+I'm the master of this island.
+[PAUSE:05][...]
+Call sign: Raphael the Raven!
+[WAIT][NEXT][...]
+If you have any problems at all,
+just let me know, OK?
+[PAUSE:0A][...]
+Go ahead, out with it![WAIT][END]
+
+#string:10:0DB
+[STYLE:RIGHT][...]
+Ah. Oh, so you're Mario.
+[PAUSE:0A][...]
+I see. Roger that.
+[WAIT][NEXT][...]
+You can't find a way to reach
+the volcano, is that it?
+[PAUSE:05][...]
+Yeah, that's a problem.
+[PAUSE:05][...]
+Not for me, though. I'll help.
+[WAIT][NEXT][...]
+To be honest with you, I knew
+you'd ask something like that.
+I got a message from the Stars,
+so I knew you were coming.
+[WAIT][NEXT][...]
+I've got something exceptional
+to give you that ought to help
+you on your way...
+[WAIT][NEXT][...]
+But that's for later!
+[WAIT][NEXT][...]
+Right now, let's take care of
+that volcano problem, OK?[WAIT][END]
+
+#string:10:0DC
+[STYLE:RIGHT][...]
+{StartFX:Shrinking}{StartFX:Wavy}
+{Down:08}Caw caaaaaaaaaaaaaaaw!![WAIT][END]
+
+#string:10:0DD
+[STYLE:RIGHT][...]
+
+{Down:08}Cawcaaaw caw.[WAIT][END]
+
+#string:10:0DE
+[STYLE:RIGHT][...]
+Excellent response time, Ravens.
+[PAUSE:05][...]
+We've got work to do.
+[WAIT][NEXT][...]
+I'll brief you only once, so I
+want your full attention![WAIT][END]
+
+#string:10:0DF
+[STYLE:RIGHT][...]
+...and it must be done just as
+quickly as possible.
+[PAUSE:0A][...]
+Got it?
+[PAUSE:0A][...]
+I should hope so!
+[WAIT][NEXT][...]
+Let's move, Ravens!
+[PAUSE:0A][...]
+Follow me![WAIT][END]
+
+#string:10:0E0
+[STYLE:RIGHT][...]
+Something else you need?
+[PAUSE:0A][...]
+Don't bother me for no reason.[WAIT][END]
+
+#string:10:0E1
+[STYLE:RIGHT][...]
+{StartFX:Wavy}Heave-HOOOOOOO!!
+[PAUSE:14][...]
+[END]
+
+#string:10:0E2
+[STYLE:RIGHT][...]
+Come on, then.[WAIT][END]
+
+#string:10:0E3
+[STYLE:RIGHT][...]
+You must follow Master Raphael
+the Raven.
+[PAUSE:0A][...]
+Caw![WAIT][END]
+
+#string:10:0E4
+[STYLE:RIGHT][...]
+You're Kolorado, correct?
+[WAIT][NEXT][...]
+The name's Parakarry. I deliver
+letters.
+[WAIT][NEXT][...]
+I believe I have one for you.
+[PAUSE:0A][...]
+Hang on a moment.[WAIT][END]
+
+#string:10:0E5
+[STYLE:RIGHT][...]
+Oh...no! Confound it!
+[PAUSE:0A][...]
+I seem to have lost it!
+[PAUSE:0A][...]
+...I'm terribly sorry.[WAIT][END]
+
+#string:10:0E6
+[STYLE:RIGHT][...]
+Another letter, duly delivered.
+A postman's job is never done.[WAIT][END]
+
+#string:10:0E7
+[STYLE:RIGHT][...]
+A letter? For me? All the way
+out here on Lavalava Island?
+[PAUSE:0F][...]
+How very rare...
+[PAUSE:14][...]
+[WAIT][NEXT][...]
+Oh, good show!
+[PAUSE:0F][...]
+It's a letter from my wife.
+[WAIT][NEXT][...]
+Thank you ever so, old chap.
+[PAUSE:0F][...]
+This is just what I needed to
+give me the strength to go on.
+[WAIT][NEXT][...]
+[PAUSE:0A][...]
+...I know!
+[PAUSE:0A][...]
+I'll pass this along as a spot of
+thanks.
+[WAIT][NEXT][...]
+I came across it while I was
+wandering about the jungle
+researching things.[WAIT][END]
+
+#string:10:0E8
+[STYLE:RIGHT][...]
+Pardon me for interrupting your
+work, but...
+[PAUSE:0F][...]
+You're Kolorado, correct?
+[WAIT][NEXT][...]
+The name's Parakarry. I deliver
+letters.
+[WAIT][NEXT][...]
+I believe I have one for you.
+[PAUSE:0A][...]
+Hang on a moment.[WAIT][END]
+
+#string:10:0E9
+[STYLE:RIGHT][...]
+Oh...no! Confound it!
+[PAUSE:0A][...]
+I seem to have lost it!
+[PAUSE:0A][...]
+...I'm terribly sorry.[WAIT][END]
+
+#string:10:0EA
+[STYLE:RIGHT][...]
+Another letter, duly delivered.
+A postman's job is never done.
+[PAUSE:0F][...]
+Are you all right?[WAIT][END]
+
+#string:10:0EB
+[STYLE:RIGHT][...]
+Yeeow ow ow...!
+The treasures are waiting for
+me over there, I know it...
+[PAUSE:0F][...]
+Oh, a letter...
+[PAUSE:14][...]
+[WAIT][NEXT][...]
+Oh, good show!
+[PAUSE:0F][...]
+It's a letter from my wife.
+[WAIT][NEXT][...]
+Thank you ever so, old chap.
+[PAUSE:0F][...]
+This is just what I needed to
+give me the strength to go on.
+[WAIT][NEXT][...]
+[PAUSE:0A][...]
+...I know!
+[PAUSE:0A][...]
+I'll pass this along as a spot of
+thanks.
+[WAIT][NEXT][...]
+I came across it while I was
+wandering about the jungle
+researching things.[WAIT][END]
+
+#string:10:0EC
+[STYLE:RIGHT][...]
+INVADERS DETECTED![WAIT][END]
+
+#string:10:0ED
+[STYLE:RIGHT][...]
+IDENTIFIED AS...MARIO!
+[WAIT][NEXT][...]
+ALERT! REPORT TO BOSS!
+ALERT!
+ALERT![WAIT][END]
+
+#string:10:0EE
+[STYLE:RIGHT][...]
+Hmm...
+[PAUSE:0A][...]
+I sense danger here...
+[WAIT][NEXT][...]
+All adventures are dangerous,
+though, so what of it?
+[PAUSE:0A][...]
+We must press on toward the
+glory of an unknown treasure![WAIT][END]
+
+#string:10:0EF
+[STYLE:RIGHT][...]
+{Size:30:30}{StartFX:Jitter}{StartFX:Shrinking}Yaaaah!!!
+{EndFX:Shrinking}{EndFX:Jitter}{SizeReset}
+[WAIT][NEXT][...]
+{Up:06}What's wrong with this rock?
+[PAUSE:0A][...]
+It sank right into the lava![WAIT][END]
+
+#string:10:0F0
+[STYLE:RIGHT][...]
+Please...er...after you.
+[PAUSE:05][...]
+Do go ahead, old boy.
+[PAUSE:14][...]
+{StartFX:Jitter}Rather stifling in here...
+{Func_04}[WAIT][END]
+
+#string:10:0F1
+[STYLE:RIGHT][...]
+My finely honed intuition tells me
+that great discoveries lie just
+beyond here...
+[WAIT][NEXT][...]
+But there's this mysterious block
+in the way. Curses!
+[PAUSE:0A][...]
+What to do...[WAIT][END]
+
+#string:10:0F2
+[STYLE:RIGHT][...]
+Hmmmm...
+[PAUSE:05][...]
+There must be some way...[WAIT][END]
+
+#string:10:0F3
+[STYLE:RIGHT][...]
+Yes! Excellent! Now, Mario!
+[PAUSE:0A][...]
+No time to hang about!
+[PAUSE:0A][...]
+Onward to glory![WAIT][END]
+
+#string:10:0F4
+[STYLE:RIGHT][...]
+Hm?
+[PAUSE:0A][...]
+It smells like treasure!
+[PAUSE:0A][...]
+Treasure, old boy! Make way--
+I'm going ahead!![WAIT][END]
+
+#string:10:0F5
+{InputOff}[STYLE:RIGHT][...]
+{StartFX:FadedNoise:32}{StartFX:Jitter}{StartFX:SizeJitter}GyaaaaaAAAaaaaaaaaahhhhhhhh!
+[PAUSE:3C][...]
+[END]
+
+#string:10:0F6
+[STYLE:RIGHT][...]
+Er... Don't mind me, Mario. Just
+investigating this floor a bit
+more closely. You go on ahead.
+[WAIT][NEXT][...]
+Oh, my aching...[WAIT][END]
+
+#string:10:0F7
+[STYLE:RIGHT][...]
+Mario!
+[PAUSE:05][...]
+Wai... [PAUSE:05]Wait one moment![WAIT][END]
+
+#string:10:0F8
+[STYLE:RIGHT][...]
+Huff huff huff..
+[WAIT][NEXT][...]
+According to the information I've
+gathered...
+[WAIT][NEXT][...]
+the hidden treasure should be
+right around here. But I need to
+go a little farther{StartFX:Shrinking}!
+{EndFX:Shrinking}[WAIT][END]
+
+#string:10:0F9
+[STYLE:RIGHT][...]
+{Size:30:30}Aiigh!
+[PAUSE:05][...]
+[END]
+
+#string:10:0FA
+[STYLE:RIGHT][...]
+{StartFX:Wavy}Barely nicked me...old boy...
+Oh...my poor shell...ow...
+{EndFX:Wavy}[WAIT][END]
+
+#string:10:0FB
+[STYLE:RIGHT][...]
+Good show, Mario![WAIT][END]
+
+#string:10:0FC
+[STYLE:RIGHT][...]
+Treasure, old chap! Treasure!!
+[WAIT][NEXT][...]
+I can almost taste it!
+[WAIT][NEXT][...]
+I tell you, the moment when you
+find the treasure is without a
+doubt the finest moment in
+archaeology.[WAIT][END]
+
+#string:10:0FD
+[STYLE:RIGHT][...]
+Close! So very close!!
+[PAUSE:0A][...]
+My treasure-hunting senses are
+going simply mad right now!
+[WAIT][NEXT][...]
+My intuition tells me...
+{Func_04}[END]
+
+#string:10:0FE
+It's over here!![WAIT][END]
+
+#string:10:0FF
+[STYLE:RIGHT][...]
+MARIO STILL APPROACHING!
+[WAIT][NEXT][...]
+IDENTIFIED AS SEARCHING FOR 
+STAR SPIRIT!
+[WAIT][NEXT][...]
+CODE RED! REPORT TO BOSS!
+[WAIT][NEXT][...]
+ALERT!
+ALERT![WAIT][END]
+
+#string:10:100
+[STYLE:RIGHT][...]
+Oh... [PAUSE:05]Huh?
+There seems to be nothing...
+[WAIT][NEXT][...]
+Alas...
+Even my finely honed intuition
+can be wrong on occasion.
+[WAIT][NEXT][...]
+I shall not give up.
+[PAUSE:0A][...]
+Let's head back the other way.
+[PAUSE:0A][...]
+Perhaps the treasure is a bit
+deeper down in the volcano.[WAIT][END]
+
+#string:10:101
+[STYLE:RIGHT][...]
+Success is bought with failures.
+[PAUSE:0A][...]
+Don't look so down, old boy!
+[PAUSE:0A][...]
+Perhaps the treasure is a bit
+deeper down in the volcano.[WAIT][END]
+
+#string:10:102
+[STYLE:RIGHT][...]
+{StartFX:Jitter}BLECK HYUCK HYUCK YUCK!
+[PAUSE:0A][...]
+YOU MADE IT, MARIO!
+{Func_04}[WAIT][END]
+
+#string:10:103
+[STYLE:RIGHT][...]
+{StartFX:Jitter}YOU GUYS...BAD GUYS!
+[PAUSE:05][...]
+BAD GUYS COME TO STEAL STAR
+SPIRIT!
+[WAIT][NEXT][...]
+BAD GUYS WHO COME TO STEAL
+STAR SPIRITS GET HURT!
+[PAUSE:05][...]
+WE DON'T LET IT HAPPEN! NO!
+{Func_04}[WAIT][NEXT][...]
+{Func_04}WE TRAP STAR SPIRIT!
+[PAUSE:0A][...]
+WE GET THIS VOLCANO!
+[PAUSE:0A][...]
+VOLCANO IS OURS! GOOD DEAL!
+[WAIT][NEXT][...]
+WE MAKE THINGS HOT FOR YOU!
+[PAUSE:0A][...]
+WE BEAT YOU, MARIO!
+{Func_04}[WAIT][END]
+
+#string:10:104
+[STYLE:RIGHT][...]
+Mario! You shan't fight alone!
+Kolorado to the rescue!
+[WAIT][NEXT][...]
+{StartFX:Shrinking}Hii-yaaaaaaah!!!!!![WAIT][END]
+
+#string:10:105
+[STYLE:RIGHT][...]
+Ow ow OW!! HOT!!!!
+[PAUSE:0A][...]
+Oh, it burns! Really![WAIT][END]
+
+#string:10:106
+[STYLE:RIGHT][...]
+So sorry, old chap, but that's all
+I can do at the moment!
+[PAUSE:0A][...]
+Good luck with all this![WAIT][END]
+
+#string:10:107
+[STYLE:RIGHT][...]
+Well! That's that, then!
+[PAUSE:0A][...]
+Now there's nothing between us
+and some treasure, eh?
+[PAUSE:0A][...]
+Let's go![WAIT][END]
+
+#string:10:108
+[STYLE:RIGHT][...]
+The treasure doesn't seem to be
+anywhere around here...
+[PAUSE:0A][...]
+Gad, where could it be?[WAIT][END]
+
+#string:10:109
+[STYLE:RIGHT][...]
+{SpeechSound:02}Mario,
+[PAUSE:05][...]
+this way! [PAUSE:0A]We must hurry!![WAIT][END]
+
+#string:10:10A
+[STYLE:RIGHT][...]
+Ah ha! Treasure!!
+[PAUSE:0A][...]
+...Er, no, it's...
+[WAIT][NEXT][...]
+...some sort of starfish...???[WAIT][END]
+
+#string:10:10B
+[STYLE:RIGHT][...]
+Mmmmm. This won't do.
+[PAUSE:05][...]
+The adventure's never over until
+the treasure is found![WAIT][END]
+
+#string:10:10C
+[STYLE:RIGHT][...]
+Ah! Yes, of course!
+[PAUSE:0A][...]
+Perhaps that horrible fiery
+monster had it and was hiding it
+somewhere! Yes, that's it!
+[WAIT][NEXT][...]
+I'll just run back and check.[WAIT][END]
+
+#string:10:10D
+[STYLE:RIGHT][...]
+{StartFX:FadedJitter:02}Hm... [PAUSE:05]Hmm?
+[PAUSE:0A][...]
+What's this trembling, then?!
+[WAIT][NEXT][...]
+...Probably nothing!
+[PAUSE:0A][...]
+Kids with fireworks, no doubt.
+[PAUSE:0A][...]
+Now, after that treasure![WAIT][END]
+
+#string:10:10E
+[STYLE:RIGHT][...]
+{SpeechSound:02}No! Wait![WAIT][END]
+
+#string:10:10F
+[STYLE:RIGHT][...]
+{StartFX:Shrinking}Yaaargh! HOT!! So hot!!
+[PAUSE:14][...]
+[END]
+
+#string:10:110
+[STYLE:RIGHT][...]
+Thuh... that's lava, isn't it?
+[PAUSE:0A][...]
+It's coming near! We must flee!
+[WAIT][NEXT][...]
+N... [PAUSE:05]Nooo!
+[PAUSE:0A][...]
+The treasure is still here!
+[PAUSE:0A][...]
+I just know it![WAIT][END]
+
+#string:10:111
+[STYLE:RIGHT][...]
+{SpeechSound:02}Mario!
+[PAUSE:0A][...]
+This volcano is going to erupt
+any time now.
+[WAIT][NEXT][...]
+It's far too dangerous to go
+back the way you came.
+[PAUSE:0A][...]
+We have to escape another way![WAIT][END]
+
+#string:10:112
+[STYLE:RIGHT][...]
+{SpeechSound:02}I feel a slight wind coming from
+this cracked wall...
+[PAUSE:0A][...]
+There could be a room beyond.
+[WAIT][NEXT][...]
+Mario,
+[PAUSE:05][...]
+can you blow up this wall?[WAIT][END]
+
+#string:10:113
+[STYLE:RIGHT][...]
+Mario!! Old chap!
+[PAUSE:0A][...]
+We should forget the treasure!
+[WAIT][NEXT][...]
+I'm of the mind that perhaps we
+should escape with our lives.[WAIT][END]
+
+#string:10:114
+[STYLE:RIGHT][...]
+{SpeechSound:02}Now! Hurry!
+[PAUSE:0A][...]
+We must get out of here![WAIT][END]
+
+#string:10:115
+[STYLE:RIGHT][...]
+{SpeechSound:02}Mario, hurry!
+[PAUSE:0A][...]
+The lava is getting higher![WAIT][END]
+
+#string:10:116
+[STYLE:RIGHT][...]
+Ah! I knew it!
+[PAUSE:0A][...]
+At last! The treasure is right
+there!
+[WAIT][NEXT][...]
+So close... Can't resist...
+[PAUSE:0A][...]
+{StartFX:Shrinking}By the Stars, I'll risk my life
+for that treasure!![WAIT][END]
+
+#string:10:117
+[STYLE:RIGHT][...]
+My treasure! Noooooooo!
+[PAUSE:1E][...]
+[END]
+

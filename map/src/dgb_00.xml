@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Map textures="dgb_tex">
+	<ModelTree>
+		<Node name="Root" id="0"/>
+	</ModelTree>
+	<ColliderTree>
+		<Node name="Root" id="0"/>
+	</ColliderTree>
+	<ZoneTree>
+		<Node name="Root" id="0"/>
+	</ZoneTree>
+	<MarkerTree>
+		<Node name="Root" id="B">
+			<Node name="Entrances" id="1">
+				<Node name="Entry0" id="FFFFFFFF"/>
+				<Node name="Entry1" id="0"/>
+			</Node>
+			<Node name="NPCs" id="9">
+				<Node name="NPC_802434FC" id="2"/>
+				<Node name="NPC_80241FE4" id="3"/>
+				<Node name="NPC_802421D4" id="4"/>
+				<Node name="NPC_802423C4" id="5"/>
+				<Node name="NPC_802425B4" id="6"/>
+				<Node name="NPC_802427A4" id="7"/>
+				<Node name="NPC_80242994" id="8"/>
+			</Node>
+			<Node name="Entity80243760" id="A"/>
+		</Node>
+	</MarkerTree>
+	<LightSets>
+		<LightSet name="Lights_None" a="0" b="0">
+		</LightSet>
+	</LightSets>
+	<Models>
+		<Model ver="2" type="ROOT" lightset="0">
+			<MapObject ver="1" name="Root" id="0"/>
+			<BoundingBox empty="true" min="0,0,0" max="0,0,0"/>
+			<PropertyList>
+			</PropertyList>
+		</Model>
+	</Models>
+	<Colliders>
+		<Collider ver="0" flags="0">
+			<MapObject ver="1" name="Root" id="0"/>
+			<HitObject type="ROOT"/>
+		</Collider>
+	</Colliders>
+	<Zones>
+		<Zone ver="0">
+			<MapObject ver="1" name="Root" id="0"/>
+			<HitObject type="ROOT"/>
+		</Zone>
+	</Zones>
+	<Markers>
+		<Marker ver="3" type="Root">
+			<MapObject ver="1" name="Root" id="B"/>
+		</Marker>
+		<Marker ver="3" type="Position" desc="Entity:SavePoint" pos="-65,60,-240" yaw="0.000000">
+			<MapObject ver="1" name="Entity80243760" id="A"/>
+		</Marker>
+		<Marker ver="3" type="Group">
+			<MapObject ver="1" name="NPCs" id="9"/>
+		</Marker>
+		<Marker ver="3" type="NPC" pos="0,-1000,0" yaw="90.000000">
+			<MapObject ver="1" name="NPC_80242994" id="8"/>
+			<Movement type="Stationary" data="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0"/>
+			<Sprite sprite="95" palette="1" animations="1,2,3,3,1,1,0,0,A,3,3,3,3,3,3,3"/>
+		</Marker>
+		<Marker ver="3" type="NPC" pos="0,-1000,0" yaw="90.000000">
+			<MapObject ver="1" name="NPC_802427A4" id="7"/>
+			<Movement type="Stationary" data="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0"/>
+			<Sprite sprite="95" palette="1" animations="1,2,3,3,1,1,0,0,A,3,3,3,3,3,3,3"/>
+		</Marker>
+		<Marker ver="3" type="NPC" pos="0,-1000,0" yaw="90.000000">
+			<MapObject ver="1" name="NPC_802425B4" id="6"/>
+			<Movement type="Stationary" data="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0"/>
+			<Sprite sprite="95" palette="1" animations="1,2,3,3,1,1,0,0,A,3,3,3,3,3,3,3"/>
+		</Marker>
+		<Marker ver="3" type="NPC" pos="0,-1000,0" yaw="90.000000">
+			<MapObject ver="1" name="NPC_802423C4" id="5"/>
+			<Movement type="Stationary" data="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0"/>
+			<Sprite sprite="95" palette="1" animations="1,2,3,3,1,1,0,0,A,3,3,3,3,3,3,3"/>
+		</Marker>
+		<Marker ver="3" type="NPC" pos="0,-1000,0" yaw="90.000000">
+			<MapObject ver="1" name="NPC_802421D4" id="4"/>
+			<Movement type="Stationary" data="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0"/>
+			<Sprite sprite="95" palette="1" animations="1,2,3,3,1,1,0,0,A,3,3,3,3,3,3,3"/>
+		</Marker>
+		<Marker ver="3" type="NPC" pos="0,-1000,0" yaw="90.000000">
+			<MapObject ver="1" name="NPC_80241FE4" id="3"/>
+			<Movement type="Stationary" data="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0"/>
+			<Sprite sprite="95" palette="1" animations="1,2,3,3,1,1,0,0,A,3,3,3,3,3,3,3"/>
+		</Marker>
+		<Marker ver="3" type="NPC" pos="0,0,-1000" yaw="90.000000">
+			<MapObject ver="1" name="NPC_802434FC" id="2"/>
+			<Movement type="Stationary" data="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0"/>
+			<Sprite sprite="38" palette="0" animations="1,2,3,3,1,1,1,1,5,1,8,1,1,1,1,1"/>
+		</Marker>
+		<Marker ver="3" type="Group">
+			<MapObject ver="1" name="Entrances" id="1"/>
+		</Marker>
+		<Marker ver="3" type="Entry" pos="250,10,-100" yaw="225.000000">
+			<MapObject ver="1" name="Entry1" id="0"/>
+		</Marker>
+		<Marker ver="3" type="Entry" pos="-733,0,-8" yaw="90.000000">
+			<MapObject ver="1" name="Entry0" id="FFFFFFFF"/>
+		</Marker>
+	</Markers>
+</Map>

@@ -1,0 +1,2420 @@
+#string:07:000
+[STYLE:RIGHT][...]
+Yep. We lost a whole mess of
+glasses around here when the
+earthquake hit.
+Been cleaning ever since.
+[WAIT][NEXT][...]
+It's a shame. Lots of fond
+memories in those glasses.[WAIT][END]
+
+#string:07:001
+[STYLE:RIGHT][...]
+Yep. We lost a whole mess of
+glasses around here when the
+earthquake hit.
+Been cleaning ever since.
+[WAIT][NEXT][...]
+It's a shame. Lots of fond
+memories in those glasses.[WAIT][END]
+
+#string:07:002
+[STYLE:RIGHT][...]
+Ever since Bowser skedaddled
+with the castle, we haven't
+had near as many customers.
+[WAIT][NEXT][...]
+Well, people try their best
+to act like everything's
+still normal, but deep down
+they're all real worried.
+[WAIT][NEXT][...]
+Who can have a good time
+partying when they're sad?[WAIT][END]
+
+#string:07:003
+[STYLE:RIGHT][...]
+Good thing for us none of those
+Shy Guys come here.
+'Course, neither do customers.
+[WAIT][NEXT][...]
+Most likely folks don't feel up
+to a night on the town in such
+troubling times.
+[WAIT][NEXT][...]
+I tell you, I'm tired of polishing
+glasses no one uses.[WAIT][END]
+
+#string:07:004
+[STYLE:RIGHT][...]
+Good thing for us none of those
+Shy Guys come here.
+'Course, neither do customers.
+[WAIT][NEXT][...]
+Most likely folks don't feel up
+to a night on the town in such
+troubling times.
+[WAIT][NEXT][...]
+I tell you, I'm tired of polishing
+glasses no one uses.[WAIT][END]
+
+#string:07:005
+[STYLE:RIGHT][...]
+Good thing for us none of those
+Shy Guys come here.
+'Course, neither do customers.
+[WAIT][NEXT][...]
+Most likely folks don't feel up
+to a night on the town in such
+troubling times.
+[WAIT][NEXT][...]
+I tell you, I'm tired of polishing
+glasses no one uses.[WAIT][END]
+
+#string:07:006
+[STYLE:RIGHT][...]
+Word is, something strange is
+floating at the port.
+[WAIT][NEXT][...]
+Well, that's even more bad news.
+Now people just have another
+reason to stay away from here.
+What a fine how-do-you-do![WAIT][END]
+
+#string:07:007
+[STYLE:RIGHT][...]
+A whale? You don't say?
+[PAUSE:0A][...]
+A whale right off the dock!?
+[WAIT][NEXT][...]
+Well, that's sure a relief.
+[PAUSE:0A][...]
+Pretty peculiar, though.[WAIT][END]
+
+#string:07:008
+[STYLE:RIGHT][...]
+Tell you what, son. That whale
+turned out to be a blessing.
+[WAIT][NEXT][...]
+It's an attraction, if you catch
+my drift. People are finally
+starting to come back here for
+entertainment.[WAIT][END]
+
+#string:07:009
+[STYLE:RIGHT][...]
+Those dark days when we had no
+customers seem far off.
+That whale really gave us a shot
+in the arm!
+[WAIT][NEXT][...]
+I'll tell ya, I'm happiest when
+I can work hard and spread a
+little joy around here.[WAIT][END]
+
+#string:07:00A
+[STYLE:RIGHT][...]
+I may not be one of those
+mystical Stars, but I know
+people's wishes, all right.
+[WAIT][NEXT][...]
+Seems like every customer I
+have bends my ear a while.
+[WAIT][NEXT][...]
+I've been hearing people's
+wishes ever since I first opened
+this place up.[WAIT][END]
+
+#string:07:00B
+[STYLE:RIGHT][...]
+I may not be one of those
+mystical Stars, but I know
+people's wishes, all right.
+[WAIT][NEXT][...]
+Seems like every customer I
+have bends my ear a while.
+[WAIT][NEXT][...]
+I've been hearing people's
+wishes ever since I first opened
+this place up.[WAIT][END]
+
+#string:07:00C
+[STYLE:RIGHT][...]
+I may not be one of those
+mystical Stars, but I know
+people's wishes, all right.
+[WAIT][NEXT][...]
+Seems like every customer I
+have bends my ear a while.
+[WAIT][NEXT][...]
+I've been hearing people's
+wishes ever since I first opened
+this place up.[WAIT][END]
+
+#string:07:00D
+[STYLE:RIGHT][...]
+Welcome to Club 64!
+[WAIT][NEXT][...]
+How do you like the club, dude?
+[PAUSE:0A][...]
+Pretty posh, right?
+[WAIT][NEXT][...]
+Yeah, my buddy there and I
+opened up last year.
+[WAIT][NEXT][...]
+This club was broken here and
+there in that earthquake, but,
+[PAUSE:0A][...]
+no problem.  We'll get it all
+fixed up in no time.[WAIT][END]
+
+#string:07:00E
+[STYLE:RIGHT][...]
+Welcome to Club 64!
+[WAIT][NEXT][...]
+How do you like the club, dude?
+[PAUSE:0A][...]
+Pretty posh, right?
+[WAIT][NEXT][...]
+Yeah, my buddy there and I
+opened up last year.
+[WAIT][NEXT][...]
+We lost a lot of glasses in
+that earthquake, but hey,
+[PAUSE:0A][...]
+no problem. We'll get it all
+fixed up in no time.[WAIT][END]
+
+#string:07:00F
+[STYLE:RIGHT][...]
+Welcome to Club 64!
+[WAIT][NEXT][...]
+How do you like the club, dude?
+[PAUSE:0A][...]
+Pretty posh, right?
+[WAIT][NEXT][...]
+Yeah, my buddy there and I
+opened up last year.
+[WAIT][NEXT][...]
+We lost a lot of glasses in
+that earthquake, but hey,
+[PAUSE:0A][...]
+no problem. We'll get it all
+fixed up in no time.[WAIT][END]
+
+#string:07:010
+[STYLE:RIGHT][...]
+Welcome to Club 64!
+[WAIT][NEXT][...]
+Huh? Shy Guys?
+[PAUSE:0A][...]
+Nah, dude, haven't seen any.
+[WAIT][NEXT][...]
+Just relax here, OK? We've got
+a no Shy Guy policy.[WAIT][END]
+
+#string:07:011
+[STYLE:RIGHT][...]
+Welcome to Club 64!
+[WAIT][NEXT][...]
+Huh? Shy Guys?
+[PAUSE:0A][...]
+Nah, dude, haven't seen any.
+[WAIT][NEXT][...]
+Just relax here, OK? We've got
+a no Shy Guy policy.[WAIT][END]
+
+#string:07:012
+[STYLE:RIGHT][...]
+Welcome to Club 64!
+[WAIT][NEXT][...]
+Huh? Shy Guys?
+[PAUSE:0A][...]
+Nah, dude, haven't seen any.
+[WAIT][NEXT][...]
+Just relax here, OK? We've got
+a no Shy Guy policy.[WAIT][END]
+
+#string:07:013
+[STYLE:RIGHT][...]
+Welcome to Club 64!
+[WAIT][NEXT][...]
+What's up with no customers?
+Isn't that Shy Guy epidemic
+over with already?
+[WAIT][NEXT][...]
+We need some good press...
+Maybe some attraction to draw
+people to the area...
+[WAIT][NEXT][...]
+I mean, times are hard,
+you know what I mean, dude?
+People need a reason to grin![WAIT][END]
+
+#string:07:014
+[STYLE:RIGHT][...]
+Oh, no way! For real?
+[PAUSE:0A][...]
+A whale, huh?
+[WAIT][NEXT][...]
+I thought it was some kinda
+surfacing submarine or something
+like that.[WAIT][END]
+
+#string:07:015
+[STYLE:RIGHT][...]
+Welcome to Club 64!
+[WAIT][NEXT][...]
+I checked out that whale.
+[PAUSE:0A][...]
+It's huuuuge! Huuuge, dude![WAIT][END]
+
+#string:07:016
+[STYLE:RIGHT][...]
+Welcome to Club 64!
+[WAIT][NEXT][...]
+You believe this? That whale's
+been really good for the biz.
+[WAIT][NEXT][...]
+All these people come for the
+whale and stay for the food!
+[PAUSE:0A][...]
+This joint's been jumping![WAIT][END]
+
+#string:07:017
+[STYLE:RIGHT][...]
+Welcome to Club 64!
+[WAIT][NEXT][...]
+You believe this? That whale's
+been really good for the biz.
+[WAIT][NEXT][...]
+All these people come for the
+whale and stay for the food!
+[PAUSE:0A][...]
+This joint's been jumping![WAIT][END]
+
+#string:07:018
+[STYLE:RIGHT][...]
+Welcome to Club 64!
+[WAIT][NEXT][...]
+You believe this? That whale's
+been really good for the biz.
+[WAIT][NEXT][...]
+All these people come for the
+whale and stay for the food!
+[PAUSE:0A][...]
+This joint's been jumping![WAIT][END]
+
+#string:07:019
+[STYLE:RIGHT][...]
+Welcome to Club 64!
+[WAIT][NEXT][...]
+You believe this? That whale's
+been really good for the biz.
+[WAIT][NEXT][...]
+All these people come for the
+whale and stay for the food!
+[PAUSE:0A][...]
+This joint's been jumping![WAIT][END]
+
+#string:07:01A
+[STYLE:RIGHT][...]
+This is the port. {StartFX:Wavy}Welcome!
+{EndFX:Wavy}[WAIT][NEXT][...]
+If you want to go to Dry Dry
+Desert, you can't get there
+from here.
+[PAUSE:14][...]
+Go to the train station instead.[WAIT][END]
+
+#string:07:01B
+[STYLE:RIGHT][...]
+This is the port. {StartFX:Wavy}Welcome!
+{EndFX:Wavy}[WAIT][NEXT][...]
+If you want to go to Dry Dry
+Desert, you can't get there
+from here.
+[PAUSE:14][...]
+Go to the train station instead.[WAIT][END]
+
+#string:07:01C
+[STYLE:RIGHT][...]
+This is the port. {StartFX:Wavy}Welcome!
+{EndFX:Wavy}[WAIT][NEXT][...]
+Isn't it relaxing to sit and just
+listen to the waves?[WAIT][END]
+
+#string:07:01D
+[STYLE:RIGHT][...]
+This is the port. {StartFX:Wavy}Welcome!
+{EndFX:Wavy}[WAIT][NEXT][...]
+Excuse me? Shy Guys?
+[PAUSE:0A][...]
+Oh yes, Shy Guys. We sometimes
+see them at the port, but they
+usually behave themselves.
+[WAIT][NEXT][...]
+They come from the east.
+Who knows why they come here.[WAIT][END]
+
+#string:07:01E
+[STYLE:RIGHT][...]
+This is the port. {StartFX:Wavy}Welcome!
+{EndFX:Wavy}[WAIT][NEXT][...]
+Excuse me? Shy Guys?
+[PAUSE:0A][...]
+Oh yes, Shy Guys. We sometimes
+see them at the port, but they
+usually behave themselves.
+[WAIT][NEXT][...]
+They come from the east.
+Who knows why they come here.[WAIT][END]
+
+#string:07:01F
+[STYLE:RIGHT][...]
+This is the port. {StartFX:Wavy}Welcome!
+{EndFX:Wavy}[WAIT][NEXT][...]
+Excuse me? Shy Guys?
+[PAUSE:0A][...]
+Oh yes, Shy Guys. We sometimes
+see them at the port, but they
+usually behave themselves.
+[WAIT][NEXT][...]
+They come from the east.
+Who knows why they come here.[WAIT][END]
+
+#string:07:020
+[STYLE:RIGHT][...]
+This is the port. {StartFX:Wavy}Welcome!
+{EndFX:Wavy}[WAIT][NEXT][...]
+Doesn't the sound of waves
+soothe your nerves?[WAIT][END]
+
+#string:07:021
+[STYLE:RIGHT][...]
+This is the port. {StartFX:Wavy}Welcome!
+{EndFX:Wavy}[WAIT][NEXT][...]
+Doesn't the sound of waves
+soothe your nerves?[WAIT][END]
+
+#string:07:022
+[STYLE:RIGHT][...]
+This is the port. {StartFX:Wavy}Welcome!
+{EndFX:Wavy}[WAIT][NEXT][...]
+Our tourist trade is booming!
+People have been flocking here
+to see the whale.[WAIT][END]
+
+#string:07:023
+[STYLE:RIGHT][...]
+This is the port. {StartFX:Wavy}Welcome!
+{EndFX:Wavy}[WAIT][NEXT][...]
+Our tourist trade is booming!
+People have been flocking here
+to see the whale.[WAIT][END]
+
+#string:07:024
+[STYLE:RIGHT][...]
+This is the port. {StartFX:Wavy}Welcome!
+{EndFX:Wavy}[WAIT][NEXT][...]
+Our tourist trade is booming!
+People have been flocking here
+to see the whale.[WAIT][END]
+
+#string:07:025
+[STYLE:RIGHT][...]
+This is the port. {StartFX:Wavy}Welcome!
+{EndFX:Wavy}[WAIT][NEXT][...]
+I used to come here at night to
+watch for shooting Stars out
+over the ocean.
+[WAIT][NEXT][...]
+I haven't seen one in a while.
+[PAUSE:0A][...]
+I wonder where the Stars went?[WAIT][END]
+
+#string:07:026
+[STYLE:RIGHT][...]
+This is the port. {StartFX:Wavy}Welcome!
+{EndFX:Wavy}[WAIT][NEXT][...]
+Oh, Mario, Mario.
+[PAUSE:0A][...]
+Don't push yourself so hard.
+[WAIT][NEXT][...]
+Relax and just go at your own
+pace, like the sea does.
+[PAUSE:0A][...]
+Good luck turning the tide![WAIT][END]
+
+#string:07:027
+[STYLE:RIGHT][...]
+Oh! Bountiful, beautiful sea!
+[WAIT][NEXT][...]
+When I behold the ocean,
+I feel peace and serenity.
+[WAIT][NEXT][...]
+When you feel sick in body or
+in heart, nothing heals you
+better than the sea.[WAIT][END]
+
+#string:07:028
+[STYLE:RIGHT][...]
+Oh! Bountiful, beautiful sea!
+[WAIT][NEXT][...]
+When I behold the ocean,
+I feel peace and serenity.
+[WAIT][NEXT][...]
+When you feel sick in body or
+in heart, nothing heals you
+better than the sea.[WAIT][END]
+
+#string:07:029
+[STYLE:RIGHT][...]
+I wish I could travel across the
+waters to some other land.
+[WAIT][NEXT][...]
+Oh! How wonderful it would be
+to go ashore some warm and
+uninhabited island and lead a
+life without cares![WAIT][END]
+
+#string:07:02A
+[STYLE:RIGHT][...]
+Hey, do you see that strange
+island-like thing over there?
+[WAIT][NEXT][...]
+I've been watching it, and it
+seems to move sometimes.
+[PAUSE:14][...]
+Spooky. I wonder what it is...[WAIT][END]
+
+#string:07:02B
+[STYLE:RIGHT][...]
+Hey, do you see that strange
+island-like thing over there?
+[WAIT][NEXT][...]
+I've been watching it, and it
+seems to move sometimes.
+[PAUSE:14][...]
+Spooky. I wonder what it is...[WAIT][END]
+
+#string:07:02C
+[STYLE:RIGHT][...]
+Hey, do you see that strange
+island-like thing over there?
+[WAIT][NEXT][...]
+I've been watching it, and it
+seems to move sometimes.
+[PAUSE:14][...]
+Spooky. I wonder what it is...[WAIT][END]
+
+#string:07:02D
+[STYLE:RIGHT][...]
+An odd fellow's been hanging
+around the port lately.
+[WAIT][NEXT][...]
+All he does is stare out at
+the horizon and mumble about
+treasures and the like.
+[WAIT][NEXT][...]
+Look, he's here again today![WAIT][END]
+
+#string:07:02E
+[STYLE:RIGHT][...]
+Oh! You're going to an island!
+And on a whale, no less!
+[PAUSE:14][...]
+It sounds like a dream...
+[WAIT][NEXT][...]
+Living a peaceful life on an
+island with no rules and no
+schedules to keep...
+[PAUSE:14][...]
+Oh! How I envy you, Mario![WAIT][END]
+
+#string:07:02F
+[STYLE:RIGHT][...]
+Hey Mario,
+[PAUSE:0A][...]
+the woman who tends flowers,
+Minh T., is looking for you.[WAIT][END]
+
+#string:07:030
+[STYLE:RIGHT][...]
+Flower Fields...
+Lavalava Island...
+[WAIT][NEXT][...]
+So many places I have never
+seen with my own eyes!
+[PAUSE:0A][...]
+I wish I could travel all over
+this world like you do...[WAIT][END]
+
+#string:07:031
+[STYLE:RIGHT][...]
+Flower Fields...
+Lavalava Island...
+[WAIT][NEXT][...]
+So many places I have never
+seen with my own eyes!
+[PAUSE:0A][...]
+I wish I could travel all over
+this world like you do...[WAIT][END]
+
+#string:07:032
+[STYLE:RIGHT][...]
+I often wonder what Star Haven
+is like.
+[WAIT][NEXT][...]
+Do you think it could be that
+different from Toad Town?
+[PAUSE:0A][...]
+Sailing on a sea of stars...
+How glorious that would be![WAIT][END]
+
+#string:07:033
+[STYLE:RIGHT][...]
+I often wonder what Star Haven
+is like.
+[WAIT][NEXT][...]
+Do you think it could be that
+different from Toad Town?
+[PAUSE:0A][...]
+Sailing on a sea of stars...
+How glorious that would be![WAIT][END]
+
+#string:07:034
+[STYLE:RIGHT][...]
+Hello, Mario.
+[PAUSE:0A][...]
+I heard that you went over to
+Koopa Village recently.
+[WAIT][NEXT][...]
+A long time ago, I went to Koopa
+Village, too.
+[WAIT][NEXT][...]
+I remember it like it was just
+yesterday. There were all sorts
+of people...uh, that is Koopa
+Troopas, there.
+[WAIT][NEXT][...]
+One Koopa loved the radio,
+I recall...those four rowdy
+brothers...that giant Kent C....
+[WAIT][NEXT][...]
+Oh yes, there was also that
+world-renowned explorer and
+archaeologist, Kolorado.
+[WAIT][NEXT][...]
+If I recall correctly, his wife
+was always worrying about him.
+[PAUSE:0A][...]
+I suppose she wanted him to
+stay home a bit more.
+[WAIT][NEXT][...]
+I often wonder how all those
+Koopas are holding up...[WAIT][END]
+
+#string:07:035
+[STYLE:RIGHT][...]
+Hello, Mario,
+[PAUSE:0A][...]
+I heard that you went over to
+Koopa Village recently.
+[WAIT][NEXT][...]
+A long time ago, I went to Koopa
+Village, too.
+[WAIT][NEXT][...]
+I remember it like it was just
+yesterday. There were all sorts
+of people...uh, that is Koopa
+Troopas, there.
+[WAIT][NEXT][...]
+One Koopa loved the radio,
+I recall...those four rowdy
+brothers...that giant Kent C....
+[WAIT][NEXT][...]
+Oh yes, there was also that
+world-renowned explorer and
+archaeologist, Kolorado.
+[WAIT][NEXT][...]
+If I recall correctly, his wife
+was always worrying about him.
+[PAUSE:0A][...]
+I suppose she wanted him to
+stay home a bit more.
+[WAIT][NEXT][...]
+I often wonder how all those
+Koopas are holding up...[WAIT][END]
+
+#string:07:036
+[STYLE:RIGHT][...]
+Hello, Mario.
+[PAUSE:0A][...]
+I heard you hiked over to
+Dry Dry Desert recently.
+[WAIT][NEXT][...]
+A long time ago, I went to
+Dry Dry Desert, too.
+[WAIT][NEXT][...]
+Sadly, I got lost in the desert.
+[PAUSE:05][...]
+A noble soul by the name of
+Moustafa saved me.
+[WAIT][NEXT][...]
+The way the locals referred
+to him, I assumed at first that
+he was a fierce, stern person.
+[WAIT][NEXT][...]
+But once I spoke with him, it
+became clear to me that he was
+quite a nice guy.
+[WAIT][NEXT][...]
+A secret surrounded this
+Moustafa...
+[PAUSE:0A][...]
+I was let in on it.
+[WAIT][NEXT][...]
+Moustafa is actually.[PAUSE:06].[PAUSE:03].
+[PAUSE:0A][...]
+{StartFX:Jitter}No, I can't tell you!
+{EndFX:Jitter}[WAIT][NEXT][...]
+Well, Mario,
+[PAUSE:05][...]
+because it's a secret.
+That's that.[WAIT][END]
+
+#string:07:037
+[STYLE:RIGHT][...]
+Hello, Mario.
+[PAUSE:0A][...]
+I heard you braved Forever
+Forest recently.
+[WAIT][NEXT][...]
+I got lost in Forever Forest
+a long time ago.
+[WAIT][NEXT][...]
+I wandered around and around
+in circles for a good while,
+utterly lost, then at last I
+came to a mysterious mansion.
+[WAIT][NEXT][...]
+It was there I met a Boo by
+the name of Bootler.
+[WAIT][NEXT][...]
+This Bootler used to travel
+the world having adventures
+with a pair of his friends,
+a Goomba and a Koopa Troopa.
+[WAIT][NEXT][...]
+We spoke of many things,
+he and I. He even told me
+of his undying love for the
+mistress of the mansion.
+[WAIT][NEXT][...]
+There was a little girl Boo
+there then, the granddaughter
+of the mansion's mistress.
+[WAIT][NEXT][...]
+She was headstrong and very
+spoiled. Still, she was cute.
+[WAIT][NEXT][...]
+I wonder how she's doing now.
+She must be beautiful.[WAIT][END]
+
+#string:07:038
+[STYLE:RIGHT][...]
+Hello, Mario.
+[PAUSE:0A][...]
+I heard you braved Forever
+Forest recently.
+[WAIT][NEXT][...]
+I got lost in Forever Forest
+a long time ago.
+[WAIT][NEXT][...]
+I wandered around and around
+in circles for a good while,
+utterly lost, then at last I
+came to a mysterious mansion.
+[WAIT][NEXT][...]
+It was there I met a Boo by
+the name of Bootler.
+[WAIT][NEXT][...]
+This Bootler used to travel
+the world having adventures
+with a pair of his friends,
+a Goomba and a Koopa Troopa. 
+[WAIT][NEXT][...]
+We spoke of many things,
+he and I. He even told me
+of his undying love for the
+mistress of the mansion.
+[WAIT][NEXT][...]
+There was a little girl Boo
+there then, the granddaughter
+of the mansion's mistress.
+[WAIT][NEXT][...]
+She was headstrong and very
+spoiled. Still, she was cute.
+[WAIT][NEXT][...]
+I wonder how she's doing now.
+She must be beautiful.[WAIT][END]
+
+#string:07:039
+[STYLE:RIGHT][...]
+Hello, Mario.
+[PAUSE:0A][...]
+I heard you braved Forever
+Forest recently.
+[WAIT][NEXT][...]
+I got lost in Forever Forest
+a long time ago.
+[WAIT][NEXT][...]
+I wandered around and around
+in circles for a good while,
+utterly lost, then at last I
+came to a mysterious mansion.
+[WAIT][NEXT][...]
+It was there I met a Boo by
+the name of Bootler.
+[WAIT][NEXT][...]
+This Bootler used to travel
+the world having adventures
+with a pair of his friends,
+a Goomba and a Koopa Troopa. 
+[WAIT][NEXT][...]
+We spoke of many things,
+he and I. He even told me
+of his undying love for the
+mistress of the mansion.
+[WAIT][NEXT][...]
+There was a little girl Boo
+there then, the granddaughter
+of the mansion's mistress.
+[WAIT][NEXT][...]
+She was headstrong and very
+spoiled. Still, she was cute.
+[WAIT][NEXT][...]
+I wonder how she's doing now.
+She must be beautiful.[WAIT][END]
+
+#string:07:03A
+[STYLE:RIGHT][...]
+Hello, Mario.
+[PAUSE:0A][...]
+Do you happen to know the owner
+of the Badge Shop that recently
+opened? Rowf?
+[WAIT][NEXT][...]
+I met that Rowf in a different
+town a long, long time ago.
+[WAIT][NEXT][...]
+Back then, he was selling rare
+foods, not Badges.
+[WAIT][NEXT][...]
+I recall that he had a beautiful
+wife at the time.
+[WAIT][NEXT][...]
+They worked so hard together to
+build a business up from nothing
+in that town.
+[WAIT][NEXT][...]
+His wife doesn't seem to be here
+in Toad Town, though.
+[PAUSE:0A][...]
+I wonder what happened...[WAIT][END]
+
+#string:07:03B
+[STYLE:RIGHT][...]
+Hello, Mario.
+[PAUSE:0A][...]
+Do you happen to know the owner
+of the Badge Shop that recently
+opened? Rowf?
+[WAIT][NEXT][...]
+I met that Rowf in a different
+town a long, long time ago.
+[WAIT][NEXT][...]
+Back then, he was selling rare
+foods, not Badges.
+[WAIT][NEXT][...]
+I recall that he had a beautiful
+wife at the time.
+[WAIT][NEXT][...]
+They worked so hard together to
+build a business up from nothing
+in that town.
+[WAIT][NEXT][...]
+His wife doesn't seem to be here
+in Toad Town, though.
+[PAUSE:0A][...]
+I wonder what happened...[WAIT][END]
+
+#string:07:03C
+[STYLE:RIGHT][...]
+Hey, Mario,
+[PAUSE:0A][...]
+I heard you went over the sea
+to Lavalava Island recently.
+[WAIT][NEXT][...]
+I went to Lavalava Island a
+long time ago, too.
+[WAIT][NEXT][...]
+The folks in Yoshi's Village took
+really good care of me.
+[WAIT][NEXT][...]
+What a wonderful place it was!
+Such a mild climate, and some
+of the tastiest foods!
+[WAIT][NEXT][...]
+I remember eating picnic lunches
+on the beach, sea breezes...  
+It was just fantastic.
+[WAIT][NEXT][...]
+Oh, it's been too long!
+I must go again sometime.[WAIT][END]
+
+#string:07:03D
+[STYLE:RIGHT][...]
+Hey, Mario,
+[PAUSE:0A][...]
+I heard you went over the sea
+to Lavalava Island recently.
+[WAIT][NEXT][...]
+I went to Lavalava Island a
+long time ago, too.
+[WAIT][NEXT][...]
+The folks in Yoshi's Village took
+really good care of me.
+[WAIT][NEXT][...]
+What a wonderful place it was!
+Such a mild climate, and some
+of the tastiest foods!
+[WAIT][NEXT][...]
+I remember eating picnic lunches
+on the beach, sea breezes...  
+It was just fantastic.
+[WAIT][NEXT][...]
+Oh, it's been too long!
+I must go again sometime.[WAIT][END]
+
+#string:07:03E
+[STYLE:RIGHT][...]
+Hello, Mario.
+[PAUSE:0A][...]
+I heard you went over to
+Flower Fields recently.
+[WAIT][NEXT][...]
+I've never been there myself,
+but the elder at Koopa Village,
+the esteemed Koopa Koot,
+[WAIT][NEXT][...]
+told me once about the time he
+journeyed to Flower Fields
+in the days of his youth.
+[WAIT][NEXT][...]
+According to his tale, he
+valiantly saved a big tree
+called Wise Wisterwood.
+[WAIT][NEXT][...]
+Old Koopa Koot...
+[PAUSE:05][...]
+He's told me a million stories
+about his travels.
+[WAIT][NEXT][...]
+He was a famous explorer when
+he was younger, probably the
+most famous Koopa in the land.
+[WAIT][NEXT][...]
+Perhaps it was Koopa Koot's
+influence that led Kolorado
+into the adventuring life.[WAIT][END]
+
+#string:07:03F
+[STYLE:RIGHT][...]
+Hello, Mario.
+[PAUSE:0A][...]
+I heard you went over to
+Flower Fields recently.
+[WAIT][NEXT][...]
+I've never been there myself,
+but the elder at Koopa Village,
+the esteemed Koopa Koot,
+[WAIT][NEXT][...]
+told me once about the time he 
+journeyed to Flower Fields
+in the days of his youth.
+[WAIT][NEXT][...]
+According to his tale, he
+valiantly saved a big tree
+called Wise Wisterwood.
+[WAIT][NEXT][...]
+Old Koopa Koot... 
+[PAUSE:05][...]
+He's told me a million stories
+about his travels.
+[WAIT][NEXT][...]
+He was a famous explorer when
+he was younger. Probably the
+most famous Koopa in the land.
+[WAIT][NEXT][...]
+Perhaps it was Koopa Koot's
+influence that led Kolorado
+into the adventuring life.[WAIT][END]
+
+#string:07:040
+[STYLE:RIGHT][...]
+Hello, Mario.
+[PAUSE:0A][...]
+In all your travels, have you
+ever been to Star Haven?
+[WAIT][NEXT][...]
+As far as I know, nobody has
+ever been there. It's too far
+off, way beyond the clouds.
+[WAIT][NEXT][...]
+If I could have one wish, it
+would be to open a Toad House
+in Star Haven.
+[WAIT][NEXT][...]
+Don't you think it would be
+amazing to live with the stars
+surrounding you?
+[WAIT][NEXT][...]
+You could stay for free,
+of course, whenever you came.[WAIT][END]
+
+#string:07:041
+[STYLE:RIGHT][...]
+{StartFX:Wavy}O, memories of younger days[NOTE] 
+River runs with sunlit rays[NOTE]
+We ramble as the music plays[NOTE]
+{EndFX:Wavy}[WAIT][NEXT][...]
+Phew!
+[PAUSE:0A][...]
+What is it about the ocean
+that makes me want to sing?[WAIT][END]
+
+#string:07:042
+[STYLE:RIGHT][...]
+{StartFX:Wavy}O, memories of younger days[NOTE] 
+River runs with sunlit rays[NOTE]
+We ramble as the music plays[NOTE]
+{EndFX:Wavy}[WAIT][NEXT][...]
+Phew!
+[PAUSE:0A][...]
+What is it about the ocean
+that makes me want to sing?[WAIT][END]
+
+#string:07:043
+[STYLE:RIGHT][...]
+{StartFX:Wavy}An unknown town--Ooh![NOTE]
+I travel down--Oh yeah![NOTE]
+The locals frown--Get down![NOTE]
+{EndFX:Wavy}[WAIT][NEXT][...]
+Oops,[PAUSE:0A] I started singing again!
+[PAUSE:14][...]
+What is it about the ocean
+that makes me want to sing?[WAIT][END]
+
+#string:07:044
+[STYLE:RIGHT][...]
+Heyyy... Do you see something
+floating over there?
+[WAIT][NEXT][...]
+See what I'm talking about?
+[PAUSE:0F][...]
+Well, if you go straight and
+walk onto the pier, you'll be
+able to see it.
+[WAIT][NEXT][...]
+It bothers me for some reason.
+I think I just saw it move![WAIT][END]
+
+#string:07:045
+[STYLE:RIGHT][...]
+Heyyy... Do you see something
+floating over there?
+[WAIT][NEXT][...]
+See what I'm talking about?
+[PAUSE:0F][...]
+Well, if you go straight and
+walk onto the pier, you'll be
+able to see it.
+[WAIT][NEXT][...]
+It bothers me for some reason.
+I think I just saw it move![WAIT][END]
+
+#string:07:046
+[STYLE:RIGHT][...]
+Heyyy... Do you see something
+floating over there?
+[WAIT][NEXT][...]
+See what I'm talking about?
+[PAUSE:0F][...]
+Well, if you go straight and
+walk onto the pier, you'll be
+able to see it.
+[WAIT][NEXT][...]
+It bothers me for some reason. 
+I think I just saw it move![WAIT][END]
+
+#string:07:047
+[STYLE:RIGHT][...]
+That thing that looks like an
+island has been floating in the
+port for days.
+[WAIT][NEXT][...]
+But just recently, it moved
+right next to the pier.
+[WAIT][NEXT][...]
+Brr... I wonder if one day soon
+it'll come ashore...
+[WAIT][NEXT][...]
+Ma... [PAUSE:0A]Mario,
+[PAUSE:0A][...]
+could you possibly go see if it's
+dangerous?[WAIT][END]
+
+#string:07:048
+[STYLE:RIGHT][...]
+Oh? Oh!
+It was only a whale, after all.
+[PAUSE:14][...]
+Who'd be scared [PAUSE:0A]of a whale?
+[WAIT][NEXT][...]
+M... [PAUSE:0A]Me?
+[PAUSE:14][...]
+I... [PAUSE:0A]I don't remember that.[WAIT][END]
+
+#string:07:049
+[STYLE:RIGHT][...]
+Where'd you go on the whale?
+[PAUSE:14][...]
+Lavalava Island?
+[WAIT][NEXT][...]
+Sweet!
+[PAUSE:0A][...]
+Of course, I've heard of it,
+but I've never gone there.
+It sounds like paradise.[WAIT][END]
+
+#string:07:04A
+[STYLE:RIGHT][...]
+Where'd you go on the whale?
+[PAUSE:14][...]
+Lavalava Island?
+[WAIT][NEXT][...]
+Sweet!
+[PAUSE:0A][...]
+Of course, I've heard of it,
+but I've never gone there.
+It sounds like paradise.[WAIT][END]
+
+#string:07:04B
+[STYLE:RIGHT][...]
+That whale...
+[PAUSE:05][...]
+It seemed like it was hurting
+before, but it looks fine now.
+[WAIT][NEXT][...]
+Anything that big is bound to
+be a little scary at first,
+but now that I'm used to it,
+it's actually really cute!
+[WAIT][NEXT][...]
+It makes me want to write a
+serenade for it![WAIT][END]
+
+#string:07:04C
+[STYLE:RIGHT][...]
+That whale...
+[PAUSE:05][...]
+It seemed like it was hurting
+before, but it looks fine now.
+[WAIT][NEXT][...]
+Anything that big is bound to
+be a little scary at first,
+but now that I'm used to it,
+it's actually really cute!
+[WAIT][NEXT][...]
+It makes me want to write a
+serenade for it![WAIT][END]
+
+#string:07:04D
+[STYLE:RIGHT][...]
+That whale...
+[PAUSE:05][...]
+It seemed like it was hurting
+before, but it looks fine now.
+[WAIT][NEXT][...]
+Anything that big is bound to
+be a little scary at first,
+but now that I'm used to it,
+it's actually really cute!
+[WAIT][NEXT][...]
+It makes me want to write a
+serenade for it![WAIT][END]
+
+#string:07:04E
+[STYLE:RIGHT][...]
+'Tis true, big fish I be getting
+when'er I fish here.
+[WAIT][NEXT][...]
+Yar, I hear caterpillars be
+makin' the best bait.
+[PAUSE:0A][...]
+Ye Fuzzipede! Yer me bait![WAIT][END]
+
+#string:07:04F
+[STYLE:RIGHT][...]
+'Tis true, big fish I be getting
+when'er I fish here.
+[WAIT][NEXT][...]
+Yar, I hear caterpillars be
+makin' the best bait.
+[PAUSE:0A][...]
+Ye Fuzzipede! Yer me bait![WAIT][END]
+
+#string:07:050
+[STYLE:RIGHT][...]
+Stay still, curse yer hide!
+[PAUSE:0A][...]
+On the hook with ye!
+[WAIT][NEXT][...]
+'Twill hurt only a minute,
+ye blasted little wriggler![WAIT][END]
+
+#string:07:051
+[STYLE:RIGHT][...]
+Hur? Blimey!
+[WAIT][NEXT][...]
+The little wiggler's gone!
+[PAUSE:05][...]
+Whar'd that Fuzzipede go?
+[WAIT][NEXT][...]
+A fish took 'im, p'raps?
+[PAUSE:0A][...]
+Curse me foul luck![WAIT][END]
+
+#string:07:052
+[STYLE:RIGHT][...]
+Hur? Blimey!
+[WAIT][NEXT][...]
+The little wiggler's gone!
+[PAUSE:05][...]
+Whar'd that Fuzzipede go?
+[WAIT][NEXT][...]
+A fish took 'im, p'raps?
+[PAUSE:0A][...]
+Curse me foul luck![WAIT][END]
+
+#string:07:053
+[STYLE:RIGHT][...]
+That cursed Fuzzipede...
+[PAUSE:0A][...]
+Whar'd he squirm off to?
+[WAIT][NEXT][...]
+Restin' in the wat'ry deep?[WAIT][END]
+
+#string:07:054
+[STYLE:RIGHT][...]
+'Tis no use, tryin' ter
+fish with no caterpillar...
+[WAIT][NEXT][...]
+Gar, what a fix I be in!
+[PAUSE:0A][...]
+Well, there's nothin' for it
+but to find me diff'rent bait.[WAIT][END]
+
+#string:07:055
+[STYLE:RIGHT][...]
+'Tis no use, tryin' ter
+fish with no caterpillar...
+[WAIT][NEXT][...]
+Gar, what a fix I be in!
+[PAUSE:0A][...]
+Well, there's nothin' for it
+but to find me diff'rent bait.[WAIT][END]
+
+#string:07:056
+[STYLE:RIGHT][...]
+Eh, little matey! Looks like
+I had the wrong bait before!
+[WAIT][NEXT][...]
+I'm reelin' in huge hauls![WAIT][END]
+
+#string:07:057
+[STYLE:RIGHT][...]
+Eh, little matey! Looks like
+I had the wrong bait before!
+[WAIT][NEXT][...]
+I'm reelin' in huge hauls![WAIT][END]
+
+#string:07:058
+[STYLE:RIGHT][...]
+I'd love ter sail the seven seas
+fishin' fer diff'rent fish. [WAIT][END]
+
+#string:07:059
+[STYLE:RIGHT][...]
+I'd love ter sail the seven seas
+fishin' fer diff'rent fish. [WAIT][END]
+
+#string:07:05A
+[STYLE:RIGHT][...]
+I'd love ter sail the seven seas
+fishin' fer diff'rent fish. [WAIT][END]
+
+#string:07:05B
+[STYLE:RIGHT][...]
+Jest cuz y'all are fishin' I
+got to be bait? Nuh uh!
+[WAIT][NEXT][...]
+Yore a plumb fool!
+[WAIT][NEXT][...]
+I may be a caterpilla but I've
+still got some rights![WAIT][END]
+
+#string:07:05C
+[STYLE:RIGHT][...]
+Jest cuz y'all are fishin' I
+got to be bait? Nuh uh!
+[WAIT][NEXT][...]
+Yore a plumb fool!
+[WAIT][NEXT][...]
+I may be a caterpilla but I've
+still got some rights![WAIT][END]
+
+#string:07:05D
+[STYLE:RIGHT][...]
+Cut it out, now, hear?
+[PAUSE:0A][...]
+I ain't gonna be bait!
+[WAIT][NEXT][...]
+Leave off!
+[PAUSE:0A][...]
+C'mon, now![WAIT][END]
+
+#string:07:05E
+[STYLE:RIGHT][...]
+Hey y'all...
+[PAUSE:0A][...]
+I'm not gonna be caught by that
+Fishmael fella agin, you kin
+believe that...
+[WAIT][NEXT][...]
+I bet he ain't catching diddly
+without me! Hoo![WAIT][END]
+
+#string:07:05F
+[STYLE:RIGHT][...]
+Hmmph. That durned Fishmael
+is catching tons o' fish.
+[WAIT][NEXT][...]
+He don't even care that I
+ain't around anymore...[WAIT][END]
+
+#string:07:060
+[STYLE:RIGHT][...]
+Hmmph. That durned Fishmael
+is catching tons o' fish.
+[WAIT][NEXT][...]
+He don't even care that I
+ain't around anymore...[WAIT][END]
+
+#string:07:061
+[STYLE:RIGHT][...]
+I decided that, in my next life,
+I'm gonna be a fish.
+[WAIT][NEXT][...]
+And all I'm gonna do is drive
+that Fishmael nuts all the day
+long. Hoo wee![WAIT][END]
+
+#string:07:062
+[STYLE:RIGHT][...]
+I decided that, in my next life,
+I'm gonna be a fish.
+[WAIT][NEXT][...]
+And all I'm gonna do is drive
+that Fishmael nuts all the day
+long. Hoo wee![WAIT][END]
+
+#string:07:063
+[STYLE:RIGHT][...]
+Hey y'all...
+[PAUSE:0A][...]
+I'm not gonna be caught by that
+Fishmael fella agin, you kin
+believe that...
+[WAIT][NEXT][...]
+I bet he ain't catching diddly
+without me! Hoo![WAIT][END]
+
+#string:07:064
+[STYLE:RIGHT][...]
+Addressed to a person fishing
+at the port...
+[PAUSE:0A][...]
+Ah! This must be you.
+[WAIT][NEXT][...]
+The name's Parakarry.
+I deliver letters.
+[WAIT][NEXT][...]
+I believe I have one for you.
+[PAUSE:0A][...]
+Hang on a moment.[WAIT][END]
+
+#string:07:065
+[STYLE:RIGHT][...]
+Oh...no! Confound it!
+[PAUSE:0A][...]
+I seem to have lost it!
+[PAUSE:0A][...]
+...I'm terribly sorry.[WAIT][END]
+
+#string:07:066
+[STYLE:RIGHT][...]
+Another letter, duly delivered.
+A postman's job is never done.[WAIT][END]
+
+#string:07:067
+[STYLE:RIGHT][...]
+Hm?  What's this, then?
+[PAUSE:0A][...]
+Shiver me timbers!
+Word from Koover!
+[WAIT][NEXT][...]
+Muss T. said he wrote a letter,
+too.
+[PAUSE:0A][...]
+Everyone's got the fishin' bug!
+[WAIT][NEXT][...]
+Time fer a fishin' trip!
+[PAUSE:05][...]
+Ye should come along, Mario.
+[WAIT][NEXT][...]
+Yar, that reminds me...
+I got a favor ter ask.
+[PAUSE:0A][...]
+Could yer deliver this to 'im?
+[WAIT][NEXT][...]
+'im?  Why, the Koopa Troopa who
+asked you ter bring this letter
+to me! Koover's the name.
+[WAIT][NEXT][...]
+Yar, and take good care, fer
+the luvva fishes![WAIT][END]
+
+#string:07:068
+[STYLE:RIGHT][...]
+Mmmm...hi. I'm Chanterelle. 
+I'm known around here as the
+Pop Diva of Toad Town.
+[WAIT][NEXT][...]
+Oh, I used to be able to sing
+any song perfectly, each note
+a masterpiece.
+[WAIT][NEXT][...]
+Those times are behind me
+now...perhaps forever.
+[WAIT][NEXT][...]
+The sight of Peach's Castle
+flying high into the sky was
+such a shock...I haven't
+been able to sing since then.
+[WAIT][NEXT][...]
+And now... Now I am a Pop Diva
+who cannot sing...
+[PAUSE:14][...]
+Cruel irony, isn't it?[WAIT][END]
+
+#string:07:069
+[STYLE:RIGHT][...]
+Now I am a Pop Diva who cannot
+sing...
+[PAUSE:14][...]
+Cruel irony, isn't it?[WAIT][END]
+
+#string:07:06A
+[STYLE:RIGHT][...]
+My sweet voice! I long to sing!
+[PAUSE:14][...]
+Please help me, Mario![WAIT][END]
+
+#string:07:06B
+[STYLE:RIGHT][...]
+My sweet voice! I long to sing!
+[PAUSE:14][...]
+Please help me, Mario![WAIT][END]
+
+#string:07:06C
+[STYLE:RIGHT][...]
+Oh, thanks to you, I have found
+my voice once more!
+[WAIT][NEXT][...]
+Please let me sing to express my
+deepest thanks!
+{Func_04}[END]
+
+#string:07:06D
+[STYLE:RIGHT][...]
+May I sing for you?
+{Func_04}[END]
+
+#string:07:06E
+[NEXT][...]
+OK. Perhaps another time.[WAIT][END]
+
+#string:07:06F
+[NEXT][...]
+You've made me so happy![HEART]
+[PAUSE:0A][...]
+Let me begin...[WAIT][END]
+
+#string:07:070
+[STYLE:RIGHT][...]
+I'm Simon. I'm rhymin'. To folks
+who know it, I'm the Master Poet.
+[PAUSE:0A][...]
+Poor Pop Diva cannot sing, but
+my Lyrics are just the thing.
+[WAIT][NEXT][...]
+If my Lyrics really rock, our
+Pop Diva will be cured of shock.
+[WAIT][NEXT][...]
+I'm tragically stuck, though.
+'cause my last line's a no-show.
+[PAUSE:0A][...]
+Later, plumbinator![WAIT][END]
+
+#string:07:071
+[STYLE:RIGHT][...]
+If my Lyrics really rock, our
+Pop Diva will be cured of shock.
+[WAIT][NEXT][...]
+I'm tragically stuck, though.
+'cause my last line's a no-show.
+[PAUSE:0A][...]
+Later, plumbinator![WAIT][END]
+
+#string:07:072
+[STYLE:RIGHT][...]
+Oh...
+[PAUSE:0A][...]
+That final "right" line just
+jumped into my mind!
+[WAIT][NEXT][...]
+Sit tight...O plumbing knight.[WAIT][END]
+
+#string:07:073
+[STYLE:RIGHT][...]
+The race is won, [PAUSE:05]now I'm done!
+[PAUSE:0A][...]
+I'm not really one to boast,
+but talent? I've got the most.
+Now to my Lyrics, raise a toast!
+[WAIT][NEXT][...]
+Cha-ching!
+Pop Diva now will sing![WAIT][END]
+
+#string:07:074
+[STYLE:RIGHT][...]
+Ah... [PAUSE:0A]But...
+[PAUSE:0A][...]
+I'm afraid I just can't sing
+without any Music.[WAIT][END]
+
+#string:07:075
+[STYLE:RIGHT][...]
+!? [PAUSE:0A]Ooooh! Drat and drear!
+[PAUSE:0A][...]
+My mind wasn't clear!
+[WAIT][NEXT][...]
+Lyrics aren't the only thing
+Pop Diva needs again to sing.
+Without Music, it's quite clear,
+the Diva's voice, none will hear.
+[WAIT][NEXT][...]
+Hmmm, what shall I do...
+...what shall I do...
+[WAIT][NEXT][...]
+Who can pair my Lyrics and
+Music, too?
+[PAUSE:0A][...]
+.[PAUSE:0A].[PAUSE:0A].[PAUSE:0A]I know who!!
+[WAIT][NEXT][...]
+I heard a rumor that somewhere
+is a Composer beyond compare.
+[WAIT][NEXT][...]
+Special power his Music brings.
+Can it help the Diva sing?
+[WAIT][NEXT][...]
+Mario, I'm on my knees!
+Won't you help, pretty please?
+[PAUSE:0A][...]
+Here, take this and go!
+Find the Music, save our show![WAIT][END]
+
+#string:07:076
+[STYLE:RIGHT][...]
+I heard a rumor that somewhere
+is a Composer beyond compare. 
+[WAIT][NEXT][...]
+Special power his Music brings.
+Can it help the Diva sing?[WAIT][END]
+
+#string:07:077
+[STYLE:RIGHT][...]
+I heard a rumor that somewhere
+is a Composer beyond compare. 
+[WAIT][NEXT][...]
+Special power his Music brings.
+Can it help the Diva sing?[WAIT][END]
+
+#string:07:078
+[STYLE:RIGHT][...]
+Oooh!
+[PAUSE:0A][...]
+Say it's so! That's Music, no?[WAIT][END]
+
+#string:07:079
+[STYLE:RIGHT][...]
+Oh, Mario!
+[PAUSE:0A][...]
+That's the Music!
+Please do show![WAIT][END]
+
+#string:07:07A
+[STYLE:RIGHT][...]
+Please! It's time to sing.
+[PAUSE:0A][...]
+Come on, now, don't be so mean!
+You don't want to cause a
+scene![WAIT][END]
+
+#string:07:07B
+[STYLE:RIGHT][...]
+[PAUSE:0A][...]
+... Hmmm...
+[PAUSE:1E][...]
+Oh yes, yes, yes! [PAUSE:14]It's the best!!
+[WAIT][NEXT][...]
+With this Music, we rejoice, for
+it will give Pop Diva voice!
+[WAIT][NEXT][...]
+Now, Chanterelle.
+Please do tell.
+[PAUSE:0A][...]
+Will you sing this new song?
+Come now, we can't wait long![WAIT][END]
+
+#string:07:07C
+[STYLE:RIGHT][...]
+[PAUSE:0A][...]
+Oh!
+[PAUSE:14][...]
+It's perfect! So beautiful!
+[WAIT][NEXT][...]
+... [PAUSE:0A]But...
+[PAUSE:14][...]
+What if I can't sing it?[WAIT][END]
+
+#string:07:07D
+[STYLE:RIGHT][...]
+Hey, hey, it'll be OK.
+[PAUSE:0A][...]
+You can do it. Nothing to it.
+[PAUSE:14][...]
+Be courageous! Sing it loud!
+Warble on, sweet and proud![WAIT][END]
+
+#string:07:07E
+[STYLE:RIGHT][...]
+... [PAUSE:0A]Yes...
+[PAUSE:14][...]
+I will [PAUSE:0A]try to sing.
+[WAIT][NEXT][...]
+Aaaaa[PAUSE:0A] aaaaaaaa
+[PAUSE:0A][...]
+OK...[WAIT][END]
+
+#string:07:07F
+[STYLE:RIGHT][...]
+Bravo! Hear, hear!
+[PAUSE:0A][...]
+This sweet song has brought me
+tears!
+[WAIT][NEXT][...]
+To Mario, our greatest thanks!
+[PAUSE:0A][...]
+Because of you, Pop Diva
+cranks![WAIT][END]
+
+#string:07:080
+[STYLE:RIGHT][...]
+I can sing! Laaa-diiiii!
+[PAUSE:0A][...]
+I'm overjoyed!
+[WAIT][NEXT][...]
+Thank you!
+[PAUSE:0A][...]
+You saved me, Mario!
+[WAIT][NEXT][...]
+I wish I could do more...
+but here's a small gift.
+[PAUSE:0A][...]
+Please treasure it![WAIT][END]
+
+#string:07:081
+[STYLE:RIGHT][...]
+Mmmmmm...
+[PAUSE:0A][...]
+Chanterelle's voice is even more
+sweet and tender than before.
+[WAIT][NEXT][...]
+Her trials of these past days
+most likely helped her, in a way.[WAIT][END]
+
+#string:07:082
+[STYLE:RIGHT][...]
+Mmmmmm...
+[PAUSE:0A][...]
+Chanterelle's voice is even more
+sweet and tender than before.
+[WAIT][NEXT][...]
+Her trials of these past days
+most likely helped her, in a way.[WAIT][END]
+
+#string:07:083
+[STYLE:RIGHT][...]
+Hmmm... Who am I, you say?
+[WAIT][NEXT][...]
+Why, my dear chap, I am none
+other than Kolorado, famed
+adventurer and archaeologist.
+I'm touring the world!
+[WAIT][NEXT][...]
+And you're Mario, yes?
+[PAUSE:0A][...]
+What are you doing here?
+[WAIT][NEXT][...]
+Well, I for one am traveling
+bravely to Lavalava Island in
+the southern sea to solve a
+diabolical mystery.
+[WAIT][NEXT][...]
+It would seem that there are
+ancient treasures waiting in
+a volcanic cave.
+[WAIT][NEXT][...]
+I'm in a bit of a fix, though.
+No way to get there, you see.
+[WAIT][NEXT][...]
+Hmmm...
+[PAUSE:05][...]
+Think now, Kolorado! How to
+cross the sea...[WAIT][END]
+
+#string:07:084
+[STYLE:RIGHT][...]
+Dear chap, I am traveling
+bravely to Lavalava Island in
+the southern sea to solve a
+diabolical mystery.
+[WAIT][NEXT][...]
+It would seem that there are
+ancient treasures waiting in
+a volvanic cave.
+[WAIT][NEXT][...]
+I'm in a bit of a fix, though.
+No way to get there, you see.
+[WAIT][NEXT][...]
+Hmmm...
+[PAUSE:05][...]
+Think now, Kolorado! How to
+cross the sea...[WAIT][END]
+
+#string:07:085
+[STYLE:RIGHT][...]
+You're Kolorado, correct?
+[WAIT][NEXT][...]
+I think I have a letter for you.
+[PAUSE:0A][...]
+Hang on a moment.[WAIT][END]
+
+#string:07:086
+[STYLE:RIGHT][...]
+Oh...no! Confound it!
+[PAUSE:0A][...]
+I seem to have lost it!
+[PAUSE:0A][...]
+...I'm terribly sorry.[WAIT][END]
+
+#string:07:087
+[STYLE:RIGHT][...]
+Another letter, duly delivered.
+A postman's job is never done.[WAIT][END]
+
+#string:07:088
+[STYLE:RIGHT][...]
+Oh, good show!
+[PAUSE:0F][...]
+It's a letter from my wife.
+[WAIT][NEXT][...]
+Thank you ever so, old chap.
+[PAUSE:0F][...]
+This is just what I needed to
+give me strength for the trip.
+[WAIT][NEXT][...]
+[PAUSE:0A][...]
+...I know!
+[PAUSE:0A][...]
+I'll pass this along as my most
+sincere thanks.
+[WAIT][NEXT][...]
+I came across it while I was
+researching my latest project
+in Dry Dry Desert.[WAIT][END]
+
+#string:07:089
+[STYLE:RIGHT][...]
+The Dry Dry Ruins dig grew
+tiresome for me. I left it in
+the hands of my assistants.
+[WAIT][NEXT][...]
+[PAUSE:0A][...]
+I say...?
+[WAIT][NEXT][...]
+Mario,
+[PAUSE:0A][...]
+That artifact of yours[PAUSE:03].[PAUSE:03].[PAUSE:03].
+[PAUSE:05][...]
+[WAIT][NEXT][...]
+That looks like... The subtle
+craftsmanship...indeed!
+It's a clue to Dry Dry Ruins!
+[WAIT][NEXT][...]
+A careful study of this by an
+experienced archaeologist like
+me could well solve the mystery
+of the ruins!
+[WAIT][NEXT][...]
+Mario![PAUSE:0A] Old boy![PAUSE:0A] Be a chum!
+[PAUSE:0F][...]
+Could you part with it?[WAIT][END]
+
+#string:07:08A
+[STYLE:RIGHT][...]
+Sadly, the excavation at
+Dry Dry Ruins is not all
+it could be...
+[WAIT][NEXT][...]
+I was reluctantly forced to
+leave it to my assistants.
+[WAIT][NEXT][...]
+
+Mario, old boy!
+[WAIT][NEXT][...]
+I beg you to reconsider and give
+me that artifact!
+[WAIT][NEXT][...]
+Dear man, [PAUSE:0A]have mercy!
+[PAUSE:0F][...]
+It is absolutely vital to my
+important research![WAIT][END]
+
+#string:07:08B
+[STYLE:RIGHT][...]
+Mario...old chum...
+[WAIT][NEXT][...]
+I must have that artifact!
+I can't stop thinking of it![WAIT][END]
+
+#string:07:08C
+[STYLE:RIGHT][...]
+[NEXT][...]
+Oh dear...
+[PAUSE:14][...]
+Won't you change your mind?[WAIT][END]
+
+#string:07:08D
+[STYLE:RIGHT][...]
+[NEXT][...]
+Oh, bother!
+[PAUSE:0A][...]
+I suppose nothing I can say will
+sway you. How tragic.
+How very sad.
+[WAIT][NEXT][...]
+I guess I'll just suffer...[WAIT][END]
+
+#string:07:08E
+[STYLE:RIGHT][...]
+[NEXT][...]
+Cheers, Mario!
+[PAUSE:0A][...]
+Smashing, really, old boy!
+[WAIT][NEXT][...]
+Soon now, the mystery of
+Dry Dry Ruins will rise from
+the sands that conceal it!
+[WAIT][NEXT][...]
+As a brilliant archaeologist,
+I say it must be so!
+[WAIT][NEXT][...]
+Hmm, yes, of course, well. I
+suppose a thank-you gift is in
+order, eh, old boy?
+[PAUSE:0A][...]
+Here you go then![WAIT][END]
+
+#string:07:08F
+[STYLE:RIGHT][...]
+I found it in Dry Dry Desert.
+[PAUSE:0A][...]
+I have no use for it.
+[WAIT][NEXT][...]
+Now then! Let's get down to
+brass tacks, eh? Let's solve
+this mystery in front of us![WAIT][END]
+
+#string:07:090
+[STYLE:RIGHT][...]
+Ouch! Yeeowch!
+[PAUSE:0A][...]
+What are you doing![WAIT][END]
+
+#string:07:091
+[STYLE:RIGHT][...]
+Oh, good heavens!
+[PAUSE:0A][...]
+I was wondering what this was.
+It seems to be a huge tuna![WAIT][END]
+
+#string:07:092
+[STYLE:RIGHT][...]
+{StartFX:Wavy}Ooooog...
+{EndFX:Wavy}I'm not a tuna. I'm a whale.
+[WAIT][NEXT][...]
+...And I have problems!
+[PAUSE:0A][...]
+It feels like something's jumping
+around in my belly!
+[WAIT][NEXT][...]
+Ow ow ow... Help me![WAIT][END]
+
+#string:07:093
+[STYLE:RIGHT][...]
+Hmm... I say...
+[PAUSE:05][...]
+Old boy, this great tuna seems
+to have a bit of a bellyache.
+[WAIT][NEXT][...]
+Mario, what say you lend the fish
+a hand, hm?[WAIT][END]
+
+#string:07:094
+[STYLE:RIGHT][...]
+Ugh...
+I told you I'm not a tuna...
+I'm not even a fish...
+[WAIT][NEXT][...]
+And I have a headache from your
+jumping around on me, too! Do
+you think you could check my
+belly?
+[WAIT][NEXT][...]
+I'm begging you, please...[WAIT][END]
+
+#string:07:095
+[STYLE:RIGHT][...]
+Now, now, [PAUSE:0A]you really should help
+out, dear boy.[WAIT][END]
+
+#string:07:096
+[STYLE:RIGHT][...]
+Me...? In there? Poppycock!
+[PAUSE:0A][...]
+[WAIT][NEXT][...]
+[PAUSE:0A][...]
+My grandmother's last words,
+and I quote, were: "Do not go
+inside a giant tuna."
+[WAIT][NEXT][...]
+I wouldn't hesitate, of course,
+being a fearless explorer,
+but dear boy, one simply can't
+ignore one's grandmother.[WAIT][END]
+
+#string:07:097
+[STYLE:RIGHT][...]
+Oh...something bouncing around in
+my stomach...I feel queasy...
+[PAUSE:0A][...]
+Please help me....[WAIT][END]
+
+#string:07:098
+[STYLE:RIGHT][...]
+Did you see what's going on in my
+stomach? What is it?
+[WAIT][NEXT][...]
+Do something--fast![WAIT][END]
+
+#string:07:099
+[STYLE:RIGHT][...]
+{StartFX:Shrinking}Aw! My tongue!
+{EndFX:Shrinking}[PAUSE:0A]What are you doing!?[WAIT][END]
+
+#string:07:09A
+[STYLE:RIGHT][...]
+{StartFX:Shrinking}Ouch! That hurt!
+{EndFX:Shrinking}[PAUSE:0A]What are you doing!?[WAIT][END]
+
+#string:07:09B
+[STYLE:RIGHT][...]
+{StartFX:Jitter}Waaaah!
+Who dat!!
+{EndFX:Jitter}[WAIT][NEXT][...]
+What d'you think you're doin'
+with that light?[WAIT][END]
+
+#string:07:09C
+[STYLE:RIGHT][...]
+Hey, fella!
+[PAUSE:0A][...]
+You wanna piece o' this?
+[WAIT][NEXT][...]
+{StartFX:Shrinking}You got it!
+[PAUSE:0A][...]
+I'm ornery as all get out!
+Prepare for some pain![WAIT][END]
+
+#string:07:09D
+[STYLE:RIGHT][...]
+Awwwww...
+[WAIT][NEXT][...]
+Shucks!
+[PAUSE:05][...]
+First I think I get away from
+that ol' fishin' man...
+[WAIT][NEXT][...]
+and then I get all swallowed up
+by some huge fish...
+[PAUSE:0A][...]
+and then this fella with the
+mustache goes upside my head.
+[WAIT][NEXT][...]
+I've just been fallin' outta
+fryin' pans into fires since
+I was just a grub. Talk about
+a lousy lot in life.[WAIT][END]
+
+#string:07:09E
+[STYLE:RIGHT][...]
+Mario, it's me!
+[PAUSE:05][...]
+You know, the whale?
+[PAUSE:0A][...]
+Can you hear me?
+[WAIT][NEXT][...]
+That stomachache seems to have
+cleared right up!
+[WAIT][NEXT][...]
+I feel fantastic![WAIT][END]
+
+#string:07:09F
+[STYLE:RIGHT][...]
+{StartFX:Shrinking}Whooooosh!
+[PAUSE:0F][...]
+[END]
+
+#string:07:0A0
+[STYLE:RIGHT][...]
+Hey, it's you, boy!
+[PAUSE:0A][...]
+You're that dumb ol' fish that
+ate me all up and such!
+[WAIT][NEXT][...]
+You plumb idiot!
+[PAUSE:0A][...]
+You know, I thought I was a
+goner for sure![WAIT][END]
+
+#string:07:0A1
+[STYLE:RIGHT][...]
+I'm awfully sorry.
+[PAUSE:0A][...]
+I was just having a nap with my
+mouth open.[WAIT][END]
+
+#string:07:0A2
+[STYLE:RIGHT][...]
+Well,
+[PAUSE:0A][...]
+I suppose I can see my way to
+forgivin' you this time, but
+you just watch it.
+[WAIT]{Func_04}[NEXT][...]
+Er... [PAUSE:0A]I reckon I owe you some
+thanks, after all, Mr. Mustache.
+[PAUSE:0A][...]
+Y'all take care, now.[WAIT][END]
+
+#string:07:0A3
+[STYLE:RIGHT][...]
+Whew!
+[PAUSE:0A][...]
+I feel so much better now!
+[PAUSE:0A][...]
+They should call you Dr. Mario!
+[WAIT][NEXT][...]
+There must be some way I can
+express my gratitude!
+[WAIT][NEXT][...]
+I've got it!
+[PAUSE:0A][...]
+I, the tuna, am... [PAUSE:0A]I mean...
+[PAUSE:0A][...]
+I, the whale, am quite good at
+swimming.
+[WAIT][NEXT][...]
+To express my thanks, I'll take
+you anywhere you want to go.[WAIT][END]
+
+#string:07:0A4
+[STYLE:RIGHT][...]
+Pardon the eavesdropping, but
+did you just say "anywhere"?
+[WAIT][NEXT][...]
+Mario! You old tuna tamer!
+[PAUSE:0A][...]
+Accompany me to the shores of
+Lavalava Island!
+[WAIT][NEXT][...]
+What a trip it'll be!
+[PAUSE:0A][...]
+The island will be wonderful!
+[PAUSE:0A][...]
+You must trust my instincts![WAIT][END]
+
+#string:07:0A5
+[STYLE:RIGHT][...]
+Hey Mario,
+[PAUSE:0A][...]
+didn't Twink say one of the Star
+Spirits was on Lavalava Island?
+[WAIT][NEXT][...]
+This is just what we needed.
+[PAUSE:0A][...]
+Let's hop on this whale and go!
+[WAIT][NEXT][...]
+But this Kolorado character...
+[WAIT][NEXT][...]
+He'll probably be really
+disappointed if we don't take
+him along with us. I think the
+whale can carry us all.[WAIT][END]
+
+#string:07:0A6
+[STYLE:RIGHT][...]
+Mario,
+[WAIT][NEXT][...]
+I think Twink said one of the
+Star Spirits was being held on
+Lavalava Island.
+[WAIT][NEXT][...]
+This is quite timely.
+[PAUSE:0A][...]
+We'd better get on the whale.[WAIT][END]
+
+#string:07:0A7
+[STYLE:RIGHT][...]
+Well now, Mario,
+[WAIT][NEXT][...]
+wasn't Lavalava Island the
+place where one of the Star
+Spirits was being held?
+[WAIT][NEXT][...]
+You remember what Twink said,
+don't you? I do, anyway.
+[WAIT][NEXT][...]
+This is our chance.
+[PAUSE:0A][...]
+Let's get on the whale.[WAIT][END]
+
+#string:07:0A8
+[STYLE:RIGHT][...]
+Mario!
+[WAIT][NEXT][...]
+I just remembered what Twink
+said. He said one of the Star
+Spirits was being held on
+Lavalava Island...
+[WAIT][NEXT][...]
+This could be our chance.
+[PAUSE:0A][...]
+We'll get there on this whale.[WAIT][END]
+
+#string:07:0A9
+[STYLE:RIGHT][...]
+Mario,
+[WAIT][NEXT][...]
+I believe Twink said one of the
+Star Spirits was being held on
+Lavalava Island.
+[WAIT][NEXT][...]
+Perfect timing.
+[PAUSE:0A][...]
+Let's ride the whale.[WAIT][END]
+
+#string:07:0AA
+[STYLE:RIGHT][...]
+Mario, um...
+[WAIT][NEXT][...]
+I think the Star Kid said a Star
+Spirit was...um, caught on the
+big Lavalava Island.
+[WAIT][NEXT][...]
+We...um, we should go.
+[PAUSE:0A][...]
+Big whale give us a ride. Whee![WAIT][END]
+
+#string:07:0AB
+[STYLE:RIGHT][...]
+Huh? [PAUSE:05]Lavalava Island?
+[PAUSE:0A][...]
+Yes, of course I know where it
+is, but...
+[WAIT][NEXT][...]
+There's a big volcano on the
+island and it's on the verge of
+erupting. Very dangerous.
+[PAUSE:0A][...]
+Do you still want to go?
+[WAIT][NEXT][...]
+Well... [PAUSE:0A]OK, then. It's your call.
+[PAUSE:0A][...]
+Just let me know when you're
+ready to go.[WAIT][END]
+
+#string:07:0AC
+[STYLE:RIGHT][...]
+Mario, old boy, you must
+remember to take me to Lava-
+lava Island with you![WAIT][END]
+
+#string:07:0AD
+[STYLE:RIGHT][...]
+Ulp. Sure this is safe, then?
+[PAUSE:0A][...]
+Make some room, hm?[WAIT][END]
+
+#string:07:0AE
+[STYLE:RIGHT][...]
+OK!
+[PAUSE:0F][...]
+We're off to Lavalava Island!
+The sea is calling![WAIT][END]
+
+#string:07:0AF
+[STYLE:RIGHT][...]
+I can't believe we're on a tuna.
+[PAUSE:0A][...]
+Mario,
+[PAUSE:05][...]
+do you ever think about how
+strange life can be? I do.
+[PAUSE:1E][...]
+[END]
+
+#string:07:0B0
+[STYLE:RIGHT][...]
+Do you want to go to
+Lavalava Island?
+{Func_04}[END]
+
+#string:07:0B1
+[STYLE:RIGHT][...]
+Let's go![WAIT][END]
+
+#string:07:0B2
+[NEXT][...]
+Just come speak to me when you
+want to go, OK?[WAIT][END]
+
+#string:07:0B3
+[STYLE:RIGHT][...]
+Thank heavens we've arrived!
+[PAUSE:0A][...]
+Now, tuna-ferrying is one
+experience I shan't do again.
+[WAIT][NEXT][...]
+Cheers for the ride, though!
+[PAUSE:0A][...]
+I'm in your debt.
+[WAIT][NEXT][...]
+For now, I'm heading back to
+Koopa Village to relax.
+[PAUSE:0A][...]
+My wife must be waiting for me.
+[WAIT][NEXT][...]
+Perhaps our paths will cross
+again in the future, old boy!
+[PAUSE:0A][...]
+Cheerio![WAIT][END]
+
+#string:07:0B4
+[STYLE:RIGHT][...]
+{StartFX:Shrinking}{StartFX:Jitter}Woooooooooooooooooooh!![WAIT][END]
+
+#string:07:0B5
+[STYLE:RIGHT][...]
+{StartFX:Wavy}Wheeze wheeze wheeze...
+{EndFX:Wavy}[WAIT][NEXT][...]
+I...will never...swim again...
+for the rest...of...my life![WAIT][END]
+
+#string:07:0B6
+[STYLE:RIGHT][...]
+Now, Mario!
+[PAUSE:0A][...]
+You're mine this time![WAIT][END]
+
+#string:07:0B7
+[STYLE:RIGHT][...]
+{StartFX:Shrinking}{StartFX:Jitter}Ayaaaaaaaaah!
+[PAUSE:0A][...]
+[END]
+
+#string:07:0B8
+[STYLE:RIGHT][...]
+{StartFX:Wavy}Wheeze wheeze wheeze...
+{EndFX:Wavy}[WAIT][NEXT][...]
+Here it comes!
+[PAUSE:0A][...]
+You... [PAUSE:05]you'd better be ready![WAIT][END]
+
+#string:07:0B9
+[STYLE:RIGHT][...]
+Gasp! [PAUSE:05]Oh, no!!
+[PAUSE:0A][...]
+All that swimming! My HP is
+almost gone![WAIT][END]
+
+#string:07:0BA
+[STYLE:RIGHT][...]
+Well, I'll make up for my low HP
+by using my new skills!
+[WAIT][NEXT][...]
+Check this out!
+[PAUSE:0A][...]
+{Size:20:20}More power!![WAIT][END]
+
+#string:07:0BB
+[STYLE:RIGHT][...]
+I know all of your fighting
+patterns now, Mario.
+[WAIT][NEXT][...]
+See my gear?
+[PAUSE:05][...]
+The spike, the wings... You
+can't attack me now!
+[PAUSE:0A][...]
+I'm the smartest fighter alive!
+[WAIT][NEXT][...]
+I can't be defeated! Wa ha ha![WAIT][END]
+
+#string:07:0BC
+[STYLE:RIGHT][...]
+Yow! What in the...?
+[PAUSE:0A][...]
+I didn't think you'd do that!
+Is that even legal?[WAIT][END]
+
+#string:07:0BD
+[STYLE:RIGHT][...]
+{StartFX:Wavy}Aaaaaaaaaaaugh---[WAIT][END]
+
+#string:07:0BE
+[STYLE:RIGHT][...]
+Oh, you know what?
+[PAUSE:05][...]
+Now that I think about it...
+[WAIT][NEXT][...]
+I have wings... If I had just
+flown to the island, I wouldn't
+have wasted my HP.
+[WAIT][NEXT][...]
+Then I probably would have
+beaten Mario in no time!
+[WAIT][NEXT][...]
+Stupid! Stupid! Stupid!
+[PAUSE:0A][...]
+Sigh.........[WAIT][END]
+
+#string:07:0BF
+[STYLE:RIGHT][...]
+Aargh!
+No more time!
+[WAIT][NEXT][...]
+Too bad!!
+Please try again next time.
+[WAIT][NEXT][...]
+See you at the next trading
+event, all right?
+So long![WAIT][END]
+
+#string:07:0C0
+[STYLE:RIGHT][...]
+Hello!
+I'm the Toad from the trading
+event. How are you?
+[PAUSE:0F][...]
+Did you bring the item?
+[WAIT][NEXT][...]
+No?
+[PAUSE:14][...]
+You don't have anything?
+[WAIT][NEXT][...]
+Look, I can't trade with you
+unless you bring the item I
+told you to bring.[WAIT][END]
+
+#string:07:0C1
+[STYLE:RIGHT][...]
+Hello!
+I'm the Toad from the trading
+event. How are you?
+[PAUSE:0F][...]
+Did you bring the item?[WAIT][END]
+
+#string:07:0C2
+[STYLE:RIGHT][...]
+Congratulations!
+[WAIT][NEXT][...]
+This is the item for today![WAIT][END]
+
+#string:07:0C3
+[STYLE:RIGHT][...]
+Use it wisely!
+[WAIT][NEXT][...]
+See you again at the next 
+trading event![WAIT][END]
+
+#string:07:0C4
+[STYLE:RIGHT][...]
+Wrong! Sorry.
+[PAUSE:0F][...]
+That's not the right item.
+[WAIT][NEXT][...]
+As a penalty, I'm afraid I'll
+have to take this item away.[WAIT][END]
+
+#string:07:0C5
+[STYLE:RIGHT][...]
+Hello?
+[PAUSE:0F][...]
+You don't want the item?[WAIT][END]
+

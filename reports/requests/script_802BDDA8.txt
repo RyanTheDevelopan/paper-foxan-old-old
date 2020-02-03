@@ -1,0 +1,18 @@
+Script: 802BDDA8 (00317CC8)
+
+    0:  Call     802BD5D8 ( )
+    C:  If  *Var[0]  ==  FFFFFFFF 
+   1C:  	Return
+   24:  EndIf
+   2C:  If  *Var[0]  ==  00000000 
+   3C:  	Call     802BDB30 ( )
+   48:  	Return
+   50:  EndIf
+   58:  If  *Var[1]  ==  00000000 
+   68:  	Call     SayMessage0 	( FFFFFFFC 00010008 00010001 00000000 *Var[0] )
+   88:  EndIf
+   90:  Wait     00000001 
+   9C:  Call     802BDB30 ( )
+   A8:  Return
+   B0:  End
+

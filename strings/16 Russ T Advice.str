@@ -1,0 +1,861 @@
+#string:16:000
+[NEXT][...]
+So it is told that far away,
+at the very top of the sky,
+there exists a Star Haven,
+where Stars make their home.
+[WAIT][NEXT][...]
+In Star Haven, there's a
+treasure called a Star Rod.
+According to legend, it was made
+with ancient magic.
+[WAIT][NEXT][...]
+There are said to be Stars that
+are particulary strong and
+good-hearted. They are called
+Star Spirits.
+[WAIT][NEXT][...]
+Using the magical Star Rod,
+these Star Spirits grant the
+wishes of everyone in this world.
+[WAIT][NEXT][...]
+That's why, when we make a wish
+to the night sky and it comes 
+true, it's all thanks to the Star
+Spirits and their Star Rod.
+[WAIT]{Func_04}[END]
+
+#string:16:001
+[NEXT][...]
+Now, if you will, how about a
+little timely information on how
+to operate the controls.  
+[WAIT][NEXT][...]
+Move the Control Stick and
+press the {PushColor}{Color:14}[Z]{PopColor} Button to spin
+and run. That, my friend, is a
+Spin Dash.
+[WAIT][NEXT][...]
+Also, when you talk to somebody,
+you can press {PushColor}{Color:14}[Z]{PopColor} to go back and
+read the previous message again.
+[WAIT][NEXT][...]
+Hmm, let's see. Ah! If you press
+{PushColor}{Color:13}[C-UP]{PopColor} while out and about, the
+amount of HP, FP, Star Points,
+and Coins will be shown.
+[WAIT][NEXT][...]
+And what else...
+[PAUSE:0A][...]
+If you move the Control Stick
+slightly, Mario walks slowly and
+quietly.
+[WAIT][NEXT][...]
+Sometimes it's good to walk
+slowly rather than always 
+running, don't you know.
+[WAIT]{Func_04}[END]
+
+#string:16:002
+[NEXT][...]
+If you go east from the place
+where Princess Peach's Castle 
+used to be, you'll find a place 
+called Shooting Star Summit.
+[WAIT][NEXT][...]
+At the foot of the summit live
+Merluvlee and her brother,
+Merlow.
+[WAIT][NEXT][...]
+The older sister, Merluvlee, can
+see things you're looking for by
+fortune-telling.
+[WAIT][NEXT][...]
+The hobby of the younger
+brother, Merlow, is collecting
+Star Pieces.
+[WAIT][NEXT][...]
+If you take him Star Pieces,
+he'll swap them for Badges.
+[WAIT][NEXT][...]
+In point of fact, these two 
+are the granddaughter and 
+grandson of Merlon, who tells
+fortunes in Toad Town.
+[WAIT]{Func_04}[END]
+
+#string:16:003
+[NEXT][...]
+There is a message board on
+the side of Merlon's house that 
+posts news.
+[WAIT][NEXT][...]
+It would appear that many
+people enjoy scribbling on the
+back of the message board.
+[WAIT][NEXT][...]
+Indeed, various things are
+always written on it.
+[WAIT][NEXT][...]
+You may want to take a quick
+look occasionally. Sometimes 
+you'll read interesting news.
+[WAIT]{Func_04}[END]
+
+#string:16:004
+[NEXT][...]
+Have you seen any Candy Canes?
+[PAUSE:0F][...]
+They're those striped objects 
+growing beside Pleasant Path. 
+[WAIT][NEXT][...]
+They're mysterious objects.
+Nobody knows anything about 
+them. Even I don't!
+[WAIT][NEXT][...]
+There are rumors, though...
+Many believe that if you do
+something for the Candy Canes,
+you'll be rewarded later.
+[WAIT][NEXT][...]
+Why don't you investigate?
+[WAIT]{Func_04}[END]
+
+#string:16:005
+[NEXT][...]
+In Koopa Village, there lives a
+selfish village senior named
+Koopa Koot.
+[WAIT][NEXT][...]
+This old Koopa Koot
+[PAUSE:0A][...]
+stops passers-by and asks
+them for favors. Or so
+I've heard, anyway.
+[WAIT][NEXT][...]
+And yet, they say that even
+if you meet his requests, he 
+gives you only one coin.
+[WAIT][NEXT][...]
+But it's been rumored that
+every once in a while, he gives
+out something good.
+[PAUSE:0A][...]
+Who knows what he might have...
+[WAIT]{Func_04}[END]
+
+#string:16:006
+[NEXT][...]
+I remember reading something 
+interesting in a book recently.
+[WAIT][NEXT][...]
+It seems there are three blocks
+laid on the ground somewhere on
+Pleasant Path.
+[WAIT][NEXT][...]
+And then...what was it?
+[PAUSE:0A][...]
+Ah! When you do something to
+the blocks, supposedly you can
+receive something good.
+[WAIT][NEXT][...]
+Unfortunately, the book was 
+quite vague on what to do. 
+[WAIT]{Func_04}[END]
+
+#string:16:007
+[NEXT][...]
+Do you know about Fire Bars?
+You know, those flaming
+obstacles that spin round and
+round?   
+[WAIT][NEXT][...]
+They're terribly dangerous and
+you'll be burned if you touch one.
+[WAIT][NEXT][...]
+According to a brilliant book
+I read some time ago, there's a
+way to beat them.
+[WAIT][NEXT][...]
+But if you can't touch them,
+how do you beat them? Maybe
+the book wasn't so brilliant...
+[WAIT]{Func_04}[END]
+
+#string:16:008
+[NEXT][...]
+In our fair land, there are 
+several radio stations to listen
+to.
+[WAIT][NEXT][...]
+If you occasionally check the
+radio, you might just hear some
+useful information.
+[WAIT][NEXT][...]
+I've heard that someone in
+Koopa Village has a radio,
+so why don't you ask if you
+could have a listen?
+[WAIT][NEXT][...]
+Actually, one of the radio
+stations, FM Shroom, will soon
+be celebrating its 10th
+anniversary. Sounds exciting!
+[WAIT]{Func_04}[END]
+
+#string:16:009
+[NEXT][...]
+Have you seen that Chet Rippo
+character around Toad Town?
+[WAIT][NEXT][...]
+I've heard rumors that if you
+talk to him, he will increase 
+one of your point levels. 
+[WAIT][NEXT][...]
+But be careful, because when
+he increases one of the point
+levels, the other two levels will
+go down a wee bit.
+[WAIT][NEXT][...]
+So I would suggest giving the
+matter a lot of thought before
+committing to the deal.
+[WAIT]{Func_04}[END]
+
+#string:16:00A
+[NEXT][...]
+There are tales of long ago,
+when thieves ruled the far-off
+land of Dry Dry Desert.
+[WAIT][NEXT][...]
+These robbers collected things 
+from all over the desert and 
+hid them in various places.
+[WAIT][NEXT][...]
+I've heard of one of these 
+hiding places, a block lying
+somewhere in Dry Dry Desert. 
+[WAIT][NEXT][...]
+When you hit the block once,
+a ? Block appears.
+[WAIT][NEXT][...]
+But that's not all. Oh no!
+When you hit it ten times,
+another ? Block shows up!
+[WAIT][NEXT][...]
+This is but one of the rumors
+about hidden loot in the desert.
+Thieves thrived there, and I bet
+they had many hiding places.
+[WAIT][NEXT][...]
+If you find yourself in Dry Dry
+Desert, I would suggest that
+you take the time to look around
+for treasures.
+[WAIT]{Func_04}[END]
+
+#string:16:00B
+[NEXT][...]
+At the edge of Dry Dry Desert,
+there's a dusty old town called
+Dry Dry Outpost.
+[WAIT][NEXT][...]
+Somewhere in this Dry Dry
+Outpost, there's supposedly
+a female wizard.
+[WAIT][NEXT][...]
+If she casts a spell on you,
+something good may happen 
+during battles.
+[PAUSE:0A][...]
+Why don't you give it a try?
+[WAIT][NEXT][...]
+By the way, this wizard is said
+to be the twin sister of
+Merluvlee, the fortune-teller
+from Shooting Star Summit.
+[WAIT]{Func_04}[END]
+
+#string:16:00C
+[NEXT][...]
+There's a place called
+Mt. Rugged. Trust me, there is.
+[WAIT][NEXT][...]
+On this mountain, a very rare
+creature called Whacka lives. 
+[WAIT][NEXT][...]
+If you hit a Whacka, something
+called a Whacka's Bump will
+appear. It's very valuable.
+[WAIT][NEXT][...]
+It's been said that if you eat
+one, you'll be instantly filled
+with energy.
+[PAUSE:0A][...]
+But...
+[WAIT][NEXT][...]
+It's rather sad, actually...
+Even though Whackas are kind,
+people keep pummeling them to
+get the Whacka's Bumps.
+[WAIT][NEXT][...]
+That's why the number of
+Whackas on Mt. Rugged has been
+declining.
+[WAIT][NEXT][...]
+In fact, there's a rumor that
+there's only one left.
+[PAUSE:0A][...]
+The last Whacka...how tragic.
+[WAIT]{Func_04}[END]
+
+#string:16:00D
+[NEXT][...]
+Near Toad Town Station, there's
+supposed to be a Playroom.
+[WAIT][NEXT][...]
+But it's apparently closed to
+non-members, which seems
+pretty rude, if you ask me.
+[WAIT][NEXT][...]
+On top of that, even if you find
+the place, you still need a
+membership card to play the
+games in there!
+[WAIT][NEXT][...]
+I like to play games as much as
+the next Toad! But I have no
+idea how to get a membership
+card.
+[WAIT][NEXT][...]
+Hmm...You know...
+[WAIT][NEXT][...]
+I've heard that Koopa Koot of
+Koopa Village is a member of the
+Playroom...
+[WAIT][NEXT][...]
+That old Koopa Koot might know
+something more about it.
+[WAIT]{Func_04}[END]
+
+#string:16:00E
+[NEXT][...]
+I once read that a so-called
+Mysterious Treasure Chest lies
+in Princess Peach's Castle.
+[WAIT][NEXT][...]
+Apparently it's one of a pair.
+[WAIT][NEXT][...]
+When you put something in one of
+the treasure chests, someone
+can take it out of the other one.
+[WAIT][NEXT][...]
+That's a pretty exceptional
+treasure chest, isn't it?
+[WAIT][NEXT][...]
+A long, long time ago, this chest
+was given to one of Princess
+Peach's ancestors by the Star
+Spirits.
+[WAIT][NEXT][...]
+According to the book I read,
+there's only one treasure chest
+in Princess Peach's Castle.
+[WAIT][NEXT][...]
+Where in the world could the
+other one be?
+[WAIT]{Func_04}[END]
+
+#string:16:00F
+[NEXT][...]
+You do, of course, know that
+Forever Forest is east of town.
+[WAIT][NEXT][...]
+It's a bit of a weird place.
+I've heard that ghosts have
+been known to haunt it, so you
+may want to steer clear.
+[WAIT][NEXT][...]
+If you do want to go through
+the forest for whatever reason,
+it's vital that you find the
+correct path.
+[WAIT][NEXT][...]
+To find the right one, look for
+scenery that differs a bit from
+the other scenery in the area
+and follow the path nearby.
+[WAIT][NEXT][...]
+According to a rumor I heard,
+there's sometimes a hidden path
+in addition to the right one.
+[WAIT]{Func_04}[END]
+
+#string:16:010
+[NEXT][...]
+Throughout the world, I've
+heard, there are chambers
+hidden in the ground.
+[WAIT][NEXT][...]
+If the ground near one of the
+chambers gets a big shock,
+a hidden panel pops up
+[WAIT][NEXT][...]
+and a Star Piece shoots out
+from the ground below.
+[PAUSE:0A][...]
+You ought to keep an eye out
+for these chambers, Mario.
+[WAIT][NEXT][...]
+[PAUSE:07][...]
+Say, that reminds me...
+I heard that there's a Badge
+with the power to warn you when
+you're near a secret.
+[WAIT][NEXT][...]
+If you found this Badge, it'd
+be easier to find the chambers.
+[WAIT]{Func_04}[END]
+
+#string:16:011
+[NEXT][...]
+There's a grim guy called
+Anti-Guy who guards a special
+treasure chest...
+[WAIT][NEXT][...]
+According to a book I read a
+while back, he absolutely loves
+Lemon Candy.
+[WAIT][NEXT][...]
+If you take one to Anti-Guy,
+he might mellow out a bit.
+[WAIT]{Func_04}[END]
+
+#string:16:012
+[NEXT][...]
+Some enemies will attack the
+party member who's with you,
+Mario. Remember, your friends
+are in the battle, too!
+[WAIT][NEXT][...]
+In a battle, you can defend your
+friend by pushing {PushColor}{Color:10}[A]{PopColor} at the right
+time, just like you do to defend
+yourself, Mario.
+[WAIT][NEXT][...]
+It's a simple technique, but it
+helps protect your pals.
+[WAIT]{Func_04}[END]
+
+#string:16:013
+[NEXT][...]
+Did you know that when you
+attack enemies in the field,
+you'll get in a First Strike
+during the battle that follows?
+[WAIT][NEXT][...]
+When you strike, if you Spin
+Jump or attack with Bombette
+or Kooper, you'll hurt enemies
+more than usual.
+[WAIT][NEXT][...]
+Sure, it's a minor technique,
+but every little bit helps.
+[WAIT]{Func_04}[END]
+
+#string:16:014
+[NEXT][...]
+You may see symbols above
+enemies in the battle sequences.
+[WAIT][NEXT][...]
+These mean that the enemy can
+make you dizzy, put you to
+sleep, or call in some
+reinforcements.
+[WAIT][NEXT][...]
+When you see those enemies,
+you should try to paralyze them
+or put them to sleep before
+they do it to you.
+[WAIT][NEXT][...]
+The battle will be much easier
+if you can make it so your
+enemies can't move.
+[WAIT]{Func_04}[END]
+
+#string:16:015
+[NEXT][...]
+Prices for goods go up and down
+depending on which shop you
+go to.
+[WAIT][NEXT][...]
+Of course, it's smarter for you
+to buy items at a cheaper shop.
+Be a bargain hunter! 
+[WAIT][NEXT][...]
+You know, if you're a real 
+go-getter, you can even sell
+items you buy at one shop to
+another shop.
+[WAIT][NEXT][...]
+If you have good business sense,
+you may just make a profit.
+[WAIT]{Func_04}[END]
+
+#string:16:016
+[NEXT][...]
+Ever been to Li'l-Oinks Farm,
+near Toad Town Station?
+[WAIT][NEXT][...]
+On that Farm, no more than
+ten Li'l-Oinks can be in the pen
+at one time, so
+[WAIT][NEXT][...]
+when the 11th comes, the first
+Li'l-Oink runs away and leaves
+the farm.
+[WAIT][NEXT][...]
+Whenever a Li'l-Oink runs off,
+it drops an item. The item
+dropped depends on what kind
+of Li'l-Oink it was.
+[WAIT][NEXT][...]
+Of course, whenever you take
+one of these items, other
+Li'l-Oinks will also leave the
+farm.
+[WAIT][NEXT][...]
+To grab the item or not to grab
+the item...
+[PAUSE:05][...]
+that is the question.
+[WAIT]{Func_04}[END]
+
+#string:16:017
+[NEXT][...]
+If you take a Koopa Leaf and
+Dried Pasta to Ms. Tayce T.,
+[WAIT][NEXT][...]
+she will make some scrumptious
+spaghetti for you.
+[WAIT][NEXT][...]
+That dish is actually a
+traditional one, a classic handed
+down in Koopa Village through
+many generations.
+[WAIT][NEXT][...]
+Why don't you try it once, Mario?
+Come on! You'll love it!
+[WAIT]{Func_04}[END]
+
+#string:16:018
+[NEXT][...]
+Do you know of the Yoshis that
+live on Lavalava Island in the
+South Ocean?
+[WAIT][NEXT][...]
+Perhaps because their tropical
+island is so colorful, the Yoshis
+themselves are of many different
+colors. 
+[WAIT][NEXT][...]
+It seems they have different
+personalities, depending on 
+their body colors.
+[WAIT][NEXT][...]
+They all love food, but Yellow 
+Yoshis seem to really delight
+in delicacies.
+[WAIT][NEXT][...]
+Next time you see a Yellow Yoshi,
+try giving it something delicious.
+[PAUSE:0A][...]
+Trust me--it'll be happy.
+[WAIT]{Func_04}[END]
+
+#string:16:019
+[NEXT][...]
+You know a Koopa called Mr.
+Kolorado, the famous explorer
+and archaeologist?
+[WAIT][NEXT][...]
+I have nothing but respect for
+him. Solving the riddle of the
+Candy Canes on Pleasant Path,
+[WAIT][NEXT][...]
+investigating Dry Dry Ruins
+in Dry Dry Desert, discovering
+many new facts..these are but
+a few of his accomplishments.
+[WAIT][NEXT][...]
+Recently, he found a treasure
+that proves an ancient
+civilization once existed on
+Lavalava Island.
+[WAIT][NEXT][...]
+According to Mr. Kolorado,
+a long time ago, people once
+lived on Lavalava Island.
+[WAIT][NEXT][...]
+I heard that these people used
+to live in the holes dug out of
+the side of the volcano on
+Lavalava Island.
+[WAIT][NEXT][...]
+But they they were forced to  
+flee the island because the
+volcano became very active.
+[WAIT][NEXT][...]
+Even he couldn't find out what
+kind of people they were or
+where they escaped to.
+[WAIT][NEXT][...]
+Long after these mysterious
+people left the island, Yoshis
+and Ravens arrived, and they've
+lived in harmony ever since.
+[WAIT]{Func_04}[END]
+
+#string:16:01A
+[NEXT][...]
+Do you know a giant Koopa called
+Kent C. Koopa?
+[WAIT][NEXT][...]
+A long time ago, it seems this
+gent lived in Koopa Village.
+[WAIT][NEXT][...]
+At the time, they say
+Kent C. Koopa often trained
+with four village Koopas.
+[WAIT][NEXT][...]
+Kent C. Koopa was amazingly
+strong, so he always beat the
+team of Koopas.
+[WAIT][NEXT][...]
+Strong as he was, I've heard
+from some village residents that
+even Kent C. Koopa had a few
+weak points, though.
+[WAIT]{Func_04}[END]
+
+#string:16:01B
+[NEXT][...]
+There should be a place called
+Flower Fields hidden somewhere
+in the world.
+[WAIT][NEXT][...]
+A very rare Crazee Dayzee,
+called an Amazy Dayzee, is said
+to live there.
+[WAIT][NEXT][...]
+I heard that this Amazy Dayzee
+is so timid that it runs away
+when it sees anyone.
+[WAIT][NEXT][...]
+If you glimpse it,
+count yourself lucky.
+[PAUSE:0A][...]
+I'd sure like to see it once.
+[WAIT][NEXT][...]
+Even if you miss it the first
+time, you might see the
+Amazy Dayzee if you visit the
+same place again.
+[WAIT]{Func_04}[END]
+
+#string:16:01C
+[NEXT][...]
+It's a known fact that Miss
+Tayce T. is the best cook
+around. Everyone says so.
+[WAIT][NEXT][...]
+I've had the good fortune to
+try many of her dishes, and
+believe me, they're heavenly.
+[WAIT][NEXT][...]
+If I had to pick a favorite,
+it would be her Yoshi Cookie.
+[WAIT][NEXT][...]
+According to Tayce T.,
+the recipe calls for Cake Mix
+and a Melon.
+[WAIT][NEXT][...]
+Try it if you get the chance.
+[PAUSE:0A][...]
+I highly recommend it.
+[WAIT]{Func_04}[END]
+
+#string:16:01D
+[NEXT][...]
+I just heard a rumor...
+[PAUSE:0A][...]
+Apparently, there's a shop
+somewhere under Toad Town.
+[WAIT][NEXT][...]
+I can only wonder what kind of
+goods they sell there.
+[WAIT][NEXT][...]
+Some folks are saying you can
+find real bargains there, while
+others have been ripped off.
+[PAUSE:0A][...]
+Who's telling the truth?
+[WAIT]{Func_04}[END]
+
+#string:16:01E
+[NEXT][...]
+In hot climates, Snowman Dolls
+seem to sell very well.
+[PAUSE:0A][...]
+It makes sense that warm folks
+want cold goods, right?
+[WAIT][NEXT][...]
+On the other hand, people who
+live in cold areas pay dearly
+for Fire Flowers.
+[WAIT][NEXT][...]
+One could make quite a profit
+if one bought and sold wisely.
+[WAIT]{Func_04}[END]
+
+#string:16:01F
+[NEXT][...]
+Koopa Village folk adore any
+food that has a bit of
+Koopa Leaf mixed in it.
+[WAIT][NEXT][...]
+Koopa Leaf is an extremely
+delicate ingredient, so unless
+you cook it correctly, it won't
+taste very good.
+[WAIT][NEXT][...]
+In these dark times, there are
+only a couple of people in the
+world who can successfully make
+Koopa Leaf dishes.
+[WAIT][NEXT][...]
+I recall a shopkeeper at Koopa
+Village complaining about this...
+[WAIT]{Func_04}[END]
+
+#string:16:020
+[NEXT][...]
+According to the vast stores of
+information I've gathered,
+[WAIT][NEXT][...]
+there appear to be soldiers
+called the Koopatrol guarding
+Bowser's Castle.
+[WAIT][NEXT][...]
+They're nasty. And moreover,
+you can't jump stomp on them
+because they're fitted with
+special spiked armor.
+[WAIT][NEXT][...]
+There are creatures called
+Bony Beetles as well. They can
+also extend sharp spikes.
+[WAIT][NEXT][...]
+When you head to Bowser's
+Castle, I would recommend that
+you take along a Spike Shield
+Badge, if you have one.
+[WAIT]{Func_04}[END]
+
+#string:16:021
+[NEXT][...]
+You know a fellow called Goompa
+in Goomba Village?
+[WAIT][NEXT][...]
+In olden times, he used to be a
+famous fighter.
+[WAIT][NEXT][...]
+His name is all over the copy of
+the Fighter's Almanac that I
+happen to own.
+[WAIT][NEXT][...]
+He was an unrivaled champion.
+[PAUSE:0A][...]
+He'd knock out his enemies
+one after another using his
+greatest move, the Multibonk.
+[WAIT][NEXT][...]
+When he was younger, he
+traveled the world, looking for
+someone to challenge him.
+[WAIT][NEXT][...]
+In fact, Goompa taught the 
+Dojo Master here in town.
+[WAIT]{Func_04}[END]
+
+#string:16:022
+[NEXT][...]
+In the frozen heights of the
+north, there's an icy peak
+named Shiver Mountain.
+[WAIT][NEXT][...]
+Legend has it that deep in the
+mountain is a mystical fortress
+called the Crystal Palace.
+[WAIT][NEXT][...]
+The existence of the Palace has
+faded from people's memory.
+[WAIT][NEXT][...]
+In this day and age, nobody
+remembers where it is or how to
+get there.
+[WAIT][NEXT][...]
+You can see why folks call it a
+phantom palace.
+[WAIT][NEXT][...]
+There is hope, though...
+[PAUSE:0A][...]
+According to my sources, the
+famed archaeologist Kolorado
+[WAIT][NEXT][...]
+has immediate plans to search
+for and rediscover the legendary
+crystal structure.
+[WAIT][NEXT][...]
+How exciting! Ah, to be young
+and adventurous again!
+[WAIT]{Func_04}[END]
+
+#string:16:023
+[NEXT][...]
+Just the other day, I was
+fortunate enough to read the
+most fascinating book.
+[PAUSE:0A][...]
+This book said, and I quote...
+[WAIT][NEXT][...]
+{Color:00}"...the Evil King chortles, and
+a sacred rod and seven lights 
+fade into darkness. A lovely 
+maiden rises to the heavens.
+[WAIT][NEXT][...]
+"But lo! A hero clad in red
+appears and travels the world.
+He gathers around him eight
+who are pure of heart.
+[WAIT][NEXT][...]
+"This hero restores the seven
+lights, and they raise him high 
+into the sky.
+[WAIT][NEXT][...]
+"On the airy heights, the hero
+clashes with the Evil King.
+The lovely maiden wishes..."
+{Color:0A}[WAIT][NEXT][...]
+That's how it ended!
+[WAIT][NEXT][...]
+Somebody had torn out the rest
+of the pages! Now I'll never
+know the ending! What kind of
+no-good tears up books!?!
+[WAIT][NEXT][...]
+I think I have heard of this kind
+of story but I'm not sure where
+I read it...
+[WAIT]{Func_04}[END]
+

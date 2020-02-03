@@ -1,0 +1,1794 @@
+#string:04:000
+[STYLE:RIGHT][...]
+Oh my goodness, it's Mario!
+[PAUSE:05][...]
+My name is Tayce T.
+[PAUSE:0A][...]
+I looooove to cook![HEART]
+[WAIT][NEXT][...]
+If you bring me ingredients,
+I'd be happy to fix you one
+of my energy-giving dishes![HEART]
+[WAIT][NEXT][...]
+Would you like me to cook
+you something?
+{Func_04}[END]
+
+#string:04:001
+[STYLE:RIGHT][...]
+Oh, it's Mario! Hi there!
+[PAUSE:05][...]
+Would you like me to cook
+you something?
+{Func_04}[END]
+
+#string:04:002
+[STYLE:RIGHT][...]
+Yes, honey?
+[PAUSE:05][...]
+Would you like me to cook
+you something?
+{Func_04}[END]
+
+#string:04:003
+[NEXT][...]
+Oh my.
+[PAUSE:0A][...]
+You don't have any ingredients
+for me.
+[WAIT][NEXT][...]
+I can't cook without ingredients,
+silly!
+Bring some next time![HEART][WAIT][END]
+
+#string:04:004
+[NEXT][...]
+Oh, that's too bad.
+[PAUSE:05][...]
+I was so excited to show you my
+cooking skills. You don't know
+what you're missing![WAIT][END]
+
+#string:04:005
+[NEXT][...]
+Which ingredient would
+you like me to use?[WAIT][END]
+
+#string:04:006
+[STYLE:RIGHT][...]
+You don't want me to cook?
+{Func_04}[END]
+
+#string:04:007
+[STYLE:RIGHT][...]
+Would you like me to use
+another ingredient?
+{Func_04}[END]
+
+#string:04:008
+[STYLE:RIGHT][...]
+What's the matter, honey?
+{Func_04}[END]
+
+#string:04:009
+[STYLE:RIGHT][...]
+This is the same kind as the
+first ingredient.
+[PAUSE:0A][...]
+Please choose a different
+ingredient, all right, hon?[HEART][WAIT][END]
+
+#string:04:00A
+[STYLE:RIGHT][...]
+Then I shall cook with
+{Color:20}{Var:00}{Color:0A}.[HEART]
+{Func_04}[END]
+
+#string:04:00B
+[STYLE:RIGHT][...]
+Then I shall cook with
+{Color:20}{Var:00}{Color:0A} and {Color:20}{Var:01}{Color:0A}.[HEART]
+{Func_04}[END]
+
+#string:04:00C
+[NEXT][...]
+Oh my.
+You don't want me to cook now?
+[PAUSE:0A][...]
+Well, come back soon, hon![HEART][WAIT][END]
+
+#string:04:00D
+[NEXT][...]
+I'll whip something special
+up just for you, honey.
+It'll be fabulous!
+[PAUSE:0A][...]
+Just a moment![HEART][WAIT][END]
+
+#string:04:00E
+[STYLE:RIGHT][...]
+Tra-la-la-la-la![HEART][WAIT][END]
+
+#string:04:00F
+[STYLE:RIGHT][...]
+All done!
+[PAUSE:14][...]
+It smells delicious![HEART]
+[WAIT]{Func_04}[END]
+
+#string:04:010
+[STYLE:RIGHT][...]
+Oh, sweet success!
+[PAUSE:14][...]
+This dish is one of my
+specialties![HEART][HEART]
+[WAIT]{Func_04}[END]
+
+#string:04:011
+[STYLE:RIGHT][...]
+Here you are![HEART]
+[PAUSE:14][...]
+This recipe's not too bad.
+[WAIT]{Func_04}[END]
+
+#string:04:012
+[STYLE:RIGHT][...]
+Oh... I'm so sorry.
+[PAUSE:14][...]
+This recipe didn't work out.
+[PAUSE:0A][...]
+Oh well! Tee hee![HEART]
+[WAIT]{Func_04}[END]
+
+#string:04:013
+[STYLE:RIGHT][...]
+OK, all finished!
+[PAUSE:14][...]
+...I don't exactly know what
+it is, but sometimes experiments
+turn out to be great!
+[WAIT]{Func_04}[END]
+
+#string:04:014
+[NEXT][...]
+Here, please![HEART][WAIT][END]
+
+#string:04:015
+[STYLE:RIGHT][...]
+Come back anytime, hon.
+[PAUSE:0A][...]
+I look forward to it![HEART][WAIT][END]
+
+#string:04:016
+[STYLE:RIGHT][...]
+{StartFX:Jitter}Oh-oh-oh-oh-oh... NO!
+[PAUSE:0A][...]
+My favorite Frying Pan![WAIT][END]
+
+#string:04:017
+[STYLE:RIGHT][...]
+Oh...hello there, hon.
+[WAIT][NEXT][...]
+Thank you for coming to visit,
+but I'm afraid I can't cook now.
+[PAUSE:0A][...]
+I'm so sorry.
+[WAIT][NEXT][...]
+My dear old Frying Pan was
+stolen by a Shy Guy.
+[PAUSE:0F][...]
+It really burns me up...[WAIT][END]
+
+#string:04:018
+[STYLE:RIGHT][...]
+But...you aren't going to give me
+back [PAUSE:0A]my Frying Pan?
+[WAIT][NEXT][...]
+Mario, how could you...?[WAIT][END]
+
+#string:04:019
+[STYLE:RIGHT][...]
+Oh, Mario!
+[PAUSE:0A][...]
+My dear, dear Frying Pan![HEART]
+[WAIT][NEXT][...]
+You saved it from the Shy Guys!
+[PAUSE:0A][...]
+Thank you so much, Mario![HEART]
+[WAIT][NEXT][...]
+For that, I'm going to make you
+something extra-special![HEART][WAIT][END]
+
+#string:04:01A
+[STYLE:RIGHT][...]
+Here's the Cake![WAIT][END]
+
+#string:04:01B
+[STYLE:RIGHT][...]
+This is my most delicious Cake.
+[WAIT][NEXT][...]
+One taste of it won my late
+darling's heart...[HEART]
+[WAIT][NEXT][...]
+I swore I would never make it
+again, but [PAUSE:0A]you're very special,
+Mario.[HEART]
+[WAIT][NEXT][...]
+Just one bite will make
+anybody go ga-ga![HEART][WAIT][END]
+
+#string:04:01C
+[STYLE:RIGHT][...]
+Oh, my...
+[PAUSE:0A][...]
+You're carrying too much.
+You can't possibly take this
+Cake with you right now.
+[WAIT][NEXT][...]
+Come back when you have
+fewer things, OK, hon?[HEART][WAIT][END]
+
+#string:04:01D
+[STYLE:RIGHT][...]
+{StartFX:Wavy}Oh, my! Oh, good heavens!!
+{EndFX:Wavy}[PAUSE:0F]That book you have!
+[PAUSE:0A][...]
+It looks like a Cookbook![HEART]
+[WAIT][NEXT][...]
+I could increase my repertoire
+in an instant with that book.
+[WAIT][NEXT][...]
+Mario,
+[PAUSE:0A][...]
+if it's okay with you...
+may I have it?[WAIT][END]
+
+#string:04:01E
+[STYLE:RIGHT][...]
+Oh, hello, hon.
+[PAUSE:0A][...]
+You know, I still wouldn't mind
+having that Cookbook...
+[WAIT][NEXT][...]
+I could increase my repertoire
+in an instant with that book.
+[WAIT][NEXT][...]
+Mario,
+[PAUSE:0A][...]
+if it's okay with you...
+may I have it?[WAIT][END]
+
+#string:04:01F
+[STYLE:RIGHT][...]
+Oh...OK.
+[PAUSE:0A][...]
+Why'd I get my hopes up...?
+[WAIT][NEXT][...]
+It's your book, after all.
+[PAUSE:05][...]
+You can do what you want.[WAIT][END]
+
+#string:04:020
+[STYLE:RIGHT][...]
+Ooh! I can have it?[HEART]
+[PAUSE:0A][...]
+Oh, how delightful![HEART][HEART][HEART]
+[WAIT][NEXT][...]
+With this Cookbook, I can
+use two kinds of ingredients
+at once and make even more
+fabulous dishes for you!
+[WAIT][NEXT][...]
+Please bring me different
+ingredients so I can try out
+some new recipes![HEART][WAIT][END]
+
+#string:04:021
+[STYLE:RIGHT][...]
+Beyond here lies dark and
+gloomy Forever Forest.
+[PAUSE:0A][...]
+You'll get lost for sure,
+so I'd advise you not to enter.[WAIT][END]
+
+#string:04:022
+[STYLE:RIGHT][...]
+{Down:06}{Size:20:20}{StartFX:Jitter}{StartFX:Shrinking}Aaaaaaaagh!![WAIT][END]
+
+#string:04:023
+[STYLE:RIGHT][...]
+{StartFX:Jitter}Brrrrrrrr...
+[PAUSE:0A][...]
+Juh...[PAUSE:05]Just now, a ghost passed
+right in front of me...
+[WAIT][NEXT][...]
+Uhhh...[PAUSE:05]You saw it, didn't you?
+{Func_04}[END]
+
+#string:04:024
+[NEXT][...]
+{StartFX:Jitter}{StartFX:Shrinking}I...[PAUSE:05]I'm not the only one!![WAIT][END]
+
+#string:04:025
+[NEXT][...]
+{StartFX:Jitter}{StartFX:Shrinking}No...[PAUSE:05]You must have!![WAIT][END]
+
+#string:04:026
+[STYLE:RIGHT][...]
+{StartFX:FadedNoise:32}{StartFX:Jitter}{StartFX:Wavy}{StartFX:Shrinking}Over there----!!!!!
+[PAUSE:0A][...]
+[WAIT][END]
+
+#string:04:027
+[STYLE:RIGHT][...]
+{StartFX:FadedNoise:32}{StartFX:Jitter}{StartFX:Wavy}{StartFX:Shrinking}No, no, the other way---!!!
+[PAUSE:0A][...]
+[WAIT][END]
+
+#string:04:028
+[STYLE:RIGHT][...]
+{StartFX:FadedNoise:32}{StartFX:Jitter}{StartFX:Wavy}{StartFX:Shrinking}It went into the forest!!!
+[PAUSE:0A][...]
+[WAIT][END]
+
+#string:04:029
+[STYLE:RIGHT][...]
+{StartFX:Jitter}Ma... [PAUSE:05]Mario,
+[PAUSE:05][...]
+this madness has to end.
+Will you go into the forest
+and see what's going on?
+[WAIT][NEXT][...]
+I'm ashamed to say it's my job,
+but I just can't go.
+I'm too frightened of ghosts!
+[WAIT][NEXT][...]
+Puh... [PAUSE:05]Please, I'm begging you.[WAIT][END]
+
+#string:04:02A
+[STYLE:RIGHT][...]
+{StartFX:Jitter}Forever Forest is dangerous.
+Children are strictly prohibited.
+There are...ghosts...in there![WAIT][END]
+
+#string:04:02B
+[STYLE:RIGHT][...]
+Ma... [PAUSE:05]Mario, behind you!
+[PAUSE:14][...]
+{StartFX:FadedNoise:32}{StartFX:Jitter}{StartFX:Wavy}Aaaaaaaaaaaaaaagh!!
+{EndFX:Wavy}{EndFX:Jitter}{EndFX:FadedNoise}[WAIT][NEXT][...]
+G[PAUSE:05]... [PAUSE:05]Gho...[PAUSE:05]... [PAUSE:05]{StartFX:Jitter}{StartFX:Wavy}Ghost------![WAIT][END]
+
+#string:04:02C
+[STYLE:RIGHT][...]
+Shy Guys have been raising
+a ruckus all over town.
+[WAIT][NEXT][...]
+But compared to ghosts,
+Shy Guys are nothing.[WAIT][END]
+
+#string:04:02D
+[STYLE:RIGHT][...]
+Ma... [PAUSE:05]Mario, behind you!
+[PAUSE:14][...]
+{StartFX:FadedNoise:32}{StartFX:Jitter}{StartFX:Wavy}Aaaaaaaaaaaaaaagh!!
+{EndFX:Wavy}{EndFX:Jitter}{EndFX:FadedNoise}[WAIT][NEXT][...]
+G...[PAUSE:05]... [PAUSE:05]Gho...[PAUSE:05]... [PAUSE:05]{StartFX:Jitter}{StartFX:Wavy}Ghost------![WAIT][END]
+
+#string:04:02E
+[STYLE:RIGHT][...]
+Ever since I was a child,
+I've been easily frightened.
+[WAIT][NEXT][...]
+My wish, above all else,
+is to become a brave Toad.
+[WAIT][NEXT][...]
+That's why I took this job
+as guard of Forever Forest.
+I must not be afraid!
+[WAIT][NEXT][...]
+Only by facing our greatest
+fears can we grow courageous.[WAIT][END]
+
+#string:04:02F
+[STYLE:RIGHT][...]
+Ma... [PAUSE:05]Mario, behind you!
+[PAUSE:14][...]
+{StartFX:FadedNoise:32}{StartFX:Jitter}{StartFX:Wavy}Aaaaaaaaaaaaaaagh!!
+{EndFX:Wavy}{EndFX:Jitter}{EndFX:FadedNoise}[WAIT][NEXT][...]
+G...[PAUSE:05]... [PAUSE:05]Gho...[PAUSE:05]... [PAUSE:05]{StartFX:Jitter}{StartFX:Wavy}Ghost------![WAIT][END]
+
+#string:04:030
+[STYLE:RIGHT][...]
+I've been thinking about
+courage recently. I don't think
+fearing nothing is courage.
+[WAIT][NEXT][...]
+In fact, standing up to a thing
+you're scared of is what true
+bravery is all about, right?
+[WAIT][NEXT][...]
+I've run from my last ghost!
+I am the brave Fice T.![WAIT][END]
+
+#string:04:031
+[STYLE:RIGHT][...]
+Ma... [PAUSE:05]Mario, behind you!
+[PAUSE:14][...]
+{StartFX:FadedNoise:32}{StartFX:Jitter}{StartFX:Wavy}Aaaaaaaaaaaaaaagh!!
+{EndFX:Wavy}{EndFX:Jitter}{EndFX:FadedNoise}[WAIT][NEXT][...]
+G...[PAUSE:05]... [PAUSE:05]Gho...[PAUSE:05]... [PAUSE:05]{StartFX:Jitter}{StartFX:Wavy}Ghost------![WAIT][END]
+
+#string:04:032
+[STYLE:RIGHT][...]
+I got really into reading
+scary novels recently.
+[PAUSE:0A][...]
+They're good, but...
+[WAIT][NEXT][...]
+I wish I could forget some
+of the things in those books!
+When I think of them, I get
+scared just standing here![WAIT][END]
+
+#string:04:033
+[STYLE:RIGHT][...]
+Ma... [PAUSE:05]Mario, behind you!
+[PAUSE:14][...]
+{StartFX:FadedNoise:32}{StartFX:Jitter}{StartFX:Wavy}Aaaaaaaaaaaaaaagh!!
+{EndFX:Wavy}{EndFX:Jitter}{EndFX:FadedNoise}[WAIT][NEXT][...]
+G...[PAUSE:05]... [PAUSE:05]Gho...[PAUSE:05]... [PAUSE:05]{StartFX:Jitter}{StartFX:Wavy}Ghost------![WAIT][END]
+
+#string:04:034
+[STYLE:RIGHT][...]
+Mario, I hear that you're
+finally going to take on Bowser!
+[WAIT][NEXT][...]
+You're so brave.
+[PAUSE:0A][...]
+I wish I could find courage
+as deep as yours...[WAIT][END]
+
+#string:04:035
+[STYLE:RIGHT][...]
+Ma... [PAUSE:05]Mario, behind you!
+[PAUSE:14][...]
+{StartFX:FadedNoise:32}{StartFX:Jitter}{StartFX:Wavy}Aaaaaaaaaaaaaaagh!!
+{EndFX:Wavy}{EndFX:Jitter}{EndFX:FadedNoise}[WAIT][NEXT][...]
+G...[PAUSE:05]... [PAUSE:05]Gho...[PAUSE:05]... [PAUSE:05]{StartFX:Jitter}{StartFX:Wavy}Ghost------![WAIT][END]
+
+#string:04:036
+[STYLE:RIGHT][...]
+You're Fice T., the guard of
+Forever Forest, correct?
+[WAIT][NEXT][...]
+The name's Parakarry.
+I deliver letters.
+[WAIT][NEXT][...]
+I believe I have one for you.
+[PAUSE:0A][...]
+Hang on a moment.[WAIT][END]
+
+#string:04:037
+[STYLE:RIGHT][...]
+Oh...no! Confound it!
+[PAUSE:0A][...]
+I seem to have lost it!
+[PAUSE:0A][...]
+...I'm terribly sorry.[WAIT][END]
+
+#string:04:038
+[STYLE:RIGHT][...]
+Another letter, duly delivered.
+A postman's work is never done.[WAIT][END]
+
+#string:04:039
+[STYLE:RIGHT][...]
+I wonder who "Bootler" is.
+.[PAUSE:03].[PAUSE:03].
+[PAUSE:14][...]
+[WAIT]{Func_04}[NEXT][...]
+{StartFX:FadedNoise:32}Ugh... Oh, no...
+[PAUSE:08][...]
+{StartFX:Shrinking}{StartFX:Jitter}No--------!!
+{EndFX:Jitter}{EndFX:Shrinking}[WAIT][NEXT][...]
+This is from that ghost!
+[PAUSE:0A][...]
+It says, "I'll creep up on you
+while you're sleeping... Boo!"
+[WAIT][NEXT][...]
+{StartFX:Jitter}{EndFX:FadedNoise}He loves scaring me!
+[PAUSE:14][...]
+[WAIT][NEXT][...]
+You think...he'll really...?
+Creeping...darkness...
+[PAUSE:0A][...]
+Oh, woe is me! I'll never sleep...
+[WAIT][NEXT][...]
+{EndFX:Jitter}Get a hold of yourself, Fice T.!
+Stand tall! Fear not!
+[PAUSE:0A][...]
+I'll be OK. Here, take this.[WAIT][END]
+
+#string:04:03A
+[STYLE:RIGHT][...]
+These building materials used
+to be stacked by the road,
+but they all came down when
+that earthquake hit.
+[WAIT][NEXT][...]
+Unfortunately, it's impossible
+to go to the south side of town
+with all this scattered wood.
+[WAIT][NEXT][...]
+Don't worry. We're restacking
+it as quickly as possible.
+[WAIT][NEXT][...]
+I know it's inconvenient,
+but please bear with us while
+we get everything in order.[WAIT][END]
+
+#string:04:03B
+[STYLE:RIGHT][...]
+These building materials used
+to be stacked by the road,
+but they all came down when
+that earthquake hit.
+[WAIT][NEXT][...]
+Unfortunately, it's impossible
+to go to the south side of town
+with all this scattered wood.
+[WAIT][NEXT][...]
+Don't worry. We're restacking
+it as quickly as possible.
+[WAIT][NEXT][...]
+I know it's inconvenient,
+but please bear with us while
+we get everything in order.[WAIT][END]
+
+#string:04:03C
+[STYLE:RIGHT][...]
+These building materials used
+to be stacked by the road,
+but they all came down when
+that earthquake hit.
+[WAIT][NEXT][...]
+Unfortunately, it's impossible
+to go to the south side of town
+with all this scattered wood.
+[WAIT][NEXT][...]
+Don't worry. We're restacking
+it as quickly as possible.
+[WAIT][NEXT][...]
+I know it's inconvenient,
+but please bear with us while
+we get everything in order.[WAIT][END]
+
+#string:04:03D
+[STYLE:RIGHT][...]
+Toad Town Station is just
+south of here.
+[WAIT][NEXT][...]
+The train there is the only
+way to reach Dry Dry Desert.
+[WAIT][NEXT][...]
+You aren't thinking of going
+to the desert, are you, Mario?
+[PAUSE:0A][...]
+Be careful if you do...[WAIT][END]
+
+#string:04:03E
+[STYLE:RIGHT][...]
+Toad Town Station is just
+south of here.
+[WAIT][NEXT][...]
+The train there is the only
+way to reach Dry Dry Desert.
+[WAIT][NEXT][...]
+You aren't thinking of going
+to the desert, are you, Mario?
+[PAUSE:0A][...]
+Be careful if you do...[WAIT][END]
+
+#string:04:03F
+[STYLE:RIGHT][...]
+People around here think that
+there's a huge ghost mansion
+deep within Forever Forest.
+Full of Boos, people say.
+[WAIT][NEXT][...]
+And get this: according to
+the rumors, there's even a cute
+princess-like ghost in there!
+[WAIT][NEXT][...]
+People will say anything!
+How would they know if this
+ghost princess was cute?[WAIT][END]
+
+#string:04:040
+[STYLE:RIGHT][...]
+Yow! A big group of Shy Guys
+just ran off to the north!
+[WAIT][NEXT][...]
+There's all sorts of trouble
+they could get into up there...
+At the post office...the shop...
+[WAIT][NEXT][...]
+Look, Mario, [PAUSE:0A]would you mind
+going to check out the scene?[WAIT][END]
+
+#string:04:041
+[STYLE:RIGHT][...]
+So! The post office was robbed
+after all. Just as I expected!
+[WAIT][NEXT][...]
+Ooh... Those rabble-rousers!
+[PAUSE:0A][...]
+There's a limit to how much
+mischief we'll put up with![WAIT][END]
+
+#string:04:042
+[STYLE:RIGHT][...]
+Hey, Mario, good work getting
+that mailbag back.
+[WAIT][NEXT][...]
+I'm sure glad you're on
+our team, Mario![WAIT][END]
+
+#string:04:043
+[STYLE:RIGHT][...]
+Aaaah... Nothing like a day
+without hordes of galloping
+Shy Guys running about!
+[WAIT][NEXT][...]
+Thanks for dealing with those
+mischief-makers, Mario.[WAIT][END]
+
+#string:04:044
+[STYLE:RIGHT][...]
+Aaaah... Nothing like a day
+without hordes of galloping
+Shy Guys running about!
+[WAIT][NEXT][...]
+Thanks for dealing with those
+mischief-makers, Mario.[WAIT][END]
+
+#string:04:045
+[STYLE:RIGHT][...]
+If you're looking for any
+particular objects, you should
+ask Merluvlee of Shooting Star
+Summit to read your fortune.
+[WAIT][NEXT][...]
+She's famous for the accuracy
+of her predictions.[WAIT][END]
+
+#string:04:046
+[STYLE:RIGHT][...]
+If you're looking for any
+particular objects, you should
+ask Merluvlee of Shooting Star
+Summit to read your fortune.
+[WAIT][NEXT][...]
+She's famous for the accuracy
+of her predictions.[WAIT][END]
+
+#string:04:047
+[STYLE:RIGHT][...]
+If you're looking for any
+particular objects, you should
+ask Merluvlee of Shooting Star
+Summit to read your fortune.
+[WAIT][NEXT][...]
+She's famous for the accuracy
+of her predictions.[WAIT][END]
+
+#string:04:048
+[STYLE:RIGHT][...]
+If you're looking for any
+particular objects, you should
+ask Merluvlee of Shooting Star
+Summit to read your fortune.
+[WAIT][NEXT][...]
+She's famous for the accuracy
+of her predictions.[WAIT][END]
+
+#string:04:049
+[STYLE:RIGHT][...]
+If you're looking for any
+particular objects, you should
+ask Merluvlee of Shooting Star
+Summit to read your fortune.
+[WAIT][NEXT][...]
+She's famous for the accuracy
+of her predictions.[WAIT][END]
+
+#string:04:04A
+[STYLE:RIGHT][...]
+Doesn't something smell good?
+[WAIT][NEXT][...]
+Tayce T. lives in this house.
+She's an incredibly good cook.
+[WAIT][NEXT][...]
+She just taught me the recipe
+for delicious Fried Shroom.
+[PAUSE:0A][...]
+You make it with a Mushroom.
+[WAIT][NEXT][...]
+Someday, if I keep practicing,
+maybe I'll become a master chef.[WAIT][END]
+
+#string:04:04B
+[STYLE:RIGHT][...]
+Doesn't something smell good?
+[WAIT][NEXT][...]
+Tayce T. lives in this house.
+She's an incredibly good cook.
+[WAIT][NEXT][...]
+She just taught me the recipe
+for delicious Fried Shroom.
+[PAUSE:0A][...]
+You make it with a Mushroom.
+[WAIT][NEXT][...]
+Someday, if I keep practicing,
+maybe I'll become a master chef.[WAIT][END]
+
+#string:04:04C
+[STYLE:RIGHT][...]
+Tayce T. just taught me how
+to make Spicy Soup! Hot stuff!
+[WAIT][NEXT][...]
+Have you ever tried it?
+[PAUSE:0A][...]
+A fresh Fire Flower is the
+key to a good Spicy Soup.
+[WAIT][NEXT][...]
+I just made it at home, but it
+nearly fried my taste buds off!
+Tayce T.'s is much yummier.
+[WAIT][NEXT][...]
+I've got to keep practicing.[WAIT][END]
+
+#string:04:04D
+[STYLE:RIGHT][...]
+Did you hear? Tayce T.'s best
+Frying Pan was stolen!
+[WAIT][NEXT][...]
+It was the work of Shy Guys!
+[PAUSE:0A][...]
+I'm a huge fan of Tayce T.'s.
+It really gets me steamed that
+they'd do such a thing!
+[WAIT][NEXT][...]
+Please, Mario! Try to get her
+Frying Pan back![WAIT][END]
+
+#string:04:04E
+[STYLE:RIGHT][...]
+Ooh... Oh, my! Smells like
+Tayce T.'s baking a Cake!
+What a tantalizing aroma!
+[WAIT][NEXT][...]
+The Cakes Tayce T. makes
+[PAUSE:05][...]
+are beyond belief.
+[PAUSE:0A][...]
+I'd love to make one sometime.
+[WAIT][NEXT][...]
+But you need Cake Mix to
+make a Cake, and it's really
+hard to find.[WAIT][END]
+
+#string:04:04F
+[STYLE:RIGHT][...]
+Maybe you know, Mario.
+[PAUSE:0A][...]
+People say that somewhere
+in the world is an ultimate
+Cookbook for master chefs.
+[WAIT][NEXT][...]
+Supposedly, if you believe
+the rumors, it has recipes
+for unheard-of delicacies.
+[WAIT][NEXT][...]
+Tayce T.'s been looking for
+that book for quite a while,
+but she hasn't found it.
+[WAIT][NEXT][...]
+I don't know how you'd find it,
+but if you do, give it to her.[WAIT][END]
+
+#string:04:050
+[STYLE:RIGHT][...]
+I heard Tayce T. increased
+her repertoire of recipes!
+[PAUSE:0A][...]
+I wish I had her skills!
+[WAIT][NEXT][...]
+Of course, even she doesn't
+always know how a dish will
+turn out.
+[WAIT][NEXT][...]
+When she uses a Mystery?
+ingredient, it's anybody's
+guess as to what will appear.
+[WAIT][NEXT][...]
+Sometimes the result is good.
+And sometimes not...[WAIT][END]
+
+#string:04:051
+[STYLE:RIGHT][...]
+How many times has Bowser
+kidnapped Peach, anyway?
+[PAUSE:0A][...]
+It seems like every time you
+turn around, he's done it again!
+[WAIT][NEXT][...]
+Maybe Bowser just wants to eat
+the cakes the princess bakes.
+[WAIT][NEXT][...]
+Yeah, that must be it.[WAIT][END]
+
+#string:04:052
+[STYLE:RIGHT][...]
+My wish was to become a good
+cook and to work as a chef
+at Princess Peach's Castle...
+[WAIT][NEXT][...]
+Right now it doesn't look
+very likely...but I believe
+the castle will return one day,
+and everything will be fine.
+[WAIT][NEXT][...]
+So I'm going to keep on
+practicing cooking!
+You have to chase your dreams![WAIT][END]
+
+#string:04:053
+[STYLE:RIGHT][...]
+I tried to make Maple Super
+the other day, but it didn't
+go well at all.
+[WAIT][NEXT][...]
+To make Maple Super, you need
+Maple Syrup and...
+Well, let's see[PAUSE:05].[PAUSE:04].[PAUSE:03]. [PAUSE:03]What was it?
+[WAIT][NEXT][...]
+It's really a delicious dessert.
+I want to make it for my love!
+[WAIT][NEXT][...]
+I guess I'll have to remember
+the recipe exactly.
+[WAIT][NEXT][...]
+Either that or just guess...
+[PAUSE:0A][...]
+I'm not going to give up!
+I'm going to keep trying![WAIT][END]
+
+#string:04:054
+[STYLE:RIGHT][...]
+I was just trying to bake
+a batch of Kooky Cookies.
+[PAUSE:0A][...]
+I'm going to give them to the
+object of my affection.
+[WAIT][NEXT][...]
+One ingredient is Cake Mix.
+And the other is...
+You [PAUSE:03]find [PAUSE:03]out![HEART]
+[PAUSE:05][...]
+[WAIT][NEXT][...]
+I'm going to bewitch my love
+with these cookies.
+[PAUSE:0A][...]
+He'll fall head over heels![WAIT][END]
+
+#string:04:055
+[STYLE:RIGHT][...]
+I'm trying my hardest to make
+Kooky Cookies.
+[PAUSE:0A][...]
+I'm going to give them to the
+object of my affection.
+[WAIT][NEXT][...]
+To make them, you need
+Cake Mix and...
+You [PAUSE:03]just [PAUSE:03]wait![HEART]
+[PAUSE:05][...]
+[WAIT][NEXT][...]
+I'm going to bewitch my love
+with these cookies.
+[PAUSE:0A][...]
+He'll fall head over heels.[WAIT][END]
+
+#string:04:056
+[STYLE:RIGHT][...]
+Because I've been practicing,
+I'm well on my way to becoming
+a better cook![HEART]
+[WAIT][NEXT][...]
+I heard that Princess Peach
+is a good cook, too.
+[PAUSE:0A][...]
+I hope the princess will be
+back soon.
+[WAIT][NEXT][...]
+Of course she will!
+You're saving her, right?
+[PAUSE:0A][...]
+Then it's settled. The princess
+will definitely return soon.
+[WAIT][NEXT][...]
+I'll be supporting you.
+[PAUSE:0A][...]
+Good luck![WAIT][END]
+
+#string:04:057
+[STYLE:RIGHT][...]
+Mario, Mario, Mario.
+[PAUSE:0A][...]
+Have you ever met Merluvlee
+of Shooting Star Summit?
+[WAIT][NEXT][...]
+That lady... She's so lovely...
+and mysterious...
+[PAUSE:0A][...]
+Oh, I'm crazy for her![HEART]
+[WAIT][NEXT][...]
+I heard that her hobby is
+cultivating bonsai trees.
+[PAUSE:0A][...]
+Maybe I should try that, too...
+[WAIT][NEXT][...]
+[PAUSE:05][...]
+By the way, did you know that
+Merluvlee has a twin sister?
+[PAUSE:0A][...]
+Her sister must be really
+gorgeous and charming, too.[WAIT][END]
+
+#string:04:058
+[STYLE:RIGHT][...]
+Mario, Mario, Mario.
+[PAUSE:0A][...]
+Have you ever met Merluvlee
+of Shooting Star Summit?
+[WAIT][NEXT][...]
+That lady... She's so lovely...
+and mysterious...
+[PAUSE:0A][...]
+Oh, I'm crazy for her![HEART]
+[WAIT][NEXT][...]
+I heard that her hobby is
+cultivating bonsai trees.
+[PAUSE:0A][...]
+Maybe I should try that, too...
+[WAIT][NEXT][...]
+[PAUSE:05][...]
+By the way, did you know that
+Merluvlee has a twin sister?
+[PAUSE:0A][...]
+Her sister must be really
+gorgeous and charming, too.[WAIT][END]
+
+#string:04:059
+[STYLE:RIGHT][...]
+Mario, Mario, Mario.
+[PAUSE:0A][...]
+Have you ever met Tayce T.?
+She lives in a house just
+over there.
+[WAIT][NEXT][...]
+She always cooks great dishes
+for the townspeople.
+[WAIT][NEXT][...]
+I heard that when Tayce T.
+used to live in the Dojo,
+a powerful Goomba teacher was
+training The Master.
+[WAIT][NEXT][...]
+Tayce T. learned to cook from
+the Goomba teacher's wife.
+[WAIT][NEXT][...]
+[PAUSE:0A][...]
+What? You don't know why
+Tayce T. lived in the Dojo?
+[WAIT][NEXT][...]
+The Master and Tayce T. are
+brother and sister.
+[PAUSE:0A][...]
+Everybody knows that![WAIT][END]
+
+#string:04:05A
+[STYLE:RIGHT][...]
+Mario, Mario, Mario.
+[PAUSE:0A][...]
+Have you ever met the wise
+Toad, Russ T.?
+[WAIT][NEXT][...]
+He has more books than you
+could shake a shroom at!
+[WAIT][NEXT][...]
+People say that some books
+are very old and rare.
+[WAIT][NEXT][...]
+I also heard that Kolorado,
+that explorer, sometimes uses
+those books to do research.
+[WAIT][NEXT][...]
+But, [PAUSE:0A]I heard that Kolorado
+doesn't treat the books with
+care, and Russ T. is secretly
+pretty mad about it.[WAIT][END]
+
+#string:04:05B
+[STYLE:RIGHT][...]
+Mario, Mario, Mario.
+[PAUSE:0A][...]
+Have you ever met the wise
+Toad, Russ T.?
+[WAIT][NEXT][...]
+He has more books than you
+could shake a shroom at!
+[WAIT][NEXT][...]
+People say that some books
+are very old and rare.
+[WAIT][NEXT][...]
+I also heard that Kolorado,
+that explorer, sometimes uses
+those books to do research.
+[WAIT][NEXT][...]
+But, [PAUSE:0A]I heard that Kolorado
+doesn't treat the books with
+care, and Russ T. is secretly
+pretty mad about it.[WAIT][END]
+
+#string:04:05C
+[STYLE:RIGHT][...]
+Mario, Mario, Mario.
+[PAUSE:0A][...]
+Have you ever met the wise
+Toad, Russ T.?
+[WAIT][NEXT][...]
+He has more books than you
+could shake a shroom at!
+[WAIT][NEXT][...]
+People say that some books
+are very old and rare.
+[WAIT][NEXT][...]
+I also heard that Kolorado,
+that explorer, sometimes uses
+those books to do research.
+[WAIT][NEXT][...]
+But, [PAUSE:0A]I heard that Kolorado
+doesn't treat the books with
+care, and Russ T. is secretly
+pretty mad about it.[WAIT][END]
+
+#string:04:05D
+[STYLE:RIGHT][...]
+Mario, Mario, Mario.
+[PAUSE:0A][...]
+Have you ever met the
+postmaster?
+[WAIT][NEXT][...]
+I just had lunch with him at
+the restaurant at the port.
+[WAIT][NEXT][...]
+He told me that the postman
+who just started working for
+them is always making mistakes.
+He said he's pretty worried.
+[WAIT][NEXT][...]
+But do you know what?
+[PAUSE:0A][...]
+He didn't look worried.
+He was smiling when he said it!
+[WAIT][NEXT][...]
+He must be happy that he's
+finally found a successor to
+take over his job.
+Maybe he can retire soon.[WAIT][END]
+
+#string:04:05E
+[STYLE:RIGHT][...]
+Mario, Mario, Mario.
+[PAUSE:0A][...]
+Have you ever met the
+postmaster?
+[WAIT][NEXT][...]
+I just had lunch with him at
+the restaurant at the port.
+[WAIT][NEXT][...]
+He told me that the postman
+who just started working for
+them is always making mistakes.
+He said he's pretty worried.
+[WAIT][NEXT][...]
+But do you know what?
+[PAUSE:0A][...]
+He didn't look worried.
+He was smiling when he said it!
+[WAIT][NEXT][...]
+He must be happy that he's
+finally found a successor to
+take over his job.
+Maybe he can retire soon.[WAIT][END]
+
+#string:04:05F
+[STYLE:RIGHT][...]
+Mario, Mario, Mario.
+[PAUSE:0A][...]
+Have you ever met The Master
+of the Dojo?
+[WAIT][NEXT][...]
+I used to want to learn at
+the Dojo, so I went over there
+once.
+[WAIT][NEXT][...]
+Want to hear what he said?
+"Come again after cultivating
+yourself more ...cough..."[WAIT][END]
+
+#string:04:060
+[STYLE:RIGHT][...]
+Mario, Mario, Mario.
+[PAUSE:0A][...]
+Have you ever met The Master
+of the Dojo?
+[WAIT][NEXT][...]
+I used to want to learn at
+the Dojo, so I went over there
+once.
+[WAIT][NEXT][...]
+Want to hear what he said?
+"Come again after cultivating
+yourself more ...cough..."[WAIT][END]
+
+#string:04:061
+[STYLE:RIGHT][...]
+Mario, Mario, Mario.
+[PAUSE:0A][...]
+Have you ever met the wizard,
+Merlon?
+[WAIT][NEXT][...]
+I went to him to ask what I
+could do to "cultivate myself."
+[WAIT][NEXT][...]
+And Merluvlee was there!
+Merlon's her grandpa, of course.
+[WAIT][NEXT][...]
+I was so lucky...and happy...
+My heart started beating a
+mile a minute...
+[WAIT][NEXT][...]
+She said "hello" to me.
+[PAUSE:0A][...]
+...Tee hee![HEART][WAIT][END]
+
+#string:04:062
+[STYLE:RIGHT][...]
+Mario, Mario, Mario.
+[PAUSE:0A][...]
+Have you ever met the wizard,
+Merlon?
+[WAIT][NEXT][...]
+I went to him to ask what I
+could do to "cultivate myself."
+[WAIT][NEXT][...]
+And Merluvlee was there!
+Merlon's her grandpa, of course.
+[WAIT][NEXT][...]
+I was so lucky...and happy...
+My heart started beating a
+mile a minute...
+[WAIT][NEXT][...]
+She said "hello" to me.
+[PAUSE:0A][...]
+...Tee hee![HEART][WAIT][END]
+
+#string:04:063
+[STYLE:RIGHT][...]
+Mario, Mario, Mario.
+[PAUSE:0A][...]
+Have you ever met the
+lovely Princess Peach?
+[WAIT][NEXT][...]
+...Well, of course you have.
+What a silly question!
+[WAIT][NEXT][...]
+Sometimes I think that it
+would be pretty nice just to
+sit and gaze at the princess
+all day long.
+[WAIT][NEXT][...]
+Is it just me? Have you ever
+felt that way?[WAIT][END]
+
+#string:04:064
+[STYLE:RIGHT][...]
+When I [PAUSE:03]grow up, [PAUSE:05]I'm gonna learn
+to be a train conductor.
+[WAIT][NEXT][...]
+Train conductors are so cool.
+[PAUSE:0A][...]
+Station stop!
+All aboard![WAIT][END]
+
+#string:04:065
+[STYLE:RIGHT][...]
+Oh, hi, Mario. Y'know, I used
+to want to be a train conductor
+when I grow up, but..
+[WAIT][NEXT][...]
+I decided not to 'cause...
+[PAUSE:05][...]
+I decided I wanna be a hero
+like you instead.
+[WAIT][NEXT][...]
+I'm going to beat up the bad
+guys, then I'm going to save
+Princess Peach.
+[PAUSE:0A][...]
+Is it hard to do?[WAIT][END]
+
+#string:04:066
+[STYLE:RIGHT][...]
+It's Shy Guys, it's Shy Guys!
+Let's get 'em!
+[WAIT][NEXT][...]
+...Oh! Mario!
+[PAUSE:0A][...]
+Sorry, I was just practicing
+beating up pretend Shy Guys.[WAIT][END]
+
+#string:04:067
+[STYLE:RIGHT][...]
+Now I've decided to become
+a ship captain.
+[WAIT][NEXT][...]
+Because trains have to stay
+on the tracks, y'know.
+[WAIT][NEXT][...]
+You can go anywhere on the sea!
+[PAUSE:0A][...]
+Ahoy! Full steam ahead![WAIT][END]
+
+#string:04:068
+[STYLE:RIGHT][...]
+Oh, hi, Mario. Do you know...
+what do archaeologists do?
+[WAIT][NEXT][...]
+I heard they travel around the
+world and look for treasures.
+[WAIT][NEXT][...]
+Doesn't that sound like fun?
+[PAUSE:0A][...]
+Maybe I want to become an
+archaeologist now.
+[WAIT][NEXT][...]
+Will the Stars make my wish
+come true, you think?[WAIT][END]
+
+#string:04:069
+[STYLE:RIGHT][...]
+Mario,
+[PAUSE:05][...]
+I'm thinking of becoming a
+detective when I grow up.
+[WAIT][NEXT][...]
+There's this really cool detective
+in this novel my mom's reading
+right now.
+[WAIT][NEXT][...]
+I wanna be like him.[WAIT][END]
+
+#string:04:06A
+[STYLE:RIGHT][...]
+Oh, hi, Mario.
+[PAUSE:03][...]
+Y'know, I've thought I wanted
+to be a lot of different things
+when I grow up.
+[WAIT][NEXT][...]
+But I decided that I'm just
+gonna be myself.
+[WAIT][NEXT][...]
+Although maybe I'll imitate you
+a little, if that's OK...[WAIT][END]
+
+#string:04:06B
+[STYLE:RIGHT][...]
+Dry Dry Desert is huge.
+[WAIT][NEXT][...]
+Wherever you go, all you can
+see is sand. Many a wanderer
+has gotten lost, so travelers
+should use extreme caution.
+[WAIT][NEXT][...]
+Oh, and you should avoid
+any whirlwinds you see.
+[WAIT][NEXT][...]
+According to my sources,
+if you get close to a whirlwind,
+it'll blow you far away.
+Chances are, you'll get lost.[WAIT][END]
+
+#string:04:06C
+[STYLE:RIGHT][...]
+Dry Dry Desert is huge.
+[WAIT][NEXT][...]
+Wherever you go, all you can
+see is sand. Many a wanderer
+has gotten lost, so travelers
+should use extreme caution.
+[WAIT][NEXT][...]
+Oh, and you should avoid
+any whirlwinds you see.
+[WAIT][NEXT][...]
+According to my sources,
+if you get close to a whirlwind,
+it'll blow you far away.
+Chances are, you'll get lost.[WAIT][END]
+
+#string:04:06D
+[STYLE:RIGHT][...]
+I just saw an odd thing:
+a gray Boo with a mustache.
+[WAIT][NEXT][...]
+He seemed to be looking for
+someone. He was wandering
+all around here.
+[WAIT][NEXT][...]
+According to my sources,
+there's a Boo Mansion deep
+within Forever Forest.
+Perhaps he came from there.[WAIT][END]
+
+#string:04:06E
+[STYLE:RIGHT][...]
+The recent invasion by these
+Shy Guys has everyone reeling.
+There's no end to their mischief.
+[WAIT][NEXT][...]
+I just saw Shy Guys run over
+toward the station.
+What could they be up to now?
+[WAIT][NEXT][...]
+Unless I miss my guess,
+it's bound to be something bad.
+Wouldn't you agree?
+[WAIT][NEXT][...]
+You may be the only one with
+the strength to repel them.[WAIT][END]
+
+#string:04:06F
+[STYLE:RIGHT][...]
+The recent invasion by these
+Shy Guys has everyone reeling.
+There's no end to their mischief.
+[WAIT][NEXT][...]
+I just saw Shy Guys run over
+toward the station.
+What could they be up to now?
+[WAIT][NEXT][...]
+Unless I miss my guess,
+it's bound to be something bad.
+Wouldn't you agree?
+[WAIT][NEXT][...]
+You may be the only one with
+the strength to repel them.[WAIT][END]
+
+#string:04:070
+[STYLE:RIGHT][...]
+According to my sources,
+[PAUSE:0A][...]
+Shy Guys come from the west.
+[WAIT][NEXT][...]
+It looks like it's up to you
+to find their hideout and
+teach them a lesson.[WAIT][END]
+
+#string:04:071
+[STYLE:RIGHT][...]
+Well, the Shy Guys are gone.
+[WAIT][NEXT][...]
+Strangely enough, I feel kind
+of lonely when it's so quiet.[WAIT][END]
+
+#string:04:072
+[STYLE:RIGHT][...]
+Well, the Shy Guys are gone.
+[WAIT][NEXT][...]
+Strangely enough, I feel kind
+of lonely when it's so quiet.[WAIT][END]
+
+#string:04:073
+[STYLE:RIGHT][...]
+Minh T. was looking for you
+in the flower garden, Mario.
+[WAIT][NEXT][...]
+Reports are sketchy, but I've
+heard that a flower-filled place
+called Flower Fields is in
+a world of trouble.
+[WAIT][NEXT][...]
+Mario,
+[PAUSE:0A][...]
+you'd better go talk to Minh T.![WAIT][END]
+
+#string:04:074
+[STYLE:RIGHT][...]
+According to my sources, a door
+leading to Flower Fields has
+appeared in Minh T.'s garden.
+[WAIT][NEXT][...]
+I suppose Bowser's not content
+just spreading trouble in our
+fair kingdom.
+He's moved on to other worlds!
+[WAIT][NEXT][...]
+Mario,
+is there nothing to be done?[WAIT][END]
+
+#string:04:075
+[STYLE:RIGHT][...]
+My sources tell me that deep
+inside that pipe over there,
+lie many hidden treasures.
+[WAIT][NEXT][...]
+What kind of treasures?
+[PAUSE:0A][...]
+Inquiring Toads want to know![WAIT][END]
+
+#string:04:076
+[STYLE:RIGHT][...]
+My sources tell me that deep
+inside that pipe over there,
+lie many hidden treasures.
+[WAIT][NEXT][...]
+What kind of treasures?
+[PAUSE:0A][...]
+Inquiring Toads want to know![WAIT][END]
+
+#string:04:077
+[STYLE:RIGHT][...]
+I have a hunch that very
+soon now, Princess Peach will
+come back to us.
+[WAIT][NEXT][...]
+The castle and our friends
+will all come back safely and
+everything will be just like it
+used to be...
+[PAUSE:0A][...]
+[WAIT][NEXT][...]
+I never ignore a hunch.[WAIT][END]
+
+#string:04:078
+[STYLE:RIGHT][...]
+People say that there's a big,
+dangerous creature living deep
+inside that pipe over there.
+[WAIT][NEXT][...]
+But when people tell you not
+to go in, it kind of makes you
+want to even more!
+[WAIT][NEXT][...]
+Of course, you'll be all right
+if you carry lots of items.
+[WAIT][NEXT][...]
+Probably...[WAIT][END]
+
+#string:04:079
+[STYLE:RIGHT][...]
+People say that there's a big,
+dangerous creature living deep
+inside that pipe over there.
+[WAIT][NEXT][...]
+But when people tell you not
+to go in, it kind of makes you
+want to even more!
+[WAIT][NEXT][...]
+Of course, you'll be all right
+if you carry lots of items.
+[WAIT][NEXT][...]
+Probably...[WAIT][END]
+
+#string:04:07A
+[STYLE:RIGHT][...]
+When you get lost in Forever
+Forest, you find yourself back
+at the beginning in an instant.
+[WAIT][NEXT][...]
+I guess that's why they say
+it's almost impossible to find
+your way through there.[WAIT][END]
+
+#string:04:07B
+[STYLE:RIGHT][...]
+It seems like all the Shy Guys
+come from just west of here.
+[WAIT][NEXT][...]
+I wish we could find out where
+they come from and get rid
+of them! Rapscallions![WAIT][END]
+
+#string:04:07C
+[STYLE:RIGHT][...]
+It seems like all the Shy Guys
+come from just west of here.
+[WAIT][NEXT][...]
+I wish we could find out where
+they come from and get rid
+of them! Rapscallions![WAIT][END]
+
+#string:04:07D
+[STYLE:RIGHT][...]
+I'm sick of these Shy Guys
+stirring up so much trouble.
+Can you beat them up? Please?[WAIT][END]
+
+#string:04:07E
+[STYLE:RIGHT][...]
+There are lots of rumors about
+that pipe over there. One is
+that huge monsters live there.
+[WAIT][NEXT][...]
+Another one claims that the
+pipe somehow connects to many
+distant towns.
+[WAIT][NEXT][...]
+They're only rumors, though.
+[PAUSE:0A][...]
+Who knows if they're true?[WAIT][END]
+
+#string:04:07F
+[STYLE:RIGHT][...]
+There are lots of rumors about
+that pipe over there. One is
+that huge monsters live there.
+[WAIT][NEXT][...]
+Another one claims that the
+pipe somehow connects to many
+distant towns.
+[WAIT][NEXT][...]
+They're only rumors, though.
+[PAUSE:0A][...]
+Who knows if they're true?[WAIT][END]
+
+#string:04:080
+[STYLE:RIGHT][...]
+Mario, you're really good at
+climbing down that pipe!
+[WAIT][NEXT][...]
+You roll up like paper
+[PAUSE:05][...]
+and spin on down!
+[PAUSE:05][...]
+That's so cool![WAIT][END]
+
+#string:04:081
+[STYLE:RIGHT][...]
+Mario, you're really good at
+climbing down that pipe!
+[WAIT][NEXT][...]
+You roll up like paper
+[PAUSE:05][...]
+and spin on down!
+[PAUSE:05][...]
+That's so cool![WAIT][END]
+
+#string:04:082
+[STYLE:RIGHT][...]
+Mario, you're really good at
+climbing down that pipe!
+[WAIT][NEXT][...]
+You roll up like paper
+[PAUSE:05][...]
+and spin on down!
+[PAUSE:05][...]
+That's so cool![WAIT][END]
+
+#string:04:083
+[STYLE:RIGHT][...]
+Mario, you're really good at
+climbing down that pipe!
+[WAIT][NEXT][...]
+You roll up like paper
+[PAUSE:05][...]
+and spin on down!
+[PAUSE:05][...]
+That's so cool![WAIT][END]
+
+#string:04:084
+[STYLE:RIGHT][...]
+Mario, you're really good at
+climbing down that pipe!
+[WAIT][NEXT][...]
+You roll up like paper
+[PAUSE:05][...]
+and spin on down!
+[PAUSE:05][...]
+That's so cool![WAIT][END]
+
+#string:04:085
+[STYLE:RIGHT][...]
+P...
+[PAUSE:0F][...]
+Pppppppppppppppppppp...[WAIT][END]
+
+#string:04:086
+[STYLE:RIGHT][...]
+PUFFFFF!
+[PAUSE:0A][...]
+Well, hello there.
+[WAIT][NEXT][...]
+My name is Bub-ulb.
+[PAUSE:0A][...]
+I came from Flower Fields,
+the wonderful land of flowers.
+[WAIT][NEXT][...]
+I'd love to spread the wondrous
+flowers of Flower Fields all
+over your land!
+[WAIT][NEXT][...]
+You like flowers, don't you?
+Of course you do. Who doesn't?
+[PAUSE:0A][...]
+For that reason I'll entrust
+this to your care.[WAIT][END]
+
+#string:04:087
+[STYLE:RIGHT][...]
+That is a flower seed.
+[PAUSE:0A][...]
+If it's well cared for,
+a beautiful flower will bloom.
+[WAIT][NEXT][...]
+These flowers are delicate...
+Only one with a loving heart
+can make them bloom in beauty.
+[WAIT][NEXT][...]
+Please take good care of it,
+for beauty is fragile.[WAIT][END]
+
+#string:04:088
+[STYLE:RIGHT][...]
+Most flowers don't speak, but
+they all listen.
+[WAIT][NEXT][...]
+When you grow flowers, be sure
+to speak kindly to them.[WAIT][END]
+
+#string:04:089
+[STYLE:RIGHT][...]
+It's a beautiful day, today.
+[PAUSE:0A][...]
+The sunshine is pouring down
+on us from the sky...
+[PAUSE:0A][...]
+It feels ever so nice.
+[WAIT][NEXT][...]
+Now that I think about it,
+yesterday and the day before
+were also fine...
+[WAIT][NEXT][...]
+Is it just my imagination,
+or does the weather never
+change in this town?
+Nah, I must be imagining things.[WAIT][END]
+
+#string:04:08A
+[STYLE:RIGHT][...]
+Either there's not enough sun, 
+the people here are too loud, or
+it's boring because the place is
+too quiet.
+[WAIT][NEXT][...]
+You may not know this,
+but it's natural for some
+flowers to complain all the
+time or flip-flop on issues.
+[WAIT][NEXT][...]
+Who's to say that's wrong?
+[PAUSE:0A][...]
+There's a saying:
+"The soil is always browner
+on the other side."[WAIT][END]
+
+#string:04:08B
+[STYLE:RIGHT][...]
+At times, I feel homesick for
+my home, lovely Flower Fields.
+[WAIT][NEXT][...]
+Back there, there are beautiful
+and unique flowers as far as
+the eye can see.
+[WAIT][NEXT][...]
+You really should journey there
+someday to enrich yourself.[WAIT][END]
+
+#string:04:08C
+[STYLE:RIGHT][...]
+The wonderful flowers of
+Flower Fields are grown in
+rich earth with pure spring
+water and warm sunshine.
+[WAIT][NEXT][...]
+There are so many of them
+that when they all talk at once,
+it gets rather loud.[WAIT][END]
+
+#string:04:08D
+[STYLE:RIGHT][...]
+I heard you beat up the evil
+Huff N. Puff, who had brought
+darkness to Flower Fields.
+[WAIT][NEXT][...]
+Thanks for saving my hometown,
+[PAUSE:0A][...]
+from the bottom of my roots.[WAIT][END]
+
+#string:04:08E
+[STYLE:RIGHT][...]
+The people in the town say
+that you are going to save a
+person called Princess Peach.
+[WAIT][NEXT][...]
+I don't even know who she is,
+but best of luck anyway.[WAIT][END]
+
+#string:04:08F
+[STYLE:RIGHT][...]
+{SpeechSound:02}{Down:08}{StartFX:Shrinking}{Size:20:20}Mario![WAIT][END]
+
+#string:04:090
+[STYLE:RIGHT][...]
+{SpeechSound:02}Mario! Mario!
+[PAUSE:0A][...]
+Good to see you![WAIT][END]
+
+#string:04:091
+[STYLE:RIGHT][...]
+{SpeechSound:02}We found out that you defeated
+Tubba Blubba!
+[WAIT][NEXT][...]
+I knew you could do it!
+I just knew it!
+[WAIT][NEXT][...]
+When we heard the news, the
+princess was very relieved.[WAIT][END]
+
+#string:04:092
+[STYLE:RIGHT][...]
+{SpeechSound:02}Oh, yes...
+[PAUSE:0A][...]
+I've got new information about
+the honorable Star Spirits
+who are still imprisoned.
+[WAIT][NEXT][...]
+Have you ever heard of
+Shy Guy's Toy Box?
+[WAIT][NEXT][...]
+It seems that one of the
+honorable Star Spirits is
+being held there.
+[WAIT][NEXT][...]
+...But
+[PAUSE:0A][...]
+where on earth is Shy Guy's
+Toy Box? I have no idea...
+[PAUSE:0A][...]
+[WAIT][END]
+
+#string:04:093
+[STYLE:RIGHT][...]
+{SpeechSound:02}...Oh, time is short! I have to
+go back to the princess now.
+[WAIT][NEXT][...]
+Good luck, Mario!
+[WAIT][NEXT][...]
+Princess Peach and I are
+always cheering you on.[WAIT][END]
+

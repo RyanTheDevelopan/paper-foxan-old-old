@@ -1,0 +1,1295 @@
+#string:21:000
+[STYLE:RIGHT][...]
+You must journey to Koopa Bros.
+Fortress. You can travel there
+by following Pleasant Path to
+the east of town.
+[WAIT][NEXT][...]
+The path begins right next to
+Toad's house.
+[WAIT][NEXT][...]
+If you have any problems getting
+started, please don't hesitate
+to ask for my help.[WAIT][END]
+
+#string:21:001
+[STYLE:RIGHT][...]
+I can see you stuck on the way
+to Koopa Village. You try to
+continue, but there is no bridge.
+[WAIT][NEXT][...]
+A tree grows near where the
+path ends.
+[PAUSE:0A][...]
+You smash this tree.
+[WAIT][NEXT][...]
+Something drops to aid you.[WAIT][END]
+
+#string:21:002
+[STYLE:RIGHT][...]
+I can see Koopas in trouble.
+[PAUSE:0A][...]
+These must be the Koopas in
+Koopa Village.
+[WAIT][NEXT][...]
+You are kind, and you help them
+with their troubles.
+[WAIT][NEXT][...]
+One of the Koopas you help tells
+you the location of the house
+where the Koopa with the blue
+shell lives.
+[WAIT][NEXT][...]
+Only that blue-shelled Koopa
+can help you overcome the
+difficulties that lie in wait on
+the road ahead.[WAIT][END]
+
+#string:21:003
+[STYLE:RIGHT][...]
+The four Koopa brothers are
+holding a Star Spirit hostage.
+[WAIT][NEXT][...]
+They lurk in the stone fortress
+at the end of Pleasant Path,
+to the east of Toad Town.
+[WAIT][NEXT][...]
+It is a long journey east, even
+from Koopa Village, and the road
+is full of enemies.[WAIT][END]
+
+#string:21:004
+[STYLE:RIGHT][...]
+The stone fortress is locked,
+and it's guarded by Koopas.
+[PAUSE:0A][...]
+You wander its depths, hunting
+for a key.
+[WAIT][NEXT][...]
+A pink tomboy with an explosive
+personality is locked in the
+basement jail there.
+[WAIT][NEXT][...]
+You help her escape.
+[PAUSE:0A][...]
+She ends up helping you, too.[WAIT][END]
+
+#string:21:005
+[STYLE:RIGHT][...]
+The noble Star Spirit is
+imprisoned on the top floor of
+the stone fortress. 
+[WAIT][NEXT][...]
+Your blue-shelled Koopa and
+explosive Bob-omb are the keys
+to cutting the Koopa brothers
+down to size.
+[WAIT][NEXT][...]
+You move with haste now.
+[PAUSE:0A][...]
+The Star Spirit has many
+important things to tell you.[WAIT][END]
+
+#string:21:006
+[STYLE:RIGHT][...]
+You go to the south of Toad Town
+and find a station that is the
+departure point to a far-off
+land.
+[WAIT][NEXT][...]
+The red train at the station
+cannot leave.  
+[WAIT][NEXT][...]
+Somehow, you destroy the
+obstacle blocking the track.[WAIT][END]
+
+#string:21:007
+[STYLE:RIGHT][...]
+You reach a mountain by train
+but the crevasses there are
+too difficult to cross.
+[WAIT][NEXT][...]
+A winged Koopa is fussing about,
+waiting for help on the steep,
+stony mountainside.
+[WAIT][NEXT][...]
+You help him out
+[PAUSE:05][...]
+and earn some help yourself.[WAIT][END]
+
+#string:21:008
+[STYLE:RIGHT][...]
+I can see you climbing over a
+mountain in search of a desert.
+[WAIT][NEXT][...]
+Braving great dangers, you
+cross the mountain and descend
+to the mouth of an ocean of
+sand.
+[WAIT][NEXT][...]
+Your true goal lies hidden within.[WAIT][END]
+
+#string:21:009
+[STYLE:RIGHT][...]
+At the end of the path in the
+desert, there is a dusty town
+where travelers rest.
+[WAIT][NEXT][...]
+It is there where you will find
+some answers you seek.
+[WAIT][NEXT][...]
+When you leave the desert path,
+you are quickly swallowed up by
+the trackless desert.
+[WAIT][NEXT][...]
+For now, you stick to the path
+and end up in the town.[WAIT][END]
+
+#string:21:00A
+[STYLE:RIGHT][...]
+I can see you handing something
+to a strange Nomadimouse that
+resides in a desert town.
+[WAIT][NEXT][...]
+The Nomadimouse waits in the
+back of the desert town,
+hiding its face with a cloth.
+[WAIT][NEXT][...]
+To find that which you seek,
+you give up something you have
+already found.[WAIT][END]
+
+#string:21:00B
+[STYLE:RIGHT][...]
+The strange Nomadimouse I spoke
+of...he does not tell you what
+you want to know, even though
+you've given him gifts?
+[WAIT][NEXT][...]
+Well, perhaps you have not given
+him what he desires.
+[WAIT][NEXT][...]
+You go south as soon as you
+leave the desert town and soon
+you find a lush oasis.
+[WAIT][NEXT][...]
+A fruit ripening on the tree is
+what you seek. You find it and
+give it to the Nomadimouse.
+[WAIT][NEXT][...]
+For this treat, he breaks his
+code of silence and gives you
+the clue you need.
+[PAUSE:0A][...]
+Beyond this, I can see nothing.[WAIT][END]
+
+#string:21:00C
+[STYLE:RIGHT][...]
+The one who knows the mystery
+of the desert hides on top of
+an old building.
+[WAIT][NEXT][...]
+A strange Nomadimouse at the
+far end of town once waited by
+a door. You check this door.
+[PAUSE:0A][...]
+From there, you climb upward.
+[WAIT][NEXT][...]
+On the rooftops, you meet the
+mysterious leader of the desert.
+[PAUSE:0F][...]
+You find him over to the left
+from where you climb up.[WAIT][END]
+
+#string:21:00D
+[STYLE:RIGHT][...]
+I can see you putting a bright,
+flashing stone on a small rock
+after wandering around the
+desert.
+[WAIT][NEXT][...]
+Hmm...
+[PAUSE:0A][...]
+Mmmmmmmmm...!
+[WAIT][NEXT][...]
+I cannot see exactly where it is,
+but the flashing stone is pulsing
+rapidly and there is just one
+rock in the area.
+[WAIT][NEXT][...]
+Wait...something else...
+[PAUSE:0A][...]
+It is on the opposite side of the
+desert from the oasis.[WAIT][END]
+
+#string:21:00E
+[STYLE:RIGHT][...]
+I can see you entering the ruins
+that used to be buried deep in
+the desert sand.
+[WAIT][NEXT][...]
+There are many surprises inside
+the old buildings.
+[WAIT][NEXT][...]
+First you find a way to 
+strengthen yourself, [PAUSE:0A]and then
+you find three precious stones.
+[WAIT][NEXT][...]
+Deep inside, you set the stones
+in the correct places on statues.
+[WAIT][NEXT][...]
+This is the correct way:
+[WAIT][NEXT][...]
+the Pyramid on the left,
+the Diamond in the middle and
+the Lunar on the right.[WAIT][END]
+
+#string:21:00F
+[STYLE:RIGHT][...]
+You go down the new stairs that
+appear in the deepest depths of
+the ruins.
+[WAIT][NEXT][...]
+You descend further, drawn by
+the imprisoned Star Spirit
+imprisoned below you.
+[WAIT][NEXT][...]
+A Koopa wrecks the ruins,
+trying to destroy you.
+[WAIT][NEXT][...]
+You fight off this magic-wielding
+menace and save the Star Spirit.[WAIT][END]
+
+#string:21:010
+[STYLE:RIGHT][...]
+Deep inside a strange forest,
+someone waits in the darkness
+for you to arrive.
+[WAIT][NEXT][...]
+He floats through the air,
+appearing and disappearing.
+[PAUSE:0A][...]
+He shows you the way.[WAIT][END]
+
+#string:21:011
+[STYLE:RIGHT][...]
+In the dangerous gloom of
+Forever Forest, [PAUSE:05]I can see you
+talking with a creature who lives
+there.
+[WAIT][NEXT][...]
+You turn your back to the moving
+bush and go into the depths of
+the forest.
+You find him waiting.[WAIT][END]
+
+#string:21:012
+[STYLE:RIGHT][...]
+In the shadowy Forever Forest,
+[PAUSE:05][...]
+you must take the right path to
+get out.
+[WAIT][NEXT][...]
+One path always looks different
+from the others, [PAUSE:05]and that path
+is the one you always take.
+[WAIT][NEXT][...]
+You look carefully at the 
+scenery to find your way. 
+[WAIT][NEXT][...]
+A wise member of your party
+may well give you an important
+hint.[WAIT][END]
+
+#string:21:013
+[STYLE:RIGHT][...]
+When you escape Forever Forest,
+you find a spooky mansion hidden
+in the trees.
+[WAIT][NEXT][...]
+Someone who is waiting for your
+help appears in front of the
+mansion.
+[WAIT][NEXT][...]
+Inside, you gather some
+important information.
+[PAUSE:0A][...]
+You enter without fear.[WAIT][END]
+
+#string:21:014
+[STYLE:RIGHT][...]
+I can see you wandering in Boo's
+mansion, trying to find the way 
+to get upstairs.
+[WAIT][NEXT][...]
+At every turn, Boos play tricks
+and set puzzles. You wisely
+solve them all.
+[WAIT][NEXT][...]
+Now...I can see you standing 
+with a record in your hand in
+front of a phonograph.
+[WAIT][NEXT][...]
+You distract a Boo by playing
+the record then quickly open the
+treasure chest. [WAIT][END]
+
+#string:21:015
+[STYLE:RIGHT][...]
+You climb onto the sofa on the
+first floor of Boo's mansion.
+[WAIT][NEXT][...]
+You launch into the air and
+pull down the chandelier, which
+moves a glass case.
+[WAIT][NEXT][...]
+In order to enter the door
+hidden by the glass case, 
+you hang a heavy weight from
+the chandelier.
+[WAIT][NEXT][...]
+Somewhere beyond the door, 
+a powerful item awaits.[WAIT][END]
+
+#string:21:016
+[STYLE:RIGHT][...]
+In Boo's Mansion in Forever
+Forest, I can see a staircase
+leading downstairs.
+[WAIT][NEXT][...]
+You go down to the storeroom
+and through several doors.
+In a back room, you challenge
+Boos for a new pair of Boots.
+[WAIT][NEXT][...]
+You Spin Jump on the boarded
+floor and break through, finding
+a new path.[WAIT][END]
+
+#string:21:017
+[STYLE:RIGHT][...]
+You return a Boo to his empty
+picture frame, and he helps you
+go upstairs.
+[WAIT][NEXT][...]
+When you enter the room
+upstairs, you find a pair of
+Boos waiting for you.
+[WAIT][NEXT][...]
+They tell you many things.
+[PAUSE:0A][...]
+You realize that not all Boos are
+troublemakers.[WAIT][END]
+
+#string:21:018
+[STYLE:RIGHT][...]
+There's only one thing that has
+the power to scare Boos.
+I speak of a castle-dwelling
+monster that can never be hurt.
+[WAIT][NEXT][...]
+There are many stories about
+this immortal creature.
+The Boos living on the windy hill
+have heard them all.
+[WAIT][NEXT][...]
+You listen carefully to these
+tales then bravely head for
+the castle on the hill.[WAIT][END]
+
+#string:21:019
+[STYLE:RIGHT][...]
+Although you enter the castle
+on the windy hill, you are
+stopped by a locked door.
+[WAIT][NEXT][...]
+You begin your search for the 
+door key.
+[WAIT][NEXT][...]
+In a room containing a large
+table, you open a small door and
+see stairs going down.
+[WAIT][NEXT][...]
+Once you descend, you notice a
+boarded piece of floor that you
+can break. 
+[WAIT][NEXT][...]
+Down in the basement, you find
+the key that you seek.[WAIT][END]
+
+#string:21:01A
+[STYLE:RIGHT][...]
+In the castle on the windy hill,
+a much-needed key waits in the
+room with the spiked floor.
+[WAIT][NEXT][...]
+With your Boo companion, you
+run out onto the floor when
+the spikes retract.
+[WAIT][NEXT][...]
+Before the spikes return, the
+lady Boo helps you to turn
+invisible. While invisible,
+you are not hurt.
+[WAIT][NEXT][...]
+The key you find inside the
+treasure chest helps you
+continue your quest.[WAIT][END]
+
+#string:21:01B
+[STYLE:RIGHT][...]
+In the castle on the windy hill,
+you find a room off the main
+corridor on the top floor. 
+[WAIT][NEXT][...]
+The key to the locked door is at
+the end of this room.
+[WAIT][NEXT][...]
+You sneak through the room
+without waking any guards and
+claim the key.
+[WAIT][NEXT][...]
+You unlock the door and step
+into the heart of the mystery.[WAIT][END]
+
+#string:21:01C
+[STYLE:RIGHT][...]
+I can see you running away as
+fast as you can.
+[WAIT][NEXT][...]
+You open the treasure chest
+next to the bed where the
+immortal monster is taking an
+afternoon nap.
+[WAIT][NEXT][...]
+You find a magic talking key
+inside the chest.
+[WAIT][NEXT][...]
+This key unlocks a tower with a
+turning windmill.
+[WAIT][NEXT][...]
+The immortal monster keeps a
+secret deep below it.
+[WAIT][NEXT][...]
+You run there as fast as you
+can and teach him a lesson once
+you learn his secret.[WAIT][END]
+
+#string:21:01D
+[STYLE:RIGHT][...]
+I can see a Star Spirit that
+can't return to where it is
+supposed to be.
+[WAIT][NEXT][...]
+Help it find its way back to
+Star Haven and then come back
+to Toad Town.[WAIT][END]
+
+#string:21:01E
+[STYLE:RIGHT][...]
+I can see mischievous folks
+playing tricks and bothering the
+citizens of Toad Town.
+[WAIT][NEXT][...]
+You walk west from the southern
+shop and see these small people
+entering and leaving the second
+house from the shop.
+[WAIT][NEXT][...]
+They don't enter the house if
+they see someone inside because
+they're cowards.
+[PAUSE:0A][...]
+You turn invisible to trick them.[WAIT][END]
+
+#string:21:01F
+[STYLE:RIGHT][...]
+You go into the house second
+from the shop in the south of
+Toad Town,
+[WAIT][NEXT][...]
+and find a hidden door that
+leads to a Toy Box.
+[WAIT][NEXT][...]
+The mischievous thieves and all
+of their stolen goods are inside
+the box. You leap in after them.
+[WAIT][NEXT][...]
+Inside the Toy Box, you use
+jack-in-the-boxes to move on.
+[WAIT][NEXT][...]
+The jack-in-the-boxes with
+stars on their sides make you
+go higher and farther. They help
+you out mightily.
+[WAIT][NEXT][...]
+You find a key and return to
+Toad Town.[WAIT][END]
+
+#string:21:020
+[STYLE:RIGHT][...]
+The owner of the shop in the
+south of Toad Town is sick with
+worry about a stolen key.
+You return it to him.
+[WAIT][NEXT][...]
+He offers you a reward, so you
+take something that you noticed
+was missing inside the Toy Box.  [WAIT][END]
+
+#string:21:021
+[STYLE:RIGHT][...]
+You get a train, but you don't
+carry it into the Toy Box.
+Instead, you put it in the box
+from outside.
+[WAIT][NEXT][...]
+The train is a welcome addition
+inside the Toy Box, and now you
+are able to move on.[WAIT][END]
+
+#string:21:022
+[STYLE:RIGHT][...]
+Building blocks and a fence
+block your way in the Toy Box.
+[WAIT][NEXT][...]
+You have to make good use of
+the jack-in-the-boxes and a
+revolving wall to continue. 
+[WAIT][NEXT][...]
+When the revolving wall turns,
+you slip through the opening.
+[PAUSE:05][...]
+Only perfect timing gets you
+to the other side.[WAIT][END]
+
+#string:21:023
+[STYLE:RIGHT][...]
+You have tracked down a
+precious frying pan.
+[WAIT][NEXT][...]
+You give it back to a Toad Town
+cook, who gives you something
+useful in return.
+[WAIT][NEXT][...]
+You re-enter the Toy Box with
+your new reward.
+[PAUSE:0A][...]
+It will help you on your way.[WAIT][END]
+
+#string:21:024
+[STYLE:RIGHT][...]
+I can see you standing beside
+a huge Shy Guy who is too hungry
+to move.  
+[WAIT][NEXT][...]
+You give him a fabulous Cake
+made by a very talented cook.
+He finds it so delicious that
+he goes away.   
+[WAIT][NEXT][...]
+That talented cook makes the
+Cake again when you give her
+the Cake Mix.[WAIT][END]
+
+#string:21:025
+[STYLE:RIGHT][...]
+You hit a dead end on the moving
+walkways of the Toy Box.
+[WAIT][NEXT][...]
+Instead of trying to jump over,
+you turn invisible and slip
+through the net.
+[WAIT][NEXT][...]
+Soon enough you reach some
+blocks that move up and down
+but you cannot jump to your
+goal.
+[WAIT][NEXT][...]
+You jump to a high spot near
+the platform and hitch a ride
+with a Paratroopa.
+[WAIT][NEXT][...]
+An illegible memo is the key to
+continuing through the Toy Box.
+[WAIT][NEXT][...]
+You give the dictionary back
+to the scholarly Toad.
+With it, he is able to decipher
+the Shy Guy's language.
+[WAIT][NEXT][...]
+He tells you the answer to a
+puzzle. 
+[WAIT][NEXT][...]
+He says that you must smash
+the four colorful boxes in a
+certain order to open the way. 
+[WAIT][NEXT][...]
+If you remember the clue, 
+you'll know the right order.[WAIT][END]
+
+#string:21:026
+[STYLE:RIGHT][...]
+The path you choose might be
+completely dark.
+[WAIT][NEXT][...]
+When you can't see a thing, it's
+a good idea to take a different
+path.
+[WAIT][NEXT][...]
+When you enter another dark
+room, something carrying a light
+appears.
+[WAIT][NEXT][...]
+You defeat this scary creature
+and make a new friend.[WAIT][END]
+
+#string:21:027
+[STYLE:RIGHT][...]
+You find the light that gleams
+in darkness and discover a
+glittering child in a lantern.
+[WAIT][NEXT][...]
+The way ahead is often dark,
+and you cannot go forward 
+without light.  
+[WAIT][NEXT][...]
+You save the sparkling child
+imprisoned in the lantern.
+[WAIT][NEXT][...]
+When you break the lantern,
+the child is freed.
+[PAUSE:0A][...]
+This bright child often lights
+up what is hidden.[WAIT][END]
+
+#string:21:028
+[STYLE:RIGHT][...]
+When you bring light to darkness,
+Shy Guys flee from it. They are
+running toward the thing that
+you seek.
+[WAIT][NEXT][...]
+You follow them with the light.
+[PAUSE:05][...]
+A difficult test awaits you.
+The Star Spirit can only hope
+for your victory.[WAIT][END]
+
+#string:21:029
+[STYLE:RIGHT][...]
+There is a strange island
+floating by the port docks. 
+You jump on it and smash down
+to get a rise out of it.
+[WAIT][NEXT][...]
+Soon after, I can see you with
+a light amid warm darkness.
+[PAUSE:0F][...]
+...You do know where the port is,
+don't you?
+[WAIT][NEXT][...]
+I suppose I'll tell you, just
+in case. Go straight in the
+direction opposite Forever
+Forest.[WAIT][END]
+
+#string:21:02A
+[STYLE:RIGHT][...]
+A journey to a faraway island
+is your destiny. I can see you
+crossing the sea with one who is
+indebted to you.
+[WAIT][NEXT][...]
+I can also see a Star Spirit
+waiting for you in the heart of a
+volcano.[WAIT][END]
+
+#string:21:02B
+[STYLE:RIGHT][...]
+On the jungle island to the
+south, I can see an erupting
+mountain. You must find a path
+to this volcano.  
+[WAIT][NEXT][...]
+Ohhh...!
+[PAUSE:0A][...]
+I can see Yoshis. Many Yoshis.
+[WAIT][NEXT][...]
+The Yoshis know something, so
+[PAUSE:0A][...]
+you talk to them to learn 
+the answers you seek.[WAIT][END]
+
+#string:21:02C
+[STYLE:RIGHT][...]
+The baby Yoshis are at a
+mischievous age, and they
+play hide-and-seek on the
+jungle islands.  
+[WAIT][NEXT][...]
+You help the fish baby-sitter
+when she loses them and asks
+for help [PAUSE:0A]then you are helped,
+as well.[WAIT][END]
+
+#string:21:02D
+[STYLE:RIGHT][...]
+The Yoshis' hiding places seem
+impossible to reach.
+[WAIT][NEXT][...]
+You find them all by moving
+bushes out of your way,
+crossing the water, and hitting
+the tree stumps.
+[WAIT][NEXT][...]
+Underground...on top of a tree...
+behind a bush...on a distant
+island...deep in the jungle...
+[WAIT][NEXT][...]
+...that's where all the baby
+Yoshis are hiding.[WAIT][END]
+
+#string:21:02E
+[STYLE:RIGHT][...]
+I can see you looking puzzled
+in front of a big stone statue
+in the depths of the jungle.
+[WAIT][NEXT][...]
+You talk to the chief of the
+village, who is pleased to have
+the children back safely.
+[WAIT][NEXT][...]
+As a reward for finding them,
+he gives you something beautiful,
+which is the key to your
+continuing quest.
+[WAIT][NEXT][...]
+You put what you received on
+the big stone statue in the 
+depths of the jungle, then you
+follow the path that appears.[WAIT][END]
+
+#string:21:02F
+[STYLE:RIGHT][...]
+In the deep, dark jungle,
+you shake the bushes, plug the
+geysers, and pull the vines to
+move ever deeper. 
+[WAIT][NEXT][...]
+You reach the base of a gigantic
+tree.
+[WAIT][NEXT][...]
+You see a black shadow perched
+atop this huge tree.
+It watches over the jungle...
+and it is glad to help you.[WAIT][END]
+
+#string:21:030
+[STYLE:RIGHT][...]
+The giant jungle guardian helps
+you by building a bridge.
+You cross it.
+[WAIT][NEXT][...]
+Your destination is the erupting
+volcano. Somebody is waiting 
+for your help in the depths of
+its superheated caves.
+[WAIT][NEXT][...]
+You ride across the molten lava
+to enter the bubbling depths.[WAIT][END]
+
+#string:21:031
+[STYLE:RIGHT][...]
+A flood of magma is blocking your
+way. It's too wide to cross.
+[WAIT][NEXT][...]
+You climb to a nearby platform
+and use blue blocks to slow down
+the flow of lava.
+[WAIT][NEXT][...]
+A powerful item awaits you on
+the other side.[WAIT][END]
+
+#string:21:032
+[STYLE:RIGHT][...]
+Deep below the earth, you
+hammer a line of blocks to dust. 
+A spiked boulder opens a path.
+[WAIT][NEXT][...]
+You go deeper and sense that
+a Star Spirit cries out just
+ahead of you.
+[WAIT][NEXT][...]
+A massive fire flower stands
+in your way.
+[PAUSE:0A][...]
+Water beats fire, you know.[WAIT][END]
+
+#string:21:033
+[STYLE:RIGHT][...]
+A treasure chest blows clear
+from a violent eruption. 
+[PAUSE:0A][...]
+It lands deep in the jungle.
+It waits for you.
+[WAIT][NEXT][...]
+The chest has fallen to earth
+near the spot where you met
+your aquatic companion.
+[WAIT][NEXT][...]
+A treasure-hunting Koopa in
+Yoshi's Village finds a magical
+seed.
+[WAIT][NEXT][...]
+Why is that important?
+The seed is vital to your quest!
+[PAUSE:0A][...]
+You hand over your new-found
+treasure and get this seed.[WAIT][END]
+
+#string:21:034
+[STYLE:RIGHT][...]
+There is a lot of empty space
+in the Toad Town flower garden.
+A door opens when enough
+flowers bloom. You need seeds. 
+[WAIT][NEXT][...]
+You find the special seeds in
+Toad Town, Forever Forest,
+Jade Jungle and on Mt. Rugged.
+[WAIT][NEXT][...]
+Once you find seeds from four
+different colored flowers, you
+take them to a girl who tends
+the Toad Town flowers.
+[WAIT][NEXT][...]
+You need all four seeds.
+[WAIT][NEXT][...]
+I can see a Star Spirit waiting
+for you in the cloudy sky of a
+different world. This world lies
+just through the door.[WAIT][END]
+
+#string:21:035
+[STYLE:RIGHT][...]
+You search for a Magical Bean
+that grows a vine into the sky.
+[WAIT][NEXT][...]
+To the east of the big tree,
+I can see a flower being
+pestered by creatures who dwell
+under the ground.
+[WAIT][NEXT][...]
+The annoyed flower really loves
+seeds. You help her out.
+[WAIT][NEXT][...]
+Your reward is the precious
+Magical Bean.[WAIT][END]
+
+#string:21:036
+[STYLE:RIGHT][...]
+In order to grow the Magical
+Bean in Flower Fields, you first
+search for Fertile Soil.
+[WAIT][NEXT][...]
+You give a starving red flower
+a Red Berry.
+[WAIT][NEXT][...]
+This tasty berry falls into your
+hands when you smash the tree
+near Petunia.
+[WAIT][NEXT][...]
+The red flower lets you through
+its gate and you continue on
+your way. Soon enough, you meet
+another flower.
+[WAIT][NEXT][...]
+This flower is only too happy to
+give you Fertile Soil.[WAIT][END]
+
+#string:21:037
+[STYLE:RIGHT][...]
+I can see you talking with a
+flower at the bottom of the dry
+spring in Flower Fields.
+[WAIT][NEXT][...]
+The waterless spring is beyond
+the gate that the yellow flower
+stands guard over.
+[WAIT][NEXT][...]
+You give the yellow flower a
+Yellow Berry, and it repays you
+by opening the gate.
+[WAIT][NEXT][...]
+By smashing the tree beyond the
+red flower's gate, you find the
+Yellow Berry you need.[WAIT][END]
+
+#string:21:038
+[STYLE:RIGHT][...]
+The precious stone that the
+flower of the spring seeks is
+in the garden beyond a confusing
+hedge maze.
+[WAIT][NEXT][...]
+The keeper of this garden has
+many thorns but is very
+beautiful. You hang on every
+word she says. 
+[WAIT][NEXT][...]
+A sparkling berry from a crystal
+tree is the only treasure
+beautiful enough to match the
+Water Stone.
+[WAIT][NEXT][...]
+You talk to Posie and she gives
+you what you need.[WAIT][END]
+
+#string:21:039
+[STYLE:RIGHT][...]
+You take the sparkling berry to
+the rose in the flower garden.
+[PAUSE:05][...]
+She finds it irresistible and
+trades the Water Stone for it.
+[WAIT][NEXT][...]
+When you put the stone in the
+dry spring, water begins to flow
+like magic.[WAIT][END]
+
+#string:21:03A
+[STYLE:RIGHT][...]
+I can see you trying to clear
+the air of clouds. You search
+in vain for the sun, hurrying
+beneath dark clouds.
+[WAIT][NEXT][...]
+The sun, trapped by the
+menacing sky, cannot rise.
+He tells you important news.
+[WAIT][NEXT][...]
+A cloud rider stops you as you
+travel from your visit with the
+sun. He will join you.
+[WAIT][NEXT][...]
+With his aid, you stomp on the
+colored blocks in the correct
+order: green, purple, red,
+green, green, purple.
+[WAIT][NEXT][...]
+When you find the cloud-making
+machine, you smash it to bits
+and bring the bright sky back.[WAIT][END]
+
+#string:21:03B
+[STYLE:RIGHT][...]
+I see you planting a magical vine
+that you hope will grow higher
+and higher until it pierces the
+clouds.
+[WAIT][NEXT][...]
+When planting it, you do
+everything in the right order.
+[WAIT][NEXT][...]
+First, you prepare the soil.
+Next, you plant the seed.
+Finally, you give it water.
+[PAUSE:0A][...]
+Only the right order will do.
+[WAIT][NEXT][...]
+The Star Spirit is being held
+in the clouds. You climb your
+magic beanstalk up and up.[WAIT][END]
+
+#string:21:03C
+[STYLE:RIGHT][...]
+The Star Spirit is waiting for
+you on a cloud in the sky.
+[WAIT][NEXT][...]
+You battle a giant cloud
+monster, destroying the smaller
+clouds as they appear.
+[WAIT][NEXT][...]
+The greatest danger comes from
+powerful bolts of lightning.[WAIT][END]
+
+#string:21:03D
+[STYLE:RIGHT][...]
+You travel to a far-off land,
+a frigid place covered with snow
+and ice.
+[WAIT][NEXT][...]
+You find new strength in the
+deepest place under Toad Town.
+[WAIT][NEXT][...]
+Using your new ability, you are
+able to enter a new path.
+A blue door on a high ledge
+beckons, but you can't reach it.
+[WAIT][NEXT][...]
+There are several things
+invisible to the naked eye near
+the door.
+[WAIT][NEXT][...]
+With the help of your sparkling
+companion, you see the way.[WAIT][END]
+
+#string:21:03E
+[STYLE:RIGHT][...]
+I can see you visiting the most
+important penguin in a cold city.[WAIT][END]
+
+#string:21:03F
+[STYLE:RIGHT][...]
+You travel on the snowy path
+to the west of Shiver City.
+A glittering town lies in the
+frosty valley.
+[WAIT][NEXT][...]
+It is here that you learn some
+vital information and receive a
+gift to help you on your way.[WAIT][END]
+
+#string:21:040
+[STYLE:RIGHT][...]
+The cities in the frozen land
+have been friends since times
+long past, and each holds an
+ancestral treasure.
+[WAIT][NEXT][...]
+You already hold one treasure,
+and you receive the other from
+the most powerful penguin
+in the city.[WAIT][END]
+
+#string:21:041
+[STYLE:RIGHT][...]
+I can see some snowmen in a row
+in front of a cliff.
+[WAIT][NEXT][...]
+You add decorations to them
+until they all look the same.
+The way to the frozen heights
+opens soon after.[WAIT][END]
+
+#string:21:042
+[STYLE:RIGHT][...]
+You climb up a steep mountain
+and break the cracked wall
+beyond the stairs. You enter an
+icy cave.
+[WAIT][NEXT][...]
+The room is filled with crystal
+pillars, and your eyes deceive
+you. You think for a moment that
+it's a dead end.
+[WAIT][NEXT][...]
+You don't trust your eyes.
+You keep moving forward.
+[PAUSE:0A][...]
+You find something helpful once
+you break the illusion.[WAIT][END]
+
+#string:21:043
+[STYLE:RIGHT][...]
+Someone needs your help in the
+Crystal Palace that perches
+atop the mountain. 
+[WAIT][NEXT][...]
+You have received a gift.
+You use it as a key and climb to
+the mountain's top.
+[WAIT][NEXT][...]
+Once you've scaled the frozen
+heights you spot the palace
+you need to reach.[WAIT][END]
+
+#string:21:044
+[STYLE:RIGHT][...]
+You think that you're looking
+at your reflection in a mirror,
+but no! Something mischievous is
+imitating you.
+[WAIT][NEXT][...]
+You enter the blue door and walk
+through the columns to reach the
+other side of the glass.[WAIT][END]
+
+#string:21:045
+[STYLE:RIGHT][...]
+In the Crystal Palace, often
+what you do on one side of the
+glass affects what happens on 
+the other side.
+[WAIT][NEXT][...]
+You break a boarded piece of
+floor in the back, then go back
+to a room in the front.
+[WAIT][NEXT][...]
+Where there once was a red X,
+there is now a hole.[WAIT][END]
+
+#string:21:046
+[STYLE:RIGHT][...]
+You enter the red door and
+beat the guards on the bridge.
+Their statues disappear.
+[WAIT][NEXT][...]
+You place your explosive friend
+by a red switch and go through
+a revolving door.
+[WAIT][NEXT][...]
+You find a large stone statue
+in a room. It doesn't budge even
+when you push it. 
+[WAIT][NEXT][...]
+Your Koopa friend helps you hit
+a switch in the reflection.
+You cross the bridge and make
+your way around to its twin.
+[WAIT][NEXT][...]
+Eventually you find a smaller
+stone statue and push it aside.
+[WAIT][NEXT][...]
+You discover that the large
+statue has moved as well.[WAIT][END]
+
+#string:21:047
+[STYLE:RIGHT][...]
+I see creatures that change
+direction when you talk to them.
+[WAIT][NEXT][...]
+I also see identical stone
+statues that you can move by
+pushing them from the rear.
+[WAIT][NEXT][...]
+By talking to the creatures,
+you get them to face the right
+directions. You then push them
+to cover the pads on the floor.
+[WAIT][NEXT][...]
+Once you solve the puzzle,
+stairs appear that lead to
+the door high up on the wall.
+[WAIT][NEXT][...]
+You continue into the palace.[WAIT][END]
+
+#string:21:048
+[STYLE:RIGHT][...]
+A frozen king rules in the
+palace on the snowy mountain.
+[WAIT][NEXT][...]
+He seems to split into three
+kings, but two of them are
+phantoms. To be sure, you
+attack all of them at once.
+[WAIT][NEXT][...]
+The last Star Spirit is freed
+once you defeat him.[WAIT][END]
+
+#string:21:049
+[STYLE:RIGHT][...]
+I can see the Star Spirits
+gathering and waiting on
+Shooting Star Summit.
+[WAIT][NEXT][...]
+They are waiting for you,
+of course. You need only to walk
+up there and a route to the sky
+will be made clear.[WAIT][END]
+
+#string:21:04A
+[STYLE:RIGHT][...]
+The power of the Star Spirits
+and the strength of your wishes
+lead you to the castle.
+[WAIT][NEXT][...]
+The root of all this evil
+misfortune awaits in the floating
+castle in the sky.
+You must fly there.
+[WAIT][NEXT][...]
+The way up leads from Star
+Haven.[WAIT][END]
+
+#string:21:04B
+[STYLE:RIGHT][...]
+I can see a long corridor of 
+flowing lava.
+[WAIT][NEXT][...]
+A speaking statue makes your
+journey more difficult, but you
+survive with your friends' help.
+[WAIT][NEXT][...]
+After cooling the lava flow, you
+continue your journey to the top
+of the castle. Your quest's end
+awaits you on high.[WAIT][END]
+
+#string:21:04C
+[STYLE:RIGHT][...]
+I can see two rooms with high
+ceilings. When you pull chains
+in these rooms, water flows.
+[PAUSE:0A][...]
+You use these to continue.
+[WAIT][NEXT][...]
+After climbing higher and higher,
+you come to a room that seems
+to be a dead end. 
+[WAIT][NEXT][...]
+You move a stony face of Bowser
+to find the entrance.
+[WAIT][NEXT][...]
+In the first room, you push the
+Bowser on the right. In the
+second room, you push the
+Bowser on the left.
+[WAIT][NEXT][...]
+In the third room, the Bowser
+in the middle is already open,
+but it is a fake.
+[WAIT][NEXT][...]
+You push it to the right.
+[PAUSE:0A][...]
+The path opens for you.[WAIT][END]
+
+#string:21:04D
+[STYLE:RIGHT][...]
+Either your Koopa friend or
+your explosive companion helps
+you when you find a red switch.
+[WAIT][NEXT][...]
+A repeating series of high and
+low paths confuses you.
+The blue torches behind the wire
+fence give you a clue. 
+[WAIT][NEXT][...]
+You go forward in the same
+order as the torches: up, down,
+down, up, down, up.
+[WAIT][NEXT][...]
+The princess is just beyond this
+final puzzle.[WAIT][END]
+
+#string:21:04E
+[STYLE:RIGHT][...]
+I can see you fighting with
+the evil king on the highest
+ramparts of the castle.
+[WAIT][NEXT][...]
+The Power of the Star Spirits
+helps you in your fight.
+[WAIT][NEXT][...]
+You never give in, even when
+the battle looks dire.
+The small star and the princess
+give you all the help they can.
+[WAIT][NEXT][...]
+Do not delay, Mario...
+[PAUSE:0A][...]
+You must win the final battle...
+[PAUSE:0A][...]
+...to return hope to the world![WAIT][END]
+

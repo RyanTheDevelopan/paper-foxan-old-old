@@ -1,0 +1,534 @@
+#string:2C:000
+[STYLE:RIGHT][...]
+Question.
+[WAIT][NEXT][...]
+What is the name of Goombario's
+younger sister?
+{Func_04}[END]
+
+#string:2C:001
+[STYLE:RIGHT][...]
+Question.
+[WAIT][NEXT][...]
+What is the color of the block you
+can break with the first Hammer
+you got?
+{Func_04}[END]
+
+#string:2C:002
+[STYLE:RIGHT][...]
+Question.
+[WAIT][NEXT][...]
+What ability does Goombario
+frequently use?
+
+
+{Func_04}[END]
+
+#string:2C:003
+[STYLE:RIGHT][...]
+Question.
+[WAIT][NEXT][...]
+What color of pants was the
+Goomba King wearing?
+{Func_04}[END]
+
+#string:2C:004
+[STYLE:RIGHT][...]
+Question.
+[WAIT][NEXT][...]
+Which of Mario's battle commands
+is on the far left?
+{Func_04}[END]
+
+#string:2C:005
+[STYLE:RIGHT][...]
+Question.
+[WAIT][NEXT][...]
+How many windows does the
+Goomba House in Goomba Village
+have?
+{Func_04}[END]
+
+#string:2C:006
+[STYLE:RIGHT][...]
+Question.
+[WAIT][NEXT][...]
+What's the name of the leader of
+the Red and Blue Goomba Bros.?
+{Func_04}[END]
+
+#string:2C:007
+[STYLE:RIGHT][...]
+Question.
+[WAIT][NEXT][...]
+What color are Luigi's pants?
+{Func_04}[END]
+
+#string:2C:008
+[STYLE:RIGHT][...]
+Question.
+[WAIT][NEXT][...]
+How many members are there in
+Goombario's family?
+{Func_04}[END]
+
+#string:2C:009
+[STYLE:RIGHT][...]
+Question.
+[WAIT][NEXT][...]
+What will you receive when you 
+get the right answer in a quiz?
+{Func_04}[END]
+
+#string:2C:00A
+[STYLE:RIGHT][...]
+Question.
+[WAIT][NEXT][...]
+What is the name of the smart
+Toad living in Toad Town?
+
+{Func_04}[END]
+
+#string:2C:00B
+[STYLE:RIGHT][...]
+Question.
+[WAIT][NEXT][...]
+How many buildings are there in
+Koopa Village?
+{Func_04}[END]
+
+#string:2C:00C
+[STYLE:RIGHT][...]
+Question.
+[WAIT][NEXT][...]
+Of the following, who is NOT a
+member of the Koopa Bros.?
+{Func_04}[END]
+
+#string:2C:00D
+[STYLE:RIGHT][...]
+Question.
+[WAIT][NEXT][...]
+How many coins are needed to
+buy a Mushroom at the shop in
+Koopa Village?
+{Func_04}[END]
+
+#string:2C:00E
+[STYLE:RIGHT][...]
+Question.
+[WAIT][NEXT][...]
+Where does Merluvlee, who tells
+fortunes about special things,
+live?
+{Func_04}[END]
+
+#string:2C:00F
+[STYLE:RIGHT][...]
+Question.
+[WAIT][NEXT][...]
+What is the name of the
+character who joined you at the
+Koopa Bros. Fortress?
+{Func_04}[END]
+
+#string:2C:010
+[STYLE:RIGHT][...]
+Question.
+[WAIT][NEXT][...]
+What color is Bowser's hair?
+{Func_04}[END]
+
+#string:2C:011
+[STYLE:RIGHT][...]
+Question.
+[WAIT][NEXT][...]
+How many Star Spirits do you
+have to save?
+{Func_04}[END]
+
+#string:2C:012
+[STYLE:RIGHT][...]
+Question.
+[WAIT][NEXT][...]
+What's the name of the elderly
+Koopa Troopa who always asks
+for errands to be run?
+{Func_04}[END]
+
+#string:2C:013
+[STYLE:RIGHT][...]
+Question.
+[WAIT][NEXT][...]
+How many Bob-ombs besides
+Bombette were imprisoned in the
+jail at the Koopa Bros.
+Fortress?
+{Func_04}[END]
+
+#string:2C:014
+[STYLE:RIGHT][...]
+Question.
+[WAIT][NEXT][...]
+Where is the house of the
+explorer, Kolorado?
+
+{Func_04}[END]
+
+#string:2C:015
+[STYLE:RIGHT][...]
+Question.
+[WAIT][NEXT][...]
+What is the destination of the
+train which departs from Toad
+Town station?
+{Func_04}[END]
+
+#string:2C:016
+[STYLE:RIGHT][...]
+Question.
+[WAIT][NEXT][...]
+What is the name of the fellow
+who sells Badges in Toad Town?
+{Func_04}[END]
+
+#string:2C:017
+[STYLE:RIGHT][...]
+Question.
+[WAIT][NEXT][...]
+What treasure did Bowser steal
+from Star Haven?
+{Func_04}[END]
+
+#string:2C:018
+[STYLE:RIGHT][...]
+Question.
+[WAIT][NEXT][...]
+What is the color of the roof of
+the house in Koopa Village where
+you can listen to a radio?
+{Func_04}[END]
+
+#string:2C:019
+[STYLE:RIGHT][...]
+Question.
+[WAIT][NEXT][...]
+Who does Kooper idolize?
+{Func_04}[END]
+
+#string:2C:01A
+[STYLE:RIGHT][...]
+Question.
+[WAIT][NEXT][...]
+What does Merlee of Dry Dry 
+Outpost specialize in? 
+{Func_04}[END]
+
+#string:2C:01B
+[STYLE:RIGHT][...]
+Question.
+[WAIT][NEXT][...]
+Who hides inside a coffin in Dry
+Dry Ruins?
+{Func_04}[END]
+
+#string:2C:01C
+[STYLE:RIGHT][...]
+Question.
+[WAIT][NEXT][...]
+What can you get when you take
+Star Pieces to Merlow at
+Shooting Star Summit?
+
+{Func_04}[END]
+
+#string:2C:01D
+[STYLE:RIGHT][...]
+Question.
+[WAIT][NEXT][...]
+Who knew the location of Dry Dry
+Ruins in Dry Dry Desert?
+{Func_04}[END]
+
+#string:2C:01E
+[STYLE:RIGHT][...]
+Question.
+[WAIT][NEXT][...]
+When you want Tayce T., who
+loves cooking, to make Lemon 
+Candy, what do you have to give
+her besides a Lemon?
+
+{Func_04}[END]
+
+#string:2C:01F
+[STYLE:RIGHT][...]
+Question.
+[WAIT][NEXT][...]
+Who among the following lives in
+Forever Forest?
+{Func_04}[END]
+
+#string:2C:020
+[STYLE:RIGHT][...]
+Question.
+[WAIT][NEXT][...]
+What are Boos, exactly?
+{Func_04}[END]
+
+#string:2C:021
+[STYLE:RIGHT][...]
+Question.
+[WAIT][NEXT][...]
+What appears when you hit the
+Whacka living on Mt. Rugged?
+{Func_04}[END]
+
+#string:2C:022
+[STYLE:RIGHT][...]
+Question.
+[WAIT][NEXT][...]
+Other than Lemons, what fruit
+drops when you hit a tree in the
+desert oasis?
+{Func_04}[END]
+
+#string:2C:023
+[STYLE:RIGHT][...]
+Question.
+[WAIT][NEXT][...]
+What is the name of the strange
+person in Toad Town who can
+increase Mario's status?
+{Func_04}[END]
+
+#string:2C:024
+[STYLE:RIGHT][...]
+Question.
+[WAIT][NEXT][...]
+What ability does Bombette
+frequently use?
+
+{Func_04}[END]
+
+#string:2C:025
+[STYLE:RIGHT][...]
+Question.
+[WAIT][NEXT][...]
+What does Gourmet Guy like?
+{Func_04}[END]
+
+#string:2C:026
+[STYLE:RIGHT][...]
+Question.
+[WAIT][NEXT][...]
+Who was the second companion to
+join your team?
+{Func_04}[END]
+
+#string:2C:027
+[STYLE:RIGHT][...]
+Question.
+[WAIT][NEXT][...]
+Who tried to steal coins from you
+in the desert? 
+{Func_04}[END]
+
+#string:2C:028
+[STYLE:RIGHT][...]
+Question.
+[WAIT][NEXT][...]
+What is the name of the Star
+Spirit who can use Star Storm?
+{Func_04}[END]
+
+#string:2C:029
+[STYLE:RIGHT][...]
+Question.
+[WAIT][NEXT][...]
+What are addressed to your 
+companions and sent to the post
+office?
+{Func_04}[END]
+
+#string:2C:02A
+[STYLE:RIGHT][...]
+Question.
+[WAIT][NEXT][...]
+Among the following, which 
+building is NOT in Toad Town?
+{Func_04}[END]
+
+#string:2C:02B
+[STYLE:RIGHT][...]
+Question.
+[WAIT][NEXT][...]
+What kind of book did Gourmet
+Guy drop?
+{Func_04}[END]
+
+#string:2C:02C
+[STYLE:RIGHT][...]
+Question.
+[WAIT][NEXT][...]
+Who am I?
+{Func_04}[END]
+
+#string:2C:02D
+[STYLE:RIGHT][...]
+Question.
+[WAIT][NEXT][...]
+Where do I show up?
+{Func_04}[END]
+
+#string:2C:02E
+[STYLE:RIGHT][...]
+Question.
+[WAIT][NEXT][...]
+What is the name of the plant
+that grows in Jade Jungle and
+blows out stars?
+{Func_04}[END]
+
+#string:2C:02F
+[STYLE:RIGHT][...]
+Question.
+[WAIT][NEXT][...]
+What color was the leader of 
+Yoshi's Village?
+{Func_04}[END]
+
+#string:2C:030
+[STYLE:RIGHT][...]
+Question.
+[WAIT][NEXT][...]
+What is the name of the elderly
+man who tells fortunes in Toad
+Town?
+{Func_04}[END]
+
+#string:2C:031
+[STYLE:RIGHT][...]
+Question.
+[WAIT][NEXT][...]
+How many colors of Yoshis did
+you see in Yoshi's Village?
+{Func_04}[END]
+
+#string:2C:032
+[STYLE:RIGHT][...]
+Question.
+[WAIT][NEXT][...]
+How would the Yoshi Kids in 
+Yoshi's Village describe Sushie?
+{Func_04}[END]
+
+#string:2C:033
+[STYLE:RIGHT][...]
+Question.
+[WAIT][NEXT][...]
+What building is across from the
+Toad Town post office?
+{Func_04}[END]
+
+#string:2C:034
+[STYLE:RIGHT][...]
+Question.
+[WAIT][NEXT][...]
+What kind of card do you get
+when you defeat Lee at the Dojo
+in Toad Town?
+{Func_04}[END]
+
+#string:2C:035
+[STYLE:RIGHT][...]
+Question.
+[WAIT][NEXT][...]
+What color is the brooch that
+Princess Peach wears?
+{Func_04}[END]
+
+#string:2C:036
+[STYLE:RIGHT][...]
+Question.
+[WAIT][NEXT][...]
+Who gave you Miracle Water in
+Flower Fields?
+{Func_04}[END]
+
+#string:2C:037
+[STYLE:RIGHT][...]
+Question.
+[WAIT][NEXT][...]
+What is the name of Lakilester's
+girlfriend?
+{Func_04}[END]
+
+#string:2C:038
+[STYLE:RIGHT][...]
+Question.
+[WAIT][NEXT][...]
+How do you make the Pipe leading
+to the Toad Town Playroom come
+out?
+{Func_04}[END]
+
+#string:2C:039
+[STYLE:RIGHT][...]
+Question.
+[WAIT][NEXT][...]
+Among the following, who is inside
+Club 64?
+{Func_04}[END]
+
+#string:2C:03A
+[STYLE:RIGHT][...]
+Question.
+[WAIT][NEXT][...]
+Which of the following do Shy
+Guys never do?
+{Func_04}[END]
+
+#string:2C:03B
+[STYLE:RIGHT][...]
+Question.
+[WAIT][NEXT][...]
+What best describes the
+relationship between Mario and
+Luigi?
+{Func_04}[END]
+
+#string:2C:03C
+[STYLE:RIGHT][...]
+Question.
+[WAIT][NEXT][...]
+Among the following, who is found
+in Starborn Valley?
+{Func_04}[END]
+
+#string:2C:03D
+[STYLE:RIGHT][...]
+Question.
+[WAIT][NEXT][...]
+How many companions do you
+travel with?
+{Func_04}[END]
+
+#string:2C:03E
+[STYLE:RIGHT][...]
+Question.
+[WAIT][NEXT][...]
+What is the name of the Star Kid
+who's always with Princess
+Peach?
+{Func_04}[END]
+
+#string:2C:03F
+[STYLE:RIGHT][...]
+Question.
+[WAIT][NEXT][...]
+How many Star Spirits have you
+saved in total?
+{Func_04}[END]
+

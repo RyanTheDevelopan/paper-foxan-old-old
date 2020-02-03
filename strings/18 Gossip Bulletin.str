@@ -1,0 +1,424 @@
+#string:18:000
+{DelayOff}[STYLE:SIGN][...]
+{Func_29:FF}{Color:1A}
+[STAR]  Toad Town Underground  [STAR]
+[STAR]             News             {Indent:03}[STAR]
+
+{Color:18}{Func_29:00}I'm scribbling on the back of the
+Notice Board. How naughty!
+
+
+I heard Mario was defeated by
+Bowser...
+How ominous...
+
+
+
+
+           A gossip-loving Toad
+{DelayOn}[WAIT]{Scroll:04}[WAIT]{Scroll:04}[WAIT]{Scroll:04}{DelayOn}[WAIT][END]
+
+#string:18:001
+{DelayOff}[STYLE:SIGN][...]
+{Func_29:FF}{Color:1A}
+[STAR]  Toad Town Underground  [STAR]
+[STAR]             News             {Indent:03}[STAR]
+
+{Color:18}{Func_29:00}Did you hear the gossip about
+Princess Peach?
+I can't write it down here
+because it's unbelievable![HEART][HEART][HEART]
+
+
+
+           A gossip-loving Toad
+{DelayOn}[WAIT]{Scroll:04}[WAIT]{Scroll:04}{DelayOn}[WAIT][END]
+
+#string:18:002
+{DelayOff}[STYLE:SIGN][...]
+{Func_29:87}{Color:1B}
+{Down:04}[STAR]  Secret Message Corner [STAR]
+
+{Down:08}{Color:18}{Func_29:00}Koopa Koot of Koopa Village is
+trying to recruit people to do
+him favors.
+
+Word is, if you grant his
+requests, he rewards you.
+
+
+He's a pretty self-centered old
+Koopa, though, so who knows if
+anyone will be willing to help him.
+
+If you're reading this and have
+a kind heart, why don't you do
+an old Koopa a favor?
+
+
+
+
+           An anonymous Koopa 
+{DelayOn}[WAIT]{Scroll:04}[WAIT]{Scroll:04}[WAIT]{Scroll:04}[WAIT]{Scroll:04}[WAIT]{Scroll:04}{DelayOn}[WAIT][END]
+
+#string:18:003
+{DelayOff}[STYLE:SIGN][...]
+The train parked at the station
+at the south of town is pretty
+spiffy, isn't it?
+It's called K64.
+Unfortunately, a huge boulder
+has fallen on the track and the
+train can't go anywhere.
+
+Talk about a crying shame!
+
+
+               A railroad lover
+{DelayOn}[WAIT]{Scroll:04}[WAIT]{Scroll:04}{DelayOn}[WAIT][END]
+
+#string:18:004
+{DelayOff}[STYLE:SIGN][...]
+Don't scribble here.
+
+       Public Works Dept.,
+                 Mushroom Kingdom
+{DelayOn}{DelayOn}[WAIT][END]
+
+#string:18:005
+{DelayOff}[STYLE:SIGN][...]
+{Func_29:8C}{Color:1A}
+[STAR]  Toad Town Underground  [STAR]
+[STAR]             News             {Indent:03}[STAR]
+
+
+{Down:04}{Indent:14}Princess Peach Gossip
+{Down:08}
+{Color:19}{Func_29:00}I heard from this friend of mine
+whose sister heard Peach likes
+[HEART][HEART][HEART][HEART] [STAR][STAR][STAR][STAR].
+
+Anyway, my cousin [CROSS][CROSS][CROSS] said
+that [CIRCLE][CIRCLE][CIRCLE] told her [HEART][HEART] said
+it's true. You think it is? 
+           A gossip-loving Toad
+{DelayOn}[WAIT]{Scroll:04}[WAIT]{Scroll:04}[WAIT]{Scroll:04}{DelayOn}[WAIT][END]
+
+#string:18:006
+{DelayOff}[STYLE:SIGN][...]
+{Func_29:FF}{Color:1A}
+[STAR]  Toad Town Underground  [STAR]
+[STAR]             News             {Indent:03}[STAR]
+
+{Color:18}{Func_29:00}Miss Tayce T.'s cooking class will
+be cancelled for a while.
+
+
+Miss T. is very sad to make this
+announcement. Her beauty has
+faded because of her sadness.
+
+You'd better not eat dishes
+cooked by Miss T. or you might
+just turn pale.
+              A gossip-loving Toad
+{DelayOn}[WAIT]{Scroll:04}[WAIT]{Scroll:04}[WAIT]{Scroll:04}{DelayOn}[WAIT][END]
+
+#string:18:007
+{DelayOff}[STYLE:SIGN][...]
+So sleepy... Please...
+Don't make me work so hard.
+{DelayOn}{DelayOn}[WAIT][END]
+
+#string:18:008
+{DelayOff}[STYLE:SIGN][...]
+{Func_29:FF}{Color:1A}
+[STAR]  Toad Town Underground  [STAR]
+[STAR]             News             {Indent:03}[STAR]
+
+{Color:18}{Func_29:00}You read this underground
+newsboard a lot, don't you?
+
+
+You must have a lot of free time,
+huh?
+
+        Underground news writer
+{DelayOn}[WAIT]{Scroll:04}[WAIT]{Scroll:04}{DelayOn}[WAIT][END]
+
+#string:18:009
+{DelayOff}[STYLE:SIGN][...]
+{Color:1B}
+{Down:04}{Indent:08}[STAR]  Righteous Message Corner  [STAR]
+
+{Down:08}{Color:1A}How many Koopa Troopas have
+been beaten up by Mario?
+
+
+It's shameful...
+
+
+              An anonymous Koopa
+{DelayOn}[WAIT]{Scroll:04}[WAIT]{Scroll:04}{DelayOn}[WAIT][END]
+
+#string:18:00A
+{DelayOff}[STYLE:SIGN][...]
+
+{Down:04}Scribbling here is so fun!
+
+{Down:08}{DelayOn}{DelayOn}[WAIT][END]
+
+#string:18:00B
+{DelayOff}[STYLE:SIGN][...]
+{Color:19}
+{Down:04} [STAR]  Secret Confession Corner  [STAR]
+
+{Down:08}To tell you the truth, I'm crazy
+about Miss Bow.
+
+
+She's so arrogant...so very
+headstrong... I love it!
+
+
+I can't believe I'm writing this...
+If Miss Bow sees this, what'll
+I do?
+
+Just thinking about her gives me
+chills...[HEART]
+             A scary Boo
+                 from Boo's Mansion
+{DelayOn}[WAIT]{Scroll:04}[WAIT]{Scroll:04}[WAIT]{Scroll:04}[WAIT]{Scroll:04}{DelayOn}[WAIT][END]
+
+#string:18:00C
+{DelayOff}[STYLE:SIGN][...]
+{Func_29:FF}{Color:1B}
+[STAR]  Underground Message  [STAR]
+[STAR]          Corner           {Indent:03}[STAR]
+
+{Color:18}{Func_29:00}I hate fighting Mario!
+I won't do it anymore!
+
+
+Somehow he always gets the best
+of us in the end.
+
+        A Bowser underling
+{DelayOn}[WAIT]{Scroll:04}[WAIT]{Scroll:04}{DelayOn}[WAIT][END]
+
+#string:18:00D
+{DelayOff}[STYLE:SIGN][...]
+{Func_29:7C}
+Say hello to Spike!
+I'm gonna be big in this town!
+
+{Func_29:00}{Color:1A}Don't listen to this idiot!
+This is my turf!
+
+......................The true Nash T.
+{DelayOn}[WAIT]{Scroll:04}{DelayOn}[WAIT][END]
+
+#string:18:00E
+{DelayOff}[STYLE:SIGN][...]
+I've come back!
+I'm sure you missed me!
+
+
+I've got a foolproof plan for
+coins. See you on the road!
+
+                   Kent C. Koopa
+{DelayOn}[WAIT]{Scroll:04}{DelayOn}[WAIT][END]
+
+#string:18:00F
+{DelayOff}[STYLE:SIGN][...]
+{Func_29:8C}{Color:1B}
+{Down:04}[HEART]  Secret Sale  [HEART]
+
+{Down:08}{Color:18}{Func_29:00}We'll send you beautiful photos
+of Princess Peach.
+
+
+To inquire about this special
+offer, please send a letter to
+the following address:
+
+Toad Town Post Office
+P.O. Box 7144
+Secret Toad
+
+...............................................
+We will accept no complaints
+or returned goods.
+
+{DelayOn}[WAIT]{Scroll:04}[WAIT]{Scroll:04}[WAIT]{Scroll:04}[WAIT]{Scroll:04}{DelayOn}[WAIT][END]
+
+#string:18:010
+{DelayOff}[STYLE:SIGN][...]
+{Func_29:FF}{Color:1A}
+[STAR]  Toad Town Underground  [STAR]
+[STAR]             News             {Indent:03}[STAR]
+
+{Color:18}{Color:19}
+{Indent:32}Bowser's Castle
+{Indent:23}Infiltration Report
+
+{Color:18}{Func_29:00}I sneaked into Bowser's Castle,
+pretending to be one of his
+underlings.
+
+Braving the dark, I managed to
+avoid Koopatrols and Hammer
+Bros.
+
+It wasn't easy to climb up the
+castle, but spying was a piece
+of cake.
+
+Anyway, I thought the castle
+was quite well decorated.
+Isn't it supposed to be gross?
+
+I don't want to go there again.
+
+
+..................... A curious Koopa
+{DelayOn}[WAIT]{Scroll:04}[WAIT]{Scroll:04}[WAIT]{Scroll:04}[WAIT]{Scroll:04}[WAIT]{Scroll:04}[WAIT]{Scroll:04}{DelayOn}[WAIT][END]
+
+#string:18:011
+{DelayOff}[STYLE:SIGN][...]
+{Func_29:8C}{Color:19}
+{Down:04}[STAR]  Angry Message Corner  [STAR]
+
+{Down:08}{Func_29:00}I bought Princess Peach's photos
+by mail order, but they were a
+total rip-off!
+
+I paid 100 coins, but I got only
+three photos, all of which were
+horribly out of focus!
+
+They sure as Sushie weren't
+beautiful! Give me back my coins,
+you swindler!
+....A big fan of Princess Peach 
+{DelayOn}[WAIT]{Scroll:04}[WAIT]{Scroll:04}[WAIT]{Scroll:04}{DelayOn}[WAIT][END]
+
+#string:18:012
+{DelayOff}[STYLE:SIGN][...]
+Flowers can speak, you know.
+I heard Mario talking with them.
+Then he went through a magical
+door to their land.
+I 'd love to go there.
+
+
+    A scribble-loving little Toad
+{DelayOn}[WAIT]{Scroll:04}{DelayOn}[WAIT][END]
+
+#string:18:013
+{DelayOff}[STYLE:SIGN][...]
+{Color:1B}Mr. Nash T. and his gang rule
+the streets...
+Nobody is safe from us,
+NOBODY!!!!
+Bwa ha ha ha ha ha!
+{DelayOn}[WAIT]{Scroll:04}{DelayOn}[WAIT][END]
+
+#string:18:014
+{DelayOff}[STYLE:SIGN][...]
+{Func_29:FF}{Color:1A}
+[STAR]  Toad Town Underground  [STAR]
+[STAR]             News             {Indent:03}[STAR]
+
+{Color:18}{Func_29:00}{Color:19}[CROSS][CROSS][CROSS] and [CIRCLE][CIRCLE][CIRCLE][CIRCLE] are [HEART][HEART][HEART][HEART].
+Did you know that?
+Now their secret's out!
+
+
+
+
+             A gossip-loving Toad
+{DelayOn}[WAIT]{Scroll:04}[WAIT]{Scroll:04}{DelayOn}[WAIT][END]
+
+#string:18:015
+{DelayOff}[STYLE:SIGN][...]
+{Func_29:FF}{Color:1A}
+[STAR]  Toad Town Underground  [STAR]
+[STAR]             News             {Indent:03}[STAR]
+
+{Color:18}{Func_29:00}A few days ago, I ate some of
+Miss Tayce T.'s homemade food.
+They say she loves to cook,
+don't you know.
+Unfortunately, we were served
+Mistakes. 
+
+
+The guy I was with really liked
+his but mine was so disgusting
+I almost barfed.
+It was that foul.
+I guess I was just unlucky but
+I'm nervous about trying again...
+      Unlucky guy
+           with an upset stomach
+{DelayOn}[WAIT]{Scroll:04}[WAIT]{Scroll:04}[WAIT]{Scroll:04}[WAIT]{Scroll:04}{DelayOn}[WAIT][END]
+
+#string:18:016
+{DelayOff}[STYLE:SIGN][...]
+Both the people who read and
+write these messages must have
+nothing to do but gossip.
+
+Of course, I'm one of 'em.
+{DelayOn}[WAIT]{Scroll:04}{DelayOn}[WAIT][END]
+
+#string:18:017
+{DelayOff}[STYLE:SIGN][...]
+{Func_29:FF}     [STAR]  Stars  [STAR]
+   [HEART]  It's a heart.
+ Now I can draw a [NOTE]
+
+{Func_29:00}{Down:06}      I love scribbling!
+{Down:06}                  A little Toad!
+
+{DelayOn}[WAIT]{Scroll:04}{DelayOn}[WAIT][END]
+
+#string:18:018
+{DelayOff}[STYLE:SIGN][...]
+{Func_29:FF}{Color:1B}
+[STAR]  Underground Message  [STAR]
+[STAR]          Corner           {Indent:03}[STAR]
+
+{Color:1A}{Func_29:00}Lord Bowser, We were beaten...
+Don't get mad, please.
+
+
+We all did our best...
+I swear it....
+
+          Bowser's underling
+{DelayOn}[WAIT]{Scroll:04}[WAIT]{Scroll:04}{DelayOn}[WAIT][END]
+
+#string:18:019
+{DelayOff}[STYLE:SIGN][...]
+{Func_29:FF}{Color:1A}
+[STAR]  Toad Town Underground  [STAR]
+[STAR]             News             {Indent:03}[STAR]
+
+{Color:18}{Func_29:00}Hurrah for Princess Peach!
+Hurrah for Mario!!
+Mario was as strong as legend
+said he was!
+He fought beside Goombario,
+Kooper, Parakarry, Bombette,
+Lady Boo, Watt, Lakilester
+and Sushie!
+
+We're gonna party like there's
+no tomorrow! Come on!
+
+{DelayOn}[WAIT]{Scroll:04}[WAIT]{Scroll:04}[WAIT]{Scroll:04}{DelayOn}[WAIT][END]
+

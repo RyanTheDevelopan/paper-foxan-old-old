@@ -1,0 +1,2122 @@
+#string:22:000
+[STYLE:RIGHT][...]
+I see...a Mega Jump Badge.
+[WAIT][NEXT][...]
+You are ascending a frozen
+mountainside, climbing icy stairs
+to the Crystal Palace. 
+[WAIT][NEXT][...]
+At a flat platform, you continue
+forward and find a red ? Block
+floating in air.
+[WAIT][NEXT][...]
+You smash it and the Badge 
+becomes yours.[WAIT][END]
+
+#string:22:001
+[STYLE:RIGHT][...]
+I see...a Jump Charge Badge.
+[WAIT][NEXT][...]
+It is for sale at the open-air 
+shop in the plaza outside the
+castle gate.[WAIT][END]
+
+#string:22:002
+[STYLE:RIGHT][...]
+I see...an S. Jump Charge Badge. 
+[WAIT][NEXT][...]
+You climb up the Beanstalk into
+the Flower Fields sky and ride
+on a small cloud floating at the
+top.
+[WAIT][NEXT][...]
+You jump across to a bigger
+cloud and find your prize.[WAIT][END]
+
+#string:22:003
+[STYLE:RIGHT][...]
+I see...a Multibounce Badge.
+[WAIT][NEXT][...]
+It is for sale at the open-air 
+shop in the plaza outside the
+castle gate.[WAIT][END]
+
+#string:22:004
+[STYLE:RIGHT][...]
+I see...a Shrink Stomp Badge.
+[WAIT][NEXT][...]
+You descend into the Private
+pipe in Toad Town, then head
+right on the underground path.
+[WAIT][NEXT][...]
+You break a block and continue.
+You find a treasure chest
+containing the Badge.
+[WAIT][NEXT][...]
+But beware! For I see a nasty
+enemy protecting the chest.
+You must defeat this dreaded
+creature to reach the Badge.[WAIT][END]
+
+#string:22:005
+[STYLE:RIGHT][...]
+I see...a Sleep Stomp Badge.
+[WAIT][NEXT][...]
+It is for sale at the open-air 
+shop in the plaza outside the
+castle gate.[WAIT][END]
+
+#string:22:006
+[STYLE:RIGHT][...]
+I see...a Dizzy Stomp Badge.
+[WAIT][NEXT][...]
+Inside a volcano, close to where
+a strong Hammer hides, the lava
+flow has been slowed.
+[WAIT][NEXT][...]
+From there, you descend the
+stairs to find a metal block 
+in your way.
+[WAIT][NEXT][...]
+You smash the block with your
+new Hammer and enter the room
+beyond. There lies the Badge.[WAIT][END]
+
+#string:22:007
+[STYLE:RIGHT][...]
+I see...a D-Down Jump Badge.
+[WAIT][NEXT][...]
+In Tubba Blubba's Castle in
+Gusty Gulch,
+[WAIT][NEXT][...]
+you enter the left door in the
+foyer and go in the next door
+you see.
+[WAIT][NEXT][...]
+The Badge lies on a big table
+in the small room.
+[WAIT][NEXT][...]
+You can't reach it with the jump
+pad! Instead, you blast into
+the room above.
+[WAIT][NEXT][...]
+Inside the hidden room, you
+smash through the floor and a
+Paratroopa flies you over the
+table.[WAIT][END]
+
+#string:22:008
+[STYLE:RIGHT][...]
+I see...a Power Bounce Badge.
+[WAIT][NEXT][...]
+It lies inside a cage in the
+Koopa Bros. Fortress.
+[WAIT][NEXT][...]
+You sneak through an opening
+in the back to reach it.[WAIT][END]
+
+#string:22:009
+[STYLE:RIGHT][...]
+I see...a Power Smash Badge.
+[WAIT][NEXT][...]
+You enter the Private pipe in
+Toad Town and head left, 
+smashing blocks as you go.
+[WAIT][NEXT][...]
+You enter a pipe and continue
+left once you emerge.
+[WAIT][NEXT][...]
+After breaking a block to make
+a jump pad fall, you leap up to
+the Badge's resting place.[WAIT][END]
+
+#string:22:00A
+[STYLE:RIGHT][...]
+I see...a Mega Smash Badge.
+[WAIT][NEXT][...]
+You see it on the road to the 
+Sun Tower in Flower Fields.
+[WAIT][NEXT][...]
+You ascend the stairs then use
+a friend to blast the rock.
+The way to the Badge opens.[WAIT][END]
+
+#string:22:00B
+[STYLE:RIGHT][...]
+I see...a Smash Charge Badge.
+[WAIT][NEXT][...]
+It's high up in the fortress of
+the Koopa Bros.
+[WAIT][NEXT][...]
+You climb the stairs that rise
+from the water and continue up
+the ramp.
+[WAIT][NEXT][...]
+A Bob-omb will try to keep you
+from taking it.[WAIT][END]
+
+#string:22:00C
+[STYLE:RIGHT][...]
+I see...an S. Smash Charge
+Badge.
+[WAIT][NEXT][...]
+It is for sale at the open-air 
+shop in the plaza outside the
+castle gate.[WAIT][END]
+
+#string:22:00D
+[STYLE:RIGHT][...]
+I see...a Spin Smash Badge.
+[WAIT][NEXT][...]
+It is for sale at the open-air 
+shop in the plaza outside the
+castle gate.[WAIT][END]
+
+#string:22:00E
+[STYLE:RIGHT][...]
+I see...a Quake Hammer Badge.
+[WAIT][NEXT][...]
+You spot it on a ledge above a
+cliff road on Mt. Rugged.
+[WAIT][NEXT][...]
+A Paratroopa gives you a lift
+from the ledge where you 
+retrieved one of his letters. [WAIT][END]
+
+#string:22:00F
+[STYLE:RIGHT][...]
+I see...a Power Quake Badge.
+[WAIT][NEXT][...]
+You enter the jungle from
+Yoshi's Village and sail to the
+nearby island.
+[WAIT][NEXT][...]
+A spear-toting enemy awaits 
+you beneath a red ? Block.
+You defeat him.
+[PAUSE:0A][...]
+The Badge hides in the ? Block.[WAIT][END]
+
+#string:22:010
+[STYLE:RIGHT][...]
+I see...a Mega Quake Badge.
+[WAIT][NEXT][...]
+It is for sale at the open-air 
+shop in the plaza outside the
+castle gate.[WAIT][END]
+
+#string:22:011
+[STYLE:RIGHT][...]
+I see...a Hammer Throw Badge.
+[WAIT][NEXT][...]
+It lies in a treasure chest atop
+the gate you pass under when
+entering Toad Town from Goomba
+Village.
+[WAIT][NEXT][...]
+You notice a jump pad hidden
+in the tree near the gate.
+[PAUSE:0A][...]
+You knock it down and leap on it.[WAIT][END]
+
+#string:22:012
+[STYLE:RIGHT][...]
+I see...a D-Down Pound Badge.
+[WAIT][NEXT][...]
+It is for sale at the open-air 
+shop in the plaza outside the
+castle gate.[WAIT][END]
+
+#string:22:013
+[STYLE:RIGHT][...]
+I see...a Double Dip Badge.
+[WAIT][NEXT][...]
+It is for sale at the open-air 
+shop in the plaza outside the
+castle gate.[WAIT][END]
+
+#string:22:014
+[STYLE:RIGHT][...]
+I see...a Triple Dip Badge.
+[WAIT][NEXT][...]
+It lies inside Crystal Palace,
+beyond a puzzling blockade of
+White Clubba statues.
+[WAIT][NEXT][...]
+You spy a treasure chest 
+through a transparent wall.
+[PAUSE:0A][...]
+The Badge lies inside it.
+[WAIT][NEXT][...]
+To reach it, you break a wall 
+in the room that has a 
+transparent revolving door.
+[WAIT][NEXT][...]
+Blast the wall with a Bob-omb.[WAIT][END]
+
+#string:22:015
+[STYLE:RIGHT][...]
+I see...a Group Focus Badge.
+[WAIT][NEXT][...]
+It is for sale at the open-air 
+shop in the plaza outside the
+castle gate.[WAIT][END]
+
+#string:22:016
+[STYLE:RIGHT][...]
+I see...a Quick Change Badge.
+[WAIT][NEXT][...]
+It is on a house with a spinning
+roof, near the Palace in Toad 
+Town. I cannot quite see how to
+get it down...
+[WAIT][NEXT][...]
+Oh, that's my grandpa's house!
+[WAIT][NEXT][...]
+If he is outside, talk to him and
+he'll help you further. [WAIT][END]
+
+#string:22:017
+[STYLE:RIGHT][...]
+I see...a Deep Focus Badge.  
+[WAIT][NEXT][...]
+It's near a big, beautiful 
+treasure chest in Princess
+Peach's Castle, way up in the
+sky. 
+[WAIT][NEXT][...]
+The Badge is lying in front of
+a fallen chair near the chest.[WAIT][END]
+
+#string:22:018
+[STYLE:RIGHT][...]
+I see...a Deep Focus Badge.  
+[WAIT][NEXT][...]
+It is in the Toy Box, in a room
+with a Ferris wheel and many
+platforms that move up and
+down.
+[WAIT][NEXT][...]
+You smash an invisible block
+between the two ? Blocks in
+front of the 3 and 4 toy blocks
+to find it.[WAIT][END]
+
+#string:22:019
+[STYLE:RIGHT][...]
+I see...a Deep Focus Badge. 
+[WAIT][NEXT][...]
+It is outside Bowser's Castle,
+near the outer wall. There is a
+cliff you normally cannot reach,
+but...   
+[WAIT][NEXT][...]
+You somehow cool off the lava 
+stream so you can walk there. 
+The Badge is in the red ? block.[WAIT][END]
+
+#string:22:01A
+[STYLE:RIGHT][...]
+I see...an HP Plus Badge.  
+[WAIT][NEXT][...]
+In Forever Forest, you take the
+path opposite the one where the
+most toadstools are glowing
+spookily.
+[WAIT][NEXT][...]
+You know you're in the right 
+place because you see a big
+honeycomb. You head for a 
+clearing in the center.
+[WAIT][NEXT][...]
+A red ? Block is waiting for you
+in the darkness.[WAIT][END]
+
+#string:22:01B
+[STYLE:RIGHT][...]
+I see...an HP Plus Badge.  
+[WAIT][NEXT][...]
+On the path to the Fuzzies'
+forest from Koopa Village, you
+see a few stumps.
+[WAIT][NEXT][...]
+The Badge lies atop one of them.
+[PAUSE:0A][...]
+You reach it by using a Koopa
+Troopa's skills.[WAIT][END]
+
+#string:22:01C
+[STYLE:RIGHT][...]
+I see...an HP Plus Badge.  
+[WAIT][NEXT][...]
+It is for sale at the open-air 
+shop in the plaza outside the
+castle gate.[WAIT][END]
+
+#string:22:01D
+[STYLE:RIGHT][...]
+I see...an FP Plus Badge.
+[WAIT][NEXT][...]
+Deep within Forever Forest, you
+take the path in front of a
+laughing rock.
+[WAIT][NEXT][...]
+A red ? Block is waiting in the
+forest clearing.[WAIT][END]
+
+#string:22:01E
+[STYLE:RIGHT][...]
+I see...an FP Plus Badge.
+[WAIT][NEXT][...]
+It is outside the Koopa Bros.
+Fortress...
+[PAUSE:05][...]
+...on a high tower that's 
+connected to another. 
+[WAIT][NEXT][...]
+The Badge is in a treasure
+chest that cannot be seen from
+the ground below.
+[WAIT][NEXT][...]
+You reach it by blowing up a wall
+near the castle entrance and
+entering the pipe. 
+[WAIT][NEXT][...]
+Once you are up top, you cross
+the platform for the Badge.[WAIT][END]
+
+#string:22:01F
+[STYLE:RIGHT][...]
+I see...an FP Plus Badge.
+[WAIT][NEXT][...]
+It is for sale at the open-air 
+shop in the plaza outside the
+castle gate.[WAIT][END]
+
+#string:22:020
+[STYLE:RIGHT][...]
+I see...a Happy Heart Badge. 
+[WAIT][NEXT][...]
+There is a child upstairs in the
+fortune-teller's house on
+Shooting Star Summit.
+[WAIT][NEXT][...]
+Hey! I'm that fortune-teller!
+[WAIT][NEXT][...]
+Anyway, the child is my brother,
+Merlow. He will trade Star Pieces
+for Badges.
+[WAIT][NEXT][...]
+Head upstairs to see him![WAIT][END]
+
+#string:22:021
+[STYLE:RIGHT][...]
+I see...a Happy Heart Badge. 
+[WAIT][NEXT][...]
+In the depths of the jungle, 
+[PAUSE:05][...]
+there is a tree atop which 
+Raphael the Raven is said to
+make his home.
+[WAIT][NEXT][...]
+A huge vine winds around it, 
+and when you walk to its end,
+you'll find the Badge.[WAIT][END]
+
+#string:22:022
+[STYLE:RIGHT][...]
+I see...a Happy Flower Badge. 
+[WAIT][NEXT][...]
+There is a child upstairs in the
+fortune-teller's house on
+Shooting Star Summit.
+[WAIT][NEXT][...]
+Hey! I'm that fortune-teller!
+[WAIT][NEXT][...]
+Anyway, the child is my brother,
+Merlow. He will trade Star Pieces
+for Badges.
+[WAIT][NEXT][...]
+Head upstairs to see him![WAIT][END]
+
+#string:22:023
+[STYLE:RIGHT][...]
+I see...a Happy Flower Badge. 
+[WAIT][NEXT][...]
+You hit the three pink trees 
+that are standing together in
+Flower Fields. 
+[WAIT][NEXT][...]
+You first hit the middle, then 
+the right and then the left.
+[PAUSE:0A][...]
+The Badge falls like a leaf.[WAIT][END]
+
+#string:22:024
+[STYLE:RIGHT][...]
+I see...a Flower Saver Badge.
+[WAIT][NEXT][...]
+There is a child upstairs in the
+fortune-teller's house on
+Shooting Star Summit.
+[WAIT][NEXT][...]
+Hey! I'm that fortune-teller!
+[WAIT][NEXT][...]
+Anyway, the child is my brother,
+Merlow. He will trade Star Pieces
+for Badges.
+[WAIT][NEXT][...]
+Head upstairs to see him![WAIT][END]
+
+#string:22:025
+[STYLE:RIGHT][...]
+I see...a Flower Saver Badge.
+[WAIT][NEXT][...]
+You throw a blue-colored berry
+into the deserted well in Flower
+Fields, [PAUSE:0A]and something throws the
+Badge to you.[WAIT][END]
+
+#string:22:026
+[STYLE:RIGHT][...]
+I see...a Dodge Master Badge.
+[WAIT][NEXT][...]
+It is for sale at the open-air 
+shop in the plaza outside the
+castle gate.[WAIT][END]
+
+#string:22:027
+[STYLE:RIGHT][...]
+I see...a P-down, D-up Badge.
+[WAIT][NEXT][...]
+In the Crystal Palace lobby, you
+can see a similar room on the
+other side of the glass.
+[WAIT][NEXT][...]
+You go in the door in that room
+and break the floor. You then 
+follow the path to the right to 
+find the treasure chest.
+[WAIT][NEXT][...]
+The Badge, of course, is inside.[WAIT][END]
+
+#string:22:028
+[STYLE:RIGHT][...]
+I see...a P-up, D-down Badge.
+[WAIT][NEXT][...]
+You move a small Albino Dino
+statue in Crystal Palace.
+Underneath it you find a path
+leading to the right.
+[WAIT][NEXT][...]
+You follow that to the back room
+where you find a treasure chest
+with the Badge inside it.
+[WAIT][END]
+
+#string:22:029
+[STYLE:RIGHT][...]
+I see...an All or Nothing Badge.
+[WAIT][NEXT][...]
+It is for sale at the open-air 
+shop in the plaza outside the
+castle gate.[WAIT][END]
+
+#string:22:02A
+[STYLE:RIGHT][...]
+I see...a Power Plus Badge.
+[WAIT][NEXT][...]
+There is a child upstairs in the
+fortune-teller's house on
+Shooting Star Summit.
+[WAIT][NEXT][...]
+Hey! I'm that fortune-teller!
+[WAIT][NEXT][...]
+Anyway, the child is my brother,
+Merlow. He will trade Star Pieces
+for Badges.
+[WAIT][NEXT][...]
+Head upstairs to see him![WAIT][END]
+
+#string:22:02B
+[STYLE:RIGHT][...]
+I see...a Power Plus Badge.
+[WAIT][NEXT][...]
+It is in the treasure chest
+protected by the Anti Guy in 
+the Toy Box.
+[WAIT][NEXT][...]
+He may be too strong for you 
+to fight.
+[PAUSE:0A][...]
+He loves Lemon Candy. When you
+give it to him, he disappears.[WAIT][END]
+
+#string:22:02C
+[STYLE:RIGHT][...]
+I see...an HP Drain Badge.
+[WAIT][NEXT][...]
+There is a child upstairs in the
+fortune-teller's house on
+Shooting Star Summit.
+[WAIT][NEXT][...]
+Hey! I'm that fortune-teller!
+[WAIT][NEXT][...]
+Anyway, the child is my brother,
+Merlow. He will trade Star Pieces
+for Badges.
+[WAIT][NEXT][...]
+Head upstairs to see him![WAIT][END]
+
+#string:22:02D
+[STYLE:RIGHT][...]
+I see...a Last Stand Badge.
+[WAIT][NEXT][...]
+In Peach's Castle, way up in the
+sky, there's a room with a
+wardrobe. Inside it is the
+treasure chest with the Badge.[WAIT][END]
+
+#string:22:02E
+[STYLE:RIGHT][...]
+I see...a Power Rush Badge.
+[WAIT][NEXT][...]
+In Peach's Castle, way up in the
+sky, there's a room with 
+bookshelves. The Badge is on the
+floor between the shelves. [WAIT][END]
+
+#string:22:02F
+[STYLE:RIGHT][...]
+I see...a Close Call Badge.
+[WAIT][NEXT][...]
+Near the signboard located on
+the path from Goomba Village to
+Toad Town,
+[WAIT][NEXT][...]
+you see a red ? Block.
+[PAUSE:0A][...]
+When you smash it from below, 
+the Badge appears.[WAIT][END]
+
+#string:22:030
+[STYLE:RIGHT][...]
+I see...a Mega Rush Badge.
+[WAIT][NEXT][...]
+It's inside a hidden room on the
+second floor of Tubba Blubba's
+Castle.
+[WAIT][NEXT][...]
+You push aside a large clock and
+go in the hole. Inside, you pull
+out a drawer on the right
+dresser.
+[WAIT][NEXT][...]
+You climb up and a Paratroopa
+carries you to the bed. You then
+climb up to the top shelf.
+[WAIT][NEXT][...]
+From there you find your way 
+into the hidden room.[WAIT][END]
+
+#string:22:031
+[STYLE:RIGHT][...]
+I see...a Damage Dodge Badge.
+[WAIT][NEXT][...]
+It is for sale at the open-air 
+shop in the plaza outside the
+castle gate.[WAIT][END]
+
+#string:22:032
+[STYLE:RIGHT][...]
+I see...a Damage Dodge Badge.
+[WAIT][NEXT][...]
+It's on Mt. Rugged, [PAUSE:05]in the
+direction opposite the desert.
+[WAIT][NEXT][...]
+You can see the treasure chest
+but don't know how to reach it.
+[WAIT][NEXT][...]
+You enter the small cave and 
+walk to the left up a hidden,
+sloped path.
+[WAIT][NEXT][...]
+At the top of the slope is the
+treasure chest you seek.[WAIT][END]
+
+#string:22:033
+[STYLE:RIGHT][...]
+I see...a Defend Plus Badge.
+[WAIT][NEXT][...]
+It's in the Toy Box.
+You go to the right at the pink
+station and jump on the first
+jack-in-the-box.
+[WAIT][NEXT][...]
+You go all the way to the left
+and find it tucked away inside
+a treasure chest. [WAIT][END]
+
+#string:22:034
+[STYLE:RIGHT][...]
+I see...an Ice Power Badge.
+[WAIT][NEXT][...]
+After heading to the right from
+the pink station in the Toy Box,
+you come to an impasse.
+[WAIT][NEXT][...]
+You can see the treasure chest 
+but a glass barricade prevents 
+you from reaching it.
+[WAIT][NEXT][...]
+You keep your patience and the
+Shy Guys show you the way. [WAIT][END]
+
+#string:22:035
+[STYLE:RIGHT][...]
+I see...a Fire Shield Badge.
+[WAIT][NEXT][...]
+As you ride the trapeze down
+inside of the volcano,
+[WAIT][NEXT][...]
+you let go halfway down and 
+jump onto a rock shelf.
+[PAUSE:05][...]
+The Badge is yours![WAIT][END]
+
+#string:22:036
+[STYLE:RIGHT][...]
+I see...a Spike Shield Badge.
+[WAIT][NEXT][...]
+Right after you enter the ruin,
+you see three coffins aligned
+in a room. [PAUSE:0A]The Badge is in the
+middle coffin. [WAIT][END]
+
+#string:22:037
+[STYLE:RIGHT][...]
+I see...a Feeling Fine Badge.
+[WAIT][NEXT][...]
+There is a child upstairs in the
+fortune-teller's house on
+Shooting Star Summit.
+[WAIT][NEXT][...]
+Hey! I'm that fortune-teller!
+[WAIT][NEXT][...]
+Anyway, the child is my brother,
+Merlow. He will trade Star Pieces
+for Badges.
+[WAIT][NEXT][...]
+Head upstairs to see him![WAIT][END]
+
+#string:22:038
+[STYLE:RIGHT][...]
+I see...a Zap Tap Badge.
+[WAIT][NEXT][...]
+There is a child upstairs in the
+fortune-teller's house on
+Shooting Star Summit.
+[WAIT][NEXT][...]
+Hey! I'm that fortune-teller!
+[WAIT][NEXT][...]
+Anyway, the child is my brother,
+Merlow. He will trade Star Pieces
+for Badges.
+[WAIT][NEXT][...]
+Head upstairs to see him![WAIT][END]
+
+#string:22:039
+[STYLE:RIGHT][...]
+I see...a Pretty Lucky Badge.
+[WAIT][NEXT][...]
+There is a child upstairs in the
+fortune-teller's house on
+Shooting Star Summit.
+[WAIT][NEXT][...]
+Hey! I'm that fortune-teller!
+[WAIT][NEXT][...]
+Anyway, the child is my brother,
+Merlow. He will trade Star Pieces
+for Badges.
+[WAIT][NEXT][...]
+Head upstairs to see him![WAIT][END]
+
+#string:22:03A
+[STYLE:RIGHT][...]
+I see...a Lucky Day Badge.
+[WAIT][NEXT][...]
+You are asked to deliver letters
+by many people and you receive
+the Badge when you complete
+your last delivery.[WAIT][END]
+
+#string:22:03B
+[STYLE:RIGHT][...]
+I see...a Slow Go Badge.
+[WAIT][NEXT][...]
+In the far depths of the ruins,
+[PAUSE:05][...]
+there's a hidden room beyond 
+where the Hammer lies.
+[WAIT][NEXT][...]
+You climb up high, then land on
+the upper edge of the Hammer 
+room. You walk carefully around 
+to find the hidden chest.     [WAIT][END]
+
+#string:22:03C
+[STYLE:RIGHT][...]
+I see...an Attack FX A Badge.
+[WAIT][NEXT][...]
+There is a child upstairs in the
+fortune-teller's house on
+Shooting Star Summit.
+[WAIT][NEXT][...]
+Hey! I'm that fortune-teller!
+[WAIT][NEXT][...]
+Anyway, the child is my brother,
+Merlow. He will trade Star Pieces
+for Badges.
+[WAIT][NEXT][...]
+Head upstairs to see him![WAIT][END]
+
+#string:22:03D
+[STYLE:RIGHT][...]
+I see...an Attack FX D Badge.
+[WAIT][NEXT][...]
+You pay a visit to Club 64 at
+the Toad Town port.
+[WAIT][NEXT][...]
+The Pop Diva there can sing 
+no longer. You take her a new
+song that restores her ability.
+[WAIT][NEXT][...]
+You are rewarded with the
+Badge.[WAIT][END]
+
+#string:22:03E
+[STYLE:RIGHT][...]
+I see...an Attack FX B Badge.
+[WAIT][NEXT][...]
+Halfway along Pleasant Path
+you see three Candy Canes. You
+go down the path to the three
+brick blocks near the fence.
+[WAIT][NEXT][...]
+You smash the left, then the 
+right and then the middle,
+making a red ? Block appear.
+[WAIT][NEXT][...]
+You smash the block and claim
+your prize.[WAIT][END]
+
+#string:22:03F
+[STYLE:RIGHT][...]
+I see...an Attack FX E Badge.
+[WAIT][NEXT][...]
+It rests in the house with no
+door, near Mayor Penguin's home
+in Shiver City.
+[WAIT][NEXT][...]
+To enter the house, you jump 
+from the eaves of the house 
+next door.[WAIT][END]
+
+#string:22:040
+[STYLE:RIGHT][...]
+I see...an Attack FX C Badge.
+[WAIT][NEXT][...]
+It is hidden in the desert...
+[WAIT][NEXT][...]
+From the stone cactus by the
+path, you move three south and 
+two west. You find a rock and 
+jump on top of it.
+[WAIT][NEXT][...]
+The Badge appears out of a 
+hidden block.[WAIT][END]
+
+#string:22:041
+[STYLE:RIGHT][...]
+I see...a Refund Badge.
+[WAIT][NEXT][...]
+It's on the far side of the 
+Koopa Bros. Fortress.
+[WAIT][NEXT][...]
+Use a Bomb to blow a hole in a
+wall, then go outside to find a
+part of the castle that juts out
+into the water.
+[WAIT][NEXT][...]
+The treasure chest rests there,
+[PAUSE:0A][...]
+and the Badge lies within it.[WAIT][END]
+
+#string:22:042
+[STYLE:RIGHT][...]
+I see...a Pay-Off Badge.
+[WAIT][NEXT][...]
+There is a child upstairs in the
+fortune-teller's house on
+Shooting Star Summit.
+[WAIT][NEXT][...]
+Hey! I'm that fortune-teller!
+[WAIT][NEXT][...]
+Anyway, the child is my brother,
+Merlow. He will trade Star Pieces
+for Badges.
+[WAIT][NEXT][...]
+Head upstairs to see him![WAIT][END]
+
+#string:22:043
+[STYLE:RIGHT][...]
+I see...a Runaway Pay Badge.
+[WAIT][NEXT][...]
+Somewhere around the center of
+the desert, which is to the
+north of the path, [PAUSE:05]you see
+three palm trees.
+[WAIT][NEXT][...]
+You jump in the middle of the 
+trio to make a hidden block give
+up the Badge.[WAIT][END]
+
+#string:22:044
+[STYLE:RIGHT][...]
+I see...a Heart Finder Badge.
+[WAIT][NEXT][...]
+There is a child upstairs in the
+fortune-teller's house on
+Shooting Star Summit.
+[WAIT][NEXT][...]
+Hey! I'm that fortune-teller!
+[WAIT][NEXT][...]
+Anyway, the child is my brother,
+Merlow. He will trade Star Pieces
+for Badges.
+[WAIT][NEXT][...]
+Head upstairs to see him![WAIT][END]
+
+#string:22:045
+[STYLE:RIGHT][...]
+I see...a Flower Finder Badge.
+[WAIT][NEXT][...]
+There is a child upstairs in the
+fortune-teller's house on
+Shooting Star Summit.
+[WAIT][NEXT][...]
+Hey! I'm that fortune-teller!
+[WAIT][NEXT][...]
+Anyway, the child is my brother,
+Merlow. He will trade Star Pieces
+for Badges.
+[WAIT][NEXT][...]
+Head upstairs to see him![WAIT][END]
+
+#string:22:046
+[STYLE:RIGHT][...]
+I see...a Money Money Badge.
+[WAIT][NEXT][...]
+There is a child upstairs in the
+fortune-teller's house on
+Shooting Star Summit.
+[WAIT][NEXT][...]
+Hey! I'm that fortune-teller!
+[WAIT][NEXT][...]
+Anyway, the child is my brother,
+Merlow. He will trade Star Pieces
+for Badges.
+[WAIT][NEXT][...]
+Head upstairs to see him![WAIT][END]
+
+#string:22:047
+[STYLE:RIGHT][...]
+I see...a Peekaboo Badge.
+[WAIT][NEXT][...]
+There is a child upstairs in the
+fortune-teller's house on
+Shooting Star Summit.
+[WAIT][NEXT][...]
+Hey! I'm that fortune-teller!
+[WAIT][NEXT][...]
+Anyway, the child is my brother,
+Merlow. He will trade Star Pieces
+for Badges.
+[WAIT][NEXT][...]
+Head upstairs to see him![WAIT][END]
+
+#string:22:048
+[STYLE:RIGHT][...]
+I see...an I Spy Badge.
+[WAIT][NEXT][...]
+I see you handing something to a
+merchant who cannot open his
+shop without the tools of his
+trade.
+[WAIT][NEXT][...]
+You find what was stolen from 
+him and he gives you the Badge.[WAIT][END]
+
+#string:22:049
+[STYLE:RIGHT][...]
+I see...a Chill Out Badge.
+[WAIT][NEXT][...]
+There is a child upstairs in the
+fortune-teller's house on
+Shooting Star Summit.
+[WAIT][NEXT][...]
+Hey! I'm that fortune-teller!
+[WAIT][NEXT][...]
+Anyway, the child is my brother,
+Merlow. He will trade Star Pieces
+for Badges.
+[WAIT][NEXT][...]
+Head upstairs to see him![WAIT][END]
+
+#string:22:04A
+[STYLE:RIGHT][...]
+I see...a Speedy Spin Badge.
+[WAIT][NEXT][...]
+It is for sale at the open-air 
+shop in the plaza outside the
+castle gate.[WAIT][END]
+
+#string:22:04B
+[STYLE:RIGHT][...]
+I see...a Dizzy Attack Badge.
+[WAIT][NEXT][...]
+On the path from Toad Town to 
+Koopa Village, before you cross
+the first bridge,
+[WAIT][NEXT][...]
+you see a red ? Block floating
+in the air. 
+[PAUSE:05][...]
+You jump and hit it, and the
+Badge falls from above.[WAIT][END]
+
+#string:22:04C
+[STYLE:RIGHT][...]
+I see...a Spin Attack Badge.
+[WAIT][NEXT][...]
+In the lonely desert, [PAUSE:05]you are
+blown by a whirlwind and land on
+a rock platform.
+
+[WAIT][NEXT][...]
+The whirlwind by the blue cactus
+will take you there.
+The Badge awaits. [WAIT][END]
+
+#string:22:04D
+[STYLE:RIGHT][...]
+I see...a Bump Attack Badge.
+[WAIT][NEXT][...]
+I can see a shady man living in
+the tunnels under Toad Town. 
+[WAIT][NEXT][...]
+He sells many things, but you
+don't know what you will get until
+you give him the money.
+[WAIT][NEXT][...]
+The price is always the same,
+whatever you buy.
+Sooner or later, he sells you 
+the Badge you seek. [WAIT][END]
+
+#string:22:04E
+[STYLE:RIGHT][...]
+I see...a First Attack Badge.
+[WAIT][NEXT][...]
+It is for sale at the open-air 
+shop in the plaza outside the
+castle gate.[WAIT][END]
+
+#string:22:04F
+[STYLE:RIGHT][...]
+I see...a Super Block.
+[WAIT][NEXT][...]
+You descend below Toad Town
+and head left through several 
+blocks and a pipe.
+[WAIT][NEXT][...]
+You go right after the pipe until
+you can ride a platform up
+through the ceiling.
+[WAIT][NEXT][...]
+You walk right and fall through 
+the floor to find the block.[WAIT][END]
+
+#string:22:050
+[STYLE:RIGHT][...]
+I see...a Super Block.
+[WAIT][NEXT][...]
+Deep down under Toad Town,  
+you break the floor, fall, and
+then go left.
+[WAIT][NEXT][...]
+Beyond the Dark Koopas' gate, 
+you stand on a movable block 
+and jump to find hidden blocks.
+[PAUSE:05][...]
+You cross them for the prize.[WAIT][END]
+
+#string:22:051
+[STYLE:RIGHT][...]
+I see...a Super Block.
+[WAIT][NEXT][...]
+In the dark below Toad Town,
+[PAUSE:05][...]
+under the platform that sinks 
+if you step on it,
+[PAUSE:05][...]
+is a pipe leading farther down.
+[WAIT][NEXT][...]
+Powerful metal blocks stop your
+progress, but with a powerful
+Hammer, you smash them to get
+through.[WAIT][END]
+
+#string:22:052
+[STYLE:RIGHT][...]
+I see...a Super Block.
+[WAIT][NEXT][...]
+In the tunnels below Toad Town,
+[PAUSE:05][...]
+in a frozen room on the path 
+leading to a very cold, 
+frostbitten city...
+[WAIT][NEXT][...]
+You move to the right and find
+the pipe to the town above. 
+[PAUSE:05][...]
+You move to the left first [PAUSE:05]and
+find the block waiting.[WAIT][END]
+
+#string:22:053
+[STYLE:RIGHT][...]
+I see...a Super Block.
+[WAIT][NEXT][...]
+You ride over the water to the
+island in the Toad Town pond
+and climb into the pipe. 
+[WAIT][NEXT][...]
+In a secluded chamber beneath
+the water, you find the block. [WAIT][END]
+
+#string:22:054
+[STYLE:RIGHT][...]
+I see...a Super Block.
+[WAIT][NEXT][...]
+You climb the mountain just
+above Mt. Rugged station, and
+you break the big block on the
+left side. 
+[WAIT][NEXT][...]
+You walk forward and find what
+you seek.[WAIT][END]
+
+#string:22:055
+[STYLE:RIGHT][...]
+I see...a Super Block.
+[WAIT][NEXT][...]
+In a place of rest in the cruel
+desert, [PAUSE:05]is a lush oasis unknown
+to most wanderers.
+[WAIT][NEXT][...]
+You find the block along the
+edge of the refreshing,
+life-giving waters.[WAIT][END]
+
+#string:22:056
+[STYLE:RIGHT][...]
+I see...a Super Block.
+[WAIT][NEXT][...]
+You find a jump pad in the
+dusty depths of the hidden ruins
+in the desert.
+[PAUSE:05][...]
+The block lies beside it.[WAIT][END]
+
+#string:22:057
+[STYLE:RIGHT][...]
+I see...a Super Block.
+[WAIT][NEXT][...]
+You climb to the upper level of
+Tubba Blubba's Castle and keep
+going left.
+[WAIT][NEXT][...]
+When you reach the bottom of
+the stairs, 
+[WAIT][NEXT][...]
+you find it near the door.[WAIT][END]
+
+#string:22:058
+[STYLE:RIGHT][...]
+I see...a Super Block.
+[WAIT][NEXT][...]
+It is in the Toy Box in the room
+that has a Ferris wheel and
+platforms that move up and
+down.
+[WAIT][NEXT][...]
+You jump to the highest green
+block to find it waiting.[WAIT][END]
+
+#string:22:059
+[STYLE:RIGHT][...]
+I see...a Super Block.
+[WAIT][NEXT][...]
+In a jungle you navigate the 
+water on the back of a fishy 
+friend. 
+[WAIT][NEXT][...]
+You find the block on an island
+across a bridge.[WAIT][END]
+
+#string:22:05A
+[STYLE:RIGHT][...]
+I see...a Super Block.
+[WAIT][NEXT][...]
+You ride down a trapeze in the
+volcano and go right into a room
+with fire bars.  
+[WAIT][NEXT][...]
+You avoid touching the rotating
+arms of flame.
+[PAUSE:0A][...]
+Your reward is a Super Block.[WAIT][END]
+
+#string:22:05B
+[STYLE:RIGHT][...]
+I see...a Super Block.
+[WAIT][NEXT][...]
+Deep inside the volcano, when 
+you see the second rope, you 
+turn right and see another one.
+You ride that rope instead.
+[WAIT][NEXT][...]
+When the rock wall pales behind
+you, you let go.
+[PAUSE:0A][...]
+The block's on a rock platform.[WAIT][END]
+
+#string:22:05C
+[STYLE:RIGHT][...]
+I see...a Super Block.
+[WAIT][NEXT][...]
+There is a yellow gatekeeper
+in Flower Fields. 
+[WAIT][NEXT][...]
+You go through its gate, over 
+the thorny patch then up the
+stairs to the left.
+[WAIT][NEXT][...]
+You fight your way left to find
+the block.[WAIT][END]
+
+#string:22:05D
+[STYLE:RIGHT][...]
+I see...a Super Block.
+[WAIT][NEXT][...]
+You explore Flower Fields to the 
+right of the big tree that grows
+at the entrance.  
+[WAIT][NEXT][...]
+You move ! platforms by jumping
+on them, [PAUSE:0A]so with Spin Jumps and
+hovering help, you continue.
+[WAIT][NEXT][...]
+You use a jump step hidden on
+the roadside and find the block
+up above.[WAIT][END]
+
+#string:22:05E
+[STYLE:RIGHT][...]
+I see...a Super Block.
+[WAIT][NEXT][...]
+On Shiver Mountain you see 
+stairs going up to the left as
+you climb to the palace.
+[WAIT][NEXT][...]
+The Super Block waits in the
+cold for you.[WAIT][END]
+
+#string:22:05F
+[STYLE:RIGHT][...]
+I see...a Star Piece.
+[WAIT][NEXT][...]
+Between Goomba Village and the
+back forest the path splits.
+One route goes up, the other
+straight ahead.
+[WAIT][NEXT][...]
+You take the one that goes up. 
+[PAUSE:05][...]
+After you pass a tree, you 
+descend a few steps and find
+the piece on the ground.[WAIT][END]
+
+#string:22:060
+[STYLE:RIGHT][...]
+I see...a Star Piece.
+[WAIT][NEXT][...]
+Between Goomba Village and
+Toad Town, [PAUSE:0A]there is a stone
+bridge where Goombas make their
+home.
+[WAIT][NEXT][...]
+A tree grows on the near side
+of the bridge, hiding what you 
+seek in its branches.
+[PAUSE:0A][...]
+You smash the tree.[WAIT][END]
+
+#string:22:061
+[STYLE:RIGHT][...]
+I see...a Star Piece.
+[WAIT][NEXT][...]
+Near Goomba Village there is a
+peaceful clearing. It was here
+that you landed when you fell
+from the sky.
+[WAIT][NEXT][...]
+You shake the ground up and
+find a hidden chamber.
+[PAUSE:05][...]
+The piece rises from below.[WAIT][END]
+
+#string:22:062
+[STYLE:RIGHT][...]
+I see...a Star Piece.
+[WAIT][NEXT][...]
+You go to an open space near 
+the steps behind Goomba Village.
+[WAIT][NEXT][...]
+A secret hole hides between
+a jump pad and a stone block. 
+[WAIT][NEXT][...]
+You Spin Jump on the grass and
+find the hidden panel.  
+[PAUSE:05][...]
+The piece flies out of the hole.[WAIT][END]
+
+#string:22:063
+[STYLE:RIGHT][...]
+I see...a Star Piece.
+[WAIT][NEXT][...]
+Just beyond the bridge where  
+you defeated the Goomba King is
+an open area with a hill that
+can't be climbed.
+[WAIT][NEXT][...]
+You Spin Jump in front of the
+hillside, causing a hidden panel
+to shudder. 
+[PAUSE:05][...]
+The piece explodes into view.[WAIT][END]
+
+#string:22:064
+[STYLE:RIGHT][...]
+I see...a Star Piece.
+[WAIT][NEXT][...]
+It rests by a waterfront house
+in Toad Town, near the gate 
+that leads to Goomba Village.  
+[WAIT][NEXT][...]
+You cross the pond and easily
+pick it up.[WAIT][END]
+
+#string:22:065
+[STYLE:RIGHT][...]
+I see...a Star Piece.
+[WAIT][NEXT][...]
+You cross the road in front of
+the Dojo in Toad Town and see
+three sisters.
+[WAIT][NEXT][...]
+You Spin Jump beside them and
+find a hidden chamber.  
+[PAUSE:05][...]
+The piece you seek hides there.[WAIT][END]
+
+#string:22:066
+[STYLE:RIGHT][...]
+I see...a Star Piece.
+[WAIT][NEXT][...]
+There is a lush lawn in front of
+the forest guard's cabin in
+Toad Town.
+[WAIT][NEXT][...]
+You Spin Jump in the grass to
+make a hidden panel appear.  
+[PAUSE:05][...]
+The piece hides below.[WAIT][END]
+
+#string:22:067
+[STYLE:RIGHT][...]
+I see...a Star Piece.
+[WAIT][NEXT][...]
+There is a brown path that 
+borders the railroad. You walk
+on it toward Mt. Rugged.
+[WAIT][NEXT][...]
+You Spin Jump around the area
+and find a hidden chamber.
+[PAUSE:05][...]
+The piece you seek is there.[WAIT][END]
+
+#string:22:068
+[STYLE:RIGHT][...]
+I see...a Star Piece.
+[WAIT][NEXT][...]
+You go left from the Club 64
+entrance and stop before you
+reach the lamppost.
+[WAIT][NEXT][...]
+You Spin Jump in the open space
+between the docks and the club 
+and find a hidden panel.
+[PAUSE:05][...]
+The piece comes to you.[WAIT][END]
+
+#string:22:069
+[STYLE:RIGHT][...]
+I see...a Star Piece.
+[WAIT][NEXT][...]
+You smash the tree beside the
+bulletin board near the house
+with the spinning roof.
+[WAIT][NEXT][...]
+The piece tumbles down to you.[WAIT][END]
+
+#string:22:06A
+[STYLE:RIGHT][...]
+I see...a Star Piece.
+[WAIT][NEXT][...]
+You cross a small bridge just
+before you begin the climb to 
+Shooting Star Summit.
+[WAIT][NEXT][...]
+You Spin Jump around there and
+find unstable ground.
+[PAUSE:05][...]
+The piece springs up to you.[WAIT][END]
+
+#string:22:06B
+[STYLE:RIGHT][...]
+I see...a Star Piece.
+[WAIT][NEXT][...]
+It is in the middle of the wide
+platform that is exactly one 
+step up from the entrance to
+Shooting Star Summit.
+[WAIT][NEXT][...]
+You Spin Jump around there and
+find a hidden chamber.
+[PAUSE:05][...]
+Inside it is the piece you seek.[WAIT][END]
+
+#string:22:06C
+[STYLE:RIGHT][...]
+I see...a Star Piece.
+[WAIT][NEXT][...]
+To the right of the door to this
+house is a lovely display of
+potted flowers.
+[WAIT][NEXT][...]
+You Spin Jump in front of them
+and find a hidden panel.
+[PAUSE:05][...]
+Beneath it lies the piece.[WAIT][END]
+
+#string:22:06D
+[STYLE:RIGHT][...]
+I see...a Star Piece.
+[WAIT][NEXT][...]
+You don't go up the steps when
+you enter Shooting Star Summit.
+Instead, you go left.
+[PAUSE:0A][...]
+You see the piece on the ground.[WAIT][END]
+
+#string:22:06E
+[STYLE:RIGHT][...]
+I see...a Star Piece.
+[WAIT][NEXT][...]
+In the gloom below Toad Town, 
+you walk across platforms that
+sink if you step on them.
+[WAIT][NEXT][...]
+In the next room, you ride up to
+the high ledges
+[WAIT][NEXT][...]
+and a Paratroopa totes you to 
+the platform on the far right.
+You find the piece there. [WAIT][END]
+
+#string:22:06F
+[STYLE:RIGHT][...]
+I see...a Star Piece.
+[WAIT][NEXT][...]
+You cross the first bridge 
+between Toad Town and Koopa
+Village, which appears when you
+press a switch.
+[WAIT][NEXT][...]
+You go down the steps after 
+crossing the bridge.
+[WAIT][NEXT][...]
+Soon enough, you glimpse the
+piece on a small island.
+[PAUSE:0A][...]
+A Koopa Troopa pal helps you
+reach it. [WAIT][END]
+
+#string:22:070
+[STYLE:RIGHT][...]
+I see...a Star Piece.
+[WAIT][NEXT][...]
+In Koopa Village, there is a
+section of grass between a
+block and several Bob-ombs.
+[WAIT][NEXT][...]
+You Spin Jump around the area
+and manage to find a hidden 
+panel in the grass.
+[PAUSE:05][...]
+The piece lies below it.[WAIT][END]
+
+#string:22:071
+[STYLE:RIGHT][...]
+I see...a Star Piece.
+[WAIT][NEXT][...]
+As you walk along Pleasant Path,
+you find an area with three blue
+Candy Canes.
+[WAIT][NEXT][...]
+You Spin Jump between them and
+find a hidden chamber.
+[PAUSE:05][...]
+The piece leaps up to meet you.[WAIT][END]
+
+#string:22:072
+[STYLE:RIGHT][...]
+I see...a Star Piece.
+[WAIT][NEXT][...]
+As you walk along Pleasant Path,
+you find a grassy area with
+coins on the ground.
+[WAIT][NEXT][...]
+You Spin Jump around there and
+find a secret chamber.
+[PAUSE:05][...]
+That's where you find the piece.[WAIT][END]
+
+#string:22:073
+[STYLE:RIGHT][...]
+I see...a Star Piece.
+[WAIT][NEXT][...]
+There is a movable block in front
+of Koopa Koot's house in Koopa
+Village.
+[WAIT][NEXT][...]
+You see the piece on the brick
+block there.   [WAIT][END]
+
+#string:22:074
+[STYLE:RIGHT][...]
+I see...a Star Piece.
+[WAIT][NEXT][...]
+As you walk along Pleasant Path,
+you draw near the Koopa Bros.
+Fortress.
+[WAIT][NEXT][...]
+You smash the tree that grows
+by the first stone arch you see.
+[PAUSE:0A][...]
+The piece drops.[WAIT][END]
+
+#string:22:075
+[STYLE:RIGHT][...]
+I see...a Star Piece.
+[WAIT][NEXT][...]
+You jump from the upper path
+on Mt. Rugged and find the 
+piece on a wooden platform.[WAIT][END]
+
+#string:22:076
+[STYLE:RIGHT][...]
+I see...a Star Piece.
+[WAIT][NEXT][...]
+At the base of a short slide on
+Mt. Rugged, you see an area
+beneath an overhanging cliff.
+[WAIT][NEXT][...]
+You Spin Jump around there
+and find a hidden chamber.
+[PAUSE:05][...]
+The piece springs from below.[WAIT][END]
+
+#string:22:077
+[STYLE:RIGHT][...]
+I see...a Star Piece.
+[WAIT][NEXT][...]
+On Mt. Rugged...
+[PAUSE:0A][...]
+you return to the jump pad
+you used to find a letter.
+[WAIT][NEXT][...]
+The piece lies across a short
+gap, surrounded by coins.
+Only a Paratroopa can help you
+across.[WAIT][END]
+
+#string:22:078
+[STYLE:RIGHT][...]
+I see...a Star Piece.
+[WAIT][NEXT][...]
+It is beside the path in the 
+desert, to the south of the
+stone cactus. 
+[WAIT][NEXT][...]
+You Spin Jump around there and
+find a hidden panel.
+[PAUSE:05][...]
+The piece lies below it.[WAIT][END]
+
+#string:22:079
+[STYLE:RIGHT][...]
+I see...a Star Piece.
+[WAIT][NEXT][...]
+It is in the city of Dry Dry 
+Outpost. You climb to the 
+rooftops and find a roof that
+resembles an "L".
+[WAIT][NEXT][...]
+You Spin Jump on the roof and
+find a secret chamber.
+[PAUSE:05][...]
+The piece launches up to you.[WAIT][END]
+
+#string:22:07A
+[STYLE:RIGHT][...]
+I see...a Star Piece.
+[WAIT][NEXT][...]
+There is a room filled with loads
+of sand in the ruins hidden in
+the desert.
+You press a switch to empty it.
+[WAIT][NEXT][...]
+When all the sand is gone, you
+instantly see the piece. [WAIT][END]
+
+#string:22:07B
+[STYLE:RIGHT][...]
+I see...a Star Piece.
+[WAIT][NEXT][...]
+You walk on the rug in front of 
+the sofa in Boo's Mansion. 
+[WAIT][NEXT][...]
+You Spin Jump upon it and find
+a hidden chamber.
+[PAUSE:05][...]
+The piece rises from within it.[WAIT][END]
+
+#string:22:07C
+[STYLE:RIGHT][...]
+I see...a Star Piece.
+[WAIT][NEXT][...]
+Behind the glass cabinet in
+Boo's Mansion there is a door.
+You enter it and walk down the
+stairs. You notice a clock.
+[WAIT][NEXT][...]
+You Spin Jump in front of it and
+find a hidden panel.
+[PAUSE:05][...]
+The piece rests in peace there.[WAIT][END]
+
+#string:22:07D
+[STYLE:RIGHT][...]
+I see...a Star Piece.
+[WAIT][NEXT][...]
+In the room where you found the
+Boots in Boo's Mansion,
+[WAIT][NEXT][...]
+a Boo appears in the back-left
+corner. You speak to it. 
+[PAUSE:0A][...]
+You then walk between the Boo
+and the vanished door.
+[WAIT][NEXT][...]
+You Spin Jump around there and
+discover a hidden chamber.
+[PAUSE:05][...]
+There you find your piece.[WAIT][END]
+
+#string:22:07E
+[STYLE:RIGHT][...]
+I see...a Star Piece.
+[WAIT][NEXT][...]
+It hides upstairs in Boo's
+Mansion, in the room where you
+found a record.
+[WAIT][NEXT][...]
+You Spin Jump on the rug and
+find a hidden floor panel.
+[PAUSE:05][...]
+The piece jumps out at you.[WAIT][END]
+
+#string:22:07F
+[STYLE:RIGHT][...]
+I see...a Star Piece.
+[WAIT][NEXT][...]
+You break the wooden boxes in 
+the basement library of Boo's
+Mansion.  
+[WAIT][NEXT][...]
+You leap off the top of the 
+bookshelves and Spin Jump.[WAIT][END]
+
+#string:22:080
+[STYLE:RIGHT][...]
+I see...a Star Piece.
+[WAIT][NEXT][...]
+Behind Boo's Mansion, a back
+gate leads to the wasteland
+known as Gusty Gulch.
+[WAIT][NEXT][...]
+Immediately after you pass 
+through the gate, you stand on
+a sandy open space.
+[WAIT][NEXT][...]
+You Spin Jump around the area
+and find a hidden chamber.
+[PAUSE:05][...]
+The piece is inside it.[WAIT][END]
+
+#string:22:081
+[STYLE:RIGHT][...]
+I see...a Star Piece.
+[WAIT][NEXT][...]
+As you go east from Boo's village
+in Gusty Gulch, you see a ? Block
+and a brick block near some
+rocks.
+[WAIT][NEXT][...]
+Between the blocks you see a 
+dead tree and two boulders.
+The piece is behind them.[WAIT][END]
+
+#string:22:082
+[STYLE:RIGHT][...]
+I see...a Star Piece.
+[WAIT][NEXT][...]
+You enter Tubba Blubba's Castle,
+turn left and keep walking until
+you find a room with a big table.
+[WAIT][NEXT][...]
+The piece rests atop the table,
+but you can't get up there to
+retrieve it.
+[WAIT][NEXT][...]
+Instead, you jump down from the
+upper floor to claim it.[WAIT][END]
+
+#string:22:083
+[STYLE:RIGHT][...]
+I see...a Star Piece.
+[WAIT][NEXT][...]
+When you enter Tubba Blubba's 
+Castle, you walk through the 
+left door and into a small door
+at the end of the corridor.
+[WAIT][NEXT][...]
+You instantly spot the piece on
+a table inside the room. You use
+wooden boxes and a chair to
+jump up to it.[WAIT][END]
+
+#string:22:084
+[STYLE:RIGHT][...]
+I see...a Star Piece.
+[WAIT][NEXT][...]
+Just after you enter the Toy
+Box, you go right.
+[WAIT][NEXT][...]
+You eventually climb up onto blue
+buildings. A Paratroopa hoists
+you over to the left. 
+[PAUSE:0A][...]
+The piece awaits you there.[WAIT][END]
+
+#string:22:085
+[STYLE:RIGHT][...]
+I see...a Star Piece.
+[WAIT][NEXT][...]
+In the Toy Box, there is
+a worker standing in front of the
+Blue Station.
+[WAIT][NEXT][...]
+You Spin Jump in front of him
+and find a loose panel.
+[PAUSE:05][...]
+The piece lies beneath it.[WAIT][END]
+
+#string:22:086
+[STYLE:RIGHT][...]
+I see...a Star Piece.
+[WAIT][NEXT][...]
+In the Toy Box, there is
+a worker standing in front of the
+Pink Station.
+[WAIT][NEXT][...]
+You Spin Jump in front of him
+and find a loose panel.
+[PAUSE:05][...]
+The piece lies beneath it.[WAIT][END]
+
+#string:22:087
+[STYLE:RIGHT][...]
+I see...a Star Piece.
+[WAIT][NEXT][...]
+In the Toy Box, there is
+a worker standing in front of the
+Green Station.
+[WAIT][NEXT][...]
+You Spin Jump in front of him
+and find a loose panel.
+[PAUSE:05][...]
+The piece lies beneath it.[WAIT][END]
+
+#string:22:088
+[STYLE:RIGHT][...]
+I see...a Star Piece.
+[WAIT][NEXT][...]
+In the Toy Box, there is
+a worker standing in front of the
+Red Station.
+[WAIT][NEXT][...]
+You Spin Jump in front of him
+and find a loose panel.
+[PAUSE:05][...]
+The piece lies beneath it.[WAIT][END]
+
+#string:22:089
+[STYLE:RIGHT][...]
+I see...a Star Piece.
+[WAIT][NEXT][...]
+Just after you enter the Toy
+Box, you go right.
+[WAIT][NEXT][...]
+The piece is hiding behind a 
+building block that rests beside
+a light blue box.[WAIT][END]
+
+#string:22:08A
+[STYLE:RIGHT][...]
+I see...a Star Piece.
+[WAIT][NEXT][...]
+You go right from the green
+station in the Toy Box. 
+[WAIT][NEXT][...]
+You go over the elevator blocks
+and through the lower entrance 
+of the far building. The piece 
+awaits, surrounded by coins.[WAIT][END]
+
+#string:22:08B
+[STYLE:RIGHT][...]
+I see...a Star Piece.
+[WAIT][NEXT][...]
+After journeying to Yoshi's 
+Village on Lavalava Island,
+[WAIT][NEXT][...]
+you approach the Raven statue,
+which sits in the middle of a
+small island.
+[WAIT][NEXT][...]
+You Spin Jump in front of it and
+find a hidden chamber.
+[PAUSE:05][...]
+The piece pops out from there.[WAIT][END]
+
+#string:22:08C
+[STYLE:RIGHT][...]
+I see...a Star Piece.
+[WAIT][NEXT][...]
+After passing behind the Raven
+statue, you continue trekking
+deep into the jungle.
+[WAIT][NEXT][...]
+Eventually you come to a place
+where many vines hang.
+You pull one and continue.
+[WAIT][NEXT][...]
+You notice two Heart Plants 
+growing and an open area to the
+right.
+[WAIT][NEXT][...]
+You Spin Jump in this area and
+find a hidden panel.
+[PAUSE:05][...]
+Beneath it is the piece.[WAIT][END]
+
+#string:22:08D
+[STYLE:RIGHT][...]
+I see...a Star Piece.
+[WAIT][NEXT][...]
+You enter the jungle from 
+Yoshi's Village, part the bushes
+and go right. You sail to the isle
+where the piece lies.[WAIT][END]
+
+#string:22:08E
+[STYLE:RIGHT][...]
+I see...a Star Piece.
+[WAIT][NEXT][...]
+After arriving on Lavalava 
+Island, you make your way 
+across a sandy beach, passing 
+palm trees as you go.  
+[WAIT][NEXT][...]
+You smash a tree on the right 
+side of the spinning flower,
+[PAUSE:0A][...]
+and a piece drops down to you.[WAIT][END]
+
+#string:22:08F
+[STYLE:RIGHT][...]
+I see...a Star Piece.
+[WAIT][NEXT][...]
+In the depths of the jungle
+you find a spinning flower.
+When you see it, you sail on the
+water to the left.
+[WAIT][NEXT][...]
+Instead of jumping onto the 
+dock, you continue to sail to
+the left.
+[WAIT][NEXT][...]
+You dive deep to grab the piece.[WAIT][END]
+
+#string:22:090
+[STYLE:RIGHT][...]
+I see...a Star Piece.
+[WAIT][NEXT][...]
+Inside a volcano, you come to a 
+trapeze that goes to the right.
+Instead of jumping on, you fall
+off the platform and walk right.
+[WAIT][NEXT][...]
+You Spin Jump at the dead end 
+on the right and find a hidden 
+panel in the floor.
+[PAUSE:05][...]
+The piece is hidden below.[WAIT][END]
+
+#string:22:091
+[STYLE:RIGHT][...]
+I see...a Star Piece.
+[WAIT][NEXT][...]
+Far inside the volcano, a spiked
+ball rolls and smashes through a
+wall. 
+[WAIT][NEXT][...]
+Once you go through the opening,
+you find an open space between
+the recovery block and the
+stairs leading down.
+[WAIT][NEXT][...]
+You Spin Jump around there and
+find a secret chamber.
+[PAUSE:05][...]
+It contains the piece you seek.[WAIT][END]
+
+#string:22:092
+[STYLE:RIGHT][...]
+I see...a Star Piece.
+[WAIT][NEXT][...]
+You walk on the path to the
+right of the Wise Wisterwood in
+Flower Fields.
+[WAIT][NEXT][...]
+You and a Lakitu solve the 
+platform puzzle, then you find a
+jump pad hidden behind a gate.
+[WAIT][NEXT][...]
+You jump to the upper level and
+a Paratroopa totes you over to
+the right.
+[WAIT][NEXT][...]
+You slam the bushes with a Spin
+Jump to find the piece.
+[PAUSE:0A][...]
+The Hammer finds other pieces,
+but it doesn't work here.[WAIT][END]
+
+#string:22:093
+[STYLE:RIGHT][...]
+I see...a Star Piece.
+[WAIT][NEXT][...]
+It is where the flower spirit, 
+Petunia, is growing. 
+[WAIT][NEXT][...]
+To the left of Petunia is a tree,
+which drops berries, and an open
+grassy area.  
+[WAIT][NEXT][...]
+You Spin Jump in the grass 
+between the tree and a green 
+bush to find a hidden panel.
+[PAUSE:05][...]
+The piece lies below.[WAIT][END]
+
+#string:22:094
+[STYLE:RIGHT][...]
+I see...a Star Piece.
+[WAIT][NEXT][...]
+You pass the yellow gatekeeper
+and come to a spring where a
+bubble tree lives.
+[WAIT][NEXT][...]
+On the other side of the spring,
+you see pink flowers growing by
+the white fence.
+[WAIT][NEXT][...]
+You Spin Jump in front of the
+flowers and find a hidden panel.
+[PAUSE:05][...]
+The piece is below it.[WAIT][END]
+
+#string:22:095
+[STYLE:RIGHT][...]
+I see...a Star Piece.
+[WAIT][NEXT][...]
+You take the path to the left
+of the Wise Wisterwood in Flower
+Fields. 
+[WAIT][NEXT][...]
+You spot it on a platform above
+the bubble plant but cannot 
+quite reach it.
+[WAIT][NEXT][...]
+Once you cross the thorny patch
+you cross over to it.[WAIT][END]
+
+#string:22:096
+[STYLE:RIGHT][...]
+I see...a Star Piece.
+[WAIT][NEXT][...]
+Once you pass the red 
+gatekeeper in Flower Fields,
+you see a tree.
+[WAIT][NEXT][...]
+You Spin Jump in front of it and
+find a hidden chamber.
+[PAUSE:05][...]
+Within it lies the piece.[WAIT][END]
+
+#string:22:097
+[STYLE:RIGHT][...]
+I see...a Star Piece.
+[WAIT][NEXT][...]
+You pass the yellow gatekeeper
+in Flower Fields and cross over
+the thorny patch. 
+[WAIT][NEXT][...]
+A patch of pink flowers grows
+to the right of the tree that
+drops berries.
+[WAIT][NEXT][...]
+The piece is nestled amid the
+tall flowers.    [WAIT][END]
+
+#string:22:098
+[STYLE:RIGHT][...]
+I see...a Star Piece.
+[WAIT][NEXT][...]
+You climb a very cold mountain
+and ascend stairs toward the
+Crystal Palace.
+[WAIT][NEXT][...]
+You turn left and jump from 
+the Save Block on the stairs.
+You land next to the piece.[WAIT][END]
+
+#string:22:099
+[STYLE:RIGHT][...]
+I see...a Star Piece.
+[WAIT][NEXT][...]
+You see penguins gossiping next
+to the house of Mayor Penguin in
+Shiver City.
+[WAIT][NEXT][...]
+You Spin Jump around there and
+find a hidden panel.
+[PAUSE:05][...]
+The piece waits below.[WAIT][END]
+
+#string:22:09A
+[STYLE:RIGHT][...]
+I see...a Star Piece.
+[WAIT][NEXT][...]
+Between Shiver City and 
+Starborn Valley six snowmen
+stand in a line.
+[WAIT][NEXT][...]
+They are looking toward a short
+tree.
+[WAIT][NEXT][...]
+You Spin Jump to the left of the
+tree and discover a hidden
+chamber.
+[PAUSE:05][...]
+The piece is inside.[WAIT][END]
+
+#string:22:09B
+[STYLE:RIGHT][...]
+I see...a Star Piece.
+[WAIT][NEXT][...]
+It's in the cave that you see
+behind the glass at the entrance
+to the Crystal Palace.
+[WAIT][NEXT][...]
+You reach the cave by walking 
+around inside the palace and 
+backtracking outside.
+[WAIT][NEXT][...]
+You think it is impossible to
+reach? Trust me.  [WAIT][END]
+
+#string:22:09C
+[STYLE:RIGHT][...]
+I see...a Star Piece.
+[WAIT][NEXT][...]
+There is a giant statue of an 
+Albino Dino in a room in the back
+of the Crystal Palace.
+[WAIT][NEXT][...]
+There is a ? Block near the door
+of this room.
+[WAIT][NEXT][...]
+You Spin Jump under the block
+and find a hidden panel.
+[PAUSE:05][...]
+The piece is just below.[WAIT][END]
+
+#string:22:09D
+[STYLE:RIGHT][...]
+I see...a Star Piece.
+[WAIT][NEXT][...]
+There is a small statue of an
+Albino Dino in a back room in 
+Crystal Palace.
+[WAIT][NEXT][...]
+You Spin Jump in front of the
+wall on the left side of the room
+to find a hidden area.
+[PAUSE:05][...]
+The piece is inside it.[WAIT][END]
+

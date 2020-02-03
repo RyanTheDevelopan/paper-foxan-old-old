@@ -1,0 +1,434 @@
+#string:28:000
+Press {PushColor}{Color:13}[C-DOWN]{PopColor} to have him tell you
+about everything nearby.[END]
+
+#string:28:001
+He can describe enemies.
+His specialty is headbonking.[END]
+
+#string:28:002
+Headbonk an enemy.[END]
+
+#string:28:003
+See enemy description and make
+HP visible.[END]
+
+#string:28:004
+Charge attack power. It goes up
+by 2 then returns to normal.[END]
+
+#string:28:005
+Headbonk continuously until
+you miss an action command.[END]
+
+#string:28:006
+Goombario is a clever young
+adventurer who admires Mario.
+Press {PushColor}{Color:13}[C-DOWN]{PopColor} to have him tell you
+about everything nearby.
+His specialty is headbonking.
+[END]
+
+#string:28:007
+Headbonk an enemy.[END]
+
+#string:28:008
+Headbonk an enemy.[END]
+
+#string:28:009
+Headbonk an enemy.[END]
+
+#string:28:00A
+See enemies' descriptions and
+see their HP during battle.[END]
+
+#string:28:00B
+Charge to raise attack power
+by 2.
+You can charge unlimited times,
+but power fades after attack.
+[END]
+
+#string:28:00C
+Headbonk continuously until
+you miss the action command.[END]
+
+#string:28:00D
+Press {PushColor}{Color:13}[C-DOWN]{PopColor} to reach an item
+a short distance away.[END]
+
+#string:28:00E
+His specialty is attacking
+enemies on the ground.[END]
+
+#string:28:00F
+Throw a shell at an enemy.[END]
+
+#string:28:010
+Throw a shell at all enemies
+on the ground.[END]
+
+#string:28:011
+Daze and paralyze all enemies
+on the ground.[END]
+
+#string:28:012
+Attack all enemies on the ground
+with a flaming shell.[END]
+
+#string:28:013
+This adventure-loving Koopa
+wants to be an archaeologist.
+He admires Kolorado, a world-
+renowned expert in archaeology.
+Press {PushColor}{Color:13}[C-DOWN]{PopColor} to toss a shell and
+reach items at a short distance.
+His specialty is attacking
+enemies on the ground.[END]
+
+#string:28:014
+Throw a shell at an enemy.[END]
+
+#string:28:015
+Throw a shell at an enemy.[END]
+
+#string:28:016
+Throw a shell at an enemy.[END]
+
+#string:28:017
+Throw a shell at all enemies
+on the ground.[END]
+
+#string:28:018
+Daze and paralyze all enemies
+on the ground.[END]
+
+#string:28:019
+Attack all enemies on the ground
+with a flaming shell.[END]
+
+#string:28:01A
+Press {PushColor}{Color:13}[C-DOWN]{PopColor}. She'll explode and
+destroy cracked walls or rocks.[END]
+
+#string:28:01B
+Her specialty is exploding.[END]
+
+#string:28:01C
+Body Slam an enemy.[END]
+
+#string:28:01D
+Explode and destroy an enemy
+on the ground.[END]
+
+#string:28:01E
+Explode and destroy all enemies
+on the ground.[END]
+
+#string:28:01F
+Explode and destroy all enemies.[END]
+
+#string:28:020
+Hot-headed Bombette was once
+jailed in Koopa Bros. Fortress.
+Her specialty is blasting open
+cracked walls and rocks.
+Press {PushColor}{Color:13}[C-DOWN]{PopColor}. She'll walk off and
+explode, creating openings.
+Press {PushColor}{Color:13}[C-DOWN]{PopColor} while she's walking to
+make her blow up on the spot.
+
+[END]
+
+#string:28:021
+Body Slam an enemy.[END]
+
+#string:28:022
+Body Slam an enemy.[END]
+
+#string:28:023
+Body Slam an enemy.[END]
+
+#string:28:024
+Explode and destroy an enemy
+on the ground.[END]
+
+#string:28:025
+Explode and destroy all enemies
+on the ground.[END]
+
+#string:28:026
+Explode and destroy all enemies.[END]
+
+#string:28:027
+He delivers mail and can fly Mario
+over short gaps (press {PushColor}{Color:13}[C-DOWN]{PopColor}).[END]
+
+#string:28:028
+His specialty is attacking
+enemies in the air.[END]
+
+#string:28:029
+Kick an enemy.[END]
+
+#string:28:02A
+Attack an enemy in the air
+by bumping into it.[END]
+
+#string:28:02B
+If it works, will carry an enemy
+away from the battle.[END]
+
+#string:28:02C
+Fly around like crazy, attacking
+all enemies.[END]
+
+#string:28:02D
+He's a mail-carrying Paratroopa
+who's looking for lost mail.
+Press {PushColor}{Color:13}[C-DOWN]{PopColor} to have him carry
+Mario for short distances.
+While he's carrying Mario, press
+{PushColor}{Color:13}[C-DOWN]{PopColor} again to put him down.
+He can deliver letters to
+recipients all over the world.
+His specialty is attacking
+airborne enemies.[END]
+
+#string:28:02E
+Kick an enemy.[END]
+
+#string:28:02F
+Kick an enemy.[END]
+
+#string:28:030
+Kick an enemy.[END]
+
+#string:28:031
+Attack an enemy in the air
+by bumping into it.[END]
+
+#string:28:032
+Carry an enemy away from
+the battle.
+Weaker enemies are more easily
+carried away.[END]
+
+#string:28:033
+Fly around like crazy, attacking
+all enemies.[END]
+
+#string:28:034
+Press {PushColor}{Color:13}[C-DOWN]{PopColor} to become transparent
+so objects will go through you.[END]
+
+#string:28:035
+She can become transparent,
+and her specialty is slapping.[END]
+
+#string:28:036
+Slap an enemy.[END]
+
+#string:28:037
+Make Mario transparent so he
+can avoid enemy attacks.[END]
+
+#string:28:038
+Surprise enemies and scare
+them away from the fight.[END]
+
+#string:28:039
+Attack an enemy with a fan.[END]
+
+#string:28:03A
+Bow is a princess of a Boo who
+has a castle in Forever Forest.
+Press {PushColor}{Color:13}[C-DOWN]{PopColor} to make the team
+invisible so it can elude attack.
+Her specialty is slapping the
+sense into enemies.
+[END]
+
+#string:28:03B
+Slap an enemy.[END]
+
+#string:28:03C
+Slap an enemy.[END]
+
+#string:28:03D
+Slap an enemy.[END]
+
+#string:28:03E
+Make Mario transparent so he
+can avoid enemy attacks.[END]
+
+#string:28:03F
+Startle enemies and scare them
+away from battle.[END]
+
+#string:28:040
+Attack an enemy with a fan.[END]
+
+#string:28:041
+Press {PushColor}{Color:13}[C-DOWN]{PopColor} to illuminate the
+area and see invisible blocks.[END]
+
+#string:28:042
+Watt's great at penetrating
+defense and paralyzing enemies.[END]
+
+#string:28:043
+Penetrate defense power and
+attack an enemy with electricity.[END]
+
+#string:28:044
+If it works, paralyze an enemy
+with an electric shock.[END]
+
+#string:28:045
+Electrically boost Mario's attack
+power for a short time.[END]
+
+#string:28:046
+If it works, paralyze all enemies
+with an electric shock.[END]
+
+#string:28:047
+The child of Li'l Sparky, she
+can produce ample electricity.
+Press {PushColor}{Color:13}[C-DOWN]{PopColor} to illuminate areas
+and see invisible blocks.
+She's great at penetrating
+defenses and paralyzing enemies.[END]
+
+#string:28:048
+Penetrate defense power and
+attack an enemy with electricity.[END]
+
+#string:28:049
+Penetrate defense power and
+attack an enemy with electricity.[END]
+
+#string:28:04A
+Penetrate defense power and
+attack an enemy with electricity.
+[END]
+
+#string:28:04B
+If it works, paralyze an enemy
+with an electric shock.[END]
+
+#string:28:04C
+Electrically boost Mario's
+attack power for a short time.[END]
+
+#string:28:04D
+If it works, paralyze all enemies
+with an electric shock.[END]
+
+#string:28:04E
+Press {PushColor}{Color:13}[C-DOWN]{PopColor} to ride Sushie, then
+press {PushColor}{Color:13}[C-DOWN]{PopColor} again to dive.[END]
+
+#string:28:04F
+Sushie is especially good at
+dousing enemies with water.[END]
+
+#string:28:050
+Flop on an enemy.[END]
+
+#string:28:051
+Squirt a powerful jet of water.
+Great for fire enemies.[END]
+
+#string:28:052
+Create a cube of water to boost
+Mario's defense briefly.[END]
+
+#string:28:053
+Swim madly to create a wave
+that washes over all enemies.[END]
+
+#string:28:054
+Sushie's a kindly Cheep Cheep
+who worries about everyone.
+She loves romantic stories and
+cries at the drop of a fin.
+Press {PushColor}{Color:13}[C-DOWN]{PopColor} once to ride the waves,
+again to dive below the surface.
+Sushie's specialty is the water
+attack.
+[END]
+
+#string:28:055
+Flop on an enemy.[END]
+
+#string:28:056
+Flop on an enemy.[END]
+
+#string:28:057
+Flop on an enemy.[END]
+
+#string:28:058
+Squirt a powerful jet of water.
+Great for fire enemies.[END]
+
+#string:28:059
+Create a cube of water to boost
+Mario's defense briefly.[END]
+
+#string:28:05A
+Swim madly to create a wave
+that washes over all enemies.[END]
+
+#string:28:05B
+Press {PushColor}{Color:13}[C-DOWN]{PopColor} to ride Lakilester
+and float over lava and spikes.[END]
+
+#string:28:05C
+Throw a spiny egg at an enemy.[END]
+
+#string:28:05D
+Throw a spiny egg at an enemy.[END]
+
+#string:28:05E
+Throw spiny eggs at all enemies.[END]
+
+#string:28:05F
+Create a cloud to hide Mario
+for a short time.[END]
+
+#string:28:060
+If it works, blow the enemies
+away from the battle.[END]
+
+#string:28:061
+This wannabe talks like a tough
+guy to impress his girlfriend.
+Press {PushColor}{Color:13}[C-DOWN]{PopColor} to ride the cloud with
+him over spikes or lava.
+His specialty is throwing spiny
+eggs.[END]
+
+#string:28:062
+Throw a spiny egg at an enemy.[END]
+
+#string:28:063
+Throw a spiny egg at an enemy.[END]
+
+#string:28:064
+Throw a spiny egg at an enemy.[END]
+
+#string:28:065
+Throw spiny eggs at all enemies.[END]
+
+#string:28:066
+Create a cloud to hide Mario
+for a short time.
+While in the cloud, Mario will
+avoid enemy attacks.[END]
+
+#string:28:067
+If it works, blow the enemies
+away from the battle.[END]
+

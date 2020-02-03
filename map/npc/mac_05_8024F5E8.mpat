@@ -1,0 +1,61 @@
+% automatically dumped from map mac_05
+
+#new:Npc $mac_05_8024F5E8
+0000000C $NpcSettings_8024502C_mac_05 00000000 00000000 00000000 
+00002D09 $Script_Init_8024CCF4_mac_05 00000000 00000000 0000010E 
+{NoItems} {NoHP} {NoFP} {NoCoinBonus}
+00000000 00000000 00000000 00000000 00000000 00000000 00000000 00000000 
+00000000 00000000 00000000 00000000 00000000 00000000 00000000 00000000 
+00000000 00000000 00000000 00000000 00000000 00000000 00000000 00000000 
+00000000 00000000 00000000 00000000 00000000 00000000 00000000 00000000 
+00000000 00000000 00000000 00000000 00000000 00000000 00000000 00000000 
+00000000 00000000 00000000 00000000 00000000 00000000 00000000 00000000 
+{AnimationTable:NPC_8024F5E8} % .Sprite:Toad
+00000000 00000000 00000000 001A005A % He's a Toad. I think he's a guide at the port. He  ...
+
+#new:NpcSettings $NpcSettings_8024502C_mac_05
+00000000 001E0018 00000000 00000000 00000000 00000000 00000000 00000000 
+00000000 00000000 00630000 
+
+#new:Script $Script_8024CB1C_mac_05
+    0:  Switch  *StoryProgress 
+    C:  	Case  <  FFFFFFCB 
+   18:  		If  *Flag_MAC_9A  ==  00000000 
+   28:  			Set  *Var[0]  0007001A 
+   38:  		Else
+   40:  			Set  *Var[0]  0007001B 
+   50:  		EndIf
+   58:  	Case  <  FFFFFFF1 
+   64:  		Set  *Var[0]  0007001C 
+   74:  	Case  <  FFFFFFF9 
+   80:  		If  *Flag_MAC_A0  ==  00000000 
+   90:  			Set  *Var[0]  0007001D 
+   A0:  		Else
+   A8:  			Set  *Var[0]  0007001E 
+   B8:  		EndIf
+   C0:  	Case  <  00000007 
+   CC:  		Set  *Var[0]  0007001F 
+   DC:  	Case  <  0000000A 
+   E8:  		Set  *Var[0]  00070020 
+   F8:  	Case  <  00000027 
+  104:  		Set  *Var[0]  00070021 
+  114:  	Case  <  0000002B 
+  120:  		Set  *Var[0]  00070022 
+  130:  	Case  <  00000039 
+  13C:  		Set  *Var[0]  00070023 
+  14C:  	Case  <  0000003D 
+  158:  		Set  *Var[0]  00070024 
+  168:  	Case  <  00000059 
+  174:  		Set  *Var[0]  00070025 
+  184:  	Case  <  00000060 
+  190:  		Set  *Var[0]  00070026 
+  1A0:  EndSwitch
+  1A8:  Call     SayMessage0 	( .Npc:Self 00830204 00830201 00000000 *Var[0] ) % variable string ID
+  1C8:  Return
+  1D0:  End
+
+#new:Script $Script_Init_8024CCF4_mac_05
+    0:  Call     BindNpcInteract 	( .Npc:Self $Script_8024CB1C_mac_05 )
+   14:  Return
+   1C:  End
+

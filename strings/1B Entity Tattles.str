@@ -1,0 +1,314 @@
+#string:1B:000
+[STYLE:TATTLE][...]
+{Func_2B}Your Hammer can shatter this
+block.
+[WAIT][NEXT][...]
+Break it down, Mario![WAIT][END]
+
+#string:1B:001
+[STYLE:TATTLE][...]
+{Func_2B}Your Hammer isn't strong enough
+to break this block.
+[WAIT][NEXT][...]
+You might be able to break it
+with a more powerful Hammer.[WAIT][END]
+
+#string:1B:002
+[STYLE:TATTLE][...]
+{Func_2B}Your Hammer can shatter this
+block.
+[WAIT][NEXT][...]
+Break it down, Mario![WAIT][END]
+
+#string:1B:003
+[STYLE:TATTLE][...]
+{Func_2B}Your Hammer isn't strong enough
+to break this block.
+[WAIT][NEXT][...]
+You might be able to break it 
+with a more powerful Hammer.[WAIT][END]
+
+#string:1B:004
+[STYLE:TATTLE][...]
+{Func_2B}Your Hammer can shatter this
+block.
+[WAIT][NEXT][...]
+Break it down, Mario![WAIT][END]
+
+#string:1B:005
+[STYLE:TATTLE][...]
+{Func_2B}This is a brick block.
+[PAUSE:05][...]
+You can break it by jumping or
+by Hammering it.
+[WAIT][NEXT][...]
+You might find something inside
+when you break it.[WAIT][END]
+
+#string:1B:006
+[STYLE:TATTLE][...]
+{Func_2B}It's a ? block.
+[PAUSE:05][...]
+If you smash it, you'll get
+something from inside it.
+[WAIT][NEXT][...]
+A prize in every block! How
+exciting![WAIT][END]
+
+#string:1B:007
+[STYLE:TATTLE][...]
+{Func_2B}You already smashed this!
+Nothing more will come out. [WAIT][END]
+
+#string:1B:008
+[STYLE:TATTLE][...]
+{Func_2B}It's a movable block.
+[PAUSE:0A][...]
+You can push it around and even
+stand on it if you want to.
+[WAIT][NEXT][...]
+My Goompa used to tell me
+stories about these blocks.[WAIT][END]
+
+#string:1B:009
+[STYLE:TATTLE][...]
+{Func_2B}It's a red ? block.
+[PAUSE:05][...]
+If you smash it, you'll get
+something from inside it.
+[WAIT][NEXT][...]
+A prize in every block! How
+exciting![WAIT][END]
+
+#string:1B:00A
+[STYLE:TATTLE][...]
+{Func_2B}It's a jump pad.
+[PAUSE:05][...]
+You can catch crazy air if you
+jump on it.
+[WAIT][NEXT][...]
+If you use it right, you can
+reach new heights.[WAIT][END]
+
+#string:1B:00B
+[STYLE:TATTLE][...]
+{Func_2B}It's a switch.
+[PAUSE:05][...]
+Something's bound to happen if
+you jump on it or smash it.[WAIT][END]
+
+#string:1B:00C
+[STYLE:TATTLE][...]
+{Func_2B}It's a big switch.
+[PAUSE:05][...]
+You may have to Spin Jump on
+this one to activate it.[WAIT][END]
+
+#string:1B:00D
+[STYLE:TATTLE][...]
+{Func_2B}It's a big switch.
+[PAUSE:05][...]
+You may have to Tornado Jump on
+this one to activate it.[WAIT][END]
+
+#string:1B:00E
+[STYLE:TATTLE][...]
+{Func_2B}It's a floor switch.
+[PAUSE:05][...]
+Something's bound to happen if 
+you Spin Jump on it.[WAIT][END]
+
+#string:1B:00F
+[STYLE:TATTLE][...]
+{Func_2B}It's a floor switch.
+[PAUSE:05][...]
+Something's bound to happen if 
+you Tornado Jump on it. [WAIT][END]
+
+#string:1B:010
+[STYLE:TATTLE][...]
+{Func_2B}It's a pipe.
+[PAUSE:05][...]
+It'll take us somewhere.
+[WAIT][NEXT][...]
+I've heard that they even lead
+to faraway towns sometimes.[WAIT][END]
+
+#string:1B:011
+[STYLE:TATTLE][...]
+{Func_2B}It's a padlock.
+[PAUSE:05][...]
+It looks like we need to find a
+key to unlock it.
+[WAIT][NEXT][...]
+I wonder what's on the other
+side of the door... Let's find
+the key and find out![WAIT][END]
+
+#string:1B:012
+[STYLE:TATTLE][...]
+{Func_2B}If you see a ! over your head,
+check the area with {PushColor}{Color:10}[A]{PopColor}.[WAIT][END]
+
+#string:1B:013
+[STYLE:TATTLE][...]
+{Func_2B}It's a sign that points the way
+to Dry Dry Desert.[WAIT][END]
+
+#string:1B:014
+[STYLE:TATTLE][...]
+{Func_2B}This is certainly a large rock.
+[PAUSE:05][...]
+It looks cracked... I wonder if
+we could blow it up...[WAIT][END]
+
+#string:1B:015
+[STYLE:TATTLE][...]
+{Func_2B}It's a treasure chest.
+[PAUSE:05][...]
+Let's open it! I've gotta know
+what's inside there![WAIT][END]
+
+#string:1B:016
+[STYLE:TATTLE][...]
+{Func_2B}It's a treasure chest.
+[PAUSE:05][...]
+It looks like it's empty.[WAIT][END]
+
+#string:1B:017
+[STYLE:TATTLE][...]
+{Func_2B}This box looks sort of fragile,
+but you can't break it with the
+power level you have now.[WAIT][END]
+
+#string:1B:018
+[STYLE:TATTLE][...]
+{Func_2B}It's a wooden box.
+[PAUSE:05][...]
+You can break it if you Spin
+Jump on top of it.
+[WAIT][NEXT][...]
+There might be something inside.
+Let's break it open to find out![WAIT][END]
+
+#string:1B:019
+[STYLE:TATTLE][...]
+{Func_2B}It's a wooden box.
+[PAUSE:05][...]
+You can break it if you Tornado
+Jump on top of it.
+[WAIT][NEXT][...]
+There might be something inside.
+Let's break it open to find out![WAIT][END]
+
+#string:1B:01A
+[STYLE:TATTLE][...]
+{Func_2B}This floor looks breakable, but
+you can't smash it with the
+power level you have now.[WAIT][END]
+
+#string:1B:01B
+[STYLE:TATTLE][...]
+{Func_2B}You can break this floor if you
+Spin Jump on top of it.[WAIT][END]
+
+#string:1B:01C
+[STYLE:TATTLE][...]
+{Func_2B}You can break this floor if you
+Tornado Jump on top of it.[WAIT][END]
+
+#string:1B:01D
+[STYLE:TATTLE][...]
+{Func_2B}It's a jack-in-the-box.
+[PAUSE:05][...]
+If you Spin Jump on it, you'll get
+launched into the air.
+[WAIT][NEXT][...]
+You can also set it off by
+smashing it with your Hammer.[WAIT][END]
+
+#string:1B:01E
+[STYLE:TATTLE][...]
+{Func_2B}It's a jack-in-the-box.
+[PAUSE:05][...]
+If you Tornado Jump on it, you'll
+get launched into the air.
+[WAIT][NEXT][...]
+You can also set it off by 
+smashing it with your Hammer.[WAIT][END]
+
+#string:1B:01F
+[STYLE:TATTLE][...]
+{Func_2B}It's a Bellbell Plant.
+[PAUSE:0A][...]
+It grows only on Lavalava Island
+and swings like chimes when you
+touch it.
+[WAIT][NEXT][...]
+It makes a cool, jingling sound.
+[PAUSE:0A][...]
+Well... [PAUSE:05]that's all it does...[WAIT][END]
+
+#string:1B:020
+[STYLE:TATTLE][...]
+{Func_2B}It's a Trumpet Plant.
+[PAUSE:0A][...]
+It grows only on Lavalava Island
+and blows star dust from inside
+its flowers. 
+[WAIT][NEXT][...]
+Sometimes it'll blow out other
+things, too, so be ready.[WAIT][END]
+
+#string:1B:021
+[STYLE:TATTLE][...]
+{Func_2B}It's a Cymbal Bush.
+[PAUSE:0A][...]
+It grows only on Lavalava Island
+and has two stiff petals growing
+side by side.
+[WAIT][NEXT][...]
+If you disturb it, the petals
+slam!
+[PAUSE:0A][...]
+Wanna try? I dare you![WAIT][END]
+
+#string:1B:022
+[STYLE:TATTLE][...]
+{Func_2B}It's a Munchlesia.
+[WAIT][NEXT][...]
+It grows only on Lavalava
+Island. If you jump on it, it'll
+wrap you up tight and take some
+of your health.[WAIT][END]
+
+#string:1B:023
+[STYLE:TATTLE][...]
+{Func_2B}It's a Spinning Flower.
+[PAUSE:0A][...]
+It grows only on Lavalava Island
+and spins constantly.
+[WAIT][NEXT][...]
+If you press the {PushColor}{Color:14}[Z]{PopColor} button while
+on the flower, you'll spin up into
+the air for a while.[WAIT][END]
+
+#string:1B:024
+[STYLE:TATTLE][...]
+{Func_2B}It's a Bulb Bush.
+[PAUSE:0A][...]
+It grows only on Lavalava 
+Island. If you touch it, it'll
+give out light for a little bit.
+[WAIT][NEXT][...]
+It also wiggles a little and will
+sometimes surprise you.
+[PAUSE:0A][...]
+I doubt it would surprise me.[WAIT][END]
+
+#string:1B:025
+[STYLE:TATTLE][...]
+{Func_2B}If you see a ! over your head,
+check the object or the area
+with {PushColor}{Color:10}[A]{PopColor}.[WAIT][END]
+

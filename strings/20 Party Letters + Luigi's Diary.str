@@ -1,0 +1,1043 @@
+#string:20:000
+[STYLE:INSPECT][...]
+Dear Mario,
+How do you do?
+I'm Little T.
+I'm just a little Toad.
+[WAIT][NEXT][...]
+I live in Toad Town.
+I've been training at the Dojo
+so I can save Princess Peach!
+[WAIT][NEXT][...]
+I'll write to you again later.
+Bye![WAIT][END]
+
+#string:20:001
+Little T.[END]
+
+#string:20:002
+[STYLE:INSPECT][...]
+Hello, Mario.
+I'm Vanna T., Chuck Quizmo's
+lovely assistant.
+[WAIT][NEXT][...]
+Thanks for participating in our
+quiz show. Our ratings are
+through the roof! Are those
+Star Pieces helping you?
+[WAIT][NEXT][...]
+Please keep coming back until
+you answer the last question!
+I'll cheer you on!
+{Indent:91}Vanna T.[WAIT][END]
+
+#string:20:003
+Vanna T.[END]
+
+#string:20:004
+[STYLE:INSPECT][...]
+You rat, Mario!
+How dare you embarrass us!
+I'll never forget what you did!
+{Indent:96}Red
+[WAIT][NEXT][...]
+Hey! Watch your back when you
+walk at night!
+
+{Indent:91}Black
+[WAIT][NEXT][...]
+I'm gonna make you cry!!
+
+
+{Indent:91}Green
+[WAIT][NEXT][...]
+You'd better sleep with one eye
+open, pal!
+
+{Indent:91}Yellow
+[WAIT][NEXT][...]
+We shall return!!
+
+
+{Indent:82}Koopa Bros.[WAIT][END]
+
+#string:20:005
+Koopa Bros.[END]
+
+#string:20:006
+[STYLE:INSPECT][...]
+Dear Mario,
+[WAIT][NEXT][...]
+Thank you so much for taking 
+care of our Fuzzy problem.
+[WAIT][NEXT][...]
+We, the Koopa Troopas in the
+village, really appreciate what
+you've done for us.
+[WAIT][NEXT][...]
+We must apologize for not
+rewarding you with anything.
+We are but simple Koopas...
+[WAIT][NEXT][...]
+Please drop by the village
+whenever you like.
+Anytime. It'd be our honor.
+[WAIT][NEXT][...]
+Best of luck from all of us!
+
+ Sincerely,
+ Koopa Troopas at Koopa Village[WAIT][END]
+
+#string:20:007
+Koopa Troopas[END]
+
+#string:20:008
+[STYLE:INSPECT][...]
+Hey, wanderer! I have heard 
+many stories about your deeds.
+People speak very well of you.
+[WAIT][NEXT][...]
+It comforts me to know that
+Bowser's creatures no longer
+loot the ancient ruins.
+[WAIT][NEXT][...]
+Unfortunately, some relics are
+missing. This is a shame.
+[WAIT][NEXT][...]
+I've heard that a Koopa was
+wandering around the ruins...
+That sounds very suspicious.
+[WAIT][NEXT][...]
+You should be careful if you
+meet any suspicious types.
+[WAIT][NEXT][...]
+Anyway, I must go!
+I look forward to hearing
+great tales of your adventures!
+{Indent:8C}Moustafa[WAIT][END]
+
+#string:20:009
+Moustafa[END]
+
+#string:20:00A
+[STYLE:INSPECT][...]
+How are you, dear boy?
+I've just finished my exhausting
+research of the ruins found by
+{Color:07}my unwavering efforts{Color:00}.
+[WAIT][NEXT][...]
+Sadly, I did not find any
+treasures as valuable as I had
+hoped.
+[WAIT][NEXT][...]
+I will press on, though, old chap!
+There are treasures hidden
+all over the world!
+[WAIT][NEXT][...]
+I hear them calling my famous
+name, asking me to dig them up! [WAIT][END]
+
+#string:20:00B
+Kolorado[END]
+
+#string:20:00C
+[STYLE:INSPECT][...]
+To Mario,
+[WAIT][NEXT][...]
+Are you and Goombario doing OK?
+I'm fine. Oh!
+This is Goombaria, by the way.
+[WAIT][NEXT][...]
+Are you having an exciting
+adventure?
+Is Goombario being a hero?
+Or is he just goofing off?
+[WAIT][NEXT][...]
+You know... I sometimes go
+shopping in Toad Town with Mom.
+[WAIT][NEXT][...]
+Maybe we'll see you there.
+I'd really like to hear some of
+your exciting stories.
+I can't wait! Really!
+[WAIT][NEXT][...]
+You can beat up Bowser--
+I know it![HEART] 
+
+{Indent:8C}Goombaria[WAIT][END]
+
+#string:20:00D
+Goombaria[END]
+
+#string:20:00E
+[STYLE:INSPECT][...]
+Hi there, Mario.
+Are you eating regularly?
+You know, breakfast is the most
+important meal of the day!
+[WAIT][NEXT][...]
+The Cookbook you gave me really
+comes in handy.[HEART]
+[WAIT][NEXT][...]
+I already knew a lot of recipes,
+but with this book, I can cook a
+world of new dishes!
+[WAIT][NEXT][...]
+I want to tell you about the
+latest dish I've been cooking.
+It's unique!
+[WAIT][NEXT][...]
+It takes a Fire Flower and
+an Egg to fix it. When I first
+made it, it blew me away!
+[WAIT][NEXT][...]
+It might help you on your
+adventures. Please come visit
+and bring those ingredients![HEART]
+{Indent:91}Tayce T.[WAIT][END]
+
+#string:20:00F
+Tayce T.[END]
+
+#string:20:010
+[STYLE:INSPECT][...]
+How are you, old bean?
+Smashing, I trust. I'd just like
+to thank you for helping with 
+that nasty volcano business.
+[WAIT][NEXT][...]
+Of course, I'm sure you're well
+aware of my own heroic role
+in the final fracas.
+[WAIT][NEXT][...]
+I've lately worried about my
+dear wife. How she must worry 
+about me as I brave danger!
+[WAIT][NEXT][...]
+Perhaps it's time I returned
+home for a while. Feel free to
+stop by for a spot of tea!
+{Indent:8C}Kolorado[WAIT][END]
+
+#string:20:011
+Kolorado[END]
+
+#string:20:012
+[STYLE:INSPECT][...]
+Dear Mario,
+The volcano stopped erupting!
+Please come back and visit!
+[WAIT][NEXT][...]
+The village leader wants to see
+you, too. Everyone does!
+And we want to play with you!
+[WAIT][NEXT][...]
+We bet you've been on all kinds
+of wild adventures!
+Remember to bring your stories!
+{Indent:7D}The Yoshi Kids[WAIT][END]
+
+#string:20:013
+Yoshi Kids[END]
+
+#string:20:014
+[STYLE:INSPECT][...]
+Hey, big guy!
+How're you doing?
+Rowf of the Badge Shop here.
+[WAIT][NEXT][...]
+Thanks a bunch for shopping
+at my place.
+You're a cool customer!
+[WAIT][NEXT][...]
+To show my gratitude,
+I'll be waiting for you with
+all my stock 0\% off!
+{Indent:96}Rowf[WAIT][END]
+
+#string:20:015
+Rowf[END]
+
+#string:20:016
+[STYLE:INSPECT][...]
+Dear Mario,
+How are you holding up?
+[WAIT][NEXT][...]
+It's so sunny in Flower Fields.
+Peace has returned here.
+[WAIT][NEXT][...]
+Lily's in her own little world,
+as usual.
+[WAIT][NEXT][...]
+Rosie is spreading a rumor that
+you're interested in her.
+[WAIT][NEXT][...]
+I hear that Petunia is singing
+your praises across the land.
+[WAIT][NEXT][...]
+As you know, I can't move from
+this spot, but I'm content to
+watch the Bub-ulbs frolic.
+[WAIT][NEXT][...]
+Good luck to you, Mario.
+[WAIT][NEXT][...]
+All of Flower Fields is wishing
+to the Stars that your dreams
+will come true.
+{Indent:7D}Wise Wisterwood[WAIT][END]
+
+#string:20:017
+Wise Wisterwood[END]
+
+#string:20:018
+Goompa[END]
+
+#string:20:019
+Letter to Goombario
+from Goompa[END]
+
+#string:20:01A
+[STYLE:INSPECT][...]
+Dear Goombario,
+[WAIT][NEXT][...]
+How goes the adventure with
+Mario? Is it fun?
+Are you being a brave Goomba?
+[WAIT][NEXT][...]
+Remember to relish your time out
+in the wide world.
+Grow wise from your travels.
+[WAIT][NEXT][...]
+I wish to the Stars that your
+adventure will prove to be a
+fruitful one.
+[WAIT][NEXT][...]
+If you can, drop in on us
+old folks now and again.
+Gooma misses you terribly.
+[WAIT][NEXT][...]
+I'm looking forward to seeing
+you as a grown-up.
+
+{Indent:91}Goompa[WAIT][END]
+
+#string:20:01B
+Gooma[END]
+
+#string:20:01C
+Letter to Goombario
+from Gooma[END]
+
+#string:20:01D
+[STYLE:INSPECT][...]
+Dear Goombario,
+How are you, my cute Goombario?
+We're all doing fine here.
+[WAIT][NEXT][...]
+I hope your Tattle ability has
+finally become useful.
+[WAIT][NEXT][...]
+Stop by whenever you get the
+chance. We all miss you.
+[WAIT][NEXT][...]
+Good luck, my little Goomnut!
+I'll be thinking of you.
+
+{Indent:96}Gooma[WAIT][END]
+
+#string:20:01E
+Red & Blue Goombas[END]
+
+#string:20:01F
+Letter from the Red & Blue
+Goomba Bros. to Goombario [END]
+
+#string:20:020
+[STYLE:INSPECT][...]
+Goombario,
+[WAIT][NEXT][...]
+You were a lot stronger than
+you looked. We figured you were
+just some punk Goomba hanging
+around with Mario.
+[WAIT][NEXT][...]
+Anyway, you proved yourself
+to us. And you showed us that
+being good is as important as
+being strong. So...
+[WAIT][NEXT][...]
+When you come back, do you think
+maybe we could be...friends?
+Please say yes!
+[WAIT][NEXT][...]
+We'll be waiting!
+
+{Indent:46}Red & Blue Goomba Bros.[WAIT][END]
+
+#string:20:021
+Kolorado's Wife[END]
+
+#string:20:022
+Letter from Kolorado's 
+wife to Kooper[END]
+
+#string:20:023
+[STYLE:INSPECT][...]
+Kooper, how are you doing?
+Your mother dropped by for a
+visit the other day.
+[WAIT][NEXT][...]
+We had a really nice talk over
+some Koopa Tea. She did seem
+a touch disappointed that you
+were still on the road.
+[WAIT][NEXT][...]
+She said that she's going to
+cook a delicious dinner when
+you come back, so you have
+something to look forward to.
+[WAIT][NEXT][...]
+Oh yes! If you happen to see
+my wayward husband, please tell
+him to come home more often.
+[WAIT][NEXT][...]
+Take care.
+
+{Indent:82}Kolorado's wife[WAIT][END]
+
+#string:20:024
+Koover[END]
+
+#string:20:025
+Letter to Kooper from
+Koover[END]
+
+#string:20:026
+[STYLE:INSPECT][...]
+Dear Kooper,
+[WAIT][NEXT][...]
+How goes the adventure?
+I can't believe you're hanging
+with Mario! I'm so jealous!
+[WAIT][NEXT][...]
+Koopa Village is the same.
+Kolorado's wife is impatiently
+awaiting Kolorado's return.
+[WAIT][NEXT][...]
+You and Kolorado... You guys
+have so much excitement in
+your lives. You're so lucky!
+[WAIT][NEXT][...]
+Anyway, good luck, buddy!
+
+{Indent:46}Koover of Koopa Village[WAIT][END]
+
+#string:20:027
+Kooper's Fan[END]
+
+#string:20:028
+Letter from Kooper's Fan
+to Kooper[END]
+
+#string:20:029
+[STYLE:INSPECT][...]
+Dear Mr. Kooper,
+[WAIT][NEXT][...]
+I must apologize for sending
+a letter out of the blue.[HEART]
+[WAIT][NEXT][...]
+But I had to! I saw you walking
+in Toad Town with Mario.
+[WAIT][NEXT][...]
+You seemed so strong and brave.
+So dashing...[HEART]
+[WAIT][NEXT][...]
+If it's OK, I'd really love
+to have a talk with you.
+(Oh[HEART] How embarrassing[HEART])
+[WAIT][NEXT][...]
+I'll write to you again soon.
+Good luck, brave Koopa!
+
+{Indent:91}Your Fan[WAIT][END]
+
+#string:20:02A
+Bruce[END]
+
+#string:20:02B
+Love letter to Bombette
+from Bruce[END]
+
+#string:20:02C
+[STYLE:INSPECT][...]
+Bombeeeeette!!
+You must return to me, oh fair
+and combustible Bob-omb!
+[WAIT][NEXT][...]
+My heart awaits you in Koopa
+Village. It burns like a fuse!
+[WAIT][NEXT][...]
+I will love you forever!
+Even if you reject me,
+my love will endure!
+[WAIT][NEXT][...]
+If I don't see you soon,
+I'll surely explode, so
+please hurry!
+[WAIT][NEXT][...]
+You've ignited my passion!
+Come back to me, my love!
+
+{Indent:8C}Your Bruce[WAIT][END]
+
+#string:20:02D
+Dry Dry Railroad[END]
+
+#string:20:02E
+Letter to Bombette from
+Dry Dry Railroad
+[END]
+
+#string:20:02F
+[STYLE:INSPECT][...]
+Dear Miss Bombette,
+[WAIT][NEXT][...]
+We write this letter as a
+humble request to you,
+the most worthy and explosive
+of all Bob-ombs.
+[WAIT][NEXT][...]
+It's still a long time off,
+but later this year we will be
+staging an opening event for
+a new Dry Dry Railroad route.
+[WAIT][NEXT][...]
+We feel the event would be a
+gala bash if we could enlist
+your bomb-bursting help.
+[WAIT][NEXT][...]
+Crowds love fireworks! Anyway,
+we'll get in touch with you
+after your adventure ends to
+confirm the dates.
+[WAIT][NEXT][...]
+Sincerely,
+
+      Dry Dry Railroad
+      Transportation Department[WAIT][END]
+
+#string:20:030
+Bruce[END]
+
+#string:20:031
+Love letter to Bombette
+from Bruce[END]
+
+#string:20:032
+[STYLE:INSPECT][...]
+Bombeeeeette!!
+I love you. I love you. I love
+you. I love you. I love you.
+[WAIT][NEXT][...]
+I love you. I love you. I love
+you. I love you. I love you. I
+love you. I love you. I love you.
+[WAIT][NEXT][...]
+I love you. I love you. I love
+you. I love you. I love you. I
+love you. I love you. I love you.
+[WAIT][NEXT][...]
+Please understand how I feel!
+I love you!
+
+{Indent:8C}Your Bruce[WAIT][END]
+
+#string:20:033
+Frost T.[END]
+
+#string:20:034
+Letter to Parakarry from
+Frost T.[END]
+
+#string:20:035
+[STYLE:INSPECT][...]
+Dear Parakarry,
+Thank you for always delivering
+my mail, despite snow and ice.
+[WAIT][NEXT][...]
+Because I live in this cold
+valley so far from my family,
+the letters I receive are my
+greatest pleasure in life.
+[WAIT][NEXT][...]
+Kind words from my wife and
+daughter give me the strength
+to continue my work.
+[WAIT][NEXT][...]
+My heart leaps with joy every
+time I hear the sound of
+your wings.
+[WAIT][NEXT][...]
+May you never molt!
+
+{Indent:64}Your Fan, Frost T.[WAIT][END]
+
+#string:20:036
+Whacka[END]
+
+#string:20:037
+Letter to Parakarry from
+Whacka[END]
+
+#string:20:038
+[STYLE:INSPECT][...]
+Whaack-oo! [PAUSE:0A]This is Whacka!
+[WAIT][NEXT][...]
+Mr. Parakarry, from my place in
+the shadows, I always see you
+flying above Mt. Rugged.
+[WAIT][NEXT][...]
+It looks like so much fun, 
+flying on a sunny day!
+Tell me about it sometime.
+[WAIT][NEXT][...]
+My wish to the Stars is that
+you never fall from the sky!
+
+             Whacka of Mt. Rugged[WAIT][END]
+
+#string:20:039
+Bootler[END]
+
+#string:20:03A
+Letter to Bow from Bootler[END]
+
+#string:20:03B
+[STYLE:INSPECT][...]
+To Lady Bow,
+Please return as quickly
+as possible.
+[WAIT][NEXT][...]
+I cannot shake the image of
+you in some sort of danger.
+[WAIT][NEXT][...]
+It so worries me that I
+can no longer sleep.
+[WAIT][NEXT][...]
+When you went with Mario, you
+told me not to go with you...
+[WAIT][NEXT][...]
+But now I regret my obedience!
+I should have gone anyway and
+protected you from harm!
+[WAIT][NEXT][...]
+Now all I can do is wish to
+the Stars with the other Boos
+that you return safely.
+[WAIT][NEXT][...]
+Please take care.
+
+{Indent:91}Bootler[WAIT][END]
+
+#string:20:03C
+Boos[END]
+
+#string:20:03D
+Letter to Bow from Boos
+in Gusty Gulch[END]
+
+#string:20:03E
+[STYLE:INSPECT][...]
+Dear Lady Bow,
+[WAIT][NEXT][...]
+Thank you for rescuing us from
+that horrible Tubba Blubba up
+on Gusty Gulch.
+[WAIT][NEXT][...]
+We'd never dreamed we'd meet
+a Boo of your stature!
+[WAIT][NEXT][...]
+The sight of you alone would
+have been enough to keep us
+going, but you went ahead and
+defeated Tubba Blubba too!
+[WAIT][NEXT][...]
+We thought that our friends
+were done for when they were
+eaten, but they've all returned.
+[WAIT][NEXT][...]
+Many thanks! When you're done
+with your quest, we're throwing
+you a party. Please come!
+[WAIT][NEXT][...]
+Oh! And please say "Hi" to
+everyone at Boo's Mansion!
+
+{Indent:5A}Boos in Gusty Gulch[WAIT][END]
+
+#string:20:03F
+Mother[END]
+
+#string:20:040
+Letter to Watt from her
+mother[END]
+
+#string:20:041
+[STYLE:INSPECT][...]
+Watt, thank the Stars that
+you're safe! I was so worried!
+[WAIT][NEXT][...]
+When you first disappeared,
+we were completely baffled.
+Nobody would help us and we
+couldn't find a clue!
+[WAIT][NEXT][...]
+Then we went to Toad Town and
+heard about the Toy Box.
+[WAIT][NEXT][...]
+I was pretty sure you'd be OK
+in there for a while, but...
+[WAIT][NEXT][...]
+...I was still worried! Please
+give my deepest thanks to those
+who saved you! Come home soon!
+{Indent:87}Your Mother[WAIT][END]
+
+#string:20:042
+Fuzzipede[END]
+
+#string:20:043
+Letter to Watt from Fuzzipede[END]
+
+#string:20:044
+[STYLE:INSPECT][...]
+Dear Watt,
+[WAIT][NEXT][...]
+Well, I'm still kickin'.
+I ain't gonna be bait no more.
+[WAIT][NEXT][...]
+I reckon I 'preciate the help
+of you and your buddies.
+This here letter'll be my thanks,
+so we're even, all righty?
+[WAIT][NEXT][...]
+Anyhoo, good luck doing what
+y'all do. And don't be botherin'
+me if we meet up agin.
+{Indent:8C}Fuzzipede[WAIT][END]
+
+#string:20:045
+Sashimie[END]
+
+#string:20:046
+Letter to Sushie from
+Sashimie, Sushie's daughter
+[END]
+
+#string:20:047
+[STYLE:INSPECT][...]
+Dear Mom,
+First I heard you were lost
+in the jungle, then I heard
+you were traveling with Mario!
+[WAIT][NEXT][...]
+Don't do anything dangerous.
+Come back as quickly as you can.
+I'm waiting for you.
+[WAIT][NEXT][...]
+You're gonna be a grandCheep!
+I want you to see the small fry!
+
+          Your daughter, Sashimie[WAIT][END]
+
+#string:20:048
+Raphael the Raven[END]
+
+#string:20:049
+Letter to Sushie from
+Raphael the Raven[END]
+
+#string:20:04A
+[STYLE:INSPECT][...]
+Dear Sushie,
+[WAIT][NEXT][...]
+You followed Mario, didn't you?
+How are you doing? I never
+expected you'd go with him.
+[WAIT][NEXT][...]
+I want to hear about you,
+Mario and everything else,
+so why don't you come to see
+me when you finish traveling?
+[WAIT][NEXT][...]
+If you have a hard time climbing
+the tree, I'll come down for you.
+
+{Indent:64}Raphael the Raven
+[WAIT][NEXT][...]
+P.S. Is there anything you want
+to eat? I'll make anything.[WAIT][END]
+
+#string:20:04B
+Lakilulu[END]
+
+#string:20:04C
+Letter to Lakilester from
+Lakilulu[END]
+
+#string:20:04D
+[STYLE:INSPECT][...]
+Dear Lakilester,
+Where are you? You'd better be
+a good Lakitu and return soon.
+[WAIT][NEXT][...]
+I'll be faithfully waiting for
+you near the Wise Wisterwood.
+[WAIT][NEXT][...]
+If you don't come back, I'll
+search for you 'til the end of
+time. I'll give you such a
+Spiny Storm you'll...
+[WAIT][NEXT][...]
+I'm sorry, love...
+I get mad when I worry...[HEART]
+
+{Indent:78}Your Lakilulu[WAIT][END]
+
+#string:20:04E
+Flight[END]
+
+#string:20:04F
+Letter to Lakilester from
+Flight[END]
+
+#string:20:050
+[STYLE:INSPECT][...]
+Dear Spike,
+[WAIT][NEXT][...]
+You turncoat!! You're hanging
+around with Mario! I'll never
+forgive you, you big traitor!
+[WAIT][NEXT][...]
+I heard that your real name is
+Lakilester, too! I never heard
+such a silly name! I'm gonna call
+you Lakilester from now on.
+[WAIT][NEXT][...]
+The only way you could earn my
+respect now would be to beat...
+Lord Bowser! Yeah, right!
+[WAIT][NEXT][...]
+Do that and I'll forgive you!
+
+            Flight, of Team Lakitu[WAIT][END]
+
+#string:20:051
+[STYLE:INSPECT][...]
+Once again, my brother went on
+an exciting journey.
+[WAIT][NEXT][...]
+Once again, he went alone.
+It's so unfair!
+[WAIT][NEXT][...]
+I remember the carefree days
+when we played Golf and 
+Tennis and had Parties.
+[WAIT][NEXT][...]
+I remodeled the house and
+made a secret basement.
+My brother has no idea!
+[WAIT][NEXT][...]
+It's the perfect place to 
+write in you, my secret diary.[WAIT][END]
+
+#string:20:052
+[STYLE:INSPECT][...]
+I heard that a ghost appeared
+in Toad Town today. It was big,
+really big.
+[WAIT][NEXT][...]
+And it had red eyes, a giant,
+gaping mouth and a mustache.
+[WAIT][NEXT][...]
+
+..........
+[WAIT][NEXT][...]
+Because you're my secret diary,
+I'll tell the truth: Yaaaah!
+[WAIT][NEXT][...]
+I hate ghosts!! What will I do
+if it appears at night!
+Come back, Mario! I'm scared!
+[WAIT][NEXT][...]
+Yikes! I can feel something
+behind me. Ahhh! I'm sure it's
+there, but I can't look back!
+No! No! Get away!
+[WAIT][NEXT][...]
+I think I'll be safe if I
+don't freeze with fear. I'll
+just shut my eyes and take
+five steps back,
+[WAIT][NEXT][...]
+and then I'll jump and dash 
+into bed. Here I go![WAIT][END]
+
+#string:20:053
+[STYLE:INSPECT][...]
+A Shy Guy appeared at my house
+the other day. I found it asleep
+in my bed! Can you believe it?
+[WAIT][NEXT][...]
+I ran after him, but he was way
+too fast for me.
+[WAIT][NEXT][...]
+I heard that a lot of Shy Guys
+also appeared in Toad Town.
+[WAIT][NEXT][...]
+Supposedly, they came from
+Shy Guy's Toy Box.
+It must be somewhere in town.
+[WAIT][NEXT][...]
+A Toy Box...
+I wouldn't mind seeing that.
+Maybe they have a Nintendo 64![WAIT][END]
+
+#string:20:054
+[STYLE:INSPECT][...]
+The whole Goomba family visited
+me today.
+[WAIT][NEXT][...]
+They said that Goombario is in
+the care of my brother, then
+they gave me a souvenir!
+[WAIT][NEXT][...]
+It was a Goomnut, a special
+treat from Goomba Village.
+[WAIT][NEXT][...]
+It looked so yummy I ate it
+without telling my brother!
+My FP increased by 3.
+[WAIT][NEXT][...]
+.........You think he'll notice?[WAIT][END]
+
+#string:20:055
+[STYLE:INSPECT][...]
+I heard that my brother went
+to Lavalava Island on a tuna.
+[WAIT][NEXT][...]
+Unbelievable! So unfair!!
+I... I... I wanna ride on
+a tuna, too![WAIT][END]
+
+#string:20:056
+[STYLE:INSPECT][...]
+I heard that some Yoshi kids on
+Lavalava Island got lost and
+my brother saved them.
+[WAIT][NEXT][...]
+I bet Yoshi kids are just about
+the cutest things around.
+[WAIT][NEXT][...]
+I'm a bit jealous of my brother.[WAIT][END]
+
+#string:20:057
+[STYLE:INSPECT][...]
+I heard a rumor that I actually
+have lots of fans. Wow!
+[WAIT][NEXT][...]
+What great news! To live up to
+their expectations, I want to
+play the lead in an adventure!
+[WAIT][NEXT][...]
+Of course, my name would have 
+to be in the title.
+[PAUSE:0A][...]
+That'd be sweet...[HEART]
+[WAIT][NEXT][...]
+But I know it'll never happen...[WAIT][END]
+
+#string:20:058
+[STYLE:INSPECT][...]
+I heard that a door appeared
+in Toad Town. They say it leads
+to Flower Fields.
+[WAIT][NEXT][...]
+I guess lots of Flower Spirits
+live in that flowery place.
+[WAIT][NEXT][...]
+Flower Spirits... I bet their
+souls are as beautiful as the
+prettiest flowers...[WAIT][END]
+
+#string:20:059
+[STYLE:INSPECT][...]
+Somebody said to me that a
+way will open when you use
+a scarf and bucket... What?
+[WAIT][NEXT][...]
+A scarf for a snowman?
+Wouldn't it melt him?[WAIT][END]
+
+#string:20:05A
+[STYLE:INSPECT][...]
+Yesterday, I got stuck in
+the trapdoor when I was 
+entering my secret room...
+[WAIT][NEXT][...]
+Have I been using it too much?
+Or am I putting on weight?
+[WAIT][NEXT][...]
+I'd better oil it to make it
+open easier.[WAIT][END]
+
+#string:20:05B
+[STYLE:INSPECT][...]
+When I looked up at the sky
+tonight, I saw a shooting star
+arcing across the sky toward
+Princess Peach's Castle.
+[WAIT][NEXT][...]
+I made a wish to the Stars
+right away, but I wonder if
+it will really be granted...
+[WAIT][NEXT][...]
+What I wished was.............
+..............................
+[WAIT][NEXT][...]
+I can't write it even though
+this is a secret diary.
+[WAIT][NEXT][...]
+Aargh! You can see it even
+though I erased it!
+[WAIT][NEXT][...]
+{Color:17}My wish is to sleep in the top
+bunk bed.[WAIT][END]
+
+#string:20:05C
+[STYLE:INSPECT][...]
+I heard that my brother finally
+saved Princess Peach!
+[WAIT][NEXT][...]
+Bowser increased his power with
+the Star Rod, but my brilliant
+brother beat him anyway!
+[WAIT][NEXT][...]
+I guess he'll be coming back home
+pretty soon.
+[WAIT][NEXT][...]
+I'm looking forward to listening
+to the story of his adventure.
+[WAIT][NEXT][...]
+Anyway, I'm going to finish this
+diary for now.
+[WAIT][NEXT][...]
+I have to seal this room off
+before he notices that I
+remodeled without telling him.
+[WAIT][NEXT][...]
+Now I'm going to go prepare a
+dinner to celebrate Mario's
+return! 
+                         Luigi[WAIT][END]
+

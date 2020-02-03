@@ -1,0 +1,2783 @@
+#string:11:000
+[STYLE:RIGHT][...]
+What ho...?
+[PAUSE:0A][...]
+Now who might that be?[WAIT][END]
+
+#string:11:001
+[STYLE:RIGHT][...]
+Ho [PAUSE:05]ho [PAUSE:05]ho [PAUSE:05]ho! [PAUSE:0A]Up here, son!
+[WAIT][NEXT][...]
+They call me Wise Wisterwood.
+[PAUSE:0A][...]
+I am the oldest tree here in
+Flower Fields, the land of trees,
+flowers, grasses and plants.
+[WAIT]{Func_04}[END]
+
+#string:11:002
+[NEXT][...]
+And you must be Mario.
+[PAUSE:0A][...]
+I've heard a lot about you, son.
+[WAIT][NEXT][...]
+You're trying your best to save
+the Star Spirits and the rest of
+your world, aren't you?
+[WAIT][NEXT][...]
+Very noble. If that is true, then
+your arrival means a Star Spirit
+is here in our land.
+[WAIT][NEXT][...]
+I would help you in your quest,
+but alas...
+[WAIT][NEXT][...]
+I cannot right now.
+[PAUSE:0A][...]
+Flower Fields is in trouble.[WAIT][END]
+
+#string:11:003
+[STYLE:RIGHT][...]
+A creature named Huff N. Puff
+and his followers invaded our
+fair land not long ago.
+[WAIT][NEXT][...]
+These creatures brought clouds
+to our sunny sky. It has been
+dark and cloudy ever since.
+[WAIT][NEXT][...]
+The sun doesn't even bother to
+rise in the sky anymore.
+[PAUSE:0A][...]
+We are all weak and fading...
+[WAIT][NEXT][...]
+[PAUSE:05][...]
+Oh! I remember something!
+[PAUSE:03][...]
+The rumor is that Huff N. Puff
+is holding somebody captive...
+[PAUSE:05][...]
+[WAIT][NEXT][...]
+[PAUSE:05][...]
+Of course!
+[PAUSE:0A][...]
+It must be the Star Spirit that
+you're searching for![WAIT][END]
+
+#string:11:004
+[STYLE:RIGHT][...]
+...Oh ho?
+[PAUSE:05][...]
+You're going to defeat the
+wicked Huff N. Puff, then?
+[WAIT][NEXT][...]
+Well, that would make the wishes
+of Flower Fields come true...
+[WAIT][NEXT][...]
+But it's not that easy.
+[PAUSE:0A][...]
+Huff N. Puff is up in the sky, on
+what we call the Cloudy Climb.
+[PAUSE:0F][...]
+There's no way up there now.
+[WAIT][NEXT][...]
+Well, 
+[PAUSE:03][...]
+.[PAUSE:03].[PAUSE:03].[PAUSE:03]You might be able to reach it
+if you find a Magical Bean or
+something that grows high...[WAIT][END]
+
+#string:11:005
+[STYLE:RIGHT][...]
+Now, wait a minute...
+[WAIT][NEXT][...]
+I think there IS a flower that
+has a Magical Bean...somewhere.
+[WAIT][NEXT][...]
+Umm... [PAUSE:07]I believe...
+[PAUSE:0A][...]
+Her name is Petunia.
+[WAIT][NEXT][...]
+Perhaps she is off to the east.
+It wouldn't hurt to go visit her
+and ask about it.
+[WAIT][NEXT][...]
+The other flowers and Bub-ulbs
+around here might have some
+useful information, as well.
+[PAUSE:0A][...]
+I'd say talk to everyone![WAIT][END]
+
+#string:11:006
+[STYLE:RIGHT][...]
+Oh, thank you, Mario. You did a
+tree-mendous job.
+[WAIT][NEXT][...]
+You cleared off those clouds so
+the sun could rise once more.
+[WAIT][NEXT][...]
+It's so nice seeing my dear
+Flower Fields full of light again
+after such a long time.
+[PAUSE:0A][...]
+There's nothing like sunlight!
+[WAIT][NEXT][...]
+Oh yes, of course!
+[PAUSE:0A][...]
+You should plant that Magical
+Bean, don't you think?
+[PAUSE:0A][...]
+It should grow well now. 
+[WAIT][NEXT][...]
+I'd say the best place for you
+to plant it would be over there
+where you can see the soil.[WAIT][END]
+
+#string:11:007
+[NEXT][...]
+If you want to plant the bean,
+the best place is that patch
+where you can see the soil.
+[WAIT][NEXT][...]
+Hurry up and plant it![WAIT][END]
+
+#string:11:008
+[STYLE:RIGHT][...]
+Ho now! What are you doing?
+[PAUSE:0A][...]
+Haven't you ever grown a plant?
+[WAIT][NEXT][...]
+When you're planting something,
+the order is soil, then the bean,
+then water.[WAIT][END]
+
+#string:11:009
+[STYLE:RIGHT][...]
+Soil!
+Bean!!
+Then water!!!
+[WAIT][NEXT][...]
+...That's the only way!
+[PAUSE:0A][...]
+Come on, now. You can do it![WAIT][END]
+
+#string:11:00A
+[STYLE:RIGHT][...]
+Ho ho ho! Success!
+[WAIT][NEXT][...]
+Look at that sprout! Now you
+can go up to Cloudy Climb.
+[PAUSE:0A][...]
+Best of luck, son.
+[WAIT][NEXT][...]
+...Hmmm. My spot seems to be
+getting less and less sunny.
+[WAIT][NEXT][...]
+...How disappointing.[WAIT][END]
+
+#string:11:00B
+[STYLE:RIGHT][...]
+Congratulations, young Mario!
+You saved the Star Spirit!
+[WAIT][NEXT][...]
+Because of your efforts, Flower
+Fields is beautiful again.[WAIT][END]
+
+#string:11:00C
+[STYLE:RIGHT][...]
+Thank you, Mario.
+[PAUSE:0A][...]
+It was worth living so long to
+meet a man of your stature.
+[WAIT][NEXT][...]
+Please come and see me again.
+[PAUSE:0A][...]
+I'll be looking forward to it.[WAIT][END]
+
+#string:11:00D
+[STYLE:RIGHT][...]
+What ho...?
+[PAUSE:03][...]
+What is it, son?
+[PAUSE:0A][...]
+Do you need something?
+{Func_04}[END]
+
+#string:11:00E
+[NEXT][...]
+If a bean is what you seek, you
+ought to ask Petunia if she'll
+give one to you.
+[WAIT][NEXT][...]
+Petunia's hobby is collecting
+rare beans and seeds.
+[WAIT][NEXT][...]
+She has this and that and then
+some other things...and she likely
+has a Magical Bean.
+[WAIT][NEXT][...]
+That particular bean definitely
+is the best one...[WAIT][END]
+
+#string:11:00F
+[NEXT][...]
+Have you met Posie, by chance?
+[PAUSE:0A][...]
+She's a wonderful flower.
+[WAIT][NEXT][...]
+The soil is very nutritious and
+rich where she is.
+[WAIT][NEXT][...]
+As a result, Posie's flowers
+always grow and grow...[WAIT][END]
+
+#string:11:010
+[NEXT][...]
+The spring water that flows
+where Lily the Flower Spirit
+grows is so refreshing.
+[WAIT][NEXT][...]
+Is that spring still gushing?
+[PAUSE:0A][...]
+I wonder how Lily's doing...[WAIT][END]
+
+#string:11:011
+[NEXT][...]
+The lack of sunshine completely
+robs us of our vigor.
+[WAIT][NEXT][...]
+If these clouds continue, we'll
+all likely wither up.
+[WAIT][NEXT][...]
+If only I could move around...
+I'd take a journey to the Sun
+Tower to cheer the sun up.[WAIT][END]
+
+#string:11:012
+[NEXT][...]
+Oh, Mario.
+[PAUSE:0A][...]
+Huff N. Puff is on Cloudy Climb.
+[WAIT][NEXT][...]
+You can reach Cloudy Climb by
+riding on the leaf of the Bean
+Stalk that you grew.
+[WAIT][NEXT][...]
+Teach Huff N. Puff a lesson!
+[PAUSE:0A][...]
+Please! We're all relying on you.[WAIT][END]
+
+#string:11:013
+[NEXT][...]
+Thank you from the bottom of my
+trunk, Mario.
+[WAIT][NEXT][...]
+It was worth living so long to
+meet a man of your stature.
+[WAIT][NEXT][...]
+Please come and see me again.
+[PAUSE:0A][...]
+I'll be looking forward to it.[WAIT][END]
+
+#string:11:014
+[STYLE:RIGHT][...]
+What ho...?
+[PAUSE:03][...]
+What is it, son?
+[PAUSE:0A][...]
+Do you need something?
+{Func_04}[END]
+
+#string:11:015
+[NEXT][...]
+Thanks to you, everyone in
+Flower Fields can live in peace.[WAIT][END]
+
+#string:11:016
+[STYLE:RIGHT][...]
+You want to meet Petunia?
+[PAUSE:0A][...]
+That flower seems a little
+strange to me, you know.
+[WAIT][NEXT][...]
+She collects beans and seeds,
+but she never grows them.
+[WAIT][NEXT][...]
+She just likes seeds.
+[PAUSE:0A][...]
+I call her the Seed Maniac.[WAIT][END]
+
+#string:11:017
+[STYLE:RIGHT][...]
+I heard that some of the trees
+in Flower Fields drop berries if
+you hit them hard enough.[WAIT][END]
+
+#string:11:018
+[STYLE:RIGHT][...]
+I heard that some of the trees
+in Flower Fields drop berries if
+you hit them hard enough.[WAIT][END]
+
+#string:11:019
+[STYLE:RIGHT][...]
+Have you met Mr. Sun before?
+[WAIT][NEXT][...]
+I heard that Mr. Sun lives on top
+of the Sun Tower.[WAIT][END]
+
+#string:11:01A
+[STYLE:RIGHT][...]
+{StartFX:Shrinking}[NOTE]The light of the sun
+[PAUSE:0A][...]
+is back--ooh, yeah!
+[PAUSE:05][...]
+Feels good, so good, uh huh!!
+[WAIT][NEXT][...]
+Flower flower shower power
+shoo-bee-do-waa [PAUSE:05]ooo-waaaa
+[PAUSE:05][...]
+Dooo [PAUSE:05]waaa![NOTE]
+{EndFX:Shrinking}[WAIT][NEXT][...]
+I feel like singing and dancing
+all day long![WAIT][END]
+
+#string:11:01B
+[STYLE:RIGHT][...]
+{StartFX:Shrinking}[NOTE]The light of the sun
+[PAUSE:0A][...]
+is back--ooh, yeah!
+[PAUSE:05][...]
+Feels good, so good, uh huh!!
+[WAIT][NEXT][...]
+Flower flower shower power
+shoo-bee-do-waa [PAUSE:05]ooo-waaaa
+[PAUSE:05][...]
+Dooo [PAUSE:05]waaa![NOTE]
+{EndFX:Shrinking}[WAIT][NEXT][...]
+I feel like singing and dancing
+all day long![WAIT][END]
+
+#string:11:01C
+[STYLE:RIGHT][...]
+Rosie and Lily are always
+arguing about which one of them
+is more beautiful.
+[WAIT][NEXT][...]
+They're both beautiful!
+[PAUSE:0A][...]
+Why compare?!
+[WAIT][NEXT][...]
+Every flower is beautiful.[WAIT][END]
+
+#string:11:01D
+[STYLE:RIGHT][...]
+Petunia?
+[PAUSE:0A][...]
+The Seed Maniac, Petunia? The
+one who collects seeds like a
+crazy flower?
+[WAIT][NEXT][...]
+I know her. She's growing due
+east from here.[WAIT][END]
+
+#string:11:01E
+[STYLE:RIGHT][...]
+There are so many beautiful
+flowers in Flower Fields.
+[WAIT][NEXT][...]
+It would be a mistake to judge
+them by their beauty, though.
+Not all of them are gentle
+flowers, that's for sure.[WAIT][END]
+
+#string:11:01F
+[STYLE:RIGHT][...]
+Lily is very beautiful, but I've
+heard that she's more than a
+little bit strange.
+[WAIT][NEXT][...]
+They say she always floats in
+the water, dreaming of things
+that could never happen.[WAIT][END]
+
+#string:11:020
+[STYLE:RIGHT][...]
+Mr. Sun can't rise because so
+many clouds are in the way.
+[WAIT][NEXT][...]
+He used to be burning hot, but
+now he's cooled way down.
+[WAIT][NEXT][...]
+I've never heard of a sun that
+wasn't burning hot before.[WAIT][END]
+
+#string:11:021
+[STYLE:RIGHT][...]
+Oh, the sun's back!
+[PAUSE:0A][...]
+He's burning hot again!
+[WAIT][NEXT][...]
+Way to go, Mr. Sun!
+Everything's back to normal!
+[WAIT][NEXT][...]
+Just gimme my soil, water, and
+sun and I'll be happy.
+[PAUSE:0A][...]
+I don't need anything else.[WAIT][END]
+
+#string:11:022
+[STYLE:RIGHT][...]
+Oh, the sun's back!
+[PAUSE:0A][...]
+He's burning hot again!
+[WAIT][NEXT][...]
+Way to go, Mr. Sun!
+Everything's back to normal!
+[WAIT][NEXT][...]
+Just gimme my soil, water, and
+sun and I'll be happy.
+[PAUSE:0A][...]
+I don't need anything else.[WAIT][END]
+
+#string:11:023
+[STYLE:RIGHT][...]
+I've heard rumors about many
+flowers, but I've never heard
+any rumors about me. 
+[WAIT][NEXT][...]
+What do they think of me?
+[PAUSE:0A][...]
+Are they talking about me? 
+[WAIT][NEXT][...]
+I wonder how it would feel to be
+the center of attention all the
+time... [WAIT][END]
+
+#string:11:024
+[STYLE:RIGHT][...]
+I'm sick of this weather. Flower
+Fields is always cloudy.
+[WAIT][NEXT][...]
+It never used to be like this.
+[PAUSE:0A][...]
+That Huff N. Puff's the cause!
+[WAIT][NEXT][...]
+Plants like us can't live long
+without the light of the sun.
+[WAIT][NEXT][...]
+Everybody around here is losing
+hope and starting to wither...[WAIT][END]
+
+#string:11:025
+[STYLE:RIGHT][...]
+Every plant needs good soil in
+order to grow big and healthy.
+[WAIT][NEXT][...]
+The more nutritious the soil is,
+the bigger plants can grow.
+[WAIT][NEXT][...]
+And then, plants that grow
+really big give nutrition back!
+They drop their leaves, and the
+leaves become fertilizer.
+[WAIT][NEXT][...]
+We grew with the nutrition of
+Wise Wisterwood's fallen leaves.
+[WAIT][NEXT][...]
+So Wise Wisterwood is kind of
+like our father, huh?[WAIT][END]
+
+#string:11:026
+[STYLE:RIGHT][...]
+Have you seen the Crystal Tree
+near Posie's place yet?
+[WAIT][NEXT][...]
+I've heard that tree bears the
+most wonderful berries...
+[WAIT][NEXT][...]
+If you believe what folks say,
+those berries are the most
+beautiful things in the world.[WAIT][END]
+
+#string:11:027
+[STYLE:RIGHT][...]
+Without beautiful sunlight, we
+plants are doomed.
+[WAIT][NEXT][...]
+We can't live in Flower Fields
+if it's always cloudy. 
+[WAIT][NEXT][...]
+I never thought I'd start
+withering at such a young age! 
+[WAIT][NEXT][...]
+I wish I were blanketed in warm,
+rejuvenating sunlight like I used
+to be...[WAIT][END]
+
+#string:11:028
+[STYLE:RIGHT][...]
+Oh, the land's full of sunlight! I
+wish I could kiss this whole world
+right now!
+[WAIT][NEXT][...]
+As long as I have sunlight like
+this on me, I could live here for
+the rest of my life.[WAIT][END]
+
+#string:11:029
+[STYLE:RIGHT][...]
+Oh, the land's full of sunlight! I
+wish I could kiss this whole world
+right now!
+[WAIT][NEXT][...]
+As long as I have sunlight like
+this on me, I could live here for
+the rest of my life.[WAIT][END]
+
+#string:11:02A
+[STYLE:RIGHT][...]
+Hello there!
+[PAUSE:0A][...]
+How are you?
+[WAIT][NEXT][...]
+Are you enjoying the sunshine as
+much as I am?[WAIT][END]
+
+#string:11:02B
+[STYLE:RIGHT][...]
+The sun can't come up because
+a thick cloud is completely
+covering the sky.
+[WAIT][NEXT][...]
+We Bub-ulbs can live just about
+anywhere if there's sun, but now
+there's none at all!
+[WAIT][NEXT][...]
+I'm not saying that having some
+clouds is bad. Of course not!
+[WAIT][NEXT][...]
+But there should be some gaps
+for a little precious sunshine!
+[WAIT][NEXT][...]
+Sigh... I hate that stupid cloud.[WAIT][END]
+
+#string:11:02C
+[STYLE:RIGHT][...]
+Without sunlight, the seeds we
+have can't sprout, and we can't
+make any new ones, either.
+[WAIT][NEXT][...]
+If the sun never rises again, all
+of Flower Fields will wither up
+completely.
+[WAIT][NEXT][...]
+Do you have any ideas?[WAIT][END]
+
+#string:11:02D
+[STYLE:RIGHT][...]
+Are you looking for water?
+[PAUSE:0A][...]
+You might try Lily's spring.
+[WAIT][NEXT][...]
+But if you want water to plant
+something, it's hopeless. 
+[PAUSE:0A][...]
+There's no use planting now. 
+[WAIT][NEXT][...]
+Even if you water them, plants
+won't grow without the sun.[WAIT][END]
+
+#string:11:02E
+[STYLE:RIGHT][...]
+You mean you're thinking of
+doing something to that thick
+cloud so the sun can rise again?
+[WAIT][NEXT][...]
+You think that'll work?
+[PAUSE:0A][...]
+Oh, it would be so nice if the sun
+rose up again!
+[WAIT][NEXT][...]
+I hope your plan works...[WAIT][END]
+
+#string:11:02F
+[STYLE:RIGHT][...]
+Oh, it's the sun!
+The sun has come out!
+[PAUSE:0A][...]
+I knew you could do it!
+[WAIT][NEXT][...]
+It's all because of you!
+[PAUSE:0A][...]
+I can't believe I made it through
+those sad, cloudy days![WAIT][END]
+
+#string:11:030
+[STYLE:RIGHT][...]
+Mario, are you still on that
+dangerous adventure?
+[WAIT][NEXT][...]
+I can't stand that Huff N. Puff.
+What a mean guy!
+[PAUSE:0A][...]
+He loves clouds. And he loves
+that we hate them!
+[WAIT][NEXT][...]
+Please, could you beat him?
+[PAUSE:0A][...]
+I hope you really stick it to him
+and save the Star Spirit![WAIT][END]
+
+#string:11:031
+[STYLE:RIGHT][...]
+Now I'm going to grow and grow
+and produce lots and lots of
+cute little seeds!
+[WAIT][NEXT][...]
+You know, Mario, as long as
+you're around, I think the
+world's going to be OK. [WAIT][END]
+
+#string:11:032
+[STYLE:RIGHT][...]
+How're you doing, Lakilester?
+[WAIT][NEXT][...]
+Are you becoming a better
+Lakitu by helping people? Hmm?[WAIT][END]
+
+#string:11:033
+[STYLE:RIGHT][...]
+Darn it, I told you not to call
+me Lakilester!
+[WAIT][NEXT][...]
+Gah! You never listen to me!
+[PAUSE:0F][...]
+[WAIT]{Func_04}[NEXT][...]
+...But that's why you're so cute.[WAIT][END]
+
+#string:11:034
+[STYLE:RIGHT][...]
+Please take care of Lakilester.
+[PAUSE:0A][...]
+He acts like he's really tough,
+but he's a bit of a pushover.[WAIT][END]
+
+#string:11:035
+[STYLE:RIGHT][...]
+Hey, guy! Where you going?
+[WAIT][NEXT][...]
+Oh, Petunia...?
+[WAIT][NEXT][...]
+Yeah, Petunia's straight west
+from here. Yup. West.
+[PAUSE:0A][...]
+{Func_04}...Heh heh heh heh...
+[WAIT][NEXT][...]
+Sorry, guy, I can't tell you any
+more, not even if you ask.[WAIT][END]
+
+#string:11:036
+[STYLE:RIGHT][...]
+Hey, Mr. Big Shot! You looking
+for something?
+[WAIT][NEXT][...]
+The only thing that Posie's got
+is soil, guy. Just soil. Yup. 
+[WAIT][NEXT][...]
+She definitely doesn't have
+anything beautiful. No way.
+[WAIT][NEXT][...]
+{Func_04}...Pfff...ha ha ha...
+[WAIT][NEXT][...]
+Sorry, guy, I can't tell you any
+more, not even if you ask.[WAIT][END]
+
+#string:11:037
+[STYLE:RIGHT][...]
+Hey, Mr. High and Mighty!
+Great weather, isn't it?
+An ideal day for gardening!
+[WAIT][NEXT][...]
+You know, it's the perfect
+season for growing giant bean-
+stalks. They're simple!
+[WAIT][NEXT][...]
+All you need's a Magical Bean,
+some soil, and some water.
+[WAIT][NEXT][...]
+Yeah, that's it. You don't need
+anything else at all. Nothing.
+[WAIT][NEXT][...]
+{Func_04}Heh heh heh...
+[WAIT][NEXT][...]
+Sorry, guy, I can't tell you any
+more, not even if you ask.[WAIT][END]
+
+#string:11:038
+[STYLE:RIGHT][...]
+Hey, Super Star! Lemme fill you
+in on something!
+[WAIT][NEXT][...]
+You can get yourself one fine
+gift if you hit the three trees
+in a row in this order:
+left, right, then middle. Yup.
+[WAIT][NEXT][...]
+[PAUSE:0A][...]
+{Func_04}Hee hee hee...
+It's true! I swear!
+[WAIT][NEXT][...]
+Oops, I've told you too much!
+No more secrets out of me![WAIT][END]
+
+#string:11:039
+[STYLE:RIGHT][...]
+Hey, you! Everybody's hero! You
+want to know the inside scoop on
+something good?
+[WAIT][NEXT][...]
+If you find a well in the place
+with lots of dead trees, you can
+throw something in it to get a
+cool reward.
+[WAIT][NEXT][...]
+Whatever you do, though, don't
+throw in a Blue Berry!
+[WAIT][NEXT][...]
+{Func_04}Ha ha ha! Yeah! I'm serious! 
+Do you believe me? Huh? Do you
+believe me? Do you?
+[WAIT][NEXT][...]
+I've also gotta tell you... Oops,
+sorry. Everything else is a
+secret. Sorry, guy.[WAIT][END]
+
+#string:11:03A
+[STYLE:RIGHT][...]
+Hey, guy! By the way, do you
+even know what my name is?
+[PAUSE:05][...]
+They call me Tolielip.
+[WAIT][NEXT][...]
+I personally think it's kind of a
+rude name.
+[PAUSE:05][...]
+I mean, I never lie! Never!
+[WAIT][NEXT][...]
+{Func_04}{StartFX:Shrinking}...Heh heh heh, ha ha ha!!
+{StartFX:Wavy}Wah ha ha ha ha ha ha ha!!
+Baaaaah ha ha ha ha!!![WAIT][END]
+
+#string:11:03B
+[STYLE:RIGHT][...]
+Hello, stranger...
+[PAUSE:0A][...]
+What do you think of my bright
+red coloring? Isn't it nice?
+[WAIT][NEXT][...]
+What's that? You want to pass
+through here?
+[PAUSE:0A][...]
+Ha ha ha... No, I'm sorry. I
+couldn't possibly let you through.
+[WAIT][NEXT][...]
+Although, perhaps I could make
+an exception if you gave me
+something delicious to eat...[WAIT][END]
+
+#string:11:03C
+[STYLE:RIGHT][...]
+You don't want to give me
+anything, is that how it is?
+[PAUSE:0A][...]
+Then sorry, but no.
+[PAUSE:0A][...]
+You can't go through.[WAIT][END]
+
+#string:11:03D
+[STYLE:RIGHT][...]
+Chomp chomp munch chomp...
+[PAUSE:0A][...]
+[WAIT][NEXT][...]
+{Func_04}Aw, yuck!!!
+[PAUSE:0A][...]
+Disgusting! That was awful!
+[WAIT][NEXT][...]
+No way you're going through![WAIT][END]
+
+#string:11:03E
+[STYLE:RIGHT][...]
+Munch munch munch...
+[WAIT][NEXT][...]
+Ummm... I really don't like this
+type of berry at all.
+[PAUSE:0A][...]
+You'd better get me a better
+flavor, or you can't go through.[WAIT][END]
+
+#string:11:03F
+[STYLE:RIGHT][...]
+Munch chomp smack...
+[PAUSE:0A][...]
+[WAIT]{Func_04}[NEXT][...]
+Ooh, delicious! This is it! Great
+color! Full flavor! It's perfect!
+[WAIT][NEXT][...]
+You're a champ for bringing me
+such a tasty snack.
+[PAUSE:0A][...]
+Of course you can go through![HEART][WAIT][END]
+
+#string:11:040
+[STYLE:RIGHT][...]
+Go on through![HEART]
+For you, the gate's always open![WAIT][END]
+
+#string:11:041
+[STYLE:RIGHT][...]
+You know, genuinely nice people
+are really hard to find.
+[WAIT][NEXT][...]
+I've put many different people
+to the test since I've been here,
+and you're the nicest.
+[WAIT][NEXT][...]
+If you keep doing good deeds, I
+bet you'll go through many gates
+as you travel![HEART][WAIT][END]
+
+#string:11:042
+[STYLE:RIGHT][...]
+Good day, Mario! It's great to
+see you.
+[WAIT][NEXT][...]
+I'm the guard of this gate.
+[PAUSE:0A][...]
+I must tell you, though, I don't
+let many people through.
+[WAIT][NEXT][...]
+I have excellent taste in foods,
+so you must bring me something
+sufficiently tasty to get by.
+[WAIT][NEXT][...]
+Well...? Do you have anything?[WAIT][END]
+
+#string:11:043
+[STYLE:RIGHT][...]
+Oh, nothing tasty, eh?
+[PAUSE:0A][...]
+Well, that's unfortunate...
+[WAIT][NEXT][...]
+I understand it's hard to meet
+the standards of such a
+cultured flower as me.
+[PAUSE:0A][...]
+I suppose you weren't up to it.
+[WAIT][NEXT][...]
+Sadly, it also means you can't
+pass through here.[WAIT][END]
+
+#string:11:044
+[STYLE:RIGHT][...]
+Chomp smack chomp...
+[WAIT][NEXT][...]
+{Func_04}Haaaaack! Pbbbbth!
+[WAIT][NEXT][...]
+What is this garbage!?
+[PAUSE:0A][...]
+This is decidedly substandard!
+[PAUSE:0A][...]
+I'm a connoisseur!
+[WAIT][NEXT][...]
+It's downright ungentlemanly to
+eat anything but berries while
+in Flower Fields![WAIT][END]
+
+#string:11:045
+[STYLE:RIGHT][...]
+Munch chomp munch...
+[WAIT][NEXT][...]
+Ummm, well...
+[PAUSE:05][...]
+It's not bad, I suppose.
+[WAIT][NEXT][...]
+But it's not enough to satisfy a
+gourmet such as me.
+[WAIT][NEXT][...]
+I'm sorry, but I never let people
+without distinguished taste
+pass through here.
+[WAIT][NEXT][...]
+Come back with some culture.[WAIT][END]
+
+#string:11:046
+[STYLE:RIGHT][...]
+Munch chomp chomp...
+[WAIT]{Func_04}[NEXT][...]
+{StartFX:Shrinking}Bravo!!
+{EndFX:Shrinking}Magnificent!!
+[WAIT][NEXT][...]
+A sweet, subtle flavor with a
+delicate finish!
+[WAIT][NEXT][...]
+And such marvelous coloring!
+[PAUSE:0A][...]
+It reminds me of the warm
+sunlight I so yearn for.
+[WAIT][NEXT][...]
+I'm truly taken aback by your
+cultured taste!
+[PAUSE:0A][...]
+Of course you may go![WAIT][END]
+
+#string:11:047
+[STYLE:RIGHT][...]
+Sir, your taste is flawless!
+[WAIT][NEXT][...]
+You may use this gate as if it
+were your own front door. [WAIT][END]
+
+#string:11:048
+[STYLE:RIGHT][...]
+It's always a pleasure to meet
+people with wonderful taste.
+[WAIT][NEXT][...]
+And here I was thinking that
+there were no more cultured
+people left in the world!
+[WAIT][NEXT][...]
+Bravo!! Scintillating! Let's hear
+it for incredible snobbery and
+fine culture![WAIT][END]
+
+#string:11:049
+[STYLE:RIGHT][...]
+Ahhh, I'm so hungry...
+[WAIT][NEXT][...]
+I'm tired of guarding this stupid
+old gate...
+[PAUSE:0A][...]
+I'm so, so hungry...
+[WAIT][NEXT][...]
+Hey! You there! I don't suppose
+you have anything good to eat
+that you'd like to give me?
+[WAIT][NEXT][...]
+Listen, if you give me something
+succulent I'll let you through
+here, and I won't tell anybody...[WAIT][END]
+
+#string:11:04A
+[STYLE:RIGHT][...]
+Nothing? Not even a bite?
+[PAUSE:0A][...]
+Aw, shoot...
+[PAUSE:0A][...]
+Then I can't let you go through.
+[WAIT][NEXT][...]
+I'm sitting here starving, and
+you won't even spare a lousy...
+[WAIT][NEXT][...]
+Ever since the sun disappeared,
+nothing's gone right for me.
+[PAUSE:0A][...]
+I feel so blue...[WAIT][END]
+
+#string:11:04B
+[STYLE:RIGHT][...]
+Chomp smack munch...
+[WAIT][NEXT][...]
+{Func_04}Oh, bleah!!!
+[WAIT][NEXT][...]
+This is totally icky!
+[PAUSE:0A][...]
+Listen, I can't eat anything but
+berries from around here.
+[WAIT][NEXT][...]
+Yeah, I guess maybe I should
+have told you that first, huh?
+[PAUSE:0A][...]
+Stupid old me.
+[WAIT][NEXT][...]
+Now I feel even more blue...
+[PAUSE:0A][...]
+Please...just leave me alone.[WAIT][END]
+
+#string:11:04C
+[STYLE:RIGHT][...]
+Munch chomp crunch...
+[WAIT][NEXT][...]
+As far as berries go, it's so-so.
+[PAUSE:0A][...]
+But it's missing...something.
+[WAIT][NEXT][...]
+Nothing tastes good. I've been
+blue since the sun disappeared.
+[PAUSE:0A][...]
+I hate being a blue flower.
+[WAIT][NEXT][...]
+Nothing good is blue. Yeah, you
+heard me! Nothing! I bet even
+Blue Berries taste disgusting
+because...they're blue![WAIT][END]
+
+#string:11:04D
+[STYLE:RIGHT][...]
+A Blue Berry?
+[PAUSE:0A][...]
+I'm sure this'll be gross.
+[PAUSE:0A][...]
+Munch chomp munch...
+[PAUSE:0A][...]
+[WAIT]{Func_04}[NEXT][...]
+{StartFX:Shrinking}Oh, how delicious![NOTE]
+{EndFX:Shrinking}Such a splendid taste!
+[WAIT][NEXT][...]
+There ARE good blue things! 
+[PAUSE:0A][...]
+I'm filled with hope again!
+[WAIT][NEXT][...]
+Go! Go and never feel blue!
+[PAUSE:0A][...]
+I'll never forget you![WAIT][END]
+
+#string:11:04E
+[STYLE:RIGHT][...]
+Head through there!
+[PAUSE:0A][...]
+I'll never forget you![WAIT][END]
+
+#string:11:04F
+[STYLE:RIGHT][...]
+Blue is a nice color, or so I've
+begun to think lately.
+[WAIT][NEXT][...]
+Has the sun changed my opinion?
+[PAUSE:0A][...]
+Or do I owe it to you, Mario?
+[WAIT][NEXT][...]
+Oh, yeah! You've got a little blue
+in your outfit, too!
+[PAUSE:0A][...]
+Ha ha ha! You and I match![WAIT][END]
+
+#string:11:050
+[STYLE:RIGHT][...]
+Do you have a second?
+[PAUSE:0A][...]
+Then listen to my sad tale!
+[WAIT][NEXT][...]
+Ever since the sun went away,
+I've begun to droop...
+[PAUSE:05][...]
+I have no energy at all.
+[WAIT][NEXT][...]
+Without the sun, it just seems
+like the whole world is sad.
+[WAIT][NEXT][...]
+Now these Monty Moles dig into
+the ground and bite my roots!
+[PAUSE:0A][...]
+Oh, woe is me!
+[WAIT][NEXT][...]
+My beautiful seed collection will
+become a Monty Mole banquet if
+this keeps up...
+[WAIT][NEXT][...]
+Please, sir...
+[PAUSE:0A][...]
+You look strong and capable.
+[PAUSE:0A][...]
+Could you get rid of those Monty
+Moles for me?[WAIT][END]
+
+#string:11:051
+[STYLE:RIGHT][...]
+In case you're wondering, the
+Monty Moles I'm talking about
+are...[WAIT][END]
+
+#string:11:052
+[STYLE:RIGHT][...]
+this guy...[WAIT][END]
+
+#string:11:053
+[STYLE:RIGHT][...]
+and this jerk...[WAIT][END]
+
+#string:11:054
+[STYLE:RIGHT][...]
+and this troublemaker...[WAIT][END]
+
+#string:11:055
+[STYLE:RIGHT][...]
+and this wicked creature![WAIT][END]
+
+#string:11:056
+[STYLE:RIGHT][...]
+This guy is...
+[PAUSE:0A][...]
+Well, you probably don't need
+to be concerned with that one.[WAIT][END]
+
+#string:11:057
+[STYLE:RIGHT][...]
+Please don't fail me!
+[PAUSE:0A][...]
+My seeds and I are counting on
+you to save us![WAIT][END]
+
+#string:11:058
+[STYLE:RIGHT][...]
+There are still Monty Moles left!
+[PAUSE:0A][...]
+Please don't desert me!
+[WAIT][NEXT][...]
+I can't tell you how horrible it
+feels to have Monty Moles biting
+at my roots in this dark place![WAIT][END]
+
+#string:11:059
+[STYLE:RIGHT][...]
+Oh, yiipppeee!!
+Hooray! Hurrah! Yahoo! Whee!
+[PAUSE:0A][...]
+You got rid of the Monty Moles!
+{Func_04}[WAIT][NEXT][...]
+Oh, thank you! Thank you!!
+[WAIT][NEXT][...]
+To show you how grateful I am,
+I'll give you this Magical Bean!
+Here [PAUSE:0F]you [PAUSE:0F]are![HEART][WAIT][END]
+
+#string:11:05A
+[STYLE:RIGHT][...]
+Hmm? [PAUSE:0A]Yes, my name is Petunia.
+[PAUSE:0A][...]
+They call me the Seed Maniac.
+Hee hee! Nice to meet you.[HEART]
+[WAIT][NEXT][...]
+By the way, about that Magical 
+Bean that I gave you...
+[PAUSE:0A][...]
+You shouldn't plant it.
+[WAIT][NEXT][...]
+Why not?
+[PAUSE:05][...]
+Because as a seed, it will always
+enjoy freedom!
+[WAIT][NEXT][...]
+After it's planted and it
+sprouts up, it won't ever be able
+to move again.
+[WAIT][NEXT][...]
+{Func_04}Don't you think that's sad?
+[WAIT][NEXT][...]
+Please don't plant it with, oh,
+for instance, Fertile Soil and
+Miracle Water!
+[WAIT][NEXT][...]
+I don't want to think about a
+sprout growing out of my cute
+little seed!
+[WAIT][NEXT][...]
+
+{Down:08}{StartFX:Shrinking}{StartFX:Wavy}No!!!!!!!!!
+[WAIT]
+
+
+[END]
+
+#string:11:05B
+[STYLE:RIGHT][...]
+Are you really going to plant
+my Magical Bean?
+[WAIT][NEXT][...]
+Oh...sigh...OK.
+[PAUSE:05][...]
+I've already given it to you.
+[PAUSE:0A][...]
+It's your choice.[WAIT][END]
+
+#string:11:05C
+[STYLE:RIGHT][...]
+After basking in this lovely sun
+for a while, I've noticed...
+[PAUSE:0A][...]
+that it feels good to grow!
+[WAIT][NEXT][...]
+Even though I can't move, I'm
+completely happy right here![WAIT][END]
+
+#string:11:05D
+[STYLE:RIGHT][...]
+It feels so good to grow in the
+warm sunlight!
+[WAIT][NEXT][...]
+Even though I can't move, I'm
+completely happy right here![WAIT][END]
+
+#string:11:05E
+[STYLE:RIGHT][...]
+It feels so good to grow in the
+warm sunlight!
+[WAIT][NEXT][...]
+Even though I can't move, I'm
+completely happy right here![WAIT][END]
+
+#string:11:05F
+[STYLE:RIGHT][...]
+Hi! My name's Bubble Plant!
+[PAUSE:05][...]
+You wanna know why my name's
+Bubble Plant?
+[WAIT][NEXT][...]
+I'll tell you if you give me a
+Bubble Berry.[WAIT][END]
+
+#string:11:060
+[STYLE:RIGHT][...]
+Hi! I'm Bubble Plant!
+[PAUSE:05][...]
+[WAIT][NEXT][...]
+I'll show you how cool my Bubble
+is if you give me a Bubble Berry.[WAIT][END]
+
+#string:11:061
+[STYLE:RIGHT][...]
+Oh, awesome! Good going!
+[WAIT][NEXT][...]
+OK!
+[PAUSE:0A][...]
+Get a load of this![WAIT][END]
+
+#string:11:062
+{InputOff}[STYLE:RIGHT][...]
+Ummmm... [PAUSE:14]Hrrrrrrrrr......
+[PAUSE:64][...]
+[END]
+
+#string:11:063
+[STYLE:RIGHT][...]
+There! Isn't it great?![WAIT][END]
+
+#string:11:064
+[STYLE:RIGHT][...]
+You don't have a Bubble Berry?
+Not even one? 
+[PAUSE:0A][...]
+That's too bad.
+[PAUSE:0A][...]
+You're really missing out![WAIT][END]
+
+#string:11:065
+[STYLE:RIGHT][...]
+Look at this Crystal Tree.
+[PAUSE:0A][...]
+Have you ever seen anything so
+beautiful in all the world?
+[WAIT][NEXT][...]
+[PAUSE:0A][...]
+...Oh, [PAUSE:05]excuse me.
+I forgot to introduce myself.
+[PAUSE:0A][...]
+My name is Posie.
+[WAIT][NEXT][...]
+Hm? What's wrong with my mouth?
+[PAUSE:05][...]
+This is my nose! Oh, how rude!
+[WAIT][NEXT][...]
+Anyway, it was this Fertile Soil
+that made my nose grow so long.
+[PAUSE:0A][...]
+I happen to like it! Hee hee...
+[WAIT][NEXT][...]
+Your nose is pretty nice, too.
+[WAIT][NEXT][...]
+It could stand to be a little bit
+longer, so why don't you take
+this Fertile Soil with you.[WAIT][END]
+
+#string:11:066
+[STYLE:RIGHT][...]
+Your nose'll be perfect soon!
+[PAUSE:0A][...]
+...Hee hee hee...[WAIT][END]
+
+#string:11:067
+[STYLE:RIGHT][...]
+Ouch!
+[PAUSE:0A][...]
+Be gentle with this tree!
+[WAIT][NEXT][...]
+The tree and I are connected at
+the roots, so it hurts me when
+you hit the tree.[WAIT][END]
+
+#string:11:068
+[STYLE:RIGHT][...]
+Oh?[PAUSE:0A] Rosie told you to bring her
+something beautiful?
+[WAIT][NEXT][...]
+Rosie really loves beautiful
+things above all else.
+[PAUSE:0A][...]
+She's a little self-involved.
+Have you noticed?
+[WAIT][NEXT][...]
+You really need help, huh?
+[PAUSE:0A][...]
+OK, I'll help you.
+[WAIT][NEXT][...]
+This tree and I are connected
+by our roots,
+[WAIT][NEXT][...]
+so maybe one or two Crystal
+Berries will fall down if I shake
+the root.[WAIT][END]
+
+#string:11:069
+[STYLE:RIGHT][...]
+Hmmm... [PAUSE:0A]Rrrrrrghh......
+[WAIT][NEXT][...]
+{StartFX:Shrinking}{StartFX:Wavy}Hyahhhhhhh!!![WAIT][END]
+
+#string:11:06A
+[STYLE:RIGHT][...]
+Phew...
+[WAIT][NEXT][...]
+...Oops.
+[PAUSE:05][...]
+That was a bit unladylike.
+[PAUSE:0A][...]
+Hee hee hee hee hee hee hee!
+[WAIT][NEXT][...]
+Rosie should be more than
+satisfied with that berry.[WAIT][END]
+
+#string:11:06B
+[STYLE:RIGHT][...]
+Ouch! That hurts!
+[WAIT][NEXT][...]
+What's the matter with you?
+[PAUSE:05][...]
+I gave you a Crystal Berry,
+didn't I?
+[WAIT][NEXT][...]
+Don't tell me that you want
+another one!
+[PAUSE:0A][...]
+You shouldn't be so greedy.
+[WAIT][NEXT][...]
+Do you think it was easy shaking
+that root? I can't just do it
+over and over![WAIT][END]
+
+#string:11:06C
+[STYLE:RIGHT][...]
+Youch ouch ouch!!!
+Don't you hear me...OUCH!!
+[WAIT][NEXT][...]
+...Ooh, I shouldn't be so loud.
+[PAUSE:05][...]
+Hee hee hee hee.
+[WAIT][NEXT][...]
+Please don't hit the tree![WAIT][END]
+
+#string:11:06D
+[STYLE:RIGHT][...]
+Ouch! What're you...OW!
+Stop it! I...OUCH! OUCH!
+[WAIT][NEXT][...]
+I said stop it!! Aren't you
+listening to me?
+[WAIT][NEXT][...]
+Don't ever come here again!!
+Do you understand me?! Out![WAIT][END]
+
+#string:11:06E
+[STYLE:RIGHT][...]
+Don't come back here!!!
+[PAUSE:0A][...]
+Get out and stay out!![WAIT][END]
+
+#string:11:06F
+[STYLE:RIGHT][...]
+Sigh... You keep coming back...
+You've got guts.
+[PAUSE:0A][...]
+I like that!
+[WAIT][NEXT][...]
+I guess you can keep hitting the
+tree if that's what you want...
+[WAIT][NEXT][...]
+But you're not going to get any
+more Crystal Berries by hitting
+the tree, so quit it!
+[WAIT][NEXT][...]
+...Get ahold of yourself, Posie.
+You're losing control.
+[WAIT][NEXT][...]
+Hee hee hee hee hee hee...[WAIT][END]
+
+#string:11:070
+[STYLE:RIGHT][...]
+What do you think? Pretty, no?
+Gorgeous and fascinating!
+[WAIT][NEXT][...]
+Hee hee hee! Who, me?
+[PAUSE:05][...]
+No, not me. I'm talking about
+this Crystal Tree.
+[WAIT][NEXT][...]
+It grew from a seed that
+Petunia gave me a long time ago.
+[WAIT][NEXT][...]
+The soil here is so fertile that
+the tree grew this big.
+[WAIT][NEXT][...]
+Petunia has a lot of rare seeds,
+but she never plants them.
+[WAIT][NEXT][...]
+What a waste, huh?[WAIT][END]
+
+#string:11:071
+[STYLE:RIGHT][...]
+Good soil, clear water and ample
+sun will generally produce a
+wonderful flower.
+[WAIT][NEXT][...]
+But there isn't any sun in Flower
+Fields right now.
+[WAIT][NEXT][...]
+I'm afraid that it'll be impossible
+for plants to grow.[WAIT][END]
+
+#string:11:072
+[STYLE:RIGHT][...]
+You and I are... [PAUSE:0A]plant [PAUSE:0A]pals![HEART]
+[PAUSE:0A][...]
+...Hee hee hee![WAIT][END]
+
+#string:11:073
+[STYLE:RIGHT][...]
+Rosie wanted that Crystal
+Berry, didn't she?
+[WAIT][NEXT][...]
+Shouldn't you give it to her?
+[WAIT]{Func_04}[END]
+
+#string:11:074
+[STYLE:RIGHT][...]
+Rosie liked the Crystal Berry?
+[WAIT]{Func_04}[END]
+
+#string:11:075
+[NEXT][...]
+That Rosie's so selfish. All she
+cares about is beauty.
+[WAIT][NEXT][...]
+Even though Flower Fields is in
+terrible trouble, she only cares
+about how she might make herself
+more beautiful.
+[WAIT][NEXT][...]
+It's appalling, really.[WAIT][END]
+
+#string:11:076
+[STYLE:RIGHT][...]
+Now that the sun has returned,
+the Crystal Tree and I are
+filled with new life.
+[WAIT][NEXT][...]
+I heard that it's all because of
+you. Thank you.[WAIT][END]
+
+#string:11:077
+[STYLE:RIGHT][...]
+Petunia heard that I planted
+the Crystal Tree, but she wasn't
+angry at all! Weird!
+[WAIT][NEXT][...]
+I wonder who changed her view?
+[PAUSE:0F][...]
+Maybe you did... [WAIT][END]
+
+#string:11:078
+[STYLE:RIGHT][...]
+Oh, no!!! The spring....
+[PAUSE:0A][...]
+The spring went dry!
+[WAIT][NEXT][...]
+Why!? What for? And why?
+[PAUSE:05][...]
+What'll I do?! What can I do?
+[PAUSE:05][...]
+I don't know!! Who does?!
+[WAIT][NEXT][...]
+I can't think of a thing! I'm all
+over the place!
+[PAUSE:14][...]
+Be cool, Lily! Be cool, Lily!
+Be cool and cruel!
+[PAUSE:28][...]
+[WAIT][NEXT][...]
+{Func_04}Gaaaaah!!
+[PAUSE:0A][...]
+Being cruel won't do anything!!
+[PAUSE:0A][...]
+You're a fool, Lily!![WAIT][END]
+
+#string:11:079
+[STYLE:RIGHT][...]
+Gaaah!! Oh, how horrible!
+[PAUSE:05][...]
+The spring went dry!
+[WAIT][NEXT][...]
+What a tragedy... Oh!
+This can't happen to me!
+[PAUSE:0A][...]
+No, it can't! Not to Lily!
+[WAIT][NEXT][...]
+Somebody! The horrible thing
+that rides the clouds...took our
+precious Water Stone!
+[WAIT][NEXT][...]
+Water flows from that magical
+Water Stone...
+[WAIT][NEXT][...]
+Without it, the spring will never
+recover...
+[WAIT][NEXT][...]
+Oh! And I'll wither up if I can't
+float on the water!
+[WAIT][NEXT][...]
+I'll be crushed by my own weight
+and wither... Poor Lily!
+[WAIT][NEXT][...]
+Oh, no! Don't give up, Lily!
+[WAIT][NEXT][...]
+Perhaps a handsome prince will
+arrive and help you soon...![WAIT][END]
+
+#string:11:07A
+[STYLE:RIGHT][...]
+...............................................
+[PAUSE:2D][...]
+{Func_04}Oh......![WAIT][END]
+
+#string:11:07B
+[STYLE:RIGHT][...]
+A prince... Well, he actually looks
+more like a plumber, but beggars
+can't be choosers![WAIT][END]
+
+#string:11:07C
+[STYLE:RIGHT][...]
+Hello, my name is Lily.
+[PAUSE:0A][...]
+I'm a beautiful, fragile flower
+who lives in this spring.
+[WAIT][NEXT][...]
+Um... To tell the truth, I have to
+ask you to do me a favor. 
+[WAIT][NEXT][...]
+Could you please get my Water
+Stone back from that horrible
+cloud creature?
+{Func_04}[END]
+
+#string:11:07D
+[NEXT][...]
+Oh, you're a dream come true!
+[PAUSE:05][...]
+Thank you so much!
+[WAIT][NEXT][...]
+{StartAnim}{SetPrintPos:00:12}{Down:08}{Item:00:57}{EndAnim}{SetPrintPos:00:3F}{Down:0A}The Water Stone looks
+{SetPrintPos:00:3F}just like this.
+
+[WAIT][NEXT][...]
+{Up:0A}Please find it![HEART][WAIT][END]
+
+#string:11:07E
+[NEXT][...]
+Oh, how awful...
+[PAUSE:05][...]
+You weren't my prince...
+[WAIT][NEXT][...]
+Well...I knew you must not be.
+...After all, you don't look
+anything like a prince...
+[WAIT][NEXT][...]
+{StartAnim}{SetPrintPos:00:12}{Down:08}{Item:00:57}{EndAnim}{Down:04}{SetPrintPos:00:3F}In case you care,
+{SetPrintPos:00:3F}the Water Stone looks
+{SetPrintPos:00:3F}like this.
+
+[WAIT][NEXT][...]
+{Up:04}If you find it somewhere, please
+bring it to me!
+[WAIT][NEXT][...]
+I'm withering as we speak![WAIT][END]
+
+#string:11:07F
+[STYLE:RIGHT][...]
+Oh... I feel terrible.
+[PAUSE:0A][...]
+My condition will only get worse
+if the spring's water never
+comes back.
+[WAIT][NEXT][...]
+Am I being punished for being
+too pretty...?[WAIT][END]
+
+#string:11:080
+[STYLE:RIGHT][...]
+Oh, it's the Water Stone! 
+[WAIT][NEXT][...]
+Quickly!
+[PAUSE:0A][...]
+Put it in that hole there![WAIT][END]
+
+#string:11:081
+[STYLE:RIGHT][...]
+What? Why won't you put the
+Water Stone back and fix the
+spring? Huh?
+[WAIT][NEXT][...]
+You're a...flower hater!
+I hope you dry up! I hope your
+petals all fall off![WAIT][END]
+
+#string:11:082
+[STYLE:RIGHT][...]
+Oh, it's water! Sweet water!!
+[WAIT][NEXT][...]
+The spring is full of water.
+I'm floating again...
+[PAUSE:0A][...]
+Oh, this is paradise...[WAIT][END]
+
+#string:11:083
+[STYLE:RIGHT][...]
+Thank you so very much! I'll give
+you some Miracle Water from this
+spring.
+[PAUSE:0A][...]
+Here you are![HEART][WAIT][END]
+
+#string:11:084
+[STYLE:RIGHT][...]
+This is the most nourishing
+water around! It's water with
+a little Lily extract![HEART] 
+[WAIT][NEXT][...]
+{Func_04}If you use this Miracle Water
+on any plant, it'll grow like
+gangbusters!
+[WAIT][NEXT][...]
+...Uh...but not right now.
+[PAUSE:0A][...]
+Because there's no sun...
+[WAIT][NEXT][...]
+Oh, yes! Great idea!
+[PAUSE:0A][...]
+You should go see about getting
+the sun back into the sky.
+[WAIT][NEXT][...]
+A resourceful guy like you must
+have some idea about how to get
+the sun back up again!
+[WAIT][NEXT][...]
+I bet you'll do it![HEART]
+[PAUSE:0A][...]
+You saved me, after all![WAIT][END]
+
+#string:11:085
+[STYLE:RIGHT][...]
+The water in the spring is back
+to normal. Aaaaah!
+[PAUSE:0A][...]
+It feels so good to float...
+[WAIT][NEXT][...]
+But if the sun doesn't come up,
+we'll all wither up anyway.
+[WAIT][NEXT][...]
+Oh...that'd be terrible.
+[PAUSE:0A][...]
+If only I could go all the way to
+the Sun Tower and give the sun
+a little support...
+[WAIT][NEXT][...]
+{Func_04}Nobody ever thinks of the sun's
+feelings... It's probably sad!
+[WAIT][NEXT][...]
+{Func_04}Oh, Lily, you're so caring!
+[PAUSE:0A][...]
+I could almost cry![WAIT][END]
+
+#string:11:086
+[STYLE:RIGHT][...]
+The sun is shining. And I am
+floating.
+Oh[PAUSE:03]..., [PAUSE:03]I'm[PAUSE:03]... [PAUSE:03]so[PAUSE:03]... [PAUSE:03]happy![PAUSE:03][HEART][WAIT][END]
+
+#string:11:087
+[STYLE:RIGHT][...]
+Some sort of pink gem seems to
+be floating on the water. Is it
+the tear of an angel?
+[PAUSE:0A][...]
+No, it's not.
+[WAIT][NEXT][...]
+Her name is Lily.
+[PAUSE:0A][...]
+She's a beautiful, tragic flower
+fated to be unhappy.
+[WAIT][NEXT][...]
+See the reflection of her face?
+She wears a brave smile...
+[WAIT][NEXT][...]
+...but if you remove the veil of
+petals one by one, you'll find
+Lily's soul is wet with tears. 
+[WAIT][NEXT][...]
+Don't cry, Lily.
+[PAUSE:0A][...]
+Crying will never free you from
+the bonds of this spring...
+It's no use...
+[WAIT][NEXT][...]
+Unless perhaps you cry so much
+that all of Flower Fields is
+flooded and you can swim free...[WAIT][END]
+
+#string:11:088
+[STYLE:RIGHT][...]
+Hey! Where'd you drop it, idiot?
+Huff N. Puff will have our clouds
+if we don't find it![WAIT][END]
+
+#string:11:089
+[STYLE:RIGHT][...]
+Ohhhh, man, I'm so clumsy...
+[PAUSE:0A][...]
+That stone gave out an endless
+supply of water! Without it,
+[WAIT][NEXT][...]
+we can't increase the power of
+the Puff Puff Machine! 
+[WAIT][NEXT][...]
+It's just gotta be around here
+somewhere! It's just gotta be![WAIT][END]
+
+#string:11:08A
+[STYLE:RIGHT][...]
+...What?
+[PAUSE:0A][...]
+Is that... Mario?
+[PAUSE:0A][...]
+Look, man, it's Mario!
+[WAIT][NEXT][...]
+Let's look for the stone later.
+[PAUSE:0A][...]
+Let's go rough this dude up![WAIT][END]
+
+#string:11:08B
+[STYLE:RIGHT][...]
+Oh, no! Mario? Are you sure?
+[PAUSE:0A][...]
+I'm not sure I'm, you know, in
+the right mental state...
+[WAIT][NEXT][...]
+Aw, forget it! I'll fight anyway!
+Here it comes, Mario![WAIT][END]
+
+#string:11:08C
+[STYLE:RIGHT][...]
+Oh, hello.
+[PAUSE:0A][...]
+It seems like ages since I last
+saw a visitor here.
+[WAIT][NEXT][...]
+I'm Rosie, a Rose Spirit.
+[PAUSE:0A][...]
+I'm ever so glad to meet you.
+[WAIT][NEXT][...]
+Here I am in full bloom, and
+there's nobody to look at me.
+[WAIT][NEXT][...]
+Please, admire me all you like.
+[PAUSE:0A][...]
+Breathtaking, aren't I?
+Aren't I just incredible?
+{Func_04}[END]
+
+#string:11:08D
+[NEXT][...]
+Really? I'm that beautiful?
+[PAUSE:0A][...]
+You're so honest and charming.
+And underneath that scruffy
+mustache, I bet you're handsome.
+[WAIT][NEXT][...]
+I like you. And because I like
+you, I'll show you this.[WAIT][END]
+
+#string:11:08E
+[NEXT][...]
+Oh, you don't think so?
+Tee hee hee...
+[PAUSE:0A][...]
+You don't have to be so coy.
+[WAIT][NEXT][...]
+I can tell you're too shy to
+compliment me to my face...
+[WAIT][NEXT][...]
+OK, then praise this instead.[WAIT][END]
+
+#string:11:08F
+[STYLE:RIGHT][...]
+This stone! Isn't it beautiful?
+[PAUSE:0A][...]
+I found it just the other day.
+[WAIT][NEXT][...]
+Some strange creatures on
+clouds dropped it.
+[WAIT][NEXT][...]
+I couldn't resist its gorgeous
+glitter, so I made it mine.
+[PAUSE:0A][...]
+I could look at it all day...[WAIT][END]
+
+#string:11:090
+[STYLE:RIGHT][...]
+This stone makes me look even
+more beautiful, if that's
+possible.
+[WAIT][NEXT][...]
+Go on, you can look at me! I'm
+used to people staring in wonder
+at my beauty.[WAIT][END]
+
+#string:11:091
+[STYLE:RIGHT][...]
+Huh?
+[PAUSE:0A][...]
+What did you say?
+[PAUSE:0A][...]
+I should give you this stone?
+[WAIT][NEXT][...]
+Oh dear... You're saying Lily's
+in trouble without this?
+[WAIT][NEXT][...]
+...How very sad. Oh, well. It
+can't be helped.
+[PAUSE:0A][...]
+The stone is mine now, you see?[WAIT][END]
+
+#string:11:092
+[STYLE:RIGHT][...]
+You mean Lily will wither up
+without this stone?
+[WAIT][NEXT][...]
+Huh... How sad... Really...
+How very pitiful...
+[WAIT][NEXT][...]
+As hard as it is to believe,
+that Lily sometimes acts like
+she's prettier than I am. 
+[WAIT][NEXT][...]
+She's dumb, but she's not evil.
+[PAUSE:0A][...]
+And if she's gone, there'll be
+no flowers to set off my beauty.
+[WAIT][NEXT][...]
+...Let's see. Tell you what...
+[WAIT][NEXT][...]
+If you bring me something more
+beautiful than this stone, I'll
+think about trading it. 
+[WAIT][NEXT][...]
+So [PAUSE:05]let's [PAUSE:03]wait [PAUSE:03]'til [PAUSE:03]then![PAUSE:03][HEART][WAIT][END]
+
+#string:11:093
+[STYLE:RIGHT][...]
+You'd better bring something
+more beautiful in a hurry,
+before I change my mind.
+[WAIT][NEXT][...]
+My beauty may never change, but
+my mind easily does.[WAIT][END]
+
+#string:11:094
+[STYLE:RIGHT][...]
+Have you found anything?[WAIT][END]
+
+#string:11:095
+[STYLE:RIGHT][...]
+Oh, how pretty! I love it!
+[PAUSE:0A][...]
+That's much nicer than this ugly
+old stone.
+[WAIT][NEXT][...]
+You'd better hurry back and
+give this stone to Lily.
+[WAIT][NEXT][...]
+Make sure she knows that she
+was saved because of me![HEART][WAIT][END]
+
+#string:11:096
+[STYLE:RIGHT][...]
+Oh...[HEART] Such loveliness...
+[PAUSE:0A][...]
+I've gotten so beautiful that
+I'm starting to scare myself![HEART]
+[WAIT][NEXT][...]
+Who is the most beautiful flower
+in all of Flower Fields?
+That [PAUSE:05]is [PAUSE:05]me, [PAUSE:05]of [PAUSE:05]course![HEART][WAIT][END]
+
+#string:11:097
+[STYLE:RIGHT][...]
+Oh, did you come back to gaze
+spellbound at my beauty?
+[PAUSE:0A][...]
+Go on. You may ogle just as long
+as you like.
+[WAIT][NEXT][...]
+It's my job to bloom beautifully.
+[WAIT][NEXT][...]
+And, I must admit, I'm incredibly
+good at my job.[WAIT][END]
+
+#string:11:098
+[STYLE:RIGHT][...]
+The sunlight glittering on this
+Crystal Berry is really quite
+striking, you know.
+[WAIT][NEXT][...]
+I love all things beautiful!
+[WAIT][NEXT][...]
+And yet, no one realizes how
+hard it is to be so gorgeous...[WAIT][END]
+
+#string:11:099
+[STYLE:RIGHT][...]
+Oh![HEART] You've come all the way
+back to look at me again?[HEART]
+[WAIT][NEXT][...]
+Tell me again how I'm the most
+beautiful flower in the world!
+[WAIT][NEXT][...]
+I'm prettier than Posie and Lily.[WAIT][END]
+
+#string:11:09A
+[STYLE:RIGHT][...]
+Hey... Hello.
+[PAUSE:0A][...]
+I never thought anybody would
+come all the way up here.
+[WAIT][NEXT][...]
+I'm the sun.
+[PAUSE:0A][...]
+No... That's not entirely true.
+I should say, I WAS the sun.
+[WAIT][NEXT][...]
+The clouds that came out of the 
+Puff Puff Machine that Huff N.
+Puff built... 
+[WAIT][NEXT][...]
+Those clouds keep me from
+climbing into the sky.
+[WAIT][NEXT][...]
+I'm a complete failure as a sun.
+All of those flowers and plants
+in Flower Fields are suffering...[WAIT][END]
+
+#string:11:09B
+[STYLE:RIGHT][...]
+Where is it? You mean the Puff
+Puff Machine?
+[WAIT][NEXT][...]
+I think it's east of here. The
+clouds seem to come from over
+there, anyway.
+[WAIT][NEXT][...]
+Why do you want to know?
+[PAUSE:05][...]
+Do you think you can break the
+Puff Puff Machine?
+[WAIT][NEXT][...]
+Naw...there's no way...
+[PAUSE:0A][...]
+Don't strain yourself. You might
+as well go home.[WAIT][END]
+
+#string:11:09C
+[STYLE:RIGHT][...]
+Where is it? You mean the Puff
+Puff Machine?
+[WAIT][NEXT][...]
+I think it's east of here. The
+clouds seem to come from over
+there, anyway.
+[WAIT][NEXT][...]
+If those clouds were gone, I
+could rise right into the sky and
+bathe all the poor plants with
+sunshine...[WAIT][END]
+
+#string:11:09D
+[STYLE:RIGHT][...]
+Hey!!!
+[PAUSE:0A][...]
+I heard that you're the guy who
+broke the Puff Puff Machine!
+[WAIT][NEXT][...]
+Thank you so much!
+[PAUSE:05][...]
+Thanks to you, Flower Fields has
+blue skies again.
+[WAIT][NEXT][...]
+And I can shine once more!
+[WAIT][NEXT][...]
+Speaking of shining, I'd better
+get back up into the sky! All
+those flowers are waiting!
+[WAIT][NEXT][...]
+See you! Bye!
+[PAUSE:03][...]
+Good luck!![WAIT][END]
+
+#string:11:09E
+[STYLE:RIGHT][...]
+Thanks to you, Flower Fields has
+blue skies again.
+[WAIT][NEXT][...]
+And I can shine once more!
+[WAIT][NEXT][...]
+Speaking of shining, I'd better
+get back up into the sky! All
+those flowers are waiting!
+[WAIT][NEXT][...]
+See you! Bye!
+[PAUSE:03][...]
+Good luck!![WAIT][END]
+
+#string:11:09F
+[STYLE:RIGHT][...]
+Hey... We meet again!
+[WAIT][NEXT][...]
+Hey, did you know?
+[PAUSE:0A][...]
+The sun is the sun only when it
+rises to light the skies.
+[WAIT][NEXT][...]
+Today I am once more spreading
+sunshine, so I can be called
+Mr. Sun again.
+[WAIT][NEXT][...]
+Anyway, see you! Good luck![WAIT][END]
+
+#string:11:0A0
+[STYLE:RIGHT][...]
+Hey hey hey! Hold up!
+[PAUSE:0A][...]
+Wait, man![WAIT][END]
+
+#string:11:0A1
+[STYLE:RIGHT][...]
+Hey, man!
+[PAUSE:0A][...]
+I don't think we've ever met,
+have we?
+[PAUSE:0A][...]
+I mean, you're Mario, right?
+[WAIT][NEXT][...]
+My name is Lakilester...
+[PAUSE:0A][...]
+Er, no,
+[PAUSE:0A][...]
+it's Michael... No, um...
+[WAIT][NEXT][...]
+Oh, yeah...
+[PAUSE:05][...]
+Spike.
+[PAUSE:0A][...]
+Yeah yeah, I'm Spike...
+[PAUSE:0A][...]
+Well, whatever. Never mind.
+[WAIT][NEXT][...]
+[PAUSE:05][...]
+Look, I don't have a problem
+with you personally, but I've
+got orders from Huff N. Puff.
+[WAIT][NEXT][...]
+Sorry, man, but I have to give
+you a bit of a beat down.
+[PAUSE:0A][...]
+Like I said, man, sorry!
+[WAIT][NEXT][...]
+(...Did I sound cool?)
+[PAUSE:14][...]
+(Ha... Yeah, totally cool!)
+[WAIT][NEXT][...]
+Here it comes, man!![WAIT][END]
+
+#string:11:0A2
+[STYLE:RIGHT][...]
+Uuurgh!!
+Man, you're tough as nails!
+I give up, man!
+[WAIT][NEXT][...]
+Go on...do your worst.
+[PAUSE:0A][...]
+I'm not afraid of it.
+[WAIT][NEXT][...]
+Do whatever you do to guys
+you've defeated...Fire Flower
+in the eye...POW Block...[WAIT][END]
+
+#string:11:0A3
+[STYLE:RIGHT][...]
+{Down:0A}{Size:20:20}{StartFX:Shrinking}Wait!!!!![WAIT][END]
+
+#string:11:0A4
+[STYLE:RIGHT][...]
+Aw no, Lakilulu!![WAIT][END]
+
+#string:11:0A5
+[STYLE:RIGHT][...]
+No! Please!
+[PAUSE:0A][...]
+Please have mercy on my poor,
+sweet Lakilester![WAIT][END]
+
+#string:11:0A6
+[STYLE:RIGHT][...]
+Aw, don't call me Lakilester!
+[WAIT][NEXT][...]
+It's Spike, remember?
+[PAUSE:0A][...]
+I told you I changed my name
+last month! C'mon now!
+[WAIT]{Func_04}[NEXT][...]
+Man... I mean, gee whiz...
+You're always embarrassing me
+like this...
+[WAIT][NEXT][...]
+Although...for some reason it
+makes me like you even more...
+[WAIT][NEXT][...]
+I mean, what? No!!
+[PAUSE:0A][...]
+Did I say that out loud? Forget
+that I said that!
+[WAIT][NEXT][...]
+...Anyway!
+[PAUSE:0A][...]
+I lost a challenge man-to-man,
+so we have to settle this.
+[WAIT][NEXT][...]
+I have to face the music.[WAIT][END]
+
+#string:11:0A7
+[STYLE:RIGHT][...]
+Mario, please forgive him!
+[WAIT][NEXT][...]
+My Lakilester was just following
+Huff N. Puff's orders!
+{Func_04}[END]
+
+#string:11:0A8
+[NEXT][...]
+{StartFX:Jitter}He's really sweet! Please don't
+take my sweetie away from me!
+[WAIT]{Func_04}[END]
+
+#string:11:0A9
+[NEXT][...]
+Really!? Oh, for real?
+[PAUSE:0A][...]
+You'll forgive him? Oh, thank you![WAIT][END]
+
+#string:11:0AA
+[STYLE:RIGHT][...]
+Stop calling me Lakilester! It's
+such a stupid name! My name is
+Spike! SPIKE! Don't you ever
+listen to me?
+{Func_04}[WAIT][NEXT][...]
+Sigh..........
+[PAUSE:0A][...]
+I'm beginning to think that this
+whole deal is stupid.
+[WAIT][NEXT][...]
+I was working for Huff N. Puff
+to be part of something big, but
+all I've been doing is picking
+pointless fights...
+[WAIT][NEXT][...]
+This isn't what I wanted in life.
+[PAUSE:05][...]
+What I wanted was....[WAIT][END]
+
+#string:11:0AB
+[STYLE:RIGHT][...]
+Hey, man. I've got a question.
+[PAUSE:0A][...]
+What in the world are you doing
+all this fighting for?
+{Func_04}[END]
+
+#string:11:0AC
+[NEXT][...]
+....Huh.
+[PAUSE:05][...]
+Yeah...fighting for yourself...
+[WAIT][NEXT][...]
+That's the way to go, man.
+Walkin' your own path with honor.
+[WAIT][NEXT][...]
+I can get behind an ideal like
+that! I'll go with you!
+[WAIT][NEXT][...]
+I'm completely fed up with the
+pointless jobs that Huff N. Puff
+threw my way, anyway.
+[WAIT][NEXT][...]
+With you, I can improve my skills
+by taking on the enemies that
+challenge us along the way![WAIT][END]
+
+#string:11:0AD
+[NEXT][...]
+World peace, huh? Isn't that a
+bit melodramatic?
+[WAIT][NEXT][...]
+Still, I must admit there's a
+certain manly charm to having
+such a noble purpose...
+[WAIT][NEXT][...]
+Yeah! That's the way to go! I'm
+going with you, man![WAIT][END]
+
+#string:11:0AE
+[NEXT][...]
+Man, you're a cool customer.
+[PAUSE:0A][...]
+You're out there every day
+risking life and limb just
+because you feel like it?
+[WAIT][NEXT][...]
+Wow. Talk about a tough guy. 
+[WAIT][NEXT][...]
+You know what? I wanna fight
+just because I feel like it!
+I'm going with you![WAIT][END]
+
+#string:11:0AF
+[NEXT][...]
+Why? Because Spike is a million
+times cooler! Lakilester is the
+dumbest name ever!
+[WAIT][NEXT][...]
+It just doesn't fit the image
+of a dangerous rebel like me.
+[WAIT][NEXT][...]
+The name doesn't matter, man!
+[PAUSE:05][...]
+What matters is this...
+[WAIT][NEXT][...]
+I've decided I'm going with you!
+You're the real deal!
+[PAUSE:05][...]
+Traveling around with you has
+gotta be as cool as it gets![WAIT][END]
+
+#string:11:0B0
+[STYLE:RIGHT][...]
+Oh, no! Lakilester!
+[PAUSE:0A][...]
+You can't leave me!
+[PAUSE:05][...]
+Please take me with you![WAIT][END]
+
+#string:11:0B1
+[STYLE:RIGHT][...]
+Aw, Lakilulu, chill out.
+You've gotta understand...
+[PAUSE:0F][...]
+I'm doing this for you, don't you
+see?
+[WAIT][NEXT][...]
+I'm going. I've gotta be a man!
+[WAIT][NEXT][...]
+Wait for me! I'll return a much
+more manly Lakitu![WAIT][END]
+
+#string:11:0B2
+[STYLE:RIGHT][...]
+...Oh...OK.
+[PAUSE:0A][...]
+I'll wait for you, Lakilester.
+[WAIT][NEXT][...]
+But you'll be so sorry if you
+don't come back to me in one
+piece!
+[WAIT][NEXT][...]
+I swear, if you make me worry,
+I'll take a Spiny and...[WAIT][END]
+
+#string:11:0B3
+[STYLE:RIGHT][...]
+OK! Enough of that! Heh heh...
+[WAIT][NEXT][...]
+I guess I'd better make sure I'm
+tougher than you by the time I
+come back, huh?
+[WAIT][NEXT][...]
+See me off with a smile, now!
+[PAUSE:0A][...]
+You're so much cuter when you
+show me those pearly whites!
+[WAIT][NEXT][...]
+Bye for now![WAIT][END]
+
+#string:11:0B4
+[STYLE:RIGHT][...]
+Oh, my Lakilester!! 
+Come back to me soon!!
+[PAUSE:05][...]
+I'll be waiting with a smile![WAIT][END]
+
+#string:11:0B5
+[STYLE:RIGHT][...]
+Aghhhhhh!! Come ON!
+[PAUSE:0A][...]
+Call me Spike!!![WAIT][END]
+
+#string:11:0B6
+[STYLE:RIGHT][...]
+Let's go!! C'mon!
+[PAUSE:0A][...]
+We need more clouds! I wanna
+see this land covered!
+[WAIT][NEXT][...]
+We'll make them fear the power
+of my Puff Puff Machine![WAIT][END]
+
+#string:11:0B7
+[STYLE:RIGHT][...]
+Go away!
+[PAUSE:05][...]
+Don't disturb me!
+[PAUSE:0A][...]
+I'm completely absorbed in my
+work right now, can't you see?[WAIT][END]
+
+#string:11:0B8
+[STYLE:RIGHT][...]
+Huff N. Puff is making a name
+for himself as an evil genius.
+[WAIT][NEXT][...]
+This cloud-covering scheme is
+pretty high on the wicked scale.
+I bet King Bowser's overjoyed at
+the suffering we're causing.
+[WAIT][NEXT][...]
+Don't you think so, too?
+{Func_04}[NEXT][...]
+...Oh, my... You're...!
+[PAUSE:0A][...]
+Mario! You're a wanted man!
+[WAIT][NEXT][...]
+C'mon, Lakitus, get him!
+[PAUSE:0A][...]
+Protect the Puff Puff Machine
+at all costs![WAIT][END]
+
+#string:11:0B9
+[STYLE:RIGHT][...]
+Hey! Stop that!
+[PAUSE:0A][...]
+The Puff Puff Machine is
+extremely delicate!
+[WAIT][NEXT][...]
+You might break it![WAIT][END]
+
+#string:11:0BA
+[STYLE:RIGHT][...]
+I said don't hit it!
+[WAIT][NEXT][...]
+Don't you realize that if the
+Puff Puff Machine breaks, we
+won't be able to make clouds,
+and blue skies will return?
+[WAIT][NEXT][...]
+You think it's easy to fill the
+sky with clouds?
+[WAIT][NEXT][...]
+...Oh, my...
+[PAUSE:05][...]
+You're... [PAUSE:05]Ma... [PAUSE:05]Ma... [PAUSE:05]Mario!!![WAIT][END]
+
+#string:11:0BB
+[STYLE:RIGHT][...]
+Ahhhh, retreat, boys!!
+[PAUSE:0A][...]
+He beat us, but good![WAIT][END]
+
+#string:11:0BC
+[STYLE:RIGHT][...]
+[NOTE] Aw, fluffy fluffy 
+[PAUSE:05][...]
+Great Puff Puff Machine,
+[PAUSE:0A][...]
+spewing out the clouds,
+[WAIT][NEXT][...]
+making brown outta green!
+Wither 'em all up! Yeah![WAIT][END]
+
+#string:11:0BD
+[STYLE:RIGHT][...]
+Quit it!
+[PAUSE:05][...]
+Leave me alone, man!
+[PAUSE:0A][...]
+Can't you see I'm busy working
+right now?[WAIT][END]
+
+#string:11:0BE
+[STYLE:RIGHT][...]
+Master Huff N. Puff is the man
+with the plan, all right.
+[WAIT][NEXT][...]
+I mean, I love clouds. Love 'em.
+And so covering the world in
+clouds seems pretty cool to me.
+[WAIT][NEXT][...]
+How about you? You like clouds?
+{Func_04}[NEXT][...]
+...Eeeek! You're...
+[PAUSE:0A][...]
+...that wanted man! Mario!
+[WAIT][NEXT][...]
+You guys, it's Mario!
+[PAUSE:0A][...]
+We've gotta get him before he
+breaks the Puff Puff Machine![WAIT][END]
+
+#string:11:0BF
+[STYLE:RIGHT][...]
+Hey! What're you doing!
+[PAUSE:0A][...]
+The Puff Puff Machine's 
+delicate, man. Didn't you know?
+[WAIT][NEXT][...]
+If you break it, we're gonna be
+in a world of hurt![WAIT][END]
+
+#string:11:0C0
+[STYLE:RIGHT][...]
+Didn't you hear me? Stop it!
+[WAIT][NEXT][...]
+If you break that machine, how
+are we supposed to keep filling
+the sky with clouds, huh? You
+ever think of that, genius?
+[WAIT][NEXT][...]
+You think clouds just appear out
+of thin air or something?
+[WAIT][NEXT][...]
+....Wait a minute...
+[PAUSE:05][...]
+You're... [PAUSE:05]Ma... [PAUSE:05]Ma... [PAUSE:05]Mario!!![WAIT][END]
+
+#string:11:0C1
+[STYLE:RIGHT][...]
+Baah ha ha! Look at those
+chumps run away!
+[WAIT][NEXT][...]
+All right! Now, Mario...
+[PAUSE:0A][...]
+We'd better do something about
+this Puff Puff Machine, huh?[WAIT][END]
+
+#string:11:0C2
+[STYLE:RIGHT][...]
+Hey, hold up, man.
+[PAUSE:0A][...]
+You're just going to walk away
+from this Puff Puff Machine?
+[PAUSE:0A][...]
+Then what did we fight for?
+[WAIT][NEXT][...]
+Don't you think we ought to
+break it or something?[WAIT][END]
+
+#string:11:0C3
+[STYLE:RIGHT][...]
+{StartFX:Shrinking}Wow!!!!!!!!!!!!
+{EndFX:Shrinking}[PAUSE:0A]The clouds are gone! It's time
+for a little sunshine![WAIT][END]
+
+#string:11:0C4
+[STYLE:RIGHT][...]
+Oh, precious sunlight!
+[PAUSE:0A][...]
+Ho ho ho ho ho!!!
+[WAIT][NEXT][...]
+Mario did it! He saved Flower
+Fields![WAIT][END]
+
+#string:11:0C5
+[STYLE:RIGHT][...]
+Ohhh, yes!! The sun!!!
+[PAUSE:0A][...]
+Yay! Yippee!! The sun's back!!!
+[WAIT][NEXT][...]
+Oops... Tee hee hee!
+Losing control like that...
+It's so unlike me...[WAIT][END]
+
+#string:11:0C6
+[STYLE:RIGHT][...]
+Ah, the bright rays of the sun...
+[PAUSE:0A][...]
+Once again I can gaze at the
+sparkles of light on the water...[WAIT][END]
+
+#string:11:0C7
+[STYLE:RIGHT][...]
+Ohh, it's about time. The sun!
+[PAUSE:0A][...]
+Flower Fields is saved!
+[WAIT][NEXT][...]
+And, of course, the sunlight can
+only add to my beauty...[WAIT][END]
+
+#string:11:0C8
+[STYLE:RIGHT][...]
+It's the sun, it's the sun!!!!!
+[PAUSE:0A][...]
+Oh, that heat feels so good!
+[WAIT][NEXT][...]
+Maybe being stuck in one place
+isn't so bad after all.
+[PAUSE:0A][...]
+I feel full of life again![WAIT][END]
+
+#string:11:0C9
+[STYLE:RIGHT][...]
+Helping folks feels...good!
+[PAUSE:0A][...]
+I could get used to this, man.
+[WAIT][NEXT][...]
+Mario, what are you doing next?
+I'll follow you anywhere.[WAIT][END]
+
+#string:11:0CA
+[STYLE:RIGHT][...]
+Are you a man named Mario? And
+did you or did you not break one
+Puff Puff Machine?
+[WAIT][NEXT][...]
+What possessed you to do that?
+[PAUSE:0A][...]
+You completely ruined my plan to
+cover Flower Fields in clouds.[WAIT][END]
+
+#string:11:0CB
+[STYLE:RIGHT][...]
+You see, I was going to turn this
+sunlight-blasted place into a
+cloud-covered paradise.
+[WAIT][NEXT][...]
+But I can't expect a man of
+your intellect to understand...[WAIT][END]
+
+#string:11:0CC
+[STYLE:RIGHT][...]
+I must tell you, King Bowser
+ordered me to defeat you if you
+showed your face...
+[WAIT][NEXT][...]
+but I'd take you down even if
+it weren't a direct order!
+[WAIT][NEXT][...]
+You cloud-destroying pest!
+You can't save the Star Spirit!
+[WAIT][NEXT][...]
+Gahh ha ha ha ha ha!!!
+[PAUSE:0A][...]
+Here comes the storm!
+[PAUSE:14][...]
+[NEXT][...]
+[END]
+
+#string:11:0CD
+[STYLE:RIGHT][...]
+Is that you, Spike?!
+[PAUSE:0A][...]
+So! You have betrayed me!
+[WAIT][NEXT][...]
+You will be punished.
+[WAIT][NEXT][...]
+I was given this Star Spirit by
+King Bowser. I'll never give it up
+to the likes of you.
+[WAIT][NEXT][...]
+You will both pay dearly for
+your crimes!
+[PAUSE:14][...]
+[NEXT][...]
+[END]
+
+#string:11:0CE
+[STYLE:RIGHT][...]
+No!! I cannot lose!![WAIT][END]
+
+#string:11:0CF
+[STYLE:RIGHT][...]
+Master Huff N. Puff! I wish to
+pummel Mario, too!
+[PAUSE:0A][...]
+Permission to attack?[WAIT][END]
+
+#string:11:0D0
+[STYLE:RIGHT][...]
+Yes, take him![WAIT][END]
+
+#string:11:0D1
+[STYLE:RIGHT][...]
+You asked for it...
+[PAUSE:0A][...]
+Now you'll witness the full power
+of my storm![WAIT][END]
+
+#string:11:0D2
+[STYLE:RIGHT][...]
+Master Huff N. Puff!
+Leave him to me!![WAIT][END]
+
+#string:11:0D3
+[STYLE:RIGHT][...]
+Gaaah ha ha ha ha!!!! How do
+you like that!?![WAIT][END]
+
+#string:11:0D4
+[STYLE:RIGHT][...]
+Whoa!! Master Huff N. Puff, you
+are truly the mightiest![WAIT][END]
+
+#string:11:0D5
+[STYLE:RIGHT][...]
+We seem to be in trouble. Hmm...
+[PAUSE:0A][...]
+I guess I'd better stop messing
+around and fight hard![WAIT][END]
+
+#string:11:0D6
+[STYLE:RIGHT][...]
+Will you be all right, Master?[WAIT][END]
+
+#string:11:0D7
+[STYLE:RIGHT][...]
+We're not finished yet!!!
+Here I come!!!![WAIT][END]
+
+#string:11:0D8
+[STYLE:RIGHT][...]
+{SpeechSound:02}What a pleasure meeting you.
+[PAUSE:0F][...]
+My name is Klevar.
+[PAUSE:0F][...]
+Thank you for saving me.
+[WAIT][NEXT][...]
+Huff N. Puff is gone, so the
+flowers in Flower Fields can live
+peacefully once more.
+[WAIT][NEXT][...]
+I feel that if you hadn't come,
+Flower Fields would never have
+seen the light again.
+[WAIT][NEXT][...]
+Now there is only one of us
+Star Spirits still trapped.
+[PAUSE:0A][...]
+Just one more, Mario!
+[WAIT][NEXT][...]
+Here... Please use my Power as
+you continue your fight.[WAIT][END]
+
+#string:11:0D9
+[STYLE:RIGHT][...]
+{SpeechSound:02}Now, you are able to use the
+Powers of six Star Spirits.
+[WAIT][NEXT][...]
+If you use mine well, it should
+prove to be extremely helpful in
+battle.
+[WAIT][NEXT][...]
+Don't become overconfident,
+though. You must be careful.
+[PAUSE:0A][...]
+Bowser has power, as well.  
+[WAIT][NEXT][...]
+Remember that even stronger
+enemies await you...
+[WAIT][NEXT][...]
+I hope our Powers will help you
+so that you may help us...
+[PAUSE:0A][...]
+We're all depending on you![WAIT][END]
+
+#string:11:0DA
+[STYLE:RIGHT][...]
+{SpeechSound:02}I'll go back to Star Haven now.
+[WAIT][NEXT][...]
+I can't wait to get there!
+[PAUSE:0A][...]
+I've been terribly worried about
+everyone...[WAIT][END]
+
+#string:11:0DB
+[STYLE:RIGHT][...]
+{StartFX:Wavy}{StartFX:Jitter}{StartFX:Faded:D9}Sniffle... [PAUSE:0A]Sniffle.........[WAIT][END]
+
+#string:11:0DC
+[STYLE:RIGHT][...]
+{StartFX:Wavy}{StartFX:Jitter}{StartFX:Faded:D9}Sniffle...
+[PAUSE:0A][...]
+Who's throwing stuff down into
+my well?
+[WAIT][NEXT][...]
+Whoever it is, you deserve this
+for your rudeness![WAIT][END]
+
+#string:11:0DD
+[STYLE:RIGHT][...]
+{StartFX:Wavy}{StartFX:Jitter}{StartFX:Faded:D9}Sniffle!!!!!
+[PAUSE:0A][...]
+Who's throwing stuff down into
+my well?
+[WAIT][NEXT][...]
+[PAUSE:0A][...]
+Huh...?
+[PAUSE:0A][...]
+This is a Blue Berry...
+[WAIT][NEXT][...]
+I love these... Thank you... 
+[PAUSE:0A][...]
+I'll give this to you in return.[WAIT][END]
+
+#string:11:0DE
+[STYLE:RIGHT][...]
+{StartFX:Wavy}{StartFX:Jitter}{StartFX:Faded:D9}Sniffle!!!!!
+[WAIT][NEXT][...]
+Burp... No more berries!
+[PAUSE:0A][...]
+I'm stuffed now.[WAIT][END]
+

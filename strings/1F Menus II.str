@@ -1,0 +1,220 @@
+#string:1F:000
+None[END]
+
+#string:1F:001
+Check here to see what Mario's
+current status is.[END]
+
+#string:1F:002
+Check Badges available and
+put on or remove Badges.
+[END]
+
+#string:1F:003
+Look to see which items
+Mario is now carrying.[END]
+
+#string:1F:004
+Check your party and see
+each member's abilities.[END]
+
+#string:1F:005
+See which Star Spirits you've
+saved and check their powers.[END]
+
+#string:1F:006
+Look at the map to see the
+places you've been to so far.[END]
+
+#string:1F:007
+  [STAR] How to Control Mario [STAR]
+Control Stick: Walk or Run
+{PushColor}{Color:10}[A]{PopColor}: Jump, Talk, or Check "!"
+{PushColor}{Color:11}[B]{PopColor}: Use Hammer
+{PushColor}{Color:13}[C-UP]{PopColor}: Display the Status Bar
+{PushColor}{Color:13}[C-LEFT]{PopColor}: Use Items
+{PushColor}{Color:13}[C-DOWN]{PopColor}: Use Party Members' Abilities
+{PushColor}{Color:13}[C-RIGHT]{PopColor}: Switch Party Members
+{PushColor}{Color:14}[Z]{PopColor}: Spin or Dash
+{PushColor}{Color:12}[START]{PopColor}: Display Pause Menu Screen[END]
+
+#string:1F:008
+Shows status of Mario's health.
+When Mario's hurt, HP goes down.[END]
+
+#string:1F:009
+Shows points available for Mario's
+or party members' abilities.[END]
+
+#string:1F:00A
+Shows points available for
+wearing Badges.[END]
+
+#string:1F:00B
+Shows Boots that Mario is now
+wearing. Press {PushColor}{Color:10}[A]{PopColor} to jump.[END]
+
+#string:1F:00C
+Shows Boots that Mario is now
+wearing. Press {PushColor}{Color:10}[A]{PopColor} to jump.
+Press {PushColor}{Color:10}[A]{PopColor} again while in the air
+to do a Spin Jump.[END]
+
+#string:1F:00D
+Shows Boots that Mario is now
+wearing. Press {PushColor}{Color:10}[A]{PopColor} to jump.
+Press {PushColor}{Color:10}[A]{PopColor} again while in the air
+to do a Tornado Jump.[END]
+
+#string:1F:00E
+You don't have a Hammer yet.[END]
+
+#string:1F:00F
+Shows Hammer that Mario is now
+carrying. Press {PushColor}{Color:11}[B]{PopColor} to use it.  
+You can destroy Yellow Blocks
+with this Hammer.[END]
+
+#string:1F:010
+Shows Hammer that Mario is now
+carrying. Press {PushColor}{Color:11}[B]{PopColor} to use it.  
+You can destroy Stone Blocks
+with this Hammer.[END]
+
+#string:1F:011
+Shows Hammer that Mario is now
+carrying. Press {PushColor}{Color:11}[B]{PopColor} to use it.  
+You can destroy Metal Blocks
+with this Hammer.[END]
+
+#string:1F:012
+Shows energy needed to use 
+Star Spirits' powers.[END]
+
+#string:1F:013
+Earn points for enemies beaten.
+Go up 1 level every 100 points.[END]
+
+#string:1F:014
+Shows coins Mario has now.
+Buy items or Badges with them.[END]
+
+#string:1F:015
+Wondering what this is for?
+Secret!
+[END]
+
+#string:1F:016
+Shows the number of Star Pieces
+that Mario has collected.[END]
+
+#string:1F:017
+Shows time used so far for your
+adventure in the Mushroom World.[END]
+
+#string:1F:018
+Lists important items Mario's
+found. Some can be given away.
+[END]
+
+#string:1F:019
+Lists items Mario now has. Use
+them on the field or in battle.[END]
+
+#string:1F:01A
+Shows all Badges that Mario has
+collected.
+Select one with the Control Stick.
+Press {PushColor}{Color:10}[A]{PopColor} to wear or remove it.
+[END]
+
+#string:1F:01B
+Shows Badges that Mario is
+currently wearing.
+Select one with the Control Stick.
+Press {PushColor}{Color:10}[A]{PopColor} to wear or remove it.
+[END]
+
+#string:1F:01C
+Putting On and Taking Off Badges[END]
+
+#string:1F:01D
+Here's how you put on 
+or take off Badges.[END]
+
+#string:1F:01E
+Use the Control Stick to
+point at the Badge Tab.
+[END]
+
+#string:1F:01F
+Press the A Button to enter
+the Badge Screen.[END]
+
+#string:1F:020
+Press the A Button again to
+go to the list of All Badges. [END]
+
+#string:1F:021
+Wearing Badges often takes Badge
+Points. This one takes 1 BP.[END]
+
+#string:1F:022
+The Badge is on now. Press the
+A Button again to take it off.[END]
+
+#string:1F:023
+The Badge is now off, and
+1 BP is returned to your total.[END]
+
+#string:1F:024
+Next[END]
+
+#string:1F:025
+Select a Badge[END]
+
+#string:1F:026
+Next[END]
+
+#string:1F:027
+Next[END]
+
+#string:1F:028
+Put on a Badge[END]
+
+#string:1F:029
+Take off a Badge[END]
+
+#string:1F:02A
+Exit Menu[END]
+
+#string:1F:02B
+not used[END]
+
+#string:1F:02C
+not used[END]
+
+#string:1F:02D
+not used[END]
+
+#string:1F:02E
+not used[END]
+
+#string:1F:02F
+not used[END]
+
+#string:1F:030
+not used[END]
+
+#string:1F:031
+not used[END]
+
+#string:1F:032
+Badge[END]
+
+#string:1F:033
+Letters[END]
+
+#string:1F:034
+/[END]
+
